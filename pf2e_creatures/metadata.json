@@ -1,0 +1,3547 @@
+{
+  "corpus": "pf2e_creatures",
+  "category": "creature",
+  "total_documents": 500,
+  "api_base": "https://elasticsearch.aonprd.com/aon",
+  "license": "ORC License (Open RPG Creative License)",
+  "license_url": "https://paizo.com/orclicense",
+  "attribution": "Content from Archives of Nethys (2e.aonprd.com), Pathfinder 2e by Paizo Inc.",
+  "documents": {
+    "creature-1": {
+      "name": "Unseen Servant",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/creature-1.md"
+    },
+    "creature-2": {
+      "name": "Alghollthu Master",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-2.md"
+    },
+    "creature-3": {
+      "name": "Skum",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-3.md"
+    },
+    "creature-4": {
+      "name": "Faceless Stalker",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-4.md"
+    },
+    "creature-5": {
+      "name": "Veiled Master",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-5.md"
+    },
+    "creature-6": {
+      "name": "Arbiter",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-6.md"
+    },
+    "creature-7": {
+      "name": "Axiomite",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-7.md"
+    },
+    "creature-10": {
+      "name": "Kolyarut",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-10.md"
+    },
+    "creature-11": {
+      "name": "Pleroma",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-11.md"
+    },
+    "creature-13": {
+      "name": "Cassisian",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-13.md"
+    },
+    "creature-14": {
+      "name": "Choral",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-14.md"
+    },
+    "creature-15": {
+      "name": "Balisse",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-15.md"
+    },
+    "creature-16": {
+      "name": "Astral Deva",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-16.md"
+    },
+    "creature-18": {
+      "name": "Animated Broom",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-18.md"
+    },
+    "creature-19": {
+      "name": "Animated Armor",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-19.md"
+    },
+    "creature-20": {
+      "name": "Animated Statue",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-20.md"
+    },
+    "creature-22": {
+      "name": "Giant Animated Statue",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-22.md"
+    },
+    "creature-23": {
+      "name": "Ankhrav",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-23.md"
+    },
+    "creature-24": {
+      "name": "Hive Mother",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-24.md"
+    },
+    "creature-25": {
+      "name": "Gorilla",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-25.md"
+    },
+    "creature-26": {
+      "name": "Megaprimatus",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-26.md"
+    },
+    "creature-27": {
+      "name": "Arboreal Warden",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-27.md"
+    },
+    "creature-28": {
+      "name": "Awakened Tree",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-28.md"
+    },
+    "creature-29": {
+      "name": "Arboreal Regent",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-29.md"
+    },
+    "creature-30": {
+      "name": "Lantern Archon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-30.md"
+    },
+    "creature-31": {
+      "name": "Horned Archon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-31.md"
+    },
+    "creature-32": {
+      "name": "Legion Archon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-32.md"
+    },
+    "creature-33": {
+      "name": "Shield Archon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-33.md"
+    },
+    "creature-34": {
+      "name": "Lyrakien",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-34.md"
+    },
+    "creature-35": {
+      "name": "Gancanagh",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-35.md"
+    },
+    "creature-36": {
+      "name": "Lillend",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-36.md"
+    },
+    "creature-37": {
+      "name": "Ghaele",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-37.md"
+    },
+    "creature-39": {
+      "name": "Banshee",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-39.md"
+    },
+    "creature-40": {
+      "name": "Baomal",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-40.md"
+    },
+    "creature-41": {
+      "name": "Barghest",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-41.md"
+    },
+    "creature-43": {
+      "name": "Greater Barghest",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-43.md"
+    },
+    "creature-44": {
+      "name": "Basilisk",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-44.md"
+    },
+    "creature-45": {
+      "name": "Vampire Bat Swarm",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-45.md"
+    },
+    "creature-46": {
+      "name": "Giant Bat",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-46.md"
+    },
+    "creature-47": {
+      "name": "Grizzly Bear",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-47.md"
+    },
+    "creature-48": {
+      "name": "Cave Bear",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-48.md"
+    },
+    "creature-49": {
+      "name": "Flash Beetle",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-49.md"
+    },
+    "creature-50": {
+      "name": "Giant Stag Beetle",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-50.md"
+    },
+    "creature-51": {
+      "name": "Bloodseeker",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-51.md"
+    },
+    "creature-52": {
+      "name": "Boar",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-52.md"
+    },
+    "creature-53": {
+      "name": "Daeodon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-53.md"
+    },
+    "creature-54": {
+      "name": "Boggard Scout",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-54.md"
+    },
+    "creature-55": {
+      "name": "Boggard Warrior",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-55.md"
+    },
+    "creature-56": {
+      "name": "Boggard Swampseer",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-56.md"
+    },
+    "creature-57": {
+      "name": "Brain Collector",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-57.md"
+    },
+    "creature-58": {
+      "name": "Bugbear Thug",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-58.md"
+    },
+    "creature-59": {
+      "name": "Bugbear Tormentor",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-59.md"
+    },
+    "creature-61": {
+      "name": "Bulette",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-61.md"
+    },
+    "creature-62": {
+      "name": "Bunyip",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-62.md"
+    },
+    "creature-64": {
+      "name": "Caligni Dancer",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-64.md"
+    },
+    "creature-65": {
+      "name": "Caligni Creeper",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-65.md"
+    },
+    "creature-66": {
+      "name": "Caligni Stalker",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-66.md"
+    },
+    "creature-67": {
+      "name": "Leopard",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-67.md"
+    },
+    "creature-68": {
+      "name": "Lion",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-68.md"
+    },
+    "creature-69": {
+      "name": "Tiger",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-69.md"
+    },
+    "creature-70": {
+      "name": "Smilodon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-70.md"
+    },
+    "creature-71": {
+      "name": "Catfolk Pouncer",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-71.md"
+    },
+    "creature-72": {
+      "name": "Cauthooj",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-72.md"
+    },
+    "creature-73": {
+      "name": "Purple Worm",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-73.md"
+    },
+    "creature-74": {
+      "name": "Azure Worm",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-74.md"
+    },
+    "creature-75": {
+      "name": "Crimson Worm",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-75.md"
+    },
+    "creature-76": {
+      "name": "Centaur",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-76.md"
+    },
+    "creature-77": {
+      "name": "Giant Centipede",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-77.md"
+    },
+    "creature-78": {
+      "name": "Centipede Swarm",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-78.md"
+    },
+    "creature-79": {
+      "name": "Changeling Exile",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-79.md"
+    },
+    "creature-80": {
+      "name": "Chimera",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-80.md"
+    },
+    "creature-81": {
+      "name": "Chuul",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-81.md"
+    },
+    "creature-82": {
+      "name": "Cloaker",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-82.md"
+    },
+    "creature-83": {
+      "name": "Cockatrice",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-83.md"
+    },
+    "creature-84": {
+      "name": "Crocodile",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-84.md"
+    },
+    "creature-85": {
+      "name": "Deinosuchus",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-85.md"
+    },
+    "creature-86": {
+      "name": "Cyclops",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-86.md"
+    },
+    "creature-87": {
+      "name": "Great Cyclops",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-87.md"
+    },
+    "creature-88": {
+      "name": "Cacodaemon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-88.md"
+    },
+    "creature-89": {
+      "name": "Ceustodaemon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-89.md"
+    },
+    "creature-90": {
+      "name": "Leukodaemon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-90.md"
+    },
+    "creature-91": {
+      "name": "Astradaemon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-91.md"
+    },
+    "creature-93": {
+      "name": "Deep Gnome Scout",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-93.md"
+    },
+    "creature-94": {
+      "name": "Deep Gnome Warrior",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-94.md"
+    },
+    "creature-96": {
+      "name": "Deep Gnome Rockwarden",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-96.md"
+    },
+    "creature-97": {
+      "name": "Quasit",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-97.md"
+    },
+    "creature-98": {
+      "name": "Succubus",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-98.md"
+    },
+    "creature-100": {
+      "name": "Vrock",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-100.md"
+    },
+    "creature-101": {
+      "name": "Glabrezu",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-101.md"
+    },
+    "creature-102": {
+      "name": "Shemhazian",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-102.md"
+    },
+    "creature-103": {
+      "name": "Marilith",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-103.md"
+    },
+    "creature-104": {
+      "name": "Balor",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-104.md"
+    },
+    "creature-105": {
+      "name": "Dero Stalker",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-105.md"
+    },
+    "creature-106": {
+      "name": "Dero Strangler",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-106.md"
+    },
+    "creature-107": {
+      "name": "Dero Magister",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-107.md"
+    },
+    "creature-108": {
+      "name": "Lemure",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-108.md"
+    },
+    "creature-109": {
+      "name": "Imp",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-109.md"
+    },
+    "creature-110": {
+      "name": "Barbazu",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-110.md"
+    },
+    "creature-111": {
+      "name": "Erinys",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-111.md"
+    },
+    "creature-112": {
+      "name": "Phistophilus",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-112.md"
+    },
+    "creature-113": {
+      "name": "Gelugon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-113.md"
+    },
+    "creature-114": {
+      "name": "Pit Fiend",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-114.md"
+    },
+    "creature-115": {
+      "name": "Dezullon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-115.md"
+    },
+    "creature-116": {
+      "name": "Dhampir Wizard",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-116.md"
+    },
+    "creature-117": {
+      "name": "Velociraptor",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-117.md"
+    },
+    "creature-118": {
+      "name": "Deinonychus",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-118.md"
+    },
+    "creature-119": {
+      "name": "Ankylosaurus",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-119.md"
+    },
+    "creature-120": {
+      "name": "Stegosaurus",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-120.md"
+    },
+    "creature-121": {
+      "name": "Triceratops",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-121.md"
+    },
+    "creature-122": {
+      "name": "Brontosaurus",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-122.md"
+    },
+    "creature-123": {
+      "name": "Tyrannosaurus",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-123.md"
+    },
+    "creature-124": {
+      "name": "Guard Dog",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-124.md"
+    },
+    "creature-125": {
+      "name": "Riding Dog",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-125.md"
+    },
+    "creature-126": {
+      "name": "Doppelganger",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-126.md"
+    },
+    "creature-127": {
+      "name": "Young Black Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-127.md"
+    },
+    "creature-128": {
+      "name": "Adult Black Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-128.md"
+    },
+    "creature-129": {
+      "name": "Ancient Black Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-129.md"
+    },
+    "creature-130": {
+      "name": "Young Blue Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-130.md"
+    },
+    "creature-131": {
+      "name": "Adult Blue Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-131.md"
+    },
+    "creature-132": {
+      "name": "Ancient Blue Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-132.md"
+    },
+    "creature-133": {
+      "name": "Young Green Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-133.md"
+    },
+    "creature-134": {
+      "name": "Adult Green Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-134.md"
+    },
+    "creature-135": {
+      "name": "Ancient Green Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-135.md"
+    },
+    "creature-136": {
+      "name": "Young Red Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-136.md"
+    },
+    "creature-137": {
+      "name": "Adult Red Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-137.md"
+    },
+    "creature-138": {
+      "name": "Ancient Red Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-138.md"
+    },
+    "creature-139": {
+      "name": "Young White Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-139.md"
+    },
+    "creature-140": {
+      "name": "Adult White Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-140.md"
+    },
+    "creature-141": {
+      "name": "Ancient White Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-141.md"
+    },
+    "creature-142": {
+      "name": "Young Brass Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-142.md"
+    },
+    "creature-143": {
+      "name": "Adult Brass Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-143.md"
+    },
+    "creature-144": {
+      "name": "Ancient Brass Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-144.md"
+    },
+    "creature-145": {
+      "name": "Young Bronze Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-145.md"
+    },
+    "creature-146": {
+      "name": "Adult Bronze Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-146.md"
+    },
+    "creature-147": {
+      "name": "Ancient Bronze Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-147.md"
+    },
+    "creature-148": {
+      "name": "Young Copper Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-148.md"
+    },
+    "creature-149": {
+      "name": "Adult Copper Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-149.md"
+    },
+    "creature-150": {
+      "name": "Ancient Copper Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-150.md"
+    },
+    "creature-151": {
+      "name": "Young Gold Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-151.md"
+    },
+    "creature-152": {
+      "name": "Adult Gold Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-152.md"
+    },
+    "creature-153": {
+      "name": "Ancient Gold Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-153.md"
+    },
+    "creature-154": {
+      "name": "Young Silver Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-154.md"
+    },
+    "creature-155": {
+      "name": "Adult Silver Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-155.md"
+    },
+    "creature-156": {
+      "name": "Ancient Silver Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-156.md"
+    },
+    "creature-157": {
+      "name": "Dragon Turtle",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-157.md"
+    },
+    "creature-158": {
+      "name": "Drakauthix",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-158.md"
+    },
+    "creature-159": {
+      "name": "River Drake",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-159.md"
+    },
+    "creature-160": {
+      "name": "Flame Drake",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-160.md"
+    },
+    "creature-161": {
+      "name": "Jungle Drake",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-161.md"
+    },
+    "creature-162": {
+      "name": "Wyvern",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-162.md"
+    },
+    "creature-163": {
+      "name": "Frost Drake",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-163.md"
+    },
+    "creature-164": {
+      "name": "Desert Drake",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-164.md"
+    },
+    "creature-165": {
+      "name": "Drow Fighter",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-165.md"
+    },
+    "creature-166": {
+      "name": "Drow Rogue",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-166.md"
+    },
+    "creature-167": {
+      "name": "Drow Priestess",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-167.md"
+    },
+    "creature-168": {
+      "name": "Duergar Sharpshooter",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-168.md"
+    },
+    "creature-169": {
+      "name": "Duergar Bombardier",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-169.md"
+    },
+    "creature-170": {
+      "name": "Duergar Taskmaster",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-170.md"
+    },
+    "creature-171": {
+      "name": "Dullahan",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-171.md"
+    },
+    "creature-172": {
+      "name": "Eagle",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-172.md"
+    },
+    "creature-173": {
+      "name": "Giant Eagle",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-173.md"
+    },
+    "creature-174": {
+      "name": "Electric Eel",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-174.md"
+    },
+    "creature-175": {
+      "name": "Giant Moray Eel",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-175.md"
+    },
+    "creature-176": {
+      "name": "Elananx",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-176.md"
+    },
+    "creature-177": {
+      "name": "Zephyr Hawk",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-177.md"
+    },
+    "creature-178": {
+      "name": "Living Whirlwind",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-178.md"
+    },
+    "creature-179": {
+      "name": "Invisible Stalker",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-179.md"
+    },
+    "creature-180": {
+      "name": "Storm Lord",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-180.md"
+    },
+    "creature-181": {
+      "name": "Elemental Hurricane",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-181.md"
+    },
+    "creature-182": {
+      "name": "Sod Hound",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-182.md"
+    },
+    "creature-183": {
+      "name": "Living Landslide",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-183.md"
+    },
+    "creature-184": {
+      "name": "Xorn",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-184.md"
+    },
+    "creature-185": {
+      "name": "Stone Mauler",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-185.md"
+    },
+    "creature-186": {
+      "name": "Elemental Avalanche",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-186.md"
+    },
+    "creature-187": {
+      "name": "Cinder Rat",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-187.md"
+    },
+    "creature-188": {
+      "name": "Living Wildfire",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-188.md"
+    },
+    "creature-189": {
+      "name": "Salamander",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-189.md"
+    },
+    "creature-190": {
+      "name": "Firewyrm",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-190.md"
+    },
+    "creature-191": {
+      "name": "Elemental Inferno",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-191.md"
+    },
+    "creature-192": {
+      "name": "Air Mephit",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-192.md"
+    },
+    "creature-193": {
+      "name": "Earth Mephit",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-193.md"
+    },
+    "creature-194": {
+      "name": "Fire Mephit",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-194.md"
+    },
+    "creature-195": {
+      "name": "Water Mephit",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-195.md"
+    },
+    "creature-196": {
+      "name": "Brine Shark",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-196.md"
+    },
+    "creature-197": {
+      "name": "Living Waterfall",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-197.md"
+    },
+    "creature-198": {
+      "name": "Quatoid",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-198.md"
+    },
+    "creature-199": {
+      "name": "Tidal Master",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-199.md"
+    },
+    "creature-200": {
+      "name": "Elemental Tsunami",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-200.md"
+    },
+    "creature-201": {
+      "name": "Elephant",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-201.md"
+    },
+    "creature-202": {
+      "name": "Mammoth",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-202.md"
+    },
+    "creature-203": {
+      "name": "Ether Spider",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-203.md"
+    },
+    "creature-204": {
+      "name": "Ettin",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-204.md"
+    },
+    "creature-205": {
+      "name": "Faerie Dragon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-205.md"
+    },
+    "creature-206": {
+      "name": "Grothlut",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-206.md"
+    },
+    "creature-207": {
+      "name": "Drider",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-207.md"
+    },
+    "creature-208": {
+      "name": "Snapping Flytrap",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-208.md"
+    },
+    "creature-209": {
+      "name": "Giant Flytrap",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-209.md"
+    },
+    "creature-210": {
+      "name": "Gargoyle",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-210.md"
+    },
+    "creature-211": {
+      "name": "Janni",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-211.md"
+    },
+    "creature-212": {
+      "name": "Djinni",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-212.md"
+    },
+    "creature-213": {
+      "name": "Shaitan",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-213.md"
+    },
+    "creature-214": {
+      "name": "Efreeti",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-214.md"
+    },
+    "creature-215": {
+      "name": "Marid",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-215.md"
+    },
+    "creature-216": {
+      "name": "Ghost Commoner",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-216.md"
+    },
+    "creature-217": {
+      "name": "Ghost Mage",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-217.md"
+    },
+    "creature-218": {
+      "name": "Ghoul",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-218.md"
+    },
+    "creature-219": {
+      "name": "Ghast",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-219.md"
+    },
+    "creature-220": {
+      "name": "Hill Giant",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-220.md"
+    },
+    "creature-221": {
+      "name": "Stone Giant",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-221.md"
+    },
+    "creature-222": {
+      "name": "Frost Giant",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-222.md"
+    },
+    "creature-223": {
+      "name": "Fire Giant",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-223.md"
+    },
+    "creature-224": {
+      "name": "Cloud Giant",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-224.md"
+    },
+    "creature-225": {
+      "name": "Storm Giant",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-225.md"
+    },
+    "creature-226": {
+      "name": "Rune Giant",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-226.md"
+    },
+    "creature-227": {
+      "name": "Gibbering Mouther",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-227.md"
+    },
+    "creature-228": {
+      "name": "Gimmerling",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-228.md"
+    },
+    "creature-229": {
+      "name": "Gnoll Hunter",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-229.md"
+    },
+    "creature-230": {
+      "name": "Gnoll Cultist",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-230.md"
+    },
+    "creature-231": {
+      "name": "Gnoll Sergeant",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-231.md"
+    },
+    "creature-232": {
+      "name": "Goblin Warrior",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-232.md"
+    },
+    "creature-233": {
+      "name": "Goblin Commando",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-233.md"
+    },
+    "creature-234": {
+      "name": "Goblin Pyro",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-234.md"
+    },
+    "creature-235": {
+      "name": "Goblin War Chanter",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-235.md"
+    },
+    "creature-236": {
+      "name": "Goblin Dog",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-236.md"
+    },
+    "creature-237": {
+      "name": "Gogiteth",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-237.md"
+    },
+    "creature-238": {
+      "name": "Flesh Golem",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-238.md"
+    },
+    "creature-239": {
+      "name": "Alchemical Golem",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-239.md"
+    },
+    "creature-240": {
+      "name": "Clay Golem",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-240.md"
+    },
+    "creature-241": {
+      "name": "Stone Golem",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-241.md"
+    },
+    "creature-242": {
+      "name": "Iron Golem",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-242.md"
+    },
+    "creature-243": {
+      "name": "Adamantine Golem",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-243.md"
+    },
+    "creature-244": {
+      "name": "Graveknight",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-244.md"
+    },
+    "creature-245": {
+      "name": "Mitflit",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-245.md"
+    },
+    "creature-246": {
+      "name": "Pugwampi",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-246.md"
+    },
+    "creature-247": {
+      "name": "Jinkin",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-247.md"
+    },
+    "creature-248": {
+      "name": "Griffon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-248.md"
+    },
+    "creature-249": {
+      "name": "Grikkitog",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-249.md"
+    },
+    "creature-250": {
+      "name": "Grim Reaper",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-250.md"
+    },
+    "creature-251": {
+      "name": "Lesser Death",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-251.md"
+    },
+    "creature-252": {
+      "name": "Gug",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-252.md"
+    },
+    "creature-253": {
+      "name": "Guthallath",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-253.md"
+    },
+    "creature-254": {
+      "name": "Sea Hag",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-254.md"
+    },
+    "creature-255": {
+      "name": "Green Hag",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-255.md"
+    },
+    "creature-256": {
+      "name": "Annis Hag",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-256.md"
+    },
+    "creature-257": {
+      "name": "Night Hag",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-257.md"
+    },
+    "creature-258": {
+      "name": "Harpy",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-258.md"
+    },
+    "creature-259": {
+      "name": "Hell Hound",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-259.md"
+    },
+    "creature-260": {
+      "name": "Nessian Warhound",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-260.md"
+    },
+    "creature-261": {
+      "name": "Hobgoblin Soldier",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-261.md"
+    },
+    "creature-262": {
+      "name": "Hobgoblin Archer",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-262.md"
+    },
+    "creature-263": {
+      "name": "Hobgoblin General",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-263.md"
+    },
+    "creature-264": {
+      "name": "Homunculus",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-264.md"
+    },
+    "creature-265": {
+      "name": "Riding Pony",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-265.md"
+    },
+    "creature-266": {
+      "name": "Riding Horse",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-266.md"
+    },
+    "creature-267": {
+      "name": "War Pony",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-267.md"
+    },
+    "creature-268": {
+      "name": "War Horse",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-268.md"
+    },
+    "creature-269": {
+      "name": "Hydra",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-269.md"
+    },
+    "creature-270": {
+      "name": "Hyena",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-270.md"
+    },
+    "creature-271": {
+      "name": "Hyaenodon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-271.md"
+    },
+    "creature-272": {
+      "name": "Kobold Warrior",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-272.md"
+    },
+    "creature-273": {
+      "name": "Kobold Scout",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-273.md"
+    },
+    "creature-274": {
+      "name": "Kobold Dragon Mage",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-274.md"
+    },
+    "creature-275": {
+      "name": "Kraken",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-275.md"
+    },
+    "creature-276": {
+      "name": "Krooth",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-276.md"
+    },
+    "creature-277": {
+      "name": "Lamia",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-277.md"
+    },
+    "creature-278": {
+      "name": "Lamia Matriarch",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-278.md"
+    },
+    "creature-279": {
+      "name": "Leaf Leshy",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-279.md"
+    },
+    "creature-280": {
+      "name": "Gourd Leshy",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-280.md"
+    },
+    "creature-281": {
+      "name": "Fungus Leshy",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-281.md"
+    },
+    "creature-282": {
+      "name": "Lich",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-282.md"
+    },
+    "creature-283": {
+      "name": "Demilich",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-283.md"
+    },
+    "creature-284": {
+      "name": "Crag Linnorm",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-284.md"
+    },
+    "creature-285": {
+      "name": "Ice Linnorm",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-285.md"
+    },
+    "creature-286": {
+      "name": "Tarn Linnorm",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-286.md"
+    },
+    "creature-287": {
+      "name": "Tor Linnorm",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-287.md"
+    },
+    "creature-288": {
+      "name": "Giant Gecko",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-288.md"
+    },
+    "creature-289": {
+      "name": "Giant Monitor Lizard",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-289.md"
+    },
+    "creature-290": {
+      "name": "Giant Frilled Lizard",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-290.md"
+    },
+    "creature-291": {
+      "name": "Lizardfolk Defender",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-291.md"
+    },
+    "creature-292": {
+      "name": "Lizardfolk Scout",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-292.md"
+    },
+    "creature-293": {
+      "name": "Lizardfolk Stargazer",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-293.md"
+    },
+    "creature-294": {
+      "name": "Manticore",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-294.md"
+    },
+    "creature-295": {
+      "name": "Giant Mantis",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-295.md"
+    },
+    "creature-296": {
+      "name": "Deadly Mantis",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-296.md"
+    },
+    "creature-297": {
+      "name": "Medusa",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-297.md"
+    },
+    "creature-298": {
+      "name": "Merfolk Warrior",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-298.md"
+    },
+    "creature-299": {
+      "name": "Merfolk Wavecaller",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-299.md"
+    },
+    "creature-300": {
+      "name": "Mimic",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-300.md"
+    },
+    "creature-301": {
+      "name": "Minotaur",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-301.md"
+    },
+    "creature-302": {
+      "name": "Mu Spore",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-302.md"
+    },
+    "creature-303": {
+      "name": "Mukradi",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-303.md"
+    },
+    "creature-304": {
+      "name": "Mummy Guardian",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-304.md"
+    },
+    "creature-305": {
+      "name": "Mummy Pharaoh",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-305.md"
+    },
+    "creature-306": {
+      "name": "Dark Naga",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-306.md"
+    },
+    "creature-307": {
+      "name": "Guardian Naga",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-307.md"
+    },
+    "creature-308": {
+      "name": "Nightmare",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-308.md"
+    },
+    "creature-309": {
+      "name": "Greater Nightmare",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-309.md"
+    },
+    "creature-310": {
+      "name": "Nilith",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-310.md"
+    },
+    "creature-311": {
+      "name": "Naiad",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-311.md"
+    },
+    "creature-312": {
+      "name": "Dryad",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-312.md"
+    },
+    "creature-313": {
+      "name": "Naiad Queen",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-313.md"
+    },
+    "creature-314": {
+      "name": "Dryad Queen",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-314.md"
+    },
+    "creature-315": {
+      "name": "Giant Octopus",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-315.md"
+    },
+    "creature-316": {
+      "name": "Ofalth",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-316.md"
+    },
+    "creature-317": {
+      "name": "Ogre Warrior",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-317.md"
+    },
+    "creature-318": {
+      "name": "Ogre Glutton",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-318.md"
+    },
+    "creature-319": {
+      "name": "Ogre Boss",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-319.md"
+    },
+    "creature-320": {
+      "name": "Sewer Ooze",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-320.md"
+    },
+    "creature-321": {
+      "name": "Gelatinous Cube",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-321.md"
+    },
+    "creature-322": {
+      "name": "Ochre Jelly",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-322.md"
+    },
+    "creature-323": {
+      "name": "Black Pudding",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-323.md"
+    },
+    "creature-324": {
+      "name": "Orc Brute",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-324.md"
+    },
+    "creature-325": {
+      "name": "Orc Warrior",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-325.md"
+    },
+    "creature-326": {
+      "name": "Orc Warchief",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-326.md"
+    },
+    "creature-327": {
+      "name": "Otyugh",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-327.md"
+    },
+    "creature-328": {
+      "name": "Owlbear",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-328.md"
+    },
+    "creature-329": {
+      "name": "Pegasus",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-329.md"
+    },
+    "creature-330": {
+      "name": "Phoenix",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-330.md"
+    },
+    "creature-331": {
+      "name": "Tiefling Adept",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-331.md"
+    },
+    "creature-332": {
+      "name": "Duskwalker Ghost Hunter",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-332.md"
+    },
+    "creature-333": {
+      "name": "Aasimar Redeemer",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-333.md"
+    },
+    "creature-334": {
+      "name": "Poltergeist",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-334.md"
+    },
+    "creature-335": {
+      "name": "Poracha",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-335.md"
+    },
+    "creature-336": {
+      "name": "Voidworm",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-336.md"
+    },
+    "creature-337": {
+      "name": "Naunet",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-337.md"
+    },
+    "creature-338": {
+      "name": "Keketar",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-338.md"
+    },
+    "creature-339": {
+      "name": "Nosoi",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-339.md"
+    },
+    "creature-340": {
+      "name": "Morrigna",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-340.md"
+    },
+    "creature-341": {
+      "name": "Pteranodon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-341.md"
+    },
+    "creature-342": {
+      "name": "Quetzalcoatlus",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-342.md"
+    },
+    "creature-343": {
+      "name": "Quelaunt",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-343.md"
+    },
+    "creature-344": {
+      "name": "Dandasuka",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-344.md"
+    },
+    "creature-345": {
+      "name": "Raja Rakshasa",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-345.md"
+    },
+    "creature-346": {
+      "name": "Giant Rat",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-346.md"
+    },
+    "creature-347": {
+      "name": "Rat Swarm",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-347.md"
+    },
+    "creature-348": {
+      "name": "Ratfolk Grenadier",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-348.md"
+    },
+    "creature-349": {
+      "name": "Redcap",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-349.md"
+    },
+    "creature-350": {
+      "name": "Reefclaw",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-350.md"
+    },
+    "creature-351": {
+      "name": "Remorhaz",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-351.md"
+    },
+    "creature-352": {
+      "name": "Roc",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-352.md"
+    },
+    "creature-353": {
+      "name": "Roper",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-353.md"
+    },
+    "creature-354": {
+      "name": "Rust Monster",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-354.md"
+    },
+    "creature-355": {
+      "name": "Satyr",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-355.md"
+    },
+    "creature-356": {
+      "name": "Giant Scorpion",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-356.md"
+    },
+    "creature-357": {
+      "name": "Scorpion Swarm",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-357.md"
+    },
+    "creature-358": {
+      "name": "Sea Devil Scout",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-358.md"
+    },
+    "creature-359": {
+      "name": "Sea Devil Brute",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-359.md"
+    },
+    "creature-360": {
+      "name": "Sea Devil Baron",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-360.md"
+    },
+    "creature-361": {
+      "name": "Sea Serpent",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-361.md"
+    },
+    "creature-362": {
+      "name": "Shadow",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-362.md"
+    },
+    "creature-363": {
+      "name": "Greater Shadow",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-363.md"
+    },
+    "creature-364": {
+      "name": "Shambler",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-364.md"
+    },
+    "creature-365": {
+      "name": "Great White Shark",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-365.md"
+    },
+    "creature-366": {
+      "name": "Megalodon",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-366.md"
+    },
+    "creature-367": {
+      "name": "Shining Child",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-367.md"
+    },
+    "creature-368": {
+      "name": "Shoggoth",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-368.md"
+    },
+    "creature-369": {
+      "name": "Shuln",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-369.md"
+    },
+    "creature-370": {
+      "name": "Simurgh",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-370.md"
+    },
+    "creature-371": {
+      "name": "Sinspawn",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-371.md"
+    },
+    "creature-372": {
+      "name": "Skeleton Guard",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-372.md"
+    },
+    "creature-373": {
+      "name": "Skeletal Champion",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-373.md"
+    },
+    "creature-374": {
+      "name": "Skeletal Horse",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-374.md"
+    },
+    "creature-375": {
+      "name": "Skeletal Giant",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-375.md"
+    },
+    "creature-376": {
+      "name": "Skeletal Hulk",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-376.md"
+    },
+    "creature-377": {
+      "name": "Skulltaker",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-377.md"
+    },
+    "creature-378": {
+      "name": "Slurk",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-378.md"
+    },
+    "creature-379": {
+      "name": "Viper",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-379.md"
+    },
+    "creature-380": {
+      "name": "Ball Python",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-380.md"
+    },
+    "creature-381": {
+      "name": "Giant Viper",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-381.md"
+    },
+    "creature-382": {
+      "name": "Giant Anaconda",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-382.md"
+    },
+    "creature-383": {
+      "name": "Soulbound Doll",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-383.md"
+    },
+    "creature-384": {
+      "name": "Sphinx",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-384.md"
+    },
+    "creature-385": {
+      "name": "Spider Swarm",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-385.md"
+    },
+    "creature-386": {
+      "name": "Hunting Spider",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-386.md"
+    },
+    "creature-387": {
+      "name": "Giant Tarantula",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-387.md"
+    },
+    "creature-388": {
+      "name": "Goliath Spider",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-388.md"
+    },
+    "creature-389": {
+      "name": "Sprite",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-389.md"
+    },
+    "creature-390": {
+      "name": "Grig",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-390.md"
+    },
+    "creature-391": {
+      "name": "Pixie",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-391.md"
+    },
+    "creature-392": {
+      "name": "Tengu Sneak",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-392.md"
+    },
+    "creature-393": {
+      "name": "Terotricus",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-393.md"
+    },
+    "creature-394": {
+      "name": "Treerazer",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-394.md"
+    },
+    "creature-395": {
+      "name": "Troll",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-395.md"
+    },
+    "creature-396": {
+      "name": "Troll King",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-396.md"
+    },
+    "creature-397": {
+      "name": "Unicorn",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-397.md"
+    },
+    "creature-398": {
+      "name": "Uthul",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-398.md"
+    },
+    "creature-399": {
+      "name": "Vampire Spawn",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-399.md"
+    },
+    "creature-400": {
+      "name": "Vampire Count",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-400.md"
+    },
+    "creature-401": {
+      "name": "Vampire Mastermind",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-401.md"
+    },
+    "creature-402": {
+      "name": "Warg",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-402.md"
+    },
+    "creature-403": {
+      "name": "Winter Wolf",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-403.md"
+    },
+    "creature-404": {
+      "name": "Warsworn",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-404.md"
+    },
+    "creature-405": {
+      "name": "Giant Wasp",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-405.md"
+    },
+    "creature-406": {
+      "name": "Wasp Swarm",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-406.md"
+    },
+    "creature-407": {
+      "name": "Web Lurker",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-407.md"
+    },
+    "creature-408": {
+      "name": "Wemmuth",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-408.md"
+    },
+    "creature-409": {
+      "name": "Wendigo",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-409.md"
+    },
+    "creature-410": {
+      "name": "Wererat",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-410.md"
+    },
+    "creature-411": {
+      "name": "Werewolf",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-411.md"
+    },
+    "creature-412": {
+      "name": "Werebear",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-412.md"
+    },
+    "creature-413": {
+      "name": "Wight",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-413.md"
+    },
+    "creature-414": {
+      "name": "Will-o’-Wisp",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-414.md"
+    },
+    "creature-415": {
+      "name": "Wolf",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-415.md"
+    },
+    "creature-416": {
+      "name": "Dire Wolf",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-416.md"
+    },
+    "creature-417": {
+      "name": "Wraith",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-417.md"
+    },
+    "creature-418": {
+      "name": "Xulgath Warrior",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-418.md"
+    },
+    "creature-419": {
+      "name": "Xulgath Skulker",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-419.md"
+    },
+    "creature-420": {
+      "name": "Xulgath Leader",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-420.md"
+    },
+    "creature-421": {
+      "name": "Yeti",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-421.md"
+    },
+    "creature-422": {
+      "name": "Zaramuun",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-422.md"
+    },
+    "creature-423": {
+      "name": "Zombie Shambler",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-423.md"
+    },
+    "creature-424": {
+      "name": "Plague Zombie",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-424.md"
+    },
+    "creature-425": {
+      "name": "Zombie Brute",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-425.md"
+    },
+    "creature-426": {
+      "name": "Zombie Hulk",
+      "source": [
+        "Bestiary"
+      ],
+      "file": "docs/creature-426.md"
+    },
+    "creature-427": {
+      "name": "Bloodlash Bush",
+      "source": [
+        "The Fall of Plaguestone"
+      ],
+      "file": "docs/creature-427.md"
+    },
+    "creature-428": {
+      "name": "Vine Lasher",
+      "source": [
+        "The Fall of Plaguestone"
+      ],
+      "file": "docs/creature-428.md"
+    },
+    "creature-429": {
+      "name": "Blood Ooze",
+      "source": [
+        "The Fall of Plaguestone"
+      ],
+      "file": "docs/creature-429.md"
+    },
+    "creature-430": {
+      "name": "Anadi Hunter",
+      "source": [
+        "Pathfinder #145: Hellknight Hill",
+        "The Mwangi Expanse"
+      ],
+      "file": "docs/creature-430.md"
+    },
+    "creature-431": {
+      "name": "Anadi Sage",
+      "source": [
+        "Pathfinder #145: Hellknight Hill",
+        "The Mwangi Expanse"
+      ],
+      "file": "docs/creature-431.md"
+    },
+    "creature-432": {
+      "name": "Anadi Elder",
+      "source": [
+        "Pathfinder #145: Hellknight Hill",
+        "The Mwangi Expanse"
+      ],
+      "file": "docs/creature-432.md"
+    },
+    "creature-433": {
+      "name": "Doorwarden",
+      "source": [
+        "Pathfinder #145: Hellknight Hill"
+      ],
+      "file": "docs/creature-433.md"
+    },
+    "creature-434": {
+      "name": "Emperor Bird",
+      "source": [
+        "Pathfinder #145: Hellknight Hill"
+      ],
+      "file": "docs/creature-434.md"
+    },
+    "creature-435": {
+      "name": "Grauladon",
+      "source": [
+        "Pathfinder #145: Hellknight Hill"
+      ],
+      "file": "docs/creature-435.md"
+    },
+    "creature-436": {
+      "name": "Graveshell",
+      "source": [
+        "Pathfinder #145: Hellknight Hill"
+      ],
+      "file": "docs/creature-436.md"
+    },
+    "creature-437": {
+      "name": "Hellcrown",
+      "source": [
+        "Pathfinder #145: Hellknight Hill"
+      ],
+      "file": "docs/creature-437.md"
+    },
+    "creature-438": {
+      "name": "Tixitog",
+      "source": [
+        "Pathfinder #145: Hellknight Hill"
+      ],
+      "file": "docs/creature-438.md"
+    },
+    "creature-439": {
+      "name": "Asanbosam",
+      "source": [
+        "Pathfinder #146: Cult of Cinders",
+        "The Mwangi Expanse"
+      ],
+      "file": "docs/creature-439.md"
+    },
+    "creature-440": {
+      "name": "Bida",
+      "source": [
+        "Pathfinder #146: Cult of Cinders"
+      ],
+      "file": "docs/creature-440.md"
+    },
+    "creature-441": {
+      "name": "Biloko Warrior",
+      "source": [
+        "Pathfinder #146: Cult of Cinders",
+        "The Mwangi Expanse"
+      ],
+      "file": "docs/creature-441.md"
+    },
+    "creature-442": {
+      "name": "Biloko Veteran",
+      "source": [
+        "Pathfinder #146: Cult of Cinders",
+        "The Mwangi Expanse"
+      ],
+      "file": "docs/creature-442.md"
+    },
+    "creature-443": {
+      "name": "Eloko",
+      "source": [
+        "Pathfinder #146: Cult of Cinders",
+        "The Mwangi Expanse"
+      ],
+      "file": "docs/creature-443.md"
+    },
+    "creature-444": {
+      "name": "Charau-ka Warrior",
+      "source": [
+        "Pathfinder #146: Cult of Cinders",
+        "The Mwangi Expanse"
+      ],
+      "file": "docs/creature-444.md"
+    },
+    "creature-445": {
+      "name": "Charau-ka Acolyte of Angazhan",
+      "source": [
+        "Pathfinder #146: Cult of Cinders",
+        "The Mwangi Expanse"
+      ],
+      "file": "docs/creature-445.md"
+    },
+    "creature-446": {
+      "name": "Charau-ka Butcher",
+      "source": [
+        "Pathfinder #146: Cult of Cinders",
+        "The Mwangi Expanse"
+      ],
+      "file": "docs/creature-446.md"
+    },
+    "creature-447": {
+      "name": "Grippli Scout",
+      "source": [
+        "Pathfinder #146: Cult of Cinders"
+      ],
+      "file": "docs/creature-447.md"
+    },
+    "creature-448": {
+      "name": "Grippli Archer",
+      "source": [
+        "Pathfinder #146: Cult of Cinders"
+      ],
+      "file": "docs/creature-448.md"
+    },
+    "creature-449": {
+      "name": "Grippli Greenspeaker",
+      "source": [
+        "Pathfinder #146: Cult of Cinders"
+      ],
+      "file": "docs/creature-449.md"
+    },
+    "creature-450": {
+      "name": "Kishi",
+      "source": [
+        "Pathfinder #146: Cult of Cinders",
+        "Bestiary 3"
+      ],
+      "file": "docs/creature-450.md"
+    },
+    "creature-451": {
+      "name": "Living Sap",
+      "source": [
+        "Pathfinder #146: Cult of Cinders"
+      ],
+      "file": "docs/creature-451.md"
+    },
+    "creature-452": {
+      "name": "Mokele-Mbembe",
+      "source": [
+        "Pathfinder #146: Cult of Cinders",
+        "Bestiary 3"
+      ],
+      "file": "docs/creature-452.md"
+    },
+    "creature-453": {
+      "name": "Sabosan",
+      "source": [
+        "Pathfinder #146: Cult of Cinders",
+        "Bestiary 3"
+      ],
+      "file": "docs/creature-453.md"
+    },
+    "creature-454": {
+      "name": "Blood Boar",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/creature-454.md"
+    },
+    "creature-455": {
+      "name": "Kalavakus",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/creature-455.md"
+    },
+    "creature-456": {
+      "name": "Osyluth",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn",
+        "Bestiary 2"
+      ],
+      "file": "docs/creature-456.md"
+    },
+    "creature-457": {
+      "name": "Shadow Giant",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/creature-457.md"
+    },
+    "creature-458": {
+      "name": "Remnant of Barzillai",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/creature-458.md"
+    },
+    "creature-459": {
+      "name": "Rusalka",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn",
+        "Bestiary 2"
+      ],
+      "file": "docs/creature-459.md"
+    },
+    "creature-460": {
+      "name": "Augur",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn",
+        "Bestiary 2"
+      ],
+      "file": "docs/creature-460.md"
+    },
+    "creature-461": {
+      "name": "Evangelist",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn",
+        "Bestiary 2"
+      ],
+      "file": "docs/creature-461.md"
+    },
+    "creature-462": {
+      "name": "Interlocutor",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn",
+        "Bestiary 2"
+      ],
+      "file": "docs/creature-462.md"
+    },
+    "creature-463": {
+      "name": "Precentor",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/creature-463.md"
+    },
+    "creature-464": {
+      "name": "Carnivorous Crystal",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City"
+      ],
+      "file": "docs/creature-464.md"
+    },
+    "creature-465": {
+      "name": "Dalos",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City"
+      ],
+      "file": "docs/creature-465.md"
+    },
+    "creature-466": {
+      "name": "Deculi",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City"
+      ],
+      "file": "docs/creature-466.md"
+    },
+    "creature-467": {
+      "name": "Devourer",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City",
+        "Bestiary 2"
+      ],
+      "file": "docs/creature-467.md"
+    },
+    "creature-469": {
+      "name": "Young Magma Dragon",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City",
+        "Bestiary 2"
+      ],
+      "file": "docs/creature-469.md"
+    },
+    "creature-470": {
+      "name": "Adult Magma Dragon",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City",
+        "Bestiary 2"
+      ],
+      "file": "docs/creature-470.md"
+    },
+    "creature-471": {
+      "name": "Ancient Magma Dragon",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City",
+        "Bestiary 2"
+      ],
+      "file": "docs/creature-471.md"
+    },
+    "creature-472": {
+      "name": "Dragonscarred Dead",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City"
+      ],
+      "file": "docs/creature-472.md"
+    },
+    "creature-473": {
+      "name": "Forge-Spurned",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City",
+        "Crown of the Kobold King"
+      ],
+      "file": "docs/creature-473.md"
+    },
+    "creature-474": {
+      "name": "Gashadokuro",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City",
+        "Book of the Dead"
+      ],
+      "file": "docs/creature-474.md"
+    },
+    "creature-475": {
+      "name": "Soulbound Ruin",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City"
+      ],
+      "file": "docs/creature-475.md"
+    },
+    "creature-476": {
+      "name": "Aluum Enforcer",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad"
+      ],
+      "file": "docs/creature-476.md"
+    },
+    "creature-477": {
+      "name": "Spiritbound Aluum",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad"
+      ],
+      "file": "docs/creature-477.md"
+    },
+    "creature-478": {
+      "name": "Calikang",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad",
+        "Bestiary 3"
+      ],
+      "file": "docs/creature-478.md"
+    },
+    "creature-479": {
+      "name": "Crucidaemon",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad"
+      ],
+      "file": "docs/creature-479.md"
+    },
+    "creature-481": {
+      "name": "Nalfeshnee",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad",
+        "Bestiary 2"
+      ],
+      "file": "docs/creature-481.md"
+    },
+    "creature-482": {
+      "name": "Cornugon",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad",
+        "Bestiary 2"
+      ],
+      "file": "docs/creature-482.md"
+    },
+    "creature-483": {
+      "name": "Immortal Ichor",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad"
+      ],
+      "file": "docs/creature-483.md"
+    },
+    "creature-484": {
+      "name": "Giant Solifugid",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad",
+        "Bestiary 2"
+      ],
+      "file": "docs/creature-484.md"
+    },
+    "creature-485": {
+      "name": "Duneshaker Solifugid",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad",
+        "Bestiary 2"
+      ],
+      "file": "docs/creature-485.md"
+    },
+    "creature-486": {
+      "name": "Witchwyrd",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad",
+        "Bestiary 2"
+      ],
+      "file": "docs/creature-486.md"
+    },
+    "creature-487": {
+      "name": "Xotanispawn",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad"
+      ],
+      "file": "docs/creature-487.md"
+    },
+    "creature-488": {
+      "name": "Aiudara Wraith",
+      "source": [
+        "Pathfinder #150: Broken Promises"
+      ],
+      "file": "docs/creature-488.md"
+    },
+    "creature-489": {
+      "name": "Dragonshard Guardian",
+      "source": [
+        "Pathfinder #150: Broken Promises"
+      ],
+      "file": "docs/creature-489.md"
+    },
+    "creature-490": {
+      "name": "Tarrasque",
+      "source": [
+        "Pathfinder #150: Broken Promises"
+      ],
+      "file": "docs/creature-490.md"
+    },
+    "creature-491": {
+      "name": "Xotani",
+      "source": [
+        "Pathfinder #150: Broken Promises"
+      ],
+      "file": "docs/creature-491.md"
+    },
+    "creature-492": {
+      "name": "Tzitzimitl",
+      "source": [
+        "Pathfinder #150: Broken Promises",
+        "Bestiary 3"
+      ],
+      "file": "docs/creature-492.md"
+    },
+    "creature-493": {
+      "name": "Vazgorlu",
+      "source": [
+        "Pathfinder #150: Broken Promises"
+      ],
+      "file": "docs/creature-493.md"
+    },
+    "creature-496": {
+      "name": "Wyrmwraith",
+      "source": [
+        "Pathfinder #150: Broken Promises",
+        "Bestiary 3"
+      ],
+      "file": "docs/creature-496.md"
+    },
+    "creature-497": {
+      "name": "Elder Wyrmwraith",
+      "source": [
+        "Pathfinder #150: Broken Promises",
+        "Bestiary 3"
+      ],
+      "file": "docs/creature-497.md"
+    },
+    "creature-498": {
+      "name": "Bone Croupier",
+      "source": [
+        "Pathfinder #151: The Show Must Go On",
+        "Book of the Dead"
+      ],
+      "file": "docs/creature-498.md"
+    },
+    "creature-499": {
+      "name": "Abrikandilu",
+      "source": [
+        "Pathfinder #151: The Show Must Go On",
+        "Bestiary 3"
+      ],
+      "file": "docs/creature-499.md"
+    },
+    "creature-500": {
+      "name": "Vermlek",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/creature-500.md"
+    },
+    "creature-501": {
+      "name": "Giant Flea",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/creature-501.md"
+    },
+    "creature-502": {
+      "name": "Flea Swarm",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/creature-502.md"
+    },
+    "creature-503": {
+      "name": "Oil Living Graffiti",
+      "source": [
+        "Pathfinder #151: The Show Must Go On",
+        "Bestiary 3"
+      ],
+      "file": "docs/creature-503.md"
+    },
+    "creature-504": {
+      "name": "Luminous Ooze",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/creature-504.md"
+    },
+    "creature-505": {
+      "name": "Mechanical Carny",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/creature-505.md"
+    },
+    "creature-506": {
+      "name": "Xulgath Bilebearer",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/creature-506.md"
+    },
+    "creature-507": {
+      "name": "Bogey",
+      "source": [
+        "Pathfinder #152: Legacy of the Lost God"
+      ],
+      "file": "docs/creature-507.md"
+    },
+    "creature-508": {
+      "name": "Bugaboo",
+      "source": [
+        "Pathfinder #152: Legacy of the Lost God"
+      ],
+      "file": "docs/creature-508.md"
+    },
+    "creature-509": {
+      "name": "Bogeyman",
+      "source": [
+        "Pathfinder #152: Legacy of the Lost God"
+      ],
+      "file": "docs/creature-509.md"
+    },
+    "creature-510": {
+      "name": "Iridescent Elephant",
+      "source": [
+        "Pathfinder #152: Legacy of the Lost God"
+      ],
+      "file": "docs/creature-510.md"
+    },
+    "creature-511": {
+      "name": "Muse Phantom",
+      "source": [
+        "Pathfinder #152: Legacy of the Lost God"
+      ],
+      "file": "docs/creature-511.md"
+    },
+    "creature-512": {
+      "name": "Chimpanzee Visitant",
+      "source": [
+        "Pathfinder #152: Legacy of the Lost God"
+      ],
+      "file": "docs/creature-512.md"
+    },
+    "creature-513": {
+      "name": "Lion Visitant",
+      "source": [
+        "Pathfinder #152: Legacy of the Lost God"
+      ],
+      "file": "docs/creature-513.md"
+    },
+    "creature-514": {
+      "name": "Xulgath Spinesnapper",
+      "source": [
+        "Pathfinder #152: Legacy of the Lost God"
+      ],
+      "file": "docs/creature-514.md"
+    },
+    "creature-515": {
+      "name": "Zuipnyrn",
+      "source": [
+        "Pathfinder #152: Legacy of the Lost God"
+      ],
+      "file": "docs/creature-515.md"
+    },
+    "creature-516": {
+      "name": "Bugul Noz",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/creature-516.md"
+    }
+  }
+}

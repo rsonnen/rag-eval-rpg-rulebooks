@@ -1,0 +1,36 @@
+name: "Kobold Press Monster Collection"
+
+corpus_context: >
+  1,527 creatures from Kobold Press supplements: Tome of Beasts (tob), Tome of
+  Beasts 2 (tob2), Tome of Beasts 3 (tob3), and Creature Codex (cc). Full stat
+  blocks with size, type, alignment, AC, HP (with dice), speeds, ability scores,
+  saves, skills, resistances, immunities, senses, languages, challenge rating,
+  traits, and actions. Features exotic creatures not found in official sources:
+  void dragons, fey creatures, aberrations, and unique monster designs with
+  creative abilities and lore. Markdown format. OGL license.
+
+scenarios:
+  exotic_encounters:
+    name: "Exotic Encounter Design"
+    description: >
+      DM seeking unusual monsters beyond official sources for unique encounters.
+      Questions like "What Kobold Press monsters have fear-based abilities?" or
+      "Find fey creatures with fire immunity." Tests discovery of thematically
+      appropriate creatures from a large, diverse collection.
+
+  creature_abilities:
+    name: "Creature Ability Reference"
+    description: >
+      Looking up specific monster abilities during play or preparation. Questions
+      like "What happens when you touch the Abominable Beauty?" or "How does the
+      A-mi-kuk's Strangle action work?" Tests retrieval of unique, creative
+      mechanics not found in standard monster manuals.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      Specific factual questions with exact answers from stat blocks. "What is
+      the A-mi-kuk's Challenge Rating?" (7), "How much fire damage does touching
+      the Abominable Beauty deal?" (28/8d6), "What condition immunities does the
+      A-mi-kuk have?" (paralyzed, restrained). Verifies accurate extraction from
+      structured stat block data.

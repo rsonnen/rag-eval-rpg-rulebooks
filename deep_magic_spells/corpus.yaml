@@ -1,0 +1,38 @@
+name: "Deep Magic 5e Spells"
+
+corpus_context: >
+  578 third-party spells from Kobold Press's Deep Magic supplement for D&D 5th
+  Edition. Each document contains a single spell with casting time, range,
+  components (verbal, somatic, material), duration, class availability, and full
+  description including "At Higher Levels" upcasting rules. Spells range from
+  cantrips to 9th level across schools like illusion, conjuration, necromancy,
+  and evocation. Source material from dmag (Deep Magic 5e) and dmag-e (Deep
+  Magic Extended). Markdown format. OGL license.
+
+scenarios:
+  spell_lookup:
+    name: "Spell Lookup and Selection"
+    description: >
+      A player or DM searching for spells matching specific criteria: damage type,
+      spell level, class availability, school of magic, or thematic elements.
+      Queries might ask "What illusion spells deal psychic damage?" or "Find
+      spells that create portals or teleportation effects." Tests retrieval of
+      spells based on mechanical and thematic attributes.
+
+  mechanics_reference:
+    name: "Rules Clarification and Mechanics"
+    description: >
+      Testing whether the system can accurately retrieve specific mechanical
+      details: exact damage dice, saving throw types, component costs,
+      concentration requirements, and upcasting scaling. Questions like "What
+      material component does Acid Gate require?" verify the system retrieved
+      and parsed the actual document content.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      Questions with unambiguous answers found in specific spell documents.
+      Tests whether the retrieval system found the right spell and whether the
+      generation system correctly extracted details. Questions should have single
+      correct answers: "What is the duration of Abhorrent Apparition?" or "How
+      many creatures can use Acid Gate at base level?"

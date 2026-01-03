@@ -1,0 +1,36 @@
+name: "Pathfinder 2e Feats"
+
+corpus_context: >
+  500 character feats from Paizo's Pathfinder 2nd Edition, sourced from Archives
+  of Nethys. Each document contains feat name, source book, feat level, traits
+  (ancestry, class, general, skill, etc.), prerequisites, and full description
+  of mechanical effects. Covers ancestry feats (like Goblin's Fang Sharpener),
+  class feats, general feats, and skill feats. Includes feat chains showing
+  which feats lead to advanced options. ORC license.
+
+scenarios:
+  character_building:
+    name: "Character Building and Feat Selection"
+    description: >
+      Player building a PF2e character selecting feats by level, ancestry, class,
+      or desired effect. Questions like "What level 1 Goblin ancestry feats exist?"
+      or "What feats require Razortooth Goblin heritage?" Tests filtering by
+      PF2e's detailed feat categorization and prerequisites.
+
+  feat_mechanics:
+    name: "Feat Mechanics Reference"
+    description: >
+      Looking up exact mechanical effects of feats during play: damage dice, action
+      types, conditions applied, or situational bonuses. Questions like "What
+      damage does the Hard Tail feat provide?" or "What extra effect does Fang
+      Sharpener add on critical hits?" Tests extraction of specific mechanical
+      benefits from feat descriptions.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      Verification questions with exact answers from feat text. "What damage die
+      does Hard Tail grant?" (1d6 bludgeoning), "What heritage prerequisite does
+      Hard Tail require?" (Tailed Goblin), "What persistent damage does Fang
+      Sharpener cause on a critical hit?" (1 bleed per weapon damage die).
+      Tests accurate extraction of feat mechanics.

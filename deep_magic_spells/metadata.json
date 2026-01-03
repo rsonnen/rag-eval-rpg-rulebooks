@@ -1,0 +1,2907 @@
+{
+  "corpus": "deep_magic_spells",
+  "content_type": "spells",
+  "sources": [
+    "dmag",
+    "dmag-e"
+  ],
+  "total_documents": 578,
+  "source_counts": {
+    "dmag": 514,
+    "dmag-e": 64
+  },
+  "api_base": "https://api.open5e.com/v1",
+  "license": "Open Gaming License / Creative Commons (varies by source)",
+  "documents": {
+    "abhorrent-apparition": {
+      "name": "Abhorrent Apparition",
+      "source": "dmag",
+      "file": "docs/abhorrent-apparition.md"
+    },
+    "absolute-command": {
+      "name": "Absolute Command",
+      "source": "dmag-e",
+      "file": "docs/absolute-command.md"
+    },
+    "accelerate": {
+      "name": "Accelerate",
+      "source": "dmag",
+      "file": "docs/accelerate.md"
+    },
+    "acid-gate": {
+      "name": "Acid Gate",
+      "source": "dmag",
+      "file": "docs/acid-gate.md"
+    },
+    "acid-rain": {
+      "name": "Acid Rain",
+      "source": "dmag",
+      "file": "docs/acid-rain.md"
+    },
+    "adjust-position": {
+      "name": "Adjust Position",
+      "source": "dmag",
+      "file": "docs/adjust-position.md"
+    },
+    "afflict-line": {
+      "name": "Afflict Line",
+      "source": "dmag",
+      "file": "docs/afflict-line.md"
+    },
+    "agonizing-mark": {
+      "name": "Agonizing Mark",
+      "source": "dmag",
+      "file": "docs/agonizing-mark.md"
+    },
+    "alchemical-form": {
+      "name": "Alchemical Form",
+      "source": "dmag",
+      "file": "docs/alchemical-form.md"
+    },
+    "ale-dritch-blast": {
+      "name": "Ale-dritch Blast",
+      "source": "dmag",
+      "file": "docs/ale-dritch-blast.md"
+    },
+    "ally-aegis": {
+      "name": "Ally Aegis",
+      "source": "dmag",
+      "file": "docs/ally-aegis.md"
+    },
+    "alone": {
+      "name": "Alone",
+      "source": "dmag",
+      "file": "docs/alone.md"
+    },
+    "alter-arrows-fortune": {
+      "name": "Alter Arrow’s Fortune",
+      "source": "dmag",
+      "file": "docs/alter-arrows-fortune.md"
+    },
+    "altheas-travel-tent": {
+      "name": "Althea’s Travel Tent",
+      "source": "dmag",
+      "file": "docs/altheas-travel-tent.md"
+    },
+    "amplify-gravity": {
+      "name": "Amplify Gravity",
+      "source": "dmag",
+      "file": "docs/amplify-gravity.md"
+    },
+    "amplify-ley-field": {
+      "name": "Amplify Ley Field",
+      "source": "dmag-e",
+      "file": "docs/amplify-ley-field.md"
+    },
+    "analyze-device": {
+      "name": "Analyze Device",
+      "source": "dmag",
+      "file": "docs/analyze-device.md"
+    },
+    "ancestors-strength": {
+      "name": "Ancestor’s Strength",
+      "source": "dmag",
+      "file": "docs/ancestors-strength.md"
+    },
+    "anchoring-rope": {
+      "name": "Anchoring Rope",
+      "source": "dmag",
+      "file": "docs/anchoring-rope.md"
+    },
+    "ancient-shade": {
+      "name": "Ancient Shade",
+      "source": "dmag",
+      "file": "docs/ancient-shade.md"
+    },
+    "angelic-guardian": {
+      "name": "Angelic Guardian",
+      "source": "dmag",
+      "file": "docs/angelic-guardian.md"
+    },
+    "animate-construct": {
+      "name": "Animate Construct",
+      "source": "dmag-e",
+      "file": "docs/animate-construct.md"
+    },
+    "animate-ghoul": {
+      "name": "Animate Ghoul",
+      "source": "dmag",
+      "file": "docs/animate-ghoul.md"
+    },
+    "animate-greater-undead": {
+      "name": "Animate Greater Undead",
+      "source": "dmag",
+      "file": "docs/animate-greater-undead.md"
+    },
+    "animated-scroll": {
+      "name": "Animated Scroll",
+      "source": "dmag",
+      "file": "docs/animated-scroll.md"
+    },
+    "anomalous-object": {
+      "name": "Anomalous Object",
+      "source": "dmag-e",
+      "file": "docs/anomalous-object.md"
+    },
+    "anticipate-arcana": {
+      "name": "Anticipate Arcana",
+      "source": "dmag",
+      "file": "docs/anticipate-arcana.md"
+    },
+    "anticipate-attack": {
+      "name": "Anticipate Attack",
+      "source": "dmag",
+      "file": "docs/anticipate-attack.md"
+    },
+    "anticipate-weakness": {
+      "name": "Anticipate Weakness",
+      "source": "dmag",
+      "file": "docs/anticipate-weakness.md"
+    },
+    "arcane-sight": {
+      "name": "Arcane Sight",
+      "source": "dmag",
+      "file": "docs/arcane-sight.md"
+    },
+    "armored-heart": {
+      "name": "Armored Heart",
+      "source": "dmag-e",
+      "file": "docs/armored-heart.md"
+    },
+    "armored-shell": {
+      "name": "Armored Shell",
+      "source": "dmag-e",
+      "file": "docs/armored-shell.md"
+    },
+    "as-you-were": {
+      "name": "As You Were",
+      "source": "dmag",
+      "file": "docs/as-you-were.md"
+    },
+    "ashen-memories": {
+      "name": "Ashen Memories",
+      "source": "dmag",
+      "file": "docs/ashen-memories.md"
+    },
+    "aspect-of-the-dragon": {
+      "name": "Aspect of the Dragon",
+      "source": "dmag",
+      "file": "docs/aspect-of-the-dragon.md"
+    },
+    "aspect-of-the-serpent": {
+      "name": "Aspect of the Serpent",
+      "source": "dmag",
+      "file": "docs/aspect-of-the-serpent.md"
+    },
+    "aura-of-protection-or-destruction": {
+      "name": "Aura of Protection or Destruction",
+      "source": "dmag",
+      "file": "docs/aura-of-protection-or-destruction.md"
+    },
+    "auspicious-warning": {
+      "name": "Auspicious Warning",
+      "source": "dmag",
+      "file": "docs/auspicious-warning.md"
+    },
+    "avoid-grievous-injury": {
+      "name": "Avoid Grievous Injury",
+      "source": "dmag",
+      "file": "docs/avoid-grievous-injury.md"
+    },
+    "avronins-astral-assembly": {
+      "name": "Avronin’s Astral Assembly",
+      "source": "dmag",
+      "file": "docs/avronins-astral-assembly.md"
+    },
+    "awaken-object": {
+      "name": "Awaken Object",
+      "source": "dmag",
+      "file": "docs/awaken-object.md"
+    },
+    "bad-timing": {
+      "name": "Bad Timing",
+      "source": "dmag",
+      "file": "docs/bad-timing.md"
+    },
+    "banshee-wail": {
+      "name": "Banshee Wail",
+      "source": "dmag-e",
+      "file": "docs/banshee-wail.md"
+    },
+    "batsense": {
+      "name": "Batsense",
+      "source": "dmag",
+      "file": "docs/batsense.md"
+    },
+    "become-nightwing": {
+      "name": "Become Nightwing",
+      "source": "dmag",
+      "file": "docs/become-nightwing.md"
+    },
+    "beguiling-bet": {
+      "name": "Beguiling Bet",
+      "source": "dmag",
+      "file": "docs/beguiling-bet.md"
+    },
+    "beguiling-gift": {
+      "name": "Beguiling Gift",
+      "source": "dmag-e",
+      "file": "docs/beguiling-gift.md"
+    },
+    "benediction": {
+      "name": "Benediction",
+      "source": "dmag",
+      "file": "docs/benediction.md"
+    },
+    "bestial-fury": {
+      "name": "Bestial Fury",
+      "source": "dmag",
+      "file": "docs/bestial-fury.md"
+    },
+    "binding-oath": {
+      "name": "Binding Oath",
+      "source": "dmag",
+      "file": "docs/binding-oath.md"
+    },
+    "biting-arrow": {
+      "name": "Biting Arrow",
+      "source": "dmag",
+      "file": "docs/biting-arrow.md"
+    },
+    "bitter-chains": {
+      "name": "Bitter Chains",
+      "source": "dmag",
+      "file": "docs/bitter-chains.md"
+    },
+    "black-goats-blessing": {
+      "name": "Black Goat’s Blessing",
+      "source": "dmag",
+      "file": "docs/black-goats-blessing.md"
+    },
+    "black-hand": {
+      "name": "Black Hand",
+      "source": "dmag",
+      "file": "docs/black-hand.md"
+    },
+    "black-ribbons": {
+      "name": "Black Ribbons",
+      "source": "dmag",
+      "file": "docs/black-ribbons.md"
+    },
+    "black-sunshine": {
+      "name": "Black Sunshine",
+      "source": "dmag",
+      "file": "docs/black-sunshine.md"
+    },
+    "black-swan-storm": {
+      "name": "Black Swan Storm",
+      "source": "dmag",
+      "file": "docs/black-swan-storm.md"
+    },
+    "black-well": {
+      "name": "Black Well",
+      "source": "dmag",
+      "file": "docs/black-well.md"
+    },
+    "blade-of-wrath": {
+      "name": "Blade of Wrath",
+      "source": "dmag",
+      "file": "docs/blade-of-wrath.md"
+    },
+    "blade-of-my-brother": {
+      "name": "Blade of my Brother",
+      "source": "dmag",
+      "file": "docs/blade-of-my-brother.md"
+    },
+    "blazing-chariot": {
+      "name": "Blazing Chariot",
+      "source": "dmag",
+      "file": "docs/blazing-chariot.md"
+    },
+    "bleating-call": {
+      "name": "Bleating Call",
+      "source": "dmag",
+      "file": "docs/bleating-call.md"
+    },
+    "bleed": {
+      "name": "Bleed",
+      "source": "dmag",
+      "file": "docs/bleed.md"
+    },
+    "bless-the-dead": {
+      "name": "Bless the Dead",
+      "source": "dmag",
+      "file": "docs/bless-the-dead.md"
+    },
+    "blessed-halo": {
+      "name": "Blessed Halo",
+      "source": "dmag",
+      "file": "docs/blessed-halo.md"
+    },
+    "blizzard": {
+      "name": "Blizzard",
+      "source": "dmag",
+      "file": "docs/blizzard.md"
+    },
+    "blood-armor": {
+      "name": "Blood Armor",
+      "source": "dmag",
+      "file": "docs/blood-armor.md"
+    },
+    "blood-lure": {
+      "name": "Blood Lure",
+      "source": "dmag",
+      "file": "docs/blood-lure.md"
+    },
+    "blood-offering": {
+      "name": "Blood Offering",
+      "source": "dmag",
+      "file": "docs/blood-offering.md"
+    },
+    "blood-puppet": {
+      "name": "Blood Puppet",
+      "source": "dmag",
+      "file": "docs/blood-puppet.md"
+    },
+    "blood-scarab": {
+      "name": "Blood Scarab",
+      "source": "dmag",
+      "file": "docs/blood-scarab.md"
+    },
+    "blood-spoor": {
+      "name": "Blood Spoor",
+      "source": "dmag",
+      "file": "docs/blood-spoor.md"
+    },
+    "blood-tide": {
+      "name": "Blood Tide",
+      "source": "dmag",
+      "file": "docs/blood-tide.md"
+    },
+    "blood-and-steel": {
+      "name": "Blood and Steel",
+      "source": "dmag",
+      "file": "docs/blood-and-steel.md"
+    },
+    "blood-to-acid": {
+      "name": "Blood to Acid",
+      "source": "dmag",
+      "file": "docs/blood-to-acid.md"
+    },
+    "bloodhound": {
+      "name": "Bloodhound",
+      "source": "dmag",
+      "file": "docs/bloodhound.md"
+    },
+    "bloodshot": {
+      "name": "Bloodshot",
+      "source": "dmag",
+      "file": "docs/bloodshot.md"
+    },
+    "bloody-hands": {
+      "name": "Bloody Hands",
+      "source": "dmag",
+      "file": "docs/bloody-hands.md"
+    },
+    "bloody-smite": {
+      "name": "Bloody Smite",
+      "source": "dmag",
+      "file": "docs/bloody-smite.md"
+    },
+    "bloom": {
+      "name": "Bloom",
+      "source": "dmag",
+      "file": "docs/bloom.md"
+    },
+    "boiling-blood": {
+      "name": "Boiling Blood",
+      "source": "dmag",
+      "file": "docs/boiling-blood.md"
+    },
+    "boiling-oil": {
+      "name": "Boiling Oil",
+      "source": "dmag",
+      "file": "docs/boiling-oil.md"
+    },
+    "bolster-undead": {
+      "name": "Bolster Undead",
+      "source": "dmag",
+      "file": "docs/bolster-undead.md"
+    },
+    "booster-shot": {
+      "name": "Booster Shot",
+      "source": "dmag",
+      "file": "docs/booster-shot.md"
+    },
+    "boreass-breath": {
+      "name": "Boreas’s Breath",
+      "source": "dmag",
+      "file": "docs/boreass-breath.md"
+    },
+    "borrowing": {
+      "name": "Borrowing",
+      "source": "dmag-e",
+      "file": "docs/borrowing.md"
+    },
+    "bottled-arcana": {
+      "name": "Bottled Arcana",
+      "source": "dmag",
+      "file": "docs/bottled-arcana.md"
+    },
+    "bottomless-stomach": {
+      "name": "Bottomless Stomach",
+      "source": "dmag",
+      "file": "docs/bottomless-stomach.md"
+    },
+    "breathtaking-wind": {
+      "name": "Breathtaking Wind",
+      "source": "dmag",
+      "file": "docs/breathtaking-wind.md"
+    },
+    "breeze-compass": {
+      "name": "Breeze Compass",
+      "source": "dmag",
+      "file": "docs/breeze-compass.md"
+    },
+    "brimstone-infusion": {
+      "name": "Brimstone Infusion",
+      "source": "dmag",
+      "file": "docs/brimstone-infusion.md"
+    },
+    "brittling": {
+      "name": "Brittling",
+      "source": "dmag",
+      "file": "docs/brittling.md"
+    },
+    "broken-charge": {
+      "name": "Broken Charge",
+      "source": "dmag",
+      "file": "docs/broken-charge.md"
+    },
+    "by-the-light-of-the-moon": {
+      "name": "By the Light of the Moon",
+      "source": "dmag",
+      "file": "docs/by-the-light-of-the-moon.md"
+    },
+    "by-the-light-of-the-watchful-moon": {
+      "name": "By the Light of the Watchful Moon",
+      "source": "dmag",
+      "file": "docs/by-the-light-of-the-watchful-moon.md"
+    },
+    "call-shadow-mastiff": {
+      "name": "Call Shadow Mastiff",
+      "source": "dmag",
+      "file": "docs/call-shadow-mastiff.md"
+    },
+    "call-the-hunter": {
+      "name": "Call the Hunter",
+      "source": "dmag-e",
+      "file": "docs/call-the-hunter.md"
+    },
+    "calm-of-the-storm": {
+      "name": "Calm of the Storm",
+      "source": "dmag",
+      "file": "docs/calm-of-the-storm.md"
+    },
+    "candles-insight": {
+      "name": "Candle’s Insight",
+      "source": "dmag",
+      "file": "docs/candles-insight.md"
+    },
+    "carmello-voltas-irksome-preserves": {
+      "name": "Carmello-Volta’s Irksome Preserves",
+      "source": "dmag",
+      "file": "docs/carmello-voltas-irksome-preserves.md"
+    },
+    "catapult": {
+      "name": "Catapult",
+      "source": "dmag",
+      "file": "docs/catapult.md"
+    },
+    "catch-the-breath": {
+      "name": "Catch the Breath",
+      "source": "dmag",
+      "file": "docs/catch-the-breath.md"
+    },
+    "caustic-blood": {
+      "name": "Caustic Blood",
+      "source": "dmag",
+      "file": "docs/caustic-blood.md"
+    },
+    "caustic-torrent": {
+      "name": "Caustic Torrent",
+      "source": "dmag",
+      "file": "docs/caustic-torrent.md"
+    },
+    "caustic-touch": {
+      "name": "Caustic Touch",
+      "source": "dmag",
+      "file": "docs/caustic-touch.md"
+    },
+    "celebration": {
+      "name": "Celebration",
+      "source": "dmag",
+      "file": "docs/celebration.md"
+    },
+    "chains-of-torment": {
+      "name": "Chains of Torment",
+      "source": "dmag",
+      "file": "docs/chains-of-torment.md"
+    },
+    "chains-of-the-goddess": {
+      "name": "Chains of the Goddess",
+      "source": "dmag",
+      "file": "docs/chains-of-the-goddess.md"
+    },
+    "champions-weapon": {
+      "name": "Champion’s Weapon",
+      "source": "dmag",
+      "file": "docs/champions-weapon.md"
+    },
+    "chaotic-form": {
+      "name": "Chaotic Form",
+      "source": "dmag",
+      "file": "docs/chaotic-form.md"
+    },
+    "chaotic-vitality": {
+      "name": "Chaotic Vitality",
+      "source": "dmag",
+      "file": "docs/chaotic-vitality.md"
+    },
+    "chaotic-world": {
+      "name": "Chaotic World",
+      "source": "dmag",
+      "file": "docs/chaotic-world.md"
+    },
+    "chilling-words": {
+      "name": "Chilling Words",
+      "source": "dmag",
+      "file": "docs/chilling-words.md"
+    },
+    "chronal-lance": {
+      "name": "Chronal Lance",
+      "source": "dmag",
+      "file": "docs/chronal-lance.md"
+    },
+    "circle-of-devestation": {
+      "name": "Circle of Devestation",
+      "source": "dmag-e",
+      "file": "docs/circle-of-devestation.md"
+    },
+    "circle-of-wind": {
+      "name": "Circle of Wind",
+      "source": "dmag",
+      "file": "docs/circle-of-wind.md"
+    },
+    "clash-of-glaciers": {
+      "name": "Clash of Glaciers",
+      "source": "dmag",
+      "file": "docs/clash-of-glaciers.md"
+    },
+    "claws-of-darkness": {
+      "name": "Claws of Darkness",
+      "source": "dmag",
+      "file": "docs/claws-of-darkness.md"
+    },
+    "claws-of-the-earth-dragon": {
+      "name": "Claws of the Earth Dragon",
+      "source": "dmag",
+      "file": "docs/claws-of-the-earth-dragon.md"
+    },
+    "clearing-the-field": {
+      "name": "Clearing the Field",
+      "source": "dmag",
+      "file": "docs/clearing-the-field.md"
+    },
+    "cloak-of-shadow": {
+      "name": "Cloak of Shadow",
+      "source": "dmag",
+      "file": "docs/cloak-of-shadow.md"
+    },
+    "clockwork-bolt": {
+      "name": "Clockwork Bolt",
+      "source": "dmag",
+      "file": "docs/clockwork-bolt.md"
+    },
+    "closing-in": {
+      "name": "Closing In",
+      "source": "dmag",
+      "file": "docs/closing-in.md"
+    },
+    "cloying-darkness": {
+      "name": "Cloying Darkness",
+      "source": "dmag-e",
+      "file": "docs/cloying-darkness.md"
+    },
+    "cobra-fangs": {
+      "name": "Cobra Fangs",
+      "source": "dmag",
+      "file": "docs/cobra-fangs.md"
+    },
+    "compelled-movement": {
+      "name": "Compelled Movement",
+      "source": "dmag",
+      "file": "docs/compelled-movement.md"
+    },
+    "compelling-fate": {
+      "name": "Compelling Fate",
+      "source": "dmag",
+      "file": "docs/compelling-fate.md"
+    },
+    "comprehend-wild-shape": {
+      "name": "Comprehend Wild Shape",
+      "source": "dmag",
+      "file": "docs/comprehend-wild-shape.md"
+    },
+    "confound-senses": {
+      "name": "Confound Senses",
+      "source": "dmag",
+      "file": "docs/confound-senses.md"
+    },
+    "conjure-fey-hound": {
+      "name": "Conjure Fey Hound",
+      "source": "dmag",
+      "file": "docs/conjure-fey-hound.md"
+    },
+    "conjure-forest-defender": {
+      "name": "Conjure Forest Defender",
+      "source": "dmag",
+      "file": "docs/conjure-forest-defender.md"
+    },
+    "conjure-greater-spectral-dead": {
+      "name": "Conjure Greater Spectral Dead",
+      "source": "dmag",
+      "file": "docs/conjure-greater-spectral-dead.md"
+    },
+    "conjure-minor-voidborn": {
+      "name": "Conjure Minor Voidborn",
+      "source": "dmag",
+      "file": "docs/conjure-minor-voidborn.md"
+    },
+    "conjure-scarab-swarm": {
+      "name": "Conjure Scarab Swarm",
+      "source": "dmag",
+      "file": "docs/conjure-scarab-swarm.md"
+    },
+    "conjure-shadow-titan": {
+      "name": "Conjure Shadow Titan",
+      "source": "dmag",
+      "file": "docs/conjure-shadow-titan.md"
+    },
+    "conjure-spectral-dead": {
+      "name": "Conjure Spectral Dead",
+      "source": "dmag",
+      "file": "docs/conjure-spectral-dead.md"
+    },
+    "conjure-undead": {
+      "name": "Conjure Undead",
+      "source": "dmag",
+      "file": "docs/conjure-undead.md"
+    },
+    "conjure-voidborn": {
+      "name": "Conjure Voidborn",
+      "source": "dmag",
+      "file": "docs/conjure-voidborn.md"
+    },
+    "consult-the-storm": {
+      "name": "Consult the Storm",
+      "source": "dmag",
+      "file": "docs/consult-the-storm.md"
+    },
+    "converse-with-dragon": {
+      "name": "Converse With Dragon",
+      "source": "dmag",
+      "file": "docs/converse-with-dragon.md"
+    },
+    "cosmic-alignment": {
+      "name": "Cosmic Alignment",
+      "source": "dmag-e",
+      "file": "docs/cosmic-alignment.md"
+    },
+    "costly-victory": {
+      "name": "Costly Victory",
+      "source": "dmag",
+      "file": "docs/costly-victory.md"
+    },
+    "create-ring-servant": {
+      "name": "Create Ring Servant",
+      "source": "dmag",
+      "file": "docs/create-ring-servant.md"
+    },
+    "create-thunderstaff": {
+      "name": "Create Thunderstaff",
+      "source": "dmag",
+      "file": "docs/create-thunderstaff.md"
+    },
+    "creeping-ice": {
+      "name": "Creeping Ice",
+      "source": "dmag",
+      "file": "docs/creeping-ice.md"
+    },
+    "cruor-of-visions": {
+      "name": "Cruor of Visions",
+      "source": "dmag-e",
+      "file": "docs/cruor-of-visions.md"
+    },
+    "crushing-curse": {
+      "name": "Crushing Curse",
+      "source": "dmag",
+      "file": "docs/crushing-curse.md"
+    },
+    "crushing-trample": {
+      "name": "Crushing Trample",
+      "source": "dmag",
+      "file": "docs/crushing-trample.md"
+    },
+    "cure-beast": {
+      "name": "Cure Beast",
+      "source": "dmag",
+      "file": "docs/cure-beast.md"
+    },
+    "curse-ring": {
+      "name": "Curse Ring",
+      "source": "dmag",
+      "file": "docs/curse-ring.md"
+    },
+    "curse-of-boreas": {
+      "name": "Curse of Boreas",
+      "source": "dmag",
+      "file": "docs/curse-of-boreas.md"
+    },
+    "curse-of-dust": {
+      "name": "Curse of Dust",
+      "source": "dmag",
+      "file": "docs/curse-of-dust.md"
+    },
+    "curse-of-incompetence": {
+      "name": "Curse of Incompetence",
+      "source": "dmag",
+      "file": "docs/curse-of-incompetence.md"
+    },
+    "curse-of-yig": {
+      "name": "Curse of Yig",
+      "source": "dmag",
+      "file": "docs/curse-of-yig.md"
+    },
+    "curse-of-the-grave": {
+      "name": "Curse of the Grave",
+      "source": "dmag",
+      "file": "docs/curse-of-the-grave.md"
+    },
+    "cursed-gift": {
+      "name": "Cursed Gift",
+      "source": "dmag",
+      "file": "docs/cursed-gift.md"
+    },
+    "cynophobia": {
+      "name": "Cynophobia",
+      "source": "dmag",
+      "file": "docs/cynophobia.md"
+    },
+    "daggerhawk": {
+      "name": "Daggerhawk",
+      "source": "dmag",
+      "file": "docs/daggerhawk.md"
+    },
+    "dark-dementing": {
+      "name": "Dark Dementing",
+      "source": "dmag",
+      "file": "docs/dark-dementing.md"
+    },
+    "dark-heraldry": {
+      "name": "Dark Heraldry",
+      "source": "dmag",
+      "file": "docs/dark-heraldry.md"
+    },
+    "dark-maw": {
+      "name": "Dark Maw",
+      "source": "dmag",
+      "file": "docs/dark-maw.md"
+    },
+    "dark-path": {
+      "name": "Dark Path",
+      "source": "dmag",
+      "file": "docs/dark-path.md"
+    },
+    "darkbolt": {
+      "name": "Darkbolt",
+      "source": "dmag",
+      "file": "docs/darkbolt.md"
+    },
+    "dead-walking": {
+      "name": "Dead Walking",
+      "source": "dmag",
+      "file": "docs/dead-walking.md"
+    },
+    "deadly-sting": {
+      "name": "Deadly Sting",
+      "source": "dmag",
+      "file": "docs/deadly-sting.md"
+    },
+    "death-gods-touch": {
+      "name": "Death God’s Touch",
+      "source": "dmag",
+      "file": "docs/death-gods-touch.md"
+    },
+    "decay": {
+      "name": "Decay",
+      "source": "dmag",
+      "file": "docs/decay.md"
+    },
+    "decelerate": {
+      "name": "Decelerate",
+      "source": "dmag",
+      "file": "docs/decelerate.md"
+    },
+    "deep-breath": {
+      "name": "Deep Breath",
+      "source": "dmag",
+      "file": "docs/deep-breath.md"
+    },
+    "defile-healing": {
+      "name": "Defile Healing",
+      "source": "dmag",
+      "file": "docs/defile-healing.md"
+    },
+    "delay-potion": {
+      "name": "Delay Potion",
+      "source": "dmag",
+      "file": "docs/delay-potion.md"
+    },
+    "delayed-healing": {
+      "name": "Delayed Healing",
+      "source": "dmag",
+      "file": "docs/delayed-healing.md"
+    },
+    "demon-within": {
+      "name": "Demon Within",
+      "source": "dmag",
+      "file": "docs/demon-within.md"
+    },
+    "desiccating-breath": {
+      "name": "Desiccating Breath",
+      "source": "dmag",
+      "file": "docs/desiccating-breath.md"
+    },
+    "desolation": {
+      "name": "Desolation",
+      "source": "dmag",
+      "file": "docs/desolation.md"
+    },
+    "destructive-resonance": {
+      "name": "Destructive Resonance",
+      "source": "dmag",
+      "file": "docs/destructive-resonance.md"
+    },
+    "detect-dragons": {
+      "name": "Detect Dragons",
+      "source": "dmag",
+      "file": "docs/detect-dragons.md"
+    },
+    "devas-wings": {
+      "name": "Deva’s Wings",
+      "source": "dmag",
+      "file": "docs/devas-wings.md"
+    },
+    "dimensional-shove": {
+      "name": "Dimensional Shove",
+      "source": "dmag",
+      "file": "docs/dimensional-shove.md"
+    },
+    "disquieting-gaze": {
+      "name": "Disquieting Gaze",
+      "source": "dmag",
+      "file": "docs/disquieting-gaze.md"
+    },
+    "disruptive-aura": {
+      "name": "Disruptive Aura",
+      "source": "dmag",
+      "file": "docs/disruptive-aura.md"
+    },
+    "distracting-divination": {
+      "name": "Distracting Divination",
+      "source": "dmag",
+      "file": "docs/distracting-divination.md"
+    },
+    "distraction-cascade": {
+      "name": "Distraction Cascade",
+      "source": "dmag",
+      "file": "docs/distraction-cascade.md"
+    },
+    "doom-of-blue-crystal": {
+      "name": "Doom of Blue Crystal",
+      "source": "dmag",
+      "file": "docs/doom-of-blue-crystal.md"
+    },
+    "doom-of-consuming-fire": {
+      "name": "Doom of Consuming Fire",
+      "source": "dmag",
+      "file": "docs/doom-of-consuming-fire.md"
+    },
+    "doom-of-dancing-blades": {
+      "name": "Doom of Dancing Blades",
+      "source": "dmag",
+      "file": "docs/doom-of-dancing-blades.md"
+    },
+    "doom-of-disenchantment": {
+      "name": "Doom of Disenchantment",
+      "source": "dmag",
+      "file": "docs/doom-of-disenchantment.md"
+    },
+    "doom-of-serpent-coils": {
+      "name": "Doom of Serpent Coils",
+      "source": "dmag",
+      "file": "docs/doom-of-serpent-coils.md"
+    },
+    "doom-of-the-cracked-shield": {
+      "name": "Doom of the Cracked Shield",
+      "source": "dmag",
+      "file": "docs/doom-of-the-cracked-shield.md"
+    },
+    "doom-of-the-earthen-maw": {
+      "name": "Doom of the Earthen Maw",
+      "source": "dmag",
+      "file": "docs/doom-of-the-earthen-maw.md"
+    },
+    "doom-of-the-slippery-rogue": {
+      "name": "Doom of the Slippery Rogue",
+      "source": "dmag",
+      "file": "docs/doom-of-the-slippery-rogue.md"
+    },
+    "douse-light": {
+      "name": "Douse Light",
+      "source": "dmag",
+      "file": "docs/douse-light.md"
+    },
+    "draconic-smite": {
+      "name": "Draconic Smite",
+      "source": "dmag",
+      "file": "docs/draconic-smite.md"
+    },
+    "dragon-breath": {
+      "name": "Dragon Breath",
+      "source": "dmag",
+      "file": "docs/dragon-breath.md"
+    },
+    "dragon-roar": {
+      "name": "Dragon Roar",
+      "source": "dmag",
+      "file": "docs/dragon-roar.md"
+    },
+    "drown": {
+      "name": "Drown",
+      "source": "dmag",
+      "file": "docs/drown.md"
+    },
+    "dryads-kiss": {
+      "name": "Dryad’s Kiss",
+      "source": "dmag",
+      "file": "docs/dryads-kiss.md"
+    },
+    "earthskimmer": {
+      "name": "Earthskimmer",
+      "source": "dmag",
+      "file": "docs/earthskimmer.md"
+    },
+    "earworm-melody": {
+      "name": "Earworm Melody",
+      "source": "dmag",
+      "file": "docs/earworm-melody.md"
+    },
+    "echoes-of-steel": {
+      "name": "Echoes of Steel",
+      "source": "dmag",
+      "file": "docs/echoes-of-steel.md"
+    },
+    "ectoplasm": {
+      "name": "Ectoplasm",
+      "source": "dmag",
+      "file": "docs/ectoplasm.md"
+    },
+    "eidetic-memory": {
+      "name": "Eidetic Memory",
+      "source": "dmag",
+      "file": "docs/eidetic-memory.md"
+    },
+    "eldritch-communion": {
+      "name": "Eldritch Communion",
+      "source": "dmag",
+      "file": "docs/eldritch-communion.md"
+    },
+    "elemental-horns": {
+      "name": "Elemental Horns",
+      "source": "dmag",
+      "file": "docs/elemental-horns.md"
+    },
+    "elemental-twist": {
+      "name": "Elemental Twist",
+      "source": "dmag",
+      "file": "docs/elemental-twist.md"
+    },
+    "emanation-of-yoth": {
+      "name": "Emanation of Yoth",
+      "source": "dmag",
+      "file": "docs/emanation-of-yoth.md"
+    },
+    "enchant-ring": {
+      "name": "Enchant Ring",
+      "source": "dmag",
+      "file": "docs/enchant-ring.md"
+    },
+    "encroaching-shadows": {
+      "name": "Encroaching Shadows",
+      "source": "dmag",
+      "file": "docs/encroaching-shadows.md"
+    },
+    "encrypt-decrypt": {
+      "name": "Encrypt / Decrypt",
+      "source": "dmag",
+      "file": "docs/encrypt-decrypt.md"
+    },
+    "endow-attribute": {
+      "name": "Endow Attribute",
+      "source": "dmag",
+      "file": "docs/endow-attribute.md"
+    },
+    "energy-absorption": {
+      "name": "Energy Absorption",
+      "source": "dmag",
+      "file": "docs/energy-absorption.md"
+    },
+    "energy-foreknowledge": {
+      "name": "Energy Foreknowledge",
+      "source": "dmag",
+      "file": "docs/energy-foreknowledge.md"
+    },
+    "enhance-greed": {
+      "name": "Enhance Greed",
+      "source": "dmag",
+      "file": "docs/enhance-greed.md"
+    },
+    "entomb": {
+      "name": "Entomb",
+      "source": "dmag",
+      "file": "docs/entomb.md"
+    },
+    "entropic-damage-field": {
+      "name": "Entropic Damage Field",
+      "source": "dmag",
+      "file": "docs/entropic-damage-field.md"
+    },
+    "essence-instability": {
+      "name": "Essence Instability",
+      "source": "dmag",
+      "file": "docs/essence-instability.md"
+    },
+    "evercold": {
+      "name": "Evercold",
+      "source": "dmag",
+      "file": "docs/evercold.md"
+    },
+    "exsanguinate": {
+      "name": "Exsanguinate",
+      "source": "dmag",
+      "file": "docs/exsanguinate.md"
+    },
+    "exsanguinating-cloud": {
+      "name": "Exsanguinating Cloud",
+      "source": "dmag",
+      "file": "docs/exsanguinating-cloud.md"
+    },
+    "extract-foyson": {
+      "name": "Extract Foyson",
+      "source": "dmag-e",
+      "file": "docs/extract-foyson.md"
+    },
+    "extract-knowledge": {
+      "name": "Extract Knowledge",
+      "source": "dmag",
+      "file": "docs/extract-knowledge.md"
+    },
+    "fault-line": {
+      "name": "Fault Line",
+      "source": "dmag",
+      "file": "docs/fault-line.md"
+    },
+    "feather-field": {
+      "name": "Feather Field",
+      "source": "dmag",
+      "file": "docs/feather-field.md"
+    },
+    "feather-travel": {
+      "name": "Feather Travel",
+      "source": "dmag",
+      "file": "docs/feather-travel.md"
+    },
+    "fey-crown": {
+      "name": "Fey Crown",
+      "source": "dmag",
+      "file": "docs/fey-crown.md"
+    },
+    "find-kin": {
+      "name": "Find Kin",
+      "source": "dmag",
+      "file": "docs/find-kin.md"
+    },
+    "find-the-flaw": {
+      "name": "Find the Flaw",
+      "source": "dmag-e",
+      "file": "docs/find-the-flaw.md"
+    },
+    "fire-darts": {
+      "name": "Fire Darts",
+      "source": "dmag",
+      "file": "docs/fire-darts.md"
+    },
+    "fire-under-the-tongue": {
+      "name": "Fire Under the Tongue",
+      "source": "dmag",
+      "file": "docs/fire-under-the-tongue.md"
+    },
+    "firewalk": {
+      "name": "Firewalk",
+      "source": "dmag",
+      "file": "docs/firewalk.md"
+    },
+    "fist-of-iron": {
+      "name": "Fist of Iron",
+      "source": "dmag",
+      "file": "docs/fist-of-iron.md"
+    },
+    "flame-wave": {
+      "name": "Flame Wave",
+      "source": "dmag",
+      "file": "docs/flame-wave.md"
+    },
+    "flesh-to-paper": {
+      "name": "Flesh to Paper",
+      "source": "dmag",
+      "file": "docs/flesh-to-paper.md"
+    },
+    "flickering-fate": {
+      "name": "Flickering Fate",
+      "source": "dmag",
+      "file": "docs/flickering-fate.md"
+    },
+    "fluctuating-alignment": {
+      "name": "Fluctuating Alignment",
+      "source": "dmag",
+      "file": "docs/fluctuating-alignment.md"
+    },
+    "flurry": {
+      "name": "Flurry",
+      "source": "dmag",
+      "file": "docs/flurry.md"
+    },
+    "forest-native": {
+      "name": "Forest Native",
+      "source": "dmag",
+      "file": "docs/forest-native.md"
+    },
+    "forest-sanctuary": {
+      "name": "Forest Sanctuary",
+      "source": "dmag",
+      "file": "docs/forest-sanctuary.md"
+    },
+    "foretell-distraction": {
+      "name": "Foretell Distraction",
+      "source": "dmag",
+      "file": "docs/foretell-distraction.md"
+    },
+    "form-of-the-gods": {
+      "name": "Form of the Gods",
+      "source": "dmag",
+      "file": "docs/form-of-the-gods.md"
+    },
+    "freeze-blood": {
+      "name": "Freeze Blood",
+      "source": "dmag",
+      "file": "docs/freeze-blood.md"
+    },
+    "freeze-potion": {
+      "name": "Freeze Potion",
+      "source": "dmag",
+      "file": "docs/freeze-potion.md"
+    },
+    "freezing-fog": {
+      "name": "Freezing Fog",
+      "source": "dmag",
+      "file": "docs/freezing-fog.md"
+    },
+    "frenzied-bolt": {
+      "name": "Frenzied Bolt",
+      "source": "dmag",
+      "file": "docs/frenzied-bolt.md"
+    },
+    "frostbite": {
+      "name": "Frostbite",
+      "source": "dmag",
+      "file": "docs/frostbite.md"
+    },
+    "frostbitten-fingers": {
+      "name": "Frostbitten Fingers",
+      "source": "dmag",
+      "file": "docs/frostbitten-fingers.md"
+    },
+    "frozen-razors": {
+      "name": "Frozen Razors",
+      "source": "dmag",
+      "file": "docs/frozen-razors.md"
+    },
+    "furious-hooves": {
+      "name": "Furious Hooves",
+      "source": "dmag",
+      "file": "docs/furious-hooves.md"
+    },
+    "fusillade-of-ice": {
+      "name": "Fusillade of Ice",
+      "source": "dmag",
+      "file": "docs/fusillade-of-ice.md"
+    },
+    "gear-barrage": {
+      "name": "Gear Barrage",
+      "source": "dmag",
+      "file": "docs/gear-barrage.md"
+    },
+    "gear-shield": {
+      "name": "Gear Shield",
+      "source": "dmag-e",
+      "file": "docs/gear-shield.md"
+    },
+    "ghoul-kings-cloak": {
+      "name": "Ghoul King’s Cloak",
+      "source": "dmag",
+      "file": "docs/ghoul-kings-cloak.md"
+    },
+    "gift-of-azathoth": {
+      "name": "Gift of Azathoth",
+      "source": "dmag-e",
+      "file": "docs/gift-of-azathoth.md"
+    },
+    "gird-the-spirit": {
+      "name": "Gird the Spirit",
+      "source": "dmag",
+      "file": "docs/gird-the-spirit.md"
+    },
+    "glacial-cascade": {
+      "name": "Glacial Cascade",
+      "source": "dmag",
+      "file": "docs/glacial-cascade.md"
+    },
+    "glacial-fog": {
+      "name": "Glacial Fog",
+      "source": "dmag",
+      "file": "docs/glacial-fog.md"
+    },
+    "gliding-step": {
+      "name": "Gliding Step",
+      "source": "dmag",
+      "file": "docs/gliding-step.md"
+    },
+    "glimpse-of-the-void": {
+      "name": "Glimpse of the Void",
+      "source": "dmag",
+      "file": "docs/glimpse-of-the-void.md"
+    },
+    "gloomwrought-barrier": {
+      "name": "Gloomwrought Barrier",
+      "source": "dmag",
+      "file": "docs/gloomwrought-barrier.md"
+    },
+    "gluey-globule": {
+      "name": "Gluey Globule",
+      "source": "dmag",
+      "file": "docs/gluey-globule.md"
+    },
+    "glyph-of-shifting": {
+      "name": "Glyph of Shifting",
+      "source": "dmag",
+      "file": "docs/glyph-of-shifting.md"
+    },
+    "goats-hoof-charm": {
+      "name": "Goat's Hoof Charm",
+      "source": "dmag",
+      "file": "docs/goats-hoof-charm.md"
+    },
+    "going-in-circles": {
+      "name": "Going in Circles",
+      "source": "dmag",
+      "file": "docs/going-in-circles.md"
+    },
+    "gordolays-pleasant-aroma": {
+      "name": "Gordolay’s Pleasant Aroma",
+      "source": "dmag",
+      "file": "docs/gordolays-pleasant-aroma.md"
+    },
+    "grasp-of-the-tupilak": {
+      "name": "Grasp of the Tupilak",
+      "source": "dmag",
+      "file": "docs/grasp-of-the-tupilak.md"
+    },
+    "greater-ley-pulse": {
+      "name": "Greater Ley Pulse",
+      "source": "dmag-e",
+      "file": "docs/greater-ley-pulse.md"
+    },
+    "greater-maze": {
+      "name": "Greater Maze",
+      "source": "dmag",
+      "file": "docs/greater-maze.md"
+    },
+    "greater-seal-of-sanctuary": {
+      "name": "Greater Seal of Sanctuary",
+      "source": "dmag",
+      "file": "docs/greater-seal-of-sanctuary.md"
+    },
+    "green-decay": {
+      "name": "Green Decay",
+      "source": "dmag",
+      "file": "docs/green-decay.md"
+    },
+    "gremlins": {
+      "name": "Gremlins",
+      "source": "dmag-e",
+      "file": "docs/gremlins.md"
+    },
+    "grinding-gears": {
+      "name": "Grinding Gears",
+      "source": "dmag-e",
+      "file": "docs/grinding-gears.md"
+    },
+    "grudge-match": {
+      "name": "Grudge Match",
+      "source": "dmag",
+      "file": "docs/grudge-match.md"
+    },
+    "guest-of-honor": {
+      "name": "Guest of Honor",
+      "source": "dmag",
+      "file": "docs/guest-of-honor.md"
+    },
+    "guiding-star": {
+      "name": "Guiding Star",
+      "source": "dmag",
+      "file": "docs/guiding-star.md"
+    },
+    "hamstring": {
+      "name": "Hamstring",
+      "source": "dmag",
+      "file": "docs/hamstring.md"
+    },
+    "hard-heart": {
+      "name": "Hard Heart",
+      "source": "dmag",
+      "file": "docs/hard-heart.md"
+    },
+    "harry": {
+      "name": "Harry",
+      "source": "dmag",
+      "file": "docs/harry.md"
+    },
+    "harrying-hounds": {
+      "name": "Harrying Hounds",
+      "source": "dmag",
+      "file": "docs/harrying-hounds.md"
+    },
+    "harsh-light-of-summers-glare": {
+      "name": "Harsh Light of Summer’s Glare",
+      "source": "dmag",
+      "file": "docs/harsh-light-of-summers-glare.md"
+    },
+    "heart-to-heart": {
+      "name": "Heart to Heart",
+      "source": "dmag",
+      "file": "docs/heart-to-heart.md"
+    },
+    "heart-seeking-arrow": {
+      "name": "Heart-Seeking Arrow",
+      "source": "dmag",
+      "file": "docs/heart-seeking-arrow.md"
+    },
+    "heartache": {
+      "name": "Heartache",
+      "source": "dmag",
+      "file": "docs/heartache.md"
+    },
+    "hearth-charm": {
+      "name": "Hearth Charm",
+      "source": "dmag-e",
+      "file": "docs/hearth-charm.md"
+    },
+    "heartstop": {
+      "name": "Heartstop",
+      "source": "dmag",
+      "file": "docs/heartstop.md"
+    },
+    "heartstrike": {
+      "name": "Heartstrike",
+      "source": "dmag",
+      "file": "docs/heartstrike.md"
+    },
+    "heavenly-crown": {
+      "name": "Heavenly Crown",
+      "source": "dmag",
+      "file": "docs/heavenly-crown.md"
+    },
+    "hedrens-birds-of-clay": {
+      "name": "Hedren’s Birds of Clay",
+      "source": "dmag",
+      "file": "docs/hedrens-birds-of-clay.md"
+    },
+    "hellforging": {
+      "name": "Hellforging",
+      "source": "dmag-e",
+      "file": "docs/hellforging.md"
+    },
+    "hematomancy": {
+      "name": "Hematomancy",
+      "source": "dmag",
+      "file": "docs/hematomancy.md"
+    },
+    "heros-steel": {
+      "name": "Hero's Steel",
+      "source": "dmag",
+      "file": "docs/heros-steel.md"
+    },
+    "hide-in-ones-shadow": {
+      "name": "Hide in One’s Shadow",
+      "source": "dmag",
+      "file": "docs/hide-in-ones-shadow.md"
+    },
+    "hoarfrost": {
+      "name": "Hoarfrost",
+      "source": "dmag",
+      "file": "docs/hoarfrost.md"
+    },
+    "hobble": {
+      "name": "Hobble",
+      "source": "dmag",
+      "file": "docs/hobble.md"
+    },
+    "hobble-mount": {
+      "name": "Hobble Mount",
+      "source": "dmag",
+      "file": "docs/hobble-mount.md"
+    },
+    "hods-gift": {
+      "name": "Hod's Gift",
+      "source": "dmag-e",
+      "file": "docs/hods-gift.md"
+    },
+    "holy-ground": {
+      "name": "Holy Ground",
+      "source": "dmag",
+      "file": "docs/holy-ground.md"
+    },
+    "hone-blade": {
+      "name": "Hone Blade",
+      "source": "dmag",
+      "file": "docs/hone-blade.md"
+    },
+    "hunger-of-leng": {
+      "name": "Hunger of Leng",
+      "source": "dmag",
+      "file": "docs/hunger-of-leng.md"
+    },
+    "hunters-endurance": {
+      "name": "Hunter's Endurance",
+      "source": "dmag",
+      "file": "docs/hunters-endurance.md"
+    },
+    "hunting-stand": {
+      "name": "Hunting Stand",
+      "source": "dmag",
+      "file": "docs/hunting-stand.md"
+    },
+    "ice-fortress": {
+      "name": "Ice Fortress",
+      "source": "dmag",
+      "file": "docs/ice-fortress.md"
+    },
+    "ice-hammer": {
+      "name": "Ice Hammer",
+      "source": "dmag",
+      "file": "docs/ice-hammer.md"
+    },
+    "ice-soldiers": {
+      "name": "Ice Soldiers",
+      "source": "dmag",
+      "file": "docs/ice-soldiers.md"
+    },
+    "icicle-daggers": {
+      "name": "Icicle Daggers",
+      "source": "dmag",
+      "file": "docs/icicle-daggers.md"
+    },
+    "icy-grasp-of-the-void": {
+      "name": "Icy Grasp of the Void",
+      "source": "dmag",
+      "file": "docs/icy-grasp-of-the-void.md"
+    },
+    "icy-manipulation": {
+      "name": "Icy Manipulation",
+      "source": "dmag",
+      "file": "docs/icy-manipulation.md"
+    },
+    "ill-fated-word": {
+      "name": "Ill-Fated Word",
+      "source": "dmag",
+      "file": "docs/ill-fated-word.md"
+    },
+    "illuminate-spoor": {
+      "name": "Illuminate Spoor",
+      "source": "dmag",
+      "file": "docs/illuminate-spoor.md"
+    },
+    "imbue-spell": {
+      "name": "Imbue Spell",
+      "source": "dmag-e",
+      "file": "docs/imbue-spell.md"
+    },
+    "impending-ally": {
+      "name": "Impending Ally",
+      "source": "dmag",
+      "file": "docs/impending-ally.md"
+    },
+    "innocuous-aspect": {
+      "name": "Innocuous Aspect",
+      "source": "dmag",
+      "file": "docs/innocuous-aspect.md"
+    },
+    "insightful-maneuver": {
+      "name": "Insightful Maneuver",
+      "source": "dmag",
+      "file": "docs/insightful-maneuver.md"
+    },
+    "inspiring-speech": {
+      "name": "Inspiring Speech",
+      "source": "dmag",
+      "file": "docs/inspiring-speech.md"
+    },
+    "instant-fortification": {
+      "name": "Instant Fortification",
+      "source": "dmag",
+      "file": "docs/instant-fortification.md"
+    },
+    "instant-siege-weapon": {
+      "name": "Instant Siege Weapon",
+      "source": "dmag",
+      "file": "docs/instant-siege-weapon.md"
+    },
+    "instant-snare": {
+      "name": "Instant Snare",
+      "source": "dmag",
+      "file": "docs/instant-snare.md"
+    },
+    "ire-of-the-mountain": {
+      "name": "Ire of the Mountain",
+      "source": "dmag",
+      "file": "docs/ire-of-the-mountain.md"
+    },
+    "iron-hand": {
+      "name": "Iron Hand",
+      "source": "dmag",
+      "file": "docs/iron-hand.md"
+    },
+    "jotuns-jest": {
+      "name": "Jotun's Jest",
+      "source": "dmag-e",
+      "file": "docs/jotuns-jest.md"
+    },
+    "kareefs-entreaty": {
+      "name": "Kareef’s Entreaty",
+      "source": "dmag",
+      "file": "docs/kareefs-entreaty.md"
+    },
+    "keening-wail": {
+      "name": "Keening Wail",
+      "source": "dmag",
+      "file": "docs/keening-wail.md"
+    },
+    "killing-fields": {
+      "name": "Killing Fields",
+      "source": "dmag",
+      "file": "docs/killing-fields.md"
+    },
+    "kiss-of-the-succubus": {
+      "name": "Kiss of the Succubus",
+      "source": "dmag",
+      "file": "docs/kiss-of-the-succubus.md"
+    },
+    "kobolds-fury": {
+      "name": "Kobold’s Fury",
+      "source": "dmag",
+      "file": "docs/kobolds-fury.md"
+    },
+    "labyrinth-mastery": {
+      "name": "Labyrinth Mastery",
+      "source": "dmag",
+      "file": "docs/labyrinth-mastery.md"
+    },
+    "labyrinthine-howl": {
+      "name": "Labyrinthine Howl",
+      "source": "dmag",
+      "file": "docs/labyrinthine-howl.md"
+    },
+    "lacerate": {
+      "name": "Lacerate",
+      "source": "dmag",
+      "file": "docs/lacerate.md"
+    },
+    "lair-sense": {
+      "name": "Lair Sense",
+      "source": "dmag",
+      "file": "docs/lair-sense.md"
+    },
+    "land-bond": {
+      "name": "Land Bond",
+      "source": "dmag-e",
+      "file": "docs/land-bond.md"
+    },
+    "last-rays-of-the-dying-sun": {
+      "name": "Last Rays of the Dying Sun",
+      "source": "dmag",
+      "file": "docs/last-rays-of-the-dying-sun.md"
+    },
+    "lava-stone": {
+      "name": "Lava Stone",
+      "source": "dmag",
+      "file": "docs/lava-stone.md"
+    },
+    "lay-to-rest": {
+      "name": "Lay to Rest",
+      "source": "dmag",
+      "file": "docs/lay-to-rest.md"
+    },
+    "legend-killer": {
+      "name": "Legend Killer",
+      "source": "dmag",
+      "file": "docs/legend-killer.md"
+    },
+    "legion": {
+      "name": "Legion",
+      "source": "dmag",
+      "file": "docs/legion.md"
+    },
+    "legion-of-rabid-squirrels": {
+      "name": "Legion of Rabid Squirrels",
+      "source": "dmag",
+      "file": "docs/legion-of-rabid-squirrels.md"
+    },
+    "lesser-ley-pulse": {
+      "name": "Lesser Ley Pulse",
+      "source": "dmag-e",
+      "file": "docs/lesser-ley-pulse.md"
+    },
+    "lesser-maze": {
+      "name": "Lesser Maze",
+      "source": "dmag",
+      "file": "docs/lesser-maze.md"
+    },
+    "ley-disruption": {
+      "name": "Ley Disruption",
+      "source": "dmag-e",
+      "file": "docs/ley-disruption.md"
+    },
+    "ley-energy-bolt": {
+      "name": "Ley Energy Bolt",
+      "source": "dmag-e",
+      "file": "docs/ley-energy-bolt.md"
+    },
+    "ley-leech": {
+      "name": "Ley Leech",
+      "source": "dmag-e",
+      "file": "docs/ley-leech.md"
+    },
+    "ley-sense": {
+      "name": "Ley Sense",
+      "source": "dmag-e",
+      "file": "docs/ley-sense.md"
+    },
+    "ley-storm": {
+      "name": "Ley Storm",
+      "source": "dmag-e",
+      "file": "docs/ley-storm.md"
+    },
+    "ley-surge": {
+      "name": "Ley Surge",
+      "source": "dmag-e",
+      "file": "docs/ley-surge.md"
+    },
+    "ley-whip": {
+      "name": "Ley Whip",
+      "source": "dmag-e",
+      "file": "docs/ley-whip.md"
+    },
+    "life-drain": {
+      "name": "Life Drain",
+      "source": "dmag",
+      "file": "docs/life-drain.md"
+    },
+    "life-hack": {
+      "name": "Life Hack",
+      "source": "dmag",
+      "file": "docs/life-hack.md"
+    },
+    "life-sense": {
+      "name": "Life Sense",
+      "source": "dmag",
+      "file": "docs/life-sense.md"
+    },
+    "life-transference-arrow": {
+      "name": "Life Transference Arrow",
+      "source": "dmag",
+      "file": "docs/life-transference-arrow.md"
+    },
+    "life-from-death": {
+      "name": "Life from Death",
+      "source": "dmag",
+      "file": "docs/life-from-death.md"
+    },
+    "litany-of-sure-hands": {
+      "name": "Litany of Sure Hands",
+      "source": "dmag",
+      "file": "docs/litany-of-sure-hands.md"
+    },
+    "living-shadows": {
+      "name": "Living Shadows",
+      "source": "dmag",
+      "file": "docs/living-shadows.md"
+    },
+    "lock-armor": {
+      "name": "Lock Armor",
+      "source": "dmag",
+      "file": "docs/lock-armor.md"
+    },
+    "lokis-gift": {
+      "name": "Loki's Gift",
+      "source": "dmag-e",
+      "file": "docs/lokis-gift.md"
+    },
+    "looping-trail": {
+      "name": "Looping Trail",
+      "source": "dmag",
+      "file": "docs/looping-trail.md"
+    },
+    "lovesick": {
+      "name": "Lovesick",
+      "source": "dmag",
+      "file": "docs/lovesick.md"
+    },
+    "machine-sacrifice": {
+      "name": "Machine Sacrifice",
+      "source": "dmag-e",
+      "file": "docs/machine-sacrifice.md"
+    },
+    "machine-speech": {
+      "name": "Machine Speech",
+      "source": "dmag-e",
+      "file": "docs/machine-speech.md"
+    },
+    "machines-load": {
+      "name": "Machine's Load",
+      "source": "dmag-e",
+      "file": "docs/machines-load.md"
+    },
+    "maddening-whispers": {
+      "name": "Maddening Whispers",
+      "source": "dmag",
+      "file": "docs/maddening-whispers.md"
+    },
+    "maim": {
+      "name": "Maim",
+      "source": "dmag",
+      "file": "docs/maim.md"
+    },
+    "malevolent-waves": {
+      "name": "Malevolent Waves",
+      "source": "dmag",
+      "file": "docs/malevolent-waves.md"
+    },
+    "mammons-due": {
+      "name": "Mammon’s Due",
+      "source": "dmag",
+      "file": "docs/mammons-due.md"
+    },
+    "mark-prey": {
+      "name": "Mark Prey",
+      "source": "dmag",
+      "file": "docs/mark-prey.md"
+    },
+    "mass-blade-ward": {
+      "name": "Mass Blade Ward",
+      "source": "dmag-e",
+      "file": "docs/mass-blade-ward.md"
+    },
+    "mass-hobble-mount": {
+      "name": "Mass Hobble Mount",
+      "source": "dmag",
+      "file": "docs/mass-hobble-mount.md"
+    },
+    "mass-repair-metal": {
+      "name": "Mass Repair Metal",
+      "source": "dmag-e",
+      "file": "docs/mass-repair-metal.md"
+    },
+    "mass-surge-dampener": {
+      "name": "Mass Surge Dampener",
+      "source": "dmag",
+      "file": "docs/mass-surge-dampener.md"
+    },
+    "maw-of-needles": {
+      "name": "Maw of Needles",
+      "source": "dmag",
+      "file": "docs/maw-of-needles.md"
+    },
+    "mechanical-union": {
+      "name": "Mechanical Union",
+      "source": "dmag-e",
+      "file": "docs/mechanical-union.md"
+    },
+    "memento-mori": {
+      "name": "Memento Mori",
+      "source": "dmag",
+      "file": "docs/memento-mori.md"
+    },
+    "mephitic-croak": {
+      "name": "Mephitic Croak",
+      "source": "dmag",
+      "file": "docs/mephitic-croak.md"
+    },
+    "mind-exchange": {
+      "name": "Mind Exchange",
+      "source": "dmag",
+      "file": "docs/mind-exchange.md"
+    },
+    "mire": {
+      "name": "Mire",
+      "source": "dmag",
+      "file": "docs/mire.md"
+    },
+    "misstep": {
+      "name": "Misstep",
+      "source": "dmag",
+      "file": "docs/misstep.md"
+    },
+    "mist-of-wonders": {
+      "name": "Mist of Wonders",
+      "source": "dmag",
+      "file": "docs/mist-of-wonders.md"
+    },
+    "molechs-blessing": {
+      "name": "Molech's Blessing",
+      "source": "dmag-e",
+      "file": "docs/molechs-blessing.md"
+    },
+    "monstrous-empathy": {
+      "name": "Monstrous Empathy",
+      "source": "dmag",
+      "file": "docs/monstrous-empathy.md"
+    },
+    "moon-trap": {
+      "name": "Moon Trap",
+      "source": "dmag",
+      "file": "docs/moon-trap.md"
+    },
+    "mosquito-bane": {
+      "name": "Mosquito Bane",
+      "source": "dmag",
+      "file": "docs/mosquito-bane.md"
+    },
+    "move-the-cosmic-wheel": {
+      "name": "Move the Cosmic Wheel",
+      "source": "dmag-e",
+      "file": "docs/move-the-cosmic-wheel.md"
+    },
+    "mud-pack": {
+      "name": "Mud Pack",
+      "source": "dmag",
+      "file": "docs/mud-pack.md"
+    },
+    "negative-image": {
+      "name": "Negative Image",
+      "source": "dmag",
+      "file": "docs/negative-image.md"
+    },
+    "nether-weapon": {
+      "name": "Nether Weapon",
+      "source": "dmag",
+      "file": "docs/nether-weapon.md"
+    },
+    "night-terrors": {
+      "name": "Night Terrors",
+      "source": "dmag",
+      "file": "docs/night-terrors.md"
+    },
+    "nightfall": {
+      "name": "Nightfall",
+      "source": "dmag",
+      "file": "docs/nightfall.md"
+    },
+    "nip-at-the-heels": {
+      "name": "Nip at the Heels",
+      "source": "dmag",
+      "file": "docs/nip-at-the-heels.md"
+    },
+    "not-dead-yet": {
+      "name": "Not Dead Yet",
+      "source": "dmag",
+      "file": "docs/not-dead-yet.md"
+    },
+    "not-this-day": {
+      "name": "Not This Day!",
+      "source": "dmag",
+      "file": "docs/not-this-day.md"
+    },
+    "orb-of-light": {
+      "name": "Orb of Light",
+      "source": "dmag",
+      "file": "docs/orb-of-light.md"
+    },
+    "outflanking-boon": {
+      "name": "Outflanking Boon",
+      "source": "dmag",
+      "file": "docs/outflanking-boon.md"
+    },
+    "overclock": {
+      "name": "Overclock",
+      "source": "dmag-e",
+      "file": "docs/overclock.md"
+    },
+    "paragon-of-chaos": {
+      "name": "Paragon of Chaos",
+      "source": "dmag",
+      "file": "docs/paragon-of-chaos.md"
+    },
+    "pendulum": {
+      "name": "Pendulum",
+      "source": "dmag",
+      "file": "docs/pendulum.md"
+    },
+    "phantom-dragon": {
+      "name": "Phantom Dragon",
+      "source": "dmag",
+      "file": "docs/phantom-dragon.md"
+    },
+    "pitfall": {
+      "name": "Pitfall",
+      "source": "dmag",
+      "file": "docs/pitfall.md"
+    },
+    "poisoned-volley": {
+      "name": "Poisoned Volley",
+      "source": "dmag",
+      "file": "docs/poisoned-volley.md"
+    },
+    "potency-of-the-pack": {
+      "name": "Potency of the Pack",
+      "source": "dmag",
+      "file": "docs/potency-of-the-pack.md"
+    },
+    "power-word-kneel": {
+      "name": "Power Word Kneel",
+      "source": "dmag",
+      "file": "docs/power-word-kneel.md"
+    },
+    "power-word-pain": {
+      "name": "Power Word Pain",
+      "source": "dmag",
+      "file": "docs/power-word-pain.md"
+    },
+    "power-word-restore": {
+      "name": "Power Word Restore",
+      "source": "dmag-e",
+      "file": "docs/power-word-restore.md"
+    },
+    "primal-infusion": {
+      "name": "Primal Infusion",
+      "source": "dmag",
+      "file": "docs/primal-infusion.md"
+    },
+    "prismatic-ray": {
+      "name": "Prismatic Ray",
+      "source": "dmag",
+      "file": "docs/prismatic-ray.md"
+    },
+    "protection-from-the-void": {
+      "name": "Protection from the Void",
+      "source": "dmag",
+      "file": "docs/protection-from-the-void.md"
+    },
+    "protective-ice": {
+      "name": "Protective Ice",
+      "source": "dmag",
+      "file": "docs/protective-ice.md"
+    },
+    "puff-of-smoke": {
+      "name": "Puff of Smoke",
+      "source": "dmag",
+      "file": "docs/puff-of-smoke.md"
+    },
+    "pummelstone": {
+      "name": "Pummelstone",
+      "source": "dmag",
+      "file": "docs/pummelstone.md"
+    },
+    "pyroclasm": {
+      "name": "Pyroclasm",
+      "source": "dmag",
+      "file": "docs/pyroclasm.md"
+    },
+    "quick-time": {
+      "name": "Quick Time",
+      "source": "dmag",
+      "file": "docs/quick-time.md"
+    },
+    "quicken": {
+      "name": "Quicken",
+      "source": "dmag",
+      "file": "docs/quicken.md"
+    },
+    "quicksilver-mantle": {
+      "name": "Quicksilver Mantle",
+      "source": "dmag",
+      "file": "docs/quicksilver-mantle.md"
+    },
+    "quintessence": {
+      "name": "Quintessence",
+      "source": "dmag",
+      "file": "docs/quintessence.md"
+    },
+    "raid-the-lair": {
+      "name": "Raid the Lair",
+      "source": "dmag",
+      "file": "docs/raid-the-lair.md"
+    },
+    "rain-of-blades": {
+      "name": "Rain of Blades",
+      "source": "dmag",
+      "file": "docs/rain-of-blades.md"
+    },
+    "ray-of-alchemical-negation": {
+      "name": "Ray of Alchemical Negation",
+      "source": "dmag",
+      "file": "docs/ray-of-alchemical-negation.md"
+    },
+    "ray-of-life-suppression": {
+      "name": "Ray of Life Suppression",
+      "source": "dmag",
+      "file": "docs/ray-of-life-suppression.md"
+    },
+    "read-memory": {
+      "name": "Read Memory",
+      "source": "dmag-e",
+      "file": "docs/read-memory.md"
+    },
+    "reaver-spirit": {
+      "name": "Reaver Spirit",
+      "source": "dmag",
+      "file": "docs/reaver-spirit.md"
+    },
+    "repair-metal": {
+      "name": "Repair Metal",
+      "source": "dmag-e",
+      "file": "docs/repair-metal.md"
+    },
+    "reposition": {
+      "name": "Reposition",
+      "source": "dmag",
+      "file": "docs/reposition.md"
+    },
+    "reset": {
+      "name": "Reset",
+      "source": "dmag",
+      "file": "docs/reset.md"
+    },
+    "reverberate": {
+      "name": "Reverberate",
+      "source": "dmag",
+      "file": "docs/reverberate.md"
+    },
+    "revive-beast": {
+      "name": "Revive Beast",
+      "source": "dmag",
+      "file": "docs/revive-beast.md"
+    },
+    "right-the-stars": {
+      "name": "Right the Stars",
+      "source": "dmag",
+      "file": "docs/right-the-stars.md"
+    },
+    "ring-strike": {
+      "name": "Ring Strike",
+      "source": "dmag",
+      "file": "docs/ring-strike.md"
+    },
+    "ring-ward": {
+      "name": "Ring Ward",
+      "source": "dmag",
+      "file": "docs/ring-ward.md"
+    },
+    "riptide": {
+      "name": "Riptide",
+      "source": "dmag",
+      "file": "docs/riptide.md"
+    },
+    "risen-road": {
+      "name": "Risen Road",
+      "source": "dmag-e",
+      "file": "docs/risen-road.md"
+    },
+    "robe-of-shards": {
+      "name": "Robe of Shards",
+      "source": "dmag-e",
+      "file": "docs/robe-of-shards.md"
+    },
+    "rolling-thunder": {
+      "name": "Rolling Thunder",
+      "source": "dmag",
+      "file": "docs/rolling-thunder.md"
+    },
+    "rotting-corpse": {
+      "name": "Rotting Corpse",
+      "source": "dmag",
+      "file": "docs/rotting-corpse.md"
+    },
+    "rune-of-imprisonment": {
+      "name": "Rune of Imprisonment",
+      "source": "dmag",
+      "file": "docs/rune-of-imprisonment.md"
+    },
+    "salt-lash": {
+      "name": "Salt Lash",
+      "source": "dmag",
+      "file": "docs/salt-lash.md"
+    },
+    "sand-ship": {
+      "name": "Sand Ship",
+      "source": "dmag",
+      "file": "docs/sand-ship.md"
+    },
+    "sanguine-horror": {
+      "name": "Sanguine Horror",
+      "source": "dmag",
+      "file": "docs/sanguine-horror.md"
+    },
+    "scale-rot": {
+      "name": "Scale Rot",
+      "source": "dmag",
+      "file": "docs/scale-rot.md"
+    },
+    "scentless": {
+      "name": "Scentless",
+      "source": "dmag",
+      "file": "docs/scentless.md"
+    },
+    "screaming-ray": {
+      "name": "Screaming Ray",
+      "source": "dmag",
+      "file": "docs/screaming-ray.md"
+    },
+    "scribe": {
+      "name": "Scribe",
+      "source": "dmag",
+      "file": "docs/scribe.md"
+    },
+    "scry-ambush": {
+      "name": "Scry Ambush",
+      "source": "dmag",
+      "file": "docs/scry-ambush.md"
+    },
+    "sculpt-snow": {
+      "name": "Sculpt Snow",
+      "source": "dmag",
+      "file": "docs/sculpt-snow.md"
+    },
+    "seal-of-sanctuary": {
+      "name": "Seal of Sanctuary",
+      "source": "dmag",
+      "file": "docs/seal-of-sanctuary.md"
+    },
+    "searing-sun": {
+      "name": "Searing Sun",
+      "source": "dmag",
+      "file": "docs/searing-sun.md"
+    },
+    "see-beyond": {
+      "name": "See Beyond",
+      "source": "dmag",
+      "file": "docs/see-beyond.md"
+    },
+    "seed-of-destruction": {
+      "name": "Seed of Destruction",
+      "source": "dmag",
+      "file": "docs/seed-of-destruction.md"
+    },
+    "seeping-death": {
+      "name": "Seeping Death",
+      "source": "dmag",
+      "file": "docs/seeping-death.md"
+    },
+    "seers-reaction": {
+      "name": "Seer’s Reaction",
+      "source": "dmag",
+      "file": "docs/seers-reaction.md"
+    },
+    "semblance-of-dread": {
+      "name": "Semblance of Dread",
+      "source": "dmag",
+      "file": "docs/semblance-of-dread.md"
+    },
+    "shade": {
+      "name": "Shade",
+      "source": "dmag",
+      "file": "docs/shade.md"
+    },
+    "shadow-armor": {
+      "name": "Shadow Armor",
+      "source": "dmag",
+      "file": "docs/shadow-armor.md"
+    },
+    "shadow-bite": {
+      "name": "Shadow Bite",
+      "source": "dmag",
+      "file": "docs/shadow-bite.md"
+    },
+    "shadow-blindness": {
+      "name": "Shadow Blindness",
+      "source": "dmag",
+      "file": "docs/shadow-blindness.md"
+    },
+    "shadow-hands": {
+      "name": "Shadow Hands",
+      "source": "dmag",
+      "file": "docs/shadow-hands.md"
+    },
+    "shadow-monsters": {
+      "name": "Shadow Monsters",
+      "source": "dmag",
+      "file": "docs/shadow-monsters.md"
+    },
+    "shadow-puppets": {
+      "name": "Shadow Puppets",
+      "source": "dmag",
+      "file": "docs/shadow-puppets.md"
+    },
+    "shadow-realm-gateway": {
+      "name": "Shadow Realm Gateway",
+      "source": "dmag-e",
+      "file": "docs/shadow-realm-gateway.md"
+    },
+    "shadow-trove": {
+      "name": "Shadow Trove",
+      "source": "dmag",
+      "file": "docs/shadow-trove.md"
+    },
+    "shadows-brought-to-light": {
+      "name": "Shadows Brought to Light",
+      "source": "dmag",
+      "file": "docs/shadows-brought-to-light.md"
+    },
+    "shadowy-retribution": {
+      "name": "Shadowy Retribution",
+      "source": "dmag",
+      "file": "docs/shadowy-retribution.md"
+    },
+    "shared-sacrifice": {
+      "name": "Shared Sacrifice",
+      "source": "dmag",
+      "file": "docs/shared-sacrifice.md"
+    },
+    "sheen-of-ice": {
+      "name": "Sheen of Ice",
+      "source": "dmag",
+      "file": "docs/sheen-of-ice.md"
+    },
+    "shield-of-star-and-shadow": {
+      "name": "Shield of Star and Shadow",
+      "source": "dmag-e",
+      "file": "docs/shield-of-star-and-shadow.md"
+    },
+    "shifting-the-odds": {
+      "name": "Shifting the Odds",
+      "source": "dmag",
+      "file": "docs/shifting-the-odds.md"
+    },
+    "shiver": {
+      "name": "Shiver",
+      "source": "dmag",
+      "file": "docs/shiver.md"
+    },
+    "shroud-of-death": {
+      "name": "Shroud of Death",
+      "source": "dmag",
+      "file": "docs/shroud-of-death.md"
+    },
+    "sidestep-arrow": {
+      "name": "Sidestep Arrow",
+      "source": "dmag",
+      "file": "docs/sidestep-arrow.md"
+    },
+    "sign-of-koth": {
+      "name": "Sign of Koth",
+      "source": "dmag",
+      "file": "docs/sign-of-koth.md"
+    },
+    "silhouette": {
+      "name": "Silhouette",
+      "source": "dmag",
+      "file": "docs/silhouette.md"
+    },
+    "sir-mittinzs-move-curse": {
+      "name": "Sir Mittinz’s Move Curse",
+      "source": "dmag",
+      "file": "docs/sir-mittinzs-move-curse.md"
+    },
+    "sleep-of-the-deep": {
+      "name": "Sleep of the Deep",
+      "source": "dmag",
+      "file": "docs/sleep-of-the-deep.md"
+    },
+    "slippery-fingers": {
+      "name": "Slippery Fingers",
+      "source": "dmag",
+      "file": "docs/slippery-fingers.md"
+    },
+    "slither": {
+      "name": "Slither",
+      "source": "dmag",
+      "file": "docs/slither.md"
+    },
+    "snow-boulder": {
+      "name": "Snow Boulder",
+      "source": "dmag",
+      "file": "docs/snow-boulder.md"
+    },
+    "snow-fort": {
+      "name": "Snow Fort",
+      "source": "dmag",
+      "file": "docs/snow-fort.md"
+    },
+    "snowblind-stare": {
+      "name": "Snowblind Stare",
+      "source": "dmag-e",
+      "file": "docs/snowblind-stare.md"
+    },
+    "snowy-coat": {
+      "name": "Snowy Coat",
+      "source": "dmag",
+      "file": "docs/snowy-coat.md"
+    },
+    "song-of-the-forest": {
+      "name": "Song of the Forest",
+      "source": "dmag",
+      "file": "docs/song-of-the-forest.md"
+    },
+    "soothsayers-shield": {
+      "name": "Soothsayer's Shield",
+      "source": "dmag-e",
+      "file": "docs/soothsayers-shield.md"
+    },
+    "soul-of-the-machine": {
+      "name": "Soul of the Machine",
+      "source": "dmag-e",
+      "file": "docs/soul-of-the-machine.md"
+    },
+    "speak-with-inanimate-object": {
+      "name": "Speak with Inanimate Object",
+      "source": "dmag",
+      "file": "docs/speak-with-inanimate-object.md"
+    },
+    "sphere-of-order": {
+      "name": "Sphere of Order",
+      "source": "dmag-e",
+      "file": "docs/sphere-of-order.md"
+    },
+    "spin": {
+      "name": "Spin",
+      "source": "dmag",
+      "file": "docs/spin.md"
+    },
+    "spinning-axes": {
+      "name": "Spinning Axes",
+      "source": "dmag",
+      "file": "docs/spinning-axes.md"
+    },
+    "spire-of-stone": {
+      "name": "Spire of Stone",
+      "source": "dmag-e",
+      "file": "docs/spire-of-stone.md"
+    },
+    "spiteful-weapon": {
+      "name": "Spiteful Weapon",
+      "source": "dmag",
+      "file": "docs/spiteful-weapon.md"
+    },
+    "spur-mount": {
+      "name": "Spur Mount",
+      "source": "dmag",
+      "file": "docs/spur-mount.md"
+    },
+    "staff-of-violet-fire": {
+      "name": "Staff of Violet Fire",
+      "source": "dmag",
+      "file": "docs/staff-of-violet-fire.md"
+    },
+    "stanch": {
+      "name": "Stanch",
+      "source": "dmag",
+      "file": "docs/stanch.md"
+    },
+    "stars-heart": {
+      "name": "Star's Heart",
+      "source": "dmag",
+      "file": "docs/stars-heart.md"
+    },
+    "starburst": {
+      "name": "Starburst",
+      "source": "dmag",
+      "file": "docs/starburst.md"
+    },
+    "starfall": {
+      "name": "Starfall",
+      "source": "dmag",
+      "file": "docs/starfall.md"
+    },
+    "starry-vision": {
+      "name": "Starry Vision",
+      "source": "dmag",
+      "file": "docs/starry-vision.md"
+    },
+    "steal-warmth": {
+      "name": "Steal Warmth",
+      "source": "dmag",
+      "file": "docs/steal-warmth.md"
+    },
+    "steam-blast": {
+      "name": "Steam Blast",
+      "source": "dmag",
+      "file": "docs/steam-blast.md"
+    },
+    "steam-whistle": {
+      "name": "Steam Whistle",
+      "source": "dmag",
+      "file": "docs/steam-whistle.md"
+    },
+    "stench-of-rot": {
+      "name": "Stench of Rot",
+      "source": "dmag",
+      "file": "docs/stench-of-rot.md"
+    },
+    "storm-of-wings": {
+      "name": "Storm of Wings",
+      "source": "dmag",
+      "file": "docs/storm-of-wings.md"
+    },
+    "strength-of-the-underworld": {
+      "name": "Strength of the Underworld",
+      "source": "dmag-e",
+      "file": "docs/strength-of-the-underworld.md"
+    },
+    "sudden-dawn": {
+      "name": "Sudden Dawn",
+      "source": "dmag",
+      "file": "docs/sudden-dawn.md"
+    },
+    "summon-eldritch-servitor": {
+      "name": "Summon Eldritch Servitor",
+      "source": "dmag",
+      "file": "docs/summon-eldritch-servitor.md"
+    },
+    "summon-old-ones-avatar": {
+      "name": "Summon Old One's Avatar",
+      "source": "dmag-e",
+      "file": "docs/summon-old-ones-avatar.md"
+    },
+    "summon-star": {
+      "name": "Summon Star",
+      "source": "dmag",
+      "file": "docs/summon-star.md"
+    },
+    "surge-dampener": {
+      "name": "Surge Dampener",
+      "source": "dmag",
+      "file": "docs/surge-dampener.md"
+    },
+    "surprise-blessing": {
+      "name": "Surprise Blessing",
+      "source": "dmag",
+      "file": "docs/surprise-blessing.md"
+    },
+    "symbol-of-sorcery": {
+      "name": "Symbol of Sorcery",
+      "source": "dmag",
+      "file": "docs/symbol-of-sorcery.md"
+    },
+    "talons-of-a-hungry-land": {
+      "name": "Talons of a Hungry Land",
+      "source": "dmag",
+      "file": "docs/talons-of-a-hungry-land.md"
+    },
+    "targeting-foreknowledge": {
+      "name": "Targeting Foreknowledge",
+      "source": "dmag",
+      "file": "docs/targeting-foreknowledge.md"
+    },
+    "thin-the-ice": {
+      "name": "Thin the Ice",
+      "source": "dmag",
+      "file": "docs/thin-the-ice.md"
+    },
+    "thousand-darts": {
+      "name": "Thousand Darts",
+      "source": "dmag",
+      "file": "docs/thousand-darts.md"
+    },
+    "throes-of-ecstasy": {
+      "name": "Throes of Ecstasy",
+      "source": "dmag",
+      "file": "docs/throes-of-ecstasy.md"
+    },
+    "thunder-bolt": {
+      "name": "Thunder Bolt",
+      "source": "dmag",
+      "file": "docs/thunder-bolt.md"
+    },
+    "thunderclap": {
+      "name": "Thunderclap",
+      "source": "dmag",
+      "file": "docs/thunderclap.md"
+    },
+    "thunderous-charge": {
+      "name": "Thunderous Charge",
+      "source": "dmag",
+      "file": "docs/thunderous-charge.md"
+    },
+    "thunderous-stampede": {
+      "name": "Thunderous Stampede",
+      "source": "dmag",
+      "file": "docs/thunderous-stampede.md"
+    },
+    "thunderous-wave": {
+      "name": "Thunderous Wave",
+      "source": "dmag",
+      "file": "docs/thunderous-wave.md"
+    },
+    "thunderstorm": {
+      "name": "Thunderstorm",
+      "source": "dmag",
+      "file": "docs/thunderstorm.md"
+    },
+    "tick-stop": {
+      "name": "Tick Stop",
+      "source": "dmag-e",
+      "file": "docs/tick-stop.md"
+    },
+    "tidal-barrier": {
+      "name": "Tidal Barrier",
+      "source": "dmag",
+      "file": "docs/tidal-barrier.md"
+    },
+    "time-jump": {
+      "name": "Time Jump",
+      "source": "dmag",
+      "file": "docs/time-jump.md"
+    },
+    "time-loop": {
+      "name": "Time Loop",
+      "source": "dmag",
+      "file": "docs/time-loop.md"
+    },
+    "time-slippage": {
+      "name": "Time Slippage",
+      "source": "dmag",
+      "file": "docs/time-slippage.md"
+    },
+    "time-step": {
+      "name": "Time Step",
+      "source": "dmag",
+      "file": "docs/time-step.md"
+    },
+    "time-vortex": {
+      "name": "Time Vortex",
+      "source": "dmag",
+      "file": "docs/time-vortex.md"
+    },
+    "time-in-a-bottle": {
+      "name": "Time in a Bottle",
+      "source": "dmag",
+      "file": "docs/time-in-a-bottle.md"
+    },
+    "timeless-engine": {
+      "name": "Timeless Engine",
+      "source": "dmag-e",
+      "file": "docs/timeless-engine.md"
+    },
+    "timely-distraction": {
+      "name": "Timely Distraction",
+      "source": "dmag",
+      "file": "docs/timely-distraction.md"
+    },
+    "tireless": {
+      "name": "Tireless",
+      "source": "dmag",
+      "file": "docs/tireless.md"
+    },
+    "tongue-tied": {
+      "name": "Tongue Tied",
+      "source": "dmag",
+      "file": "docs/tongue-tied.md"
+    },
+    "tongue-of-sand": {
+      "name": "Tongue of Sand",
+      "source": "dmag",
+      "file": "docs/tongue-of-sand.md"
+    },
+    "torrent-of-fire": {
+      "name": "Torrent of Fire",
+      "source": "dmag",
+      "file": "docs/torrent-of-fire.md"
+    },
+    "touch-of-the-unliving": {
+      "name": "Touch of the Unliving",
+      "source": "dmag",
+      "file": "docs/touch-of-the-unliving.md"
+    },
+    "tracer": {
+      "name": "Tracer",
+      "source": "dmag",
+      "file": "docs/tracer.md"
+    },
+    "treasure-chasm": {
+      "name": "Treasure Chasm",
+      "source": "dmag",
+      "file": "docs/treasure-chasm.md"
+    },
+    "tree-heal": {
+      "name": "Tree Heal",
+      "source": "dmag",
+      "file": "docs/tree-heal.md"
+    },
+    "tree-running": {
+      "name": "Tree Running",
+      "source": "dmag",
+      "file": "docs/tree-running.md"
+    },
+    "tree-speak": {
+      "name": "Tree Speak",
+      "source": "dmag",
+      "file": "docs/tree-speak.md"
+    },
+    "trench": {
+      "name": "Trench",
+      "source": "dmag",
+      "file": "docs/trench.md"
+    },
+    "trick-question": {
+      "name": "Trick Question",
+      "source": "dmag",
+      "file": "docs/trick-question.md"
+    },
+    "triumph-of-ice": {
+      "name": "Triumph of Ice",
+      "source": "dmag",
+      "file": "docs/triumph-of-ice.md"
+    },
+    "twist-the-skein": {
+      "name": "Twist the Skein",
+      "source": "dmag",
+      "file": "docs/twist-the-skein.md"
+    },
+    "umbral-storm": {
+      "name": "Umbral Storm",
+      "source": "dmag",
+      "file": "docs/umbral-storm.md"
+    },
+    "uncontrollable-transformation": {
+      "name": "Uncontrollable Transformation",
+      "source": "dmag",
+      "file": "docs/uncontrollable-transformation.md"
+    },
+    "undermine-armor": {
+      "name": "Undermine Armor",
+      "source": "dmag",
+      "file": "docs/undermine-armor.md"
+    },
+    "unholy-defiance": {
+      "name": "Unholy Defiance",
+      "source": "dmag",
+      "file": "docs/unholy-defiance.md"
+    },
+    "unleash-effigy": {
+      "name": "Unleash Effigy",
+      "source": "dmag",
+      "file": "docs/unleash-effigy.md"
+    },
+    "unluck-on-that": {
+      "name": "Unluck On That",
+      "source": "dmag",
+      "file": "docs/unluck-on-that.md"
+    },
+    "unseen-strangler": {
+      "name": "Unseen Strangler",
+      "source": "dmag",
+      "file": "docs/unseen-strangler.md"
+    },
+    "vine-trestle": {
+      "name": "Vine Trestle",
+      "source": "dmag",
+      "file": "docs/vine-trestle.md"
+    },
+    "visage-of-madness": {
+      "name": "Visage of Madness",
+      "source": "dmag",
+      "file": "docs/visage-of-madness.md"
+    },
+    "vital-mark": {
+      "name": "Vital Mark",
+      "source": "dmag",
+      "file": "docs/vital-mark.md"
+    },
+    "void-rift": {
+      "name": "Void Rift",
+      "source": "dmag",
+      "file": "docs/void-rift.md"
+    },
+    "void-strike": {
+      "name": "Void Strike",
+      "source": "dmag",
+      "file": "docs/void-strike.md"
+    },
+    "volley-shield": {
+      "name": "Volley Shield",
+      "source": "dmag",
+      "file": "docs/volley-shield.md"
+    },
+    "vomit-tentacles": {
+      "name": "Vomit Tentacles",
+      "source": "dmag",
+      "file": "docs/vomit-tentacles.md"
+    },
+    "voorish-sign": {
+      "name": "Voorish Sign",
+      "source": "dmag",
+      "file": "docs/voorish-sign.md"
+    },
+    "waft": {
+      "name": "Waft",
+      "source": "dmag",
+      "file": "docs/waft.md"
+    },
+    "walk-the-twisted-path": {
+      "name": "Walk the Twisted Path",
+      "source": "dmag",
+      "file": "docs/walk-the-twisted-path.md"
+    },
+    "walking-wall": {
+      "name": "Walking Wall",
+      "source": "dmag",
+      "file": "docs/walking-wall.md"
+    },
+    "wall-of-time": {
+      "name": "Wall of Time",
+      "source": "dmag",
+      "file": "docs/wall-of-time.md"
+    },
+    "warning-shout": {
+      "name": "Warning Shout",
+      "source": "dmag",
+      "file": "docs/warning-shout.md"
+    },
+    "warp-mind-and-matter": {
+      "name": "Warp Mind and Matter",
+      "source": "dmag",
+      "file": "docs/warp-mind-and-matter.md"
+    },
+    "weapon-of-blood": {
+      "name": "Weapon of Blood",
+      "source": "dmag",
+      "file": "docs/weapon-of-blood.md"
+    },
+    "weilers-ward": {
+      "name": "Weiler’s Ward",
+      "source": "dmag",
+      "file": "docs/weilers-ward.md"
+    },
+    "wild-shield": {
+      "name": "Wild Shield",
+      "source": "dmag",
+      "file": "docs/wild-shield.md"
+    },
+    "wind-lash": {
+      "name": "Wind Lash",
+      "source": "dmag",
+      "file": "docs/wind-lash.md"
+    },
+    "wind-tunnel": {
+      "name": "Wind Tunnel",
+      "source": "dmag",
+      "file": "docs/wind-tunnel.md"
+    },
+    "wind-of-the-hereafter": {
+      "name": "Wind of the Hereafter",
+      "source": "dmag",
+      "file": "docs/wind-of-the-hereafter.md"
+    },
+    "winding-key": {
+      "name": "Winding Key",
+      "source": "dmag-e",
+      "file": "docs/winding-key.md"
+    },
+    "winters-radiance": {
+      "name": "Winter's Radiance",
+      "source": "dmag",
+      "file": "docs/winters-radiance.md"
+    },
+    "winterdark": {
+      "name": "Winterdark",
+      "source": "dmag",
+      "file": "docs/winterdark.md"
+    },
+    "wintry-glide": {
+      "name": "Wintry Glide",
+      "source": "dmag",
+      "file": "docs/wintry-glide.md"
+    },
+    "withered-sight": {
+      "name": "Withered Sight",
+      "source": "dmag",
+      "file": "docs/withered-sight.md"
+    },
+    "wolfsong": {
+      "name": "Wolfsong",
+      "source": "dmag",
+      "file": "docs/wolfsong.md"
+    },
+    "word-of-misfortune": {
+      "name": "Word of Misfortune",
+      "source": "dmag",
+      "file": "docs/word-of-misfortune.md"
+    },
+    "wotans-rede": {
+      "name": "Wotan's Rede",
+      "source": "dmag-e",
+      "file": "docs/wotans-rede.md"
+    },
+    "wresting-wind": {
+      "name": "Wresting Wind",
+      "source": "dmag",
+      "file": "docs/wresting-wind.md"
+    },
+    "write-memory": {
+      "name": "Write Memory",
+      "source": "dmag-e",
+      "file": "docs/write-memory.md"
+    },
+    "writhing-arms": {
+      "name": "Writhing Arms",
+      "source": "dmag",
+      "file": "docs/writhing-arms.md"
+    },
+    "yellow-sign": {
+      "name": "Yellow Sign",
+      "source": "dmag",
+      "file": "docs/yellow-sign.md"
+    }
+  }
+}

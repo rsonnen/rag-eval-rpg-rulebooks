@@ -1,0 +1,36 @@
+name: "Pathfinder 2e Spells"
+
+corpus_context: >
+  500 spells from Paizo's Pathfinder 2nd Edition, sourced from Archives of
+  Nethys. Each document contains spell name, source, spell rank (level), traits
+  (schools, descriptors like Chaotic/Evil), traditions (Arcane, Divine, Occult,
+  Primal), components (somatic, verbal, material), targets, range, duration,
+  and full description with save effects. PF2e spells use four degrees of
+  success (critical success, success, failure, critical failure). Includes
+  heightened versions for scaling effects. ORC license.
+
+scenarios:
+  spell_selection:
+    name: "PF2e Spell Selection"
+    description: >
+      Player selecting spells for a PF2e character, filtering by tradition, rank,
+      or effect type. Questions like "What rank 5 Divine tradition spells exist?"
+      or "Find spells with the Disease trait." Tests filtering by PF2e's spell
+      organization system which differs from D&D 5e.
+
+  spell_mechanics:
+    name: "Spell Mechanics Reference"
+    description: >
+      Looking up spell effects during play, particularly the four-degrees-of-success
+      outcomes that PF2e uses. Questions like "What happens on a critical success
+      against Abyssal Plague?" or "What are all the battle forms available in
+      Animal Form?" Tests understanding of PF2e's detailed success/failure gradations.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      Questions with exact answers from spell text to verify retrieval accuracy.
+      "What disease does Abyssal Plague inflict?" (Abyssal plague, level 9),
+      "What is Animal Form's base duration?" (1 minute), "What traditions can
+      cast Animal Form?" (Primal only). Tests accurate parsing of PF2e spell
+      format and terminology.

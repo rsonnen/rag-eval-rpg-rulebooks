@@ -1,0 +1,3511 @@
+{
+  "corpus": "pf2e_spells",
+  "category": "spell",
+  "total_documents": 500,
+  "api_base": "https://elasticsearch.aonprd.com/aon",
+  "license": "ORC License (Open RPG Creative License)",
+  "license_url": "https://paizo.com/orclicense",
+  "attribution": "Content from Archives of Nethys (2e.aonprd.com), Pathfinder 2e by Paizo Inc.",
+  "documents": {
+    "spell-1": {
+      "name": "Abyssal Plague",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-1.md"
+    },
+    "spell-2": {
+      "name": "Acid Arrow",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-2.md"
+    },
+    "spell-3": {
+      "name": "Acid Splash",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-3.md"
+    },
+    "spell-4": {
+      "name": "Aerial Form",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-4.md"
+    },
+    "spell-5": {
+      "name": "Air Bubble",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-5.md"
+    },
+    "spell-6": {
+      "name": "Air Walk",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-6.md"
+    },
+    "spell-7": {
+      "name": "Alarm",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-7.md"
+    },
+    "spell-8": {
+      "name": "Alter Reality",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-8.md"
+    },
+    "spell-9": {
+      "name": "Anathematic Reprisal",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-9.md"
+    },
+    "spell-10": {
+      "name": "Animal Form",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-10.md"
+    },
+    "spell-11": {
+      "name": "Animal Messenger",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-11.md"
+    },
+    "spell-12": {
+      "name": "Animal Vision",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-12.md"
+    },
+    "spell-13": {
+      "name": "Ant Haul",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-13.md"
+    },
+    "spell-14": {
+      "name": "Antimagic Field",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-14.md"
+    },
+    "spell-15": {
+      "name": "Augury",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-15.md"
+    },
+    "spell-16": {
+      "name": "Avatar",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-16.md"
+    },
+    "spell-17": {
+      "name": "Baleful Polymorph",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-17.md"
+    },
+    "spell-18": {
+      "name": "Bane",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-18.md"
+    },
+    "spell-19": {
+      "name": "Banishment",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-19.md"
+    },
+    "spell-20": {
+      "name": "Barkskin",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-20.md"
+    },
+    "spell-21": {
+      "name": "Bind Soul",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-21.md"
+    },
+    "spell-22": {
+      "name": "Bind Undead",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-22.md"
+    },
+    "spell-23": {
+      "name": "Black Tentacles",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-23.md"
+    },
+    "spell-24": {
+      "name": "Blade Barrier",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-24.md"
+    },
+    "spell-25": {
+      "name": "Bless",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-25.md"
+    },
+    "spell-26": {
+      "name": "Blindness",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-26.md"
+    },
+    "spell-27": {
+      "name": "Blink",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-27.md"
+    },
+    "spell-28": {
+      "name": "Blur",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-28.md"
+    },
+    "spell-29": {
+      "name": "Breath of Life",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-29.md"
+    },
+    "spell-30": {
+      "name": "Burning Hands",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-30.md"
+    },
+    "spell-31": {
+      "name": "Calm Emotions",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-31.md"
+    },
+    "spell-32": {
+      "name": "Cataclysm",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-32.md"
+    },
+    "spell-33": {
+      "name": "Chain Lightning",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-33.md"
+    },
+    "spell-34": {
+      "name": "Charm",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-34.md"
+    },
+    "spell-35": {
+      "name": "Chill Touch",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-35.md"
+    },
+    "spell-36": {
+      "name": "Chilling Darkness",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-36.md"
+    },
+    "spell-37": {
+      "name": "Chromatic Wall",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-37.md"
+    },
+    "spell-38": {
+      "name": "Circle of Protection",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-38.md"
+    },
+    "spell-39": {
+      "name": "Clairaudience",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-39.md"
+    },
+    "spell-40": {
+      "name": "Clairvoyance",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-40.md"
+    },
+    "spell-41": {
+      "name": "Cloak of Colors",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-41.md"
+    },
+    "spell-42": {
+      "name": "Cloudkill",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-42.md"
+    },
+    "spell-43": {
+      "name": "Collective Transposition",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-43.md"
+    },
+    "spell-44": {
+      "name": "Color Spray",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-44.md"
+    },
+    "spell-45": {
+      "name": "Command",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-45.md"
+    },
+    "spell-46": {
+      "name": "Comprehend Language",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-46.md"
+    },
+    "spell-47": {
+      "name": "Cone of Cold",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-47.md"
+    },
+    "spell-48": {
+      "name": "Confusion",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-48.md"
+    },
+    "spell-49": {
+      "name": "Contingency",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-49.md"
+    },
+    "spell-50": {
+      "name": "Continual Flame",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-50.md"
+    },
+    "spell-51": {
+      "name": "Control Water",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-51.md"
+    },
+    "spell-52": {
+      "name": "Create Food",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-52.md"
+    },
+    "spell-53": {
+      "name": "Create Water",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-53.md"
+    },
+    "spell-54": {
+      "name": "Creation",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-54.md"
+    },
+    "spell-55": {
+      "name": "Crisis of Faith",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-55.md"
+    },
+    "spell-56": {
+      "name": "Crusade",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-56.md"
+    },
+    "spell-57": {
+      "name": "Crushing Despair",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-57.md"
+    },
+    "spell-58": {
+      "name": "Dancing Lights",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-58.md"
+    },
+    "spell-59": {
+      "name": "Darkness",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-59.md"
+    },
+    "spell-60": {
+      "name": "Darkvision",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-60.md"
+    },
+    "spell-61": {
+      "name": "Daze",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-61.md"
+    },
+    "spell-62": {
+      "name": "Deafness",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-62.md"
+    },
+    "spell-63": {
+      "name": "Death Knell",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-63.md"
+    },
+    "spell-64": {
+      "name": "Death Ward",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-64.md"
+    },
+    "spell-65": {
+      "name": "Detect Alignment",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-65.md"
+    },
+    "spell-66": {
+      "name": "Detect Magic",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-66.md"
+    },
+    "spell-67": {
+      "name": "Detect Poison",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-67.md"
+    },
+    "spell-68": {
+      "name": "Detect Scrying",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-68.md"
+    },
+    "spell-69": {
+      "name": "Dimension Door",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-69.md"
+    },
+    "spell-70": {
+      "name": "Dimensional Anchor",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-70.md"
+    },
+    "spell-71": {
+      "name": "Dimensional Lock",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-71.md"
+    },
+    "spell-72": {
+      "name": "Dinosaur Form",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-72.md"
+    },
+    "spell-73": {
+      "name": "Disappearance",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-73.md"
+    },
+    "spell-74": {
+      "name": "Discern Lies",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-74.md"
+    },
+    "spell-75": {
+      "name": "Discern Location",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-75.md"
+    },
+    "spell-76": {
+      "name": "Disintegrate",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-76.md"
+    },
+    "spell-77": {
+      "name": "Disjunction",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-77.md"
+    },
+    "spell-78": {
+      "name": "Dispel Magic",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-78.md"
+    },
+    "spell-79": {
+      "name": "Disrupt Undead",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-79.md"
+    },
+    "spell-80": {
+      "name": "Disrupting Weapons",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-80.md"
+    },
+    "spell-81": {
+      "name": "Divine Aura",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-81.md"
+    },
+    "spell-82": {
+      "name": "Divine Decree",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-82.md"
+    },
+    "spell-83": {
+      "name": "Divine Inspiration",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-83.md"
+    },
+    "spell-84": {
+      "name": "Divine Lance",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-84.md"
+    },
+    "spell-85": {
+      "name": "Divine Vessel",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-85.md"
+    },
+    "spell-86": {
+      "name": "Divine Wrath",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-86.md"
+    },
+    "spell-87": {
+      "name": "Dominate",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-87.md"
+    },
+    "spell-88": {
+      "name": "Dragon Form",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-88.md"
+    },
+    "spell-89": {
+      "name": "Dream Council",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-89.md"
+    },
+    "spell-90": {
+      "name": "Dream Message",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-90.md"
+    },
+    "spell-91": {
+      "name": "Dreaming Potential",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-91.md"
+    },
+    "spell-92": {
+      "name": "Drop Dead",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-92.md"
+    },
+    "spell-93": {
+      "name": "Duplicate Foe",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-93.md"
+    },
+    "spell-94": {
+      "name": "Earthbind",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-94.md"
+    },
+    "spell-95": {
+      "name": "Earthquake",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-95.md"
+    },
+    "spell-96": {
+      "name": "Eclipse Burst",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-96.md"
+    },
+    "spell-97": {
+      "name": "Electric Arc",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-97.md"
+    },
+    "spell-98": {
+      "name": "Elemental Form",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-98.md"
+    },
+    "spell-99": {
+      "name": "Endure Elements",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-99.md"
+    },
+    "spell-100": {
+      "name": "Energy Aegis",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-100.md"
+    },
+    "spell-101": {
+      "name": "Enhance Victuals",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-101.md"
+    },
+    "spell-102": {
+      "name": "Enlarge",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-102.md"
+    },
+    "spell-103": {
+      "name": "Entangle",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-103.md"
+    },
+    "spell-104": {
+      "name": "Enthrall",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-104.md"
+    },
+    "spell-105": {
+      "name": "Ethereal Jaunt",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-105.md"
+    },
+    "spell-106": {
+      "name": "Fabricated Truth",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-106.md"
+    },
+    "spell-107": {
+      "name": "Faerie Fire",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-107.md"
+    },
+    "spell-108": {
+      "name": "False Life",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-108.md"
+    },
+    "spell-109": {
+      "name": "False Vision",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-109.md"
+    },
+    "spell-110": {
+      "name": "Fear",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-110.md"
+    },
+    "spell-111": {
+      "name": "Feather Fall",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-111.md"
+    },
+    "spell-112": {
+      "name": "Feeblemind",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-112.md"
+    },
+    "spell-113": {
+      "name": "Feet to Fins",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-113.md"
+    },
+    "spell-114": {
+      "name": "Field of Life",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-114.md"
+    },
+    "spell-115": {
+      "name": "Fiery Body",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-115.md"
+    },
+    "spell-116": {
+      "name": "Finger of Death",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-116.md"
+    },
+    "spell-117": {
+      "name": "Fire Seeds",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-117.md"
+    },
+    "spell-118": {
+      "name": "Fire Shield",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-118.md"
+    },
+    "spell-119": {
+      "name": "Fireball",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-119.md"
+    },
+    "spell-120": {
+      "name": "Flame Strike",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-120.md"
+    },
+    "spell-121": {
+      "name": "Flaming Sphere",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-121.md"
+    },
+    "spell-122": {
+      "name": "Fleet Step",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-122.md"
+    },
+    "spell-123": {
+      "name": "Flesh to Stone",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-123.md"
+    },
+    "spell-124": {
+      "name": "Floating Disk",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-124.md"
+    },
+    "spell-125": {
+      "name": "Fly",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-125.md"
+    },
+    "spell-126": {
+      "name": "Forbidding Ward",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-126.md"
+    },
+    "spell-127": {
+      "name": "Foresight",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-127.md"
+    },
+    "spell-128": {
+      "name": "Freedom of Movement",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-128.md"
+    },
+    "spell-129": {
+      "name": "Gaseous Form",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-129.md"
+    },
+    "spell-130": {
+      "name": "Gate",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-130.md"
+    },
+    "spell-131": {
+      "name": "Gentle Repose",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-131.md"
+    },
+    "spell-132": {
+      "name": "Ghost Sound",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-132.md"
+    },
+    "spell-133": {
+      "name": "Ghostly Weapon",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-133.md"
+    },
+    "spell-134": {
+      "name": "Ghoulish Cravings",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-134.md"
+    },
+    "spell-135": {
+      "name": "Glibness",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-135.md"
+    },
+    "spell-136": {
+      "name": "Glitterdust",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-136.md"
+    },
+    "spell-137": {
+      "name": "Globe of Invulnerability",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-137.md"
+    },
+    "spell-138": {
+      "name": "Glyph of Warding",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-138.md"
+    },
+    "spell-139": {
+      "name": "Goblin Pox",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-139.md"
+    },
+    "spell-140": {
+      "name": "Grease",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-140.md"
+    },
+    "spell-141": {
+      "name": "Grim Tendrils",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-141.md"
+    },
+    "spell-142": {
+      "name": "Guidance",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-142.md"
+    },
+    "spell-143": {
+      "name": "Gust of Wind",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-143.md"
+    },
+    "spell-144": {
+      "name": "Hallucination",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-144.md"
+    },
+    "spell-145": {
+      "name": "Hallucinatory Terrain",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-145.md"
+    },
+    "spell-146": {
+      "name": "Harm",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-146.md"
+    },
+    "spell-147": {
+      "name": "Haste",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-147.md"
+    },
+    "spell-148": {
+      "name": "Heal",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-148.md"
+    },
+    "spell-149": {
+      "name": "Heroism",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-149.md"
+    },
+    "spell-150": {
+      "name": "Hideous Laughter",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-150.md"
+    },
+    "spell-151": {
+      "name": "Holy Cascade",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-151.md"
+    },
+    "spell-152": {
+      "name": "Horrid Wilting",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-152.md"
+    },
+    "spell-153": {
+      "name": "Humanoid Form",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-153.md"
+    },
+    "spell-154": {
+      "name": "Hydraulic Push",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-154.md"
+    },
+    "spell-155": {
+      "name": "Hydraulic Torrent",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-155.md"
+    },
+    "spell-156": {
+      "name": "Hypercognition",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-156.md"
+    },
+    "spell-157": {
+      "name": "Hypnotic Pattern",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-157.md"
+    },
+    "spell-158": {
+      "name": "Illusory Creature",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-158.md"
+    },
+    "spell-159": {
+      "name": "Illusory Disguise",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-159.md"
+    },
+    "spell-160": {
+      "name": "Illusory Object",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-160.md"
+    },
+    "spell-161": {
+      "name": "Illusory Scene",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-161.md"
+    },
+    "spell-162": {
+      "name": "Implosion",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-162.md"
+    },
+    "spell-163": {
+      "name": "Insect Form",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-163.md"
+    },
+    "spell-164": {
+      "name": "Invisibility",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-164.md"
+    },
+    "spell-165": {
+      "name": "Invisibility Sphere",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-165.md"
+    },
+    "spell-166": {
+      "name": "Item Facade",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-166.md"
+    },
+    "spell-167": {
+      "name": "Jump",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-167.md"
+    },
+    "spell-168": {
+      "name": "Knock",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-168.md"
+    },
+    "spell-169": {
+      "name": "Know Direction",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-169.md"
+    },
+    "spell-170": {
+      "name": "Levitate",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-170.md"
+    },
+    "spell-171": {
+      "name": "Light",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-171.md"
+    },
+    "spell-172": {
+      "name": "Lightning Bolt",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-172.md"
+    },
+    "spell-173": {
+      "name": "Locate",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-173.md"
+    },
+    "spell-174": {
+      "name": "Lock",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-174.md"
+    },
+    "spell-175": {
+      "name": "Longstrider",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-175.md"
+    },
+    "spell-176": {
+      "name": "Mage Armor",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-176.md"
+    },
+    "spell-177": {
+      "name": "Mage Hand",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-177.md"
+    },
+    "spell-178": {
+      "name": "Magic Aura",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-178.md"
+    },
+    "spell-179": {
+      "name": "Magic Fang",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-179.md"
+    },
+    "spell-180": {
+      "name": "Magic Missile",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-180.md"
+    },
+    "spell-181": {
+      "name": "Magic Mouth",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-181.md"
+    },
+    "spell-182": {
+      "name": "Magic Weapon",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-182.md"
+    },
+    "spell-183": {
+      "name": "Magnificent Mansion",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-183.md"
+    },
+    "spell-184": {
+      "name": "Mariner's Curse",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-184.md"
+    },
+    "spell-185": {
+      "name": "Mask of Terror",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-185.md"
+    },
+    "spell-186": {
+      "name": "Massacre",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-186.md"
+    },
+    "spell-187": {
+      "name": "Maze",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-187.md"
+    },
+    "spell-188": {
+      "name": "Meld into Stone",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-188.md"
+    },
+    "spell-189": {
+      "name": "Mending",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-189.md"
+    },
+    "spell-190": {
+      "name": "Message",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-190.md"
+    },
+    "spell-191": {
+      "name": "Meteor Swarm",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-191.md"
+    },
+    "spell-192": {
+      "name": "Mind Blank",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-192.md"
+    },
+    "spell-193": {
+      "name": "Mind Probe",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-193.md"
+    },
+    "spell-194": {
+      "name": "Mind Reading",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-194.md"
+    },
+    "spell-195": {
+      "name": "Mindlink",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-195.md"
+    },
+    "spell-196": {
+      "name": "Miracle",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-196.md"
+    },
+    "spell-197": {
+      "name": "Mirror Image",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-197.md"
+    },
+    "spell-198": {
+      "name": "Misdirection",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-198.md"
+    },
+    "spell-199": {
+      "name": "Mislead",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-199.md"
+    },
+    "spell-200": {
+      "name": "Modify Memory",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-200.md"
+    },
+    "spell-201": {
+      "name": "Moment of Renewal",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-201.md"
+    },
+    "spell-202": {
+      "name": "Monstrosity Form",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-202.md"
+    },
+    "spell-203": {
+      "name": "Moon Frenzy",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-203.md"
+    },
+    "spell-204": {
+      "name": "Nature Incarnate",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-204.md"
+    },
+    "spell-205": {
+      "name": "Nature's Enmity",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-205.md"
+    },
+    "spell-206": {
+      "name": "Negate Aroma",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-206.md"
+    },
+    "spell-207": {
+      "name": "Neutralize Poison",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-207.md"
+    },
+    "spell-208": {
+      "name": "Nightmare",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-208.md"
+    },
+    "spell-209": {
+      "name": "Nondetection",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-209.md"
+    },
+    "spell-210": {
+      "name": "Obscuring Mist",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-210.md"
+    },
+    "spell-211": {
+      "name": "Outcast's Curse",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-211.md"
+    },
+    "spell-212": {
+      "name": "Overwhelming Presence",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-212.md"
+    },
+    "spell-213": {
+      "name": "Paralyze",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-213.md"
+    },
+    "spell-214": {
+      "name": "Paranoia",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-214.md"
+    },
+    "spell-215": {
+      "name": "Pass Without Trace",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-215.md"
+    },
+    "spell-216": {
+      "name": "Passwall",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-216.md"
+    },
+    "spell-217": {
+      "name": "Pest Form",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-217.md"
+    },
+    "spell-218": {
+      "name": "Phantasmal Calamity",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-218.md"
+    },
+    "spell-219": {
+      "name": "Phantasmal Killer",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-219.md"
+    },
+    "spell-220": {
+      "name": "Phantom Pain",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-220.md"
+    },
+    "spell-221": {
+      "name": "Phantom Steed",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-221.md"
+    },
+    "spell-222": {
+      "name": "Plane Shift",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-222.md"
+    },
+    "spell-223": {
+      "name": "Plant Form",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-223.md"
+    },
+    "spell-224": {
+      "name": "Polar Ray",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-224.md"
+    },
+    "spell-225": {
+      "name": "Possession",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-225.md"
+    },
+    "spell-226": {
+      "name": "Power Word Blind",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-226.md"
+    },
+    "spell-227": {
+      "name": "Power Word Kill",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-227.md"
+    },
+    "spell-228": {
+      "name": "Power Word Stun",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-228.md"
+    },
+    "spell-229": {
+      "name": "Prestidigitation",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-229.md"
+    },
+    "spell-230": {
+      "name": "Primal Herd",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-230.md"
+    },
+    "spell-231": {
+      "name": "Primal Phenomenon",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-231.md"
+    },
+    "spell-232": {
+      "name": "Prismatic Sphere",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-232.md"
+    },
+    "spell-233": {
+      "name": "Prismatic Spray",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-233.md"
+    },
+    "spell-234": {
+      "name": "Prismatic Wall",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-234.md"
+    },
+    "spell-235": {
+      "name": "Private Sanctum",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-235.md"
+    },
+    "spell-236": {
+      "name": "Produce Flame",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-236.md"
+    },
+    "spell-237": {
+      "name": "Project Image",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-237.md"
+    },
+    "spell-238": {
+      "name": "Protection",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-238.md"
+    },
+    "spell-239": {
+      "name": "Prying Eye",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-239.md"
+    },
+    "spell-240": {
+      "name": "Punishing Winds",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-240.md"
+    },
+    "spell-241": {
+      "name": "Purify Food and Drink",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-241.md"
+    },
+    "spell-242": {
+      "name": "Purple Worm Sting",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-242.md"
+    },
+    "spell-243": {
+      "name": "Raise Dead",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-243.md"
+    },
+    "spell-244": {
+      "name": "Ray of Enfeeblement",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-244.md"
+    },
+    "spell-245": {
+      "name": "Ray of Frost",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-245.md"
+    },
+    "spell-246": {
+      "name": "Read Aura",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-246.md"
+    },
+    "spell-247": {
+      "name": "Read Omens",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-247.md"
+    },
+    "spell-248": {
+      "name": "Regenerate",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-248.md"
+    },
+    "spell-249": {
+      "name": "Remake",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-249.md"
+    },
+    "spell-250": {
+      "name": "Remove Curse",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-250.md"
+    },
+    "spell-251": {
+      "name": "Remove Disease",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-251.md"
+    },
+    "spell-252": {
+      "name": "Remove Fear",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-252.md"
+    },
+    "spell-253": {
+      "name": "Remove Paralysis",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-253.md"
+    },
+    "spell-254": {
+      "name": "Repulsion",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-254.md"
+    },
+    "spell-255": {
+      "name": "Resilient Sphere",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-255.md"
+    },
+    "spell-256": {
+      "name": "Resist Energy",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-256.md"
+    },
+    "spell-257": {
+      "name": "Resplendent Mansion",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-257.md"
+    },
+    "spell-258": {
+      "name": "Restoration",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-258.md"
+    },
+    "spell-259": {
+      "name": "Restore Senses",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-259.md"
+    },
+    "spell-260": {
+      "name": "Retrocognition",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-260.md"
+    },
+    "spell-261": {
+      "name": "Reverse Gravity",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-261.md"
+    },
+    "spell-262": {
+      "name": "Revival",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-262.md"
+    },
+    "spell-263": {
+      "name": "Righteous Might",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-263.md"
+    },
+    "spell-264": {
+      "name": "Rope Trick",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-264.md"
+    },
+    "spell-265": {
+      "name": "Sanctified Ground",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-265.md"
+    },
+    "spell-266": {
+      "name": "Sanctuary",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-266.md"
+    },
+    "spell-267": {
+      "name": "Scintillating Pattern",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-267.md"
+    },
+    "spell-268": {
+      "name": "Scrying",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-268.md"
+    },
+    "spell-269": {
+      "name": "Searing Light",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-269.md"
+    },
+    "spell-270": {
+      "name": "Secret Page",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-270.md"
+    },
+    "spell-271": {
+      "name": "See Invisibility",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-271.md"
+    },
+    "spell-272": {
+      "name": "Sending",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-272.md"
+    },
+    "spell-273": {
+      "name": "Shadow Blast",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-273.md"
+    },
+    "spell-274": {
+      "name": "Shadow Siphon",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-274.md"
+    },
+    "spell-275": {
+      "name": "Shadow Walk",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-275.md"
+    },
+    "spell-276": {
+      "name": "Shape Stone",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-276.md"
+    },
+    "spell-277": {
+      "name": "Shape Wood",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-277.md"
+    },
+    "spell-278": {
+      "name": "Shapechange",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-278.md"
+    },
+    "spell-279": {
+      "name": "Shatter",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-279.md"
+    },
+    "spell-280": {
+      "name": "Shield",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-280.md"
+    },
+    "spell-281": {
+      "name": "Shield Other",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-281.md"
+    },
+    "spell-282": {
+      "name": "Shillelagh",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-282.md"
+    },
+    "spell-283": {
+      "name": "Shocking Grasp",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-283.md"
+    },
+    "spell-284": {
+      "name": "Shrink",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-284.md"
+    },
+    "spell-285": {
+      "name": "Shrink Item",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-285.md"
+    },
+    "spell-286": {
+      "name": "Sigil",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-286.md"
+    },
+    "spell-287": {
+      "name": "Silence",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-287.md"
+    },
+    "spell-288": {
+      "name": "Sleep",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-288.md"
+    },
+    "spell-289": {
+      "name": "Slow",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-289.md"
+    },
+    "spell-290": {
+      "name": "Solid Fog",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-290.md"
+    },
+    "spell-291": {
+      "name": "Soothe",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-291.md"
+    },
+    "spell-292": {
+      "name": "Sound Burst",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-292.md"
+    },
+    "spell-293": {
+      "name": "Speak with Animals",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-293.md"
+    },
+    "spell-294": {
+      "name": "Speak with Plants",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-294.md"
+    },
+    "spell-295": {
+      "name": "Spectral Hand",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-295.md"
+    },
+    "spell-296": {
+      "name": "Spell Immunity",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-296.md"
+    },
+    "spell-297": {
+      "name": "Spell Turning",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-297.md"
+    },
+    "spell-298": {
+      "name": "Spellwrack",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-298.md"
+    },
+    "spell-299": {
+      "name": "Spider Climb",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-299.md"
+    },
+    "spell-300": {
+      "name": "Spider Sting",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-300.md"
+    },
+    "spell-301": {
+      "name": "Spirit Blast",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-301.md"
+    },
+    "spell-302": {
+      "name": "Spirit Link",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-302.md"
+    },
+    "spell-303": {
+      "name": "Spirit Song",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-303.md"
+    },
+    "spell-304": {
+      "name": "Spiritual Epidemic",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-304.md"
+    },
+    "spell-305": {
+      "name": "Spiritual Guardian",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-305.md"
+    },
+    "spell-306": {
+      "name": "Spiritual Weapon",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-306.md"
+    },
+    "spell-307": {
+      "name": "Stabilize",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-307.md"
+    },
+    "spell-308": {
+      "name": "Status",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-308.md"
+    },
+    "spell-309": {
+      "name": "Stinking Cloud",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-309.md"
+    },
+    "spell-310": {
+      "name": "Stone Tell",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-310.md"
+    },
+    "spell-311": {
+      "name": "Stone to Flesh",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-311.md"
+    },
+    "spell-312": {
+      "name": "Stoneskin",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-312.md"
+    },
+    "spell-313": {
+      "name": "Storm of Vengeance",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-313.md"
+    },
+    "spell-314": {
+      "name": "Subconscious Suggestion",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-314.md"
+    },
+    "spell-315": {
+      "name": "Suggestion",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-315.md"
+    },
+    "spell-316": {
+      "name": "Summon Animal",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-316.md"
+    },
+    "spell-317": {
+      "name": "Summon Celestial",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-317.md"
+    },
+    "spell-318": {
+      "name": "Summon Construct",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-318.md"
+    },
+    "spell-319": {
+      "name": "Summon Dragon",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-319.md"
+    },
+    "spell-320": {
+      "name": "Summon Elemental",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-320.md"
+    },
+    "spell-321": {
+      "name": "Summon Entity",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-321.md"
+    },
+    "spell-322": {
+      "name": "Summon Fey",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-322.md"
+    },
+    "spell-323": {
+      "name": "Summon Fiend",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-323.md"
+    },
+    "spell-324": {
+      "name": "Summon Giant",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-324.md"
+    },
+    "spell-325": {
+      "name": "Summon Plant or Fungus",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-325.md"
+    },
+    "spell-326": {
+      "name": "Sunburst",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-326.md"
+    },
+    "spell-327": {
+      "name": "Synaptic Pulse",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-327.md"
+    },
+    "spell-328": {
+      "name": "Synesthesia",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-328.md"
+    },
+    "spell-329": {
+      "name": "Talking Corpse",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-329.md"
+    },
+    "spell-330": {
+      "name": "Tanglefoot",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-330.md"
+    },
+    "spell-331": {
+      "name": "Tangling Creepers",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-331.md"
+    },
+    "spell-332": {
+      "name": "Telekinetic Haul",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-332.md"
+    },
+    "spell-333": {
+      "name": "Telekinetic Maneuver",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-333.md"
+    },
+    "spell-334": {
+      "name": "Telekinetic Projectile",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-334.md"
+    },
+    "spell-335": {
+      "name": "Telepathic Bond",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-335.md"
+    },
+    "spell-336": {
+      "name": "Telepathic Demand",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-336.md"
+    },
+    "spell-337": {
+      "name": "Telepathy",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-337.md"
+    },
+    "spell-338": {
+      "name": "Teleport",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-338.md"
+    },
+    "spell-339": {
+      "name": "Time Stop",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-339.md"
+    },
+    "spell-340": {
+      "name": "Tongues",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-340.md"
+    },
+    "spell-341": {
+      "name": "Touch of Idiocy",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-341.md"
+    },
+    "spell-342": {
+      "name": "Tree Shape",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-342.md"
+    },
+    "spell-343": {
+      "name": "Tree Stride",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-343.md"
+    },
+    "spell-344": {
+      "name": "True Seeing",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-344.md"
+    },
+    "spell-345": {
+      "name": "True Strike",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-345.md"
+    },
+    "spell-346": {
+      "name": "True Target",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-346.md"
+    },
+    "spell-347": {
+      "name": "Uncontrollable Dance",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-347.md"
+    },
+    "spell-348": {
+      "name": "Undetectable Alignment",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-348.md"
+    },
+    "spell-349": {
+      "name": "Unfathomable Song",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-349.md"
+    },
+    "spell-350": {
+      "name": "Unfettered Pack",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-350.md"
+    },
+    "spell-351": {
+      "name": "Unrelenting Observation",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-351.md"
+    },
+    "spell-352": {
+      "name": "Unseen Servant",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-352.md"
+    },
+    "spell-353": {
+      "name": "Vampiric Exsanguination",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-353.md"
+    },
+    "spell-354": {
+      "name": "Vampiric Touch",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-354.md"
+    },
+    "spell-355": {
+      "name": "Veil",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-355.md"
+    },
+    "spell-356": {
+      "name": "Ventriloquism",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-356.md"
+    },
+    "spell-357": {
+      "name": "Vibrant Pattern",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-357.md"
+    },
+    "spell-358": {
+      "name": "Visions of Danger",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-358.md"
+    },
+    "spell-359": {
+      "name": "Vital Beacon",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-359.md"
+    },
+    "spell-360": {
+      "name": "Volcanic Eruption",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-360.md"
+    },
+    "spell-361": {
+      "name": "Wail of the Banshee",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-361.md"
+    },
+    "spell-362": {
+      "name": "Wall of Fire",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-362.md"
+    },
+    "spell-363": {
+      "name": "Wall of Force",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-363.md"
+    },
+    "spell-364": {
+      "name": "Wall of Ice",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-364.md"
+    },
+    "spell-365": {
+      "name": "Wall of Stone",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-365.md"
+    },
+    "spell-366": {
+      "name": "Wall of Thorns",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-366.md"
+    },
+    "spell-367": {
+      "name": "Wall of Wind",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-367.md"
+    },
+    "spell-368": {
+      "name": "Wanderer's Guide",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-368.md"
+    },
+    "spell-369": {
+      "name": "Warp Mind",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-369.md"
+    },
+    "spell-370": {
+      "name": "Water Breathing",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-370.md"
+    },
+    "spell-371": {
+      "name": "Water Walk",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-371.md"
+    },
+    "spell-372": {
+      "name": "Weapon of Judgment",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-372.md"
+    },
+    "spell-373": {
+      "name": "Weapon Storm",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-373.md"
+    },
+    "spell-374": {
+      "name": "Web",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-374.md"
+    },
+    "spell-375": {
+      "name": "Weird",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-375.md"
+    },
+    "spell-376": {
+      "name": "Wind Walk",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-376.md"
+    },
+    "spell-377": {
+      "name": "Wish",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-377.md"
+    },
+    "spell-378": {
+      "name": "Zealous Conviction",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-378.md"
+    },
+    "spell-379": {
+      "name": "Zone of Truth",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-379.md"
+    },
+    "spell-380": {
+      "name": "Allegro",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-380.md"
+    },
+    "spell-381": {
+      "name": "Counter Performance",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-381.md"
+    },
+    "spell-382": {
+      "name": "Dirge of Doom",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-382.md"
+    },
+    "spell-383": {
+      "name": "Fatal Aria",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-383.md"
+    },
+    "spell-384": {
+      "name": "House of Imaginary Walls",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-384.md"
+    },
+    "spell-385": {
+      "name": "Inspire Competence",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-385.md"
+    },
+    "spell-386": {
+      "name": "Inspire Courage",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-386.md"
+    },
+    "spell-387": {
+      "name": "Inspire Defense",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-387.md"
+    },
+    "spell-388": {
+      "name": "Inspire Heroics",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-388.md"
+    },
+    "spell-389": {
+      "name": "Lingering Composition",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-389.md"
+    },
+    "spell-390": {
+      "name": "Loremaster's Etude",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-390.md"
+    },
+    "spell-391": {
+      "name": "Soothing Ballad",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-391.md"
+    },
+    "spell-392": {
+      "name": "Triple Time",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-392.md"
+    },
+    "spell-393": {
+      "name": "Champion's Sacrifice",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-393.md"
+    },
+    "spell-394": {
+      "name": "Hero's Defiance",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-394.md"
+    },
+    "spell-395": {
+      "name": "Lay on Hands",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-395.md"
+    },
+    "spell-396": {
+      "name": "Litany against Sloth",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-396.md"
+    },
+    "spell-397": {
+      "name": "Litany Against Wrath",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-397.md"
+    },
+    "spell-398": {
+      "name": "Litany of Righteousness",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-398.md"
+    },
+    "spell-399": {
+      "name": "Agile Feet",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-399.md"
+    },
+    "spell-400": {
+      "name": "Appearance of Wealth",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-400.md"
+    },
+    "spell-401": {
+      "name": "Artistic Flourish",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-401.md"
+    },
+    "spell-402": {
+      "name": "Athletic Rush",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-402.md"
+    },
+    "spell-403": {
+      "name": "Bit of Luck",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-403.md"
+    },
+    "spell-404": {
+      "name": "Blind Ambition",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-404.md"
+    },
+    "spell-405": {
+      "name": "Captivating Adoration",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-405.md"
+    },
+    "spell-406": {
+      "name": "Charming Touch",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-406.md"
+    },
+    "spell-407": {
+      "name": "Cloak of Shadow",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-407.md"
+    },
+    "spell-408": {
+      "name": "Commanding Lash",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-408.md"
+    },
+    "spell-409": {
+      "name": "Competitive Edge",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-409.md"
+    },
+    "spell-410": {
+      "name": "Cry of Destruction",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-410.md"
+    },
+    "spell-411": {
+      "name": "Darkened Eyes",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-411.md"
+    },
+    "spell-412": {
+      "name": "Dazzling Flash",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-412.md"
+    },
+    "spell-413": {
+      "name": "Death's Call",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-413.md"
+    },
+    "spell-414": {
+      "name": "Delusional Pride",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-414.md"
+    },
+    "spell-415": {
+      "name": "Destructive Aura",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-415.md"
+    },
+    "spell-416": {
+      "name": "Disperse into Air",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-416.md"
+    },
+    "spell-417": {
+      "name": "Downpour",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-417.md"
+    },
+    "spell-418": {
+      "name": "Dreamer's Call",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-418.md"
+    },
+    "spell-419": {
+      "name": "Enduring Might",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-419.md"
+    },
+    "spell-420": {
+      "name": "Eradicate Undeath",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-420.md"
+    },
+    "spell-421": {
+      "name": "Face in the Crowd",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-421.md"
+    },
+    "spell-422": {
+      "name": "Fire Ray",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-422.md"
+    },
+    "spell-423": {
+      "name": "Flame Barrier",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-423.md"
+    },
+    "spell-424": {
+      "name": "Forced Quiet",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-424.md"
+    },
+    "spell-425": {
+      "name": "Glimpse the Truth",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-425.md"
+    },
+    "spell-426": {
+      "name": "Healer's Blessing",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-426.md"
+    },
+    "spell-427": {
+      "name": "Hurtling Stone",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-427.md"
+    },
+    "spell-428": {
+      "name": "Know the Enemy",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-428.md"
+    },
+    "spell-429": {
+      "name": "Localized Quake",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-429.md"
+    },
+    "spell-430": {
+      "name": "Lucky Break",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-430.md"
+    },
+    "spell-431": {
+      "name": "Magic's Vessel",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-431.md"
+    },
+    "spell-432": {
+      "name": "Malignant Sustenance",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-432.md"
+    },
+    "spell-433": {
+      "name": "Moonbeam",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-433.md"
+    },
+    "spell-434": {
+      "name": "Mystic Beacon",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-434.md"
+    },
+    "spell-435": {
+      "name": "Nature's Bounty",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-435.md"
+    },
+    "spell-436": {
+      "name": "Overstuff",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-436.md"
+    },
+    "spell-437": {
+      "name": "Perfected Form",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-437.md"
+    },
+    "spell-438": {
+      "name": "Perfected Mind",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-438.md"
+    },
+    "spell-439": {
+      "name": "Positive Luminance",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-439.md"
+    },
+    "spell-440": {
+      "name": "Precious Metals",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-440.md"
+    },
+    "spell-441": {
+      "name": "Protector's Sacrifice",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-441.md"
+    },
+    "spell-442": {
+      "name": "Protector's Sphere",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-442.md"
+    },
+    "spell-443": {
+      "name": "Pulse of the City",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-443.md"
+    },
+    "spell-444": {
+      "name": "Pushing Gust",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-444.md"
+    },
+    "spell-445": {
+      "name": "Read Fate",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-445.md"
+    },
+    "spell-446": {
+      "name": "Rebuke Death",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-446.md"
+    },
+    "spell-447": {
+      "name": "Retributive Pain",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-447.md"
+    },
+    "spell-448": {
+      "name": "Safeguard Secret",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-448.md"
+    },
+    "spell-449": {
+      "name": "Savor the Sting",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-449.md"
+    },
+    "spell-450": {
+      "name": "Scholarly Recollection",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-450.md"
+    },
+    "spell-451": {
+      "name": "Shared Nightmare",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-451.md"
+    },
+    "spell-452": {
+      "name": "Soothing Words",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-452.md"
+    },
+    "spell-453": {
+      "name": "Splash of Art",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-453.md"
+    },
+    "spell-454": {
+      "name": "Sudden Shift",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-454.md"
+    },
+    "spell-455": {
+      "name": "Sweet Dream",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-455.md"
+    },
+    "spell-456": {
+      "name": "Take its Course",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-456.md"
+    },
+    "spell-457": {
+      "name": "Tempt Fate",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-457.md"
+    },
+    "spell-458": {
+      "name": "Tidal Surge",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-458.md"
+    },
+    "spell-459": {
+      "name": "Touch of Obedience",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-459.md"
+    },
+    "spell-460": {
+      "name": "Touch of the Moon",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-460.md"
+    },
+    "spell-461": {
+      "name": "Touch of Undeath",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-461.md"
+    },
+    "spell-462": {
+      "name": "Traveler's Transit",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-462.md"
+    },
+    "spell-463": {
+      "name": "Trickster's Twin",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-463.md"
+    },
+    "spell-464": {
+      "name": "Unimpeded Stride",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-464.md"
+    },
+    "spell-465": {
+      "name": "Unity",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-465.md"
+    },
+    "spell-466": {
+      "name": "Veil of Confidence",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-466.md"
+    },
+    "spell-467": {
+      "name": "Vibrant Thorns",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-467.md"
+    },
+    "spell-468": {
+      "name": "Waking Nightmare",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-468.md"
+    },
+    "spell-469": {
+      "name": "Weapon Surge",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-469.md"
+    },
+    "spell-470": {
+      "name": "Word of Freedom",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-470.md"
+    },
+    "spell-471": {
+      "name": "Word of Truth",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-471.md"
+    },
+    "spell-472": {
+      "name": "Zeal for Battle",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-472.md"
+    },
+    "spell-473": {
+      "name": "Goodberry",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-473.md"
+    },
+    "spell-474": {
+      "name": "Heal Animal",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-474.md"
+    },
+    "spell-475": {
+      "name": "Impaling Briars",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-475.md"
+    },
+    "spell-476": {
+      "name": "Primal Summons",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-476.md"
+    },
+    "spell-477": {
+      "name": "Storm Lord",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-477.md"
+    },
+    "spell-478": {
+      "name": "Stormwind Flight",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-478.md"
+    },
+    "spell-479": {
+      "name": "Tempest Surge",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-479.md"
+    },
+    "spell-480": {
+      "name": "Wild Morph",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-480.md"
+    },
+    "spell-481": {
+      "name": "Wild Shape",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-481.md"
+    },
+    "spell-482": {
+      "name": "Abundant Step",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-482.md"
+    },
+    "spell-483": {
+      "name": "Empty Body",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-483.md"
+    },
+    "spell-484": {
+      "name": "Ki Blast",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-484.md"
+    },
+    "spell-485": {
+      "name": "Ki Rush",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-485.md"
+    },
+    "spell-486": {
+      "name": "Ki Strike",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-486.md"
+    },
+    "spell-487": {
+      "name": "Quivering Palm",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-487.md"
+    },
+    "spell-488": {
+      "name": "Wholeness of Body",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-488.md"
+    },
+    "spell-489": {
+      "name": "Wild Winds Stance",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-489.md"
+    },
+    "spell-490": {
+      "name": "Wind Jump",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-490.md"
+    },
+    "spell-491": {
+      "name": "Aberrant Whispers",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-491.md"
+    },
+    "spell-492": {
+      "name": "Abyssal Wrath",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-492.md"
+    },
+    "spell-493": {
+      "name": "Ancestral Memories",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-493.md"
+    },
+    "spell-494": {
+      "name": "Angelic Halo",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-494.md"
+    },
+    "spell-495": {
+      "name": "Angelic Wings",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-495.md"
+    },
+    "spell-496": {
+      "name": "Arcane Countermeasure",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-496.md"
+    },
+    "spell-497": {
+      "name": "Celestial Brand",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-497.md"
+    },
+    "spell-498": {
+      "name": "Diabolic Edict",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-498.md"
+    },
+    "spell-499": {
+      "name": "Dragon Breath",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-499.md"
+    },
+    "spell-500": {
+      "name": "Dragon Claws",
+      "source": [
+        "Core Rulebook"
+      ],
+      "file": "docs/spell-500.md"
+    }
+  }
+}

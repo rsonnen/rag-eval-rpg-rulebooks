@@ -1,0 +1,36 @@
+name: "Pathfinder 2e Creatures"
+
+corpus_context: >
+  500 creatures from Paizo's Pathfinder 2nd Edition, sourced from Archives of
+  Nethys. Each document contains PF2e stat block format: creature level, traits,
+  perception, senses, languages, skills, ability modifiers (Str/Dex/Con/Int/
+  Wis/Cha), AC, saves (Fort/Ref/Will), HP, immunities, resistances, weaknesses,
+  speed, melee/ranged attacks with damage, innate spells, and special abilities.
+  Includes Recall Knowledge DCs. Format includes both structured metadata and
+  HTML-like markup with cross-references. ORC license.
+
+scenarios:
+  encounter_building:
+    name: "PF2e Encounter Building"
+    description: >
+      GM building encounters using PF2e's creature level system. Questions like
+      "What level 12 creatures have innate spellcasting?" or "Find creatures with
+      regeneration that can be deactivated." Tests filtering by PF2e-specific
+      mechanics like creature level, traits, and special abilities.
+
+  creature_mechanics:
+    name: "Creature Mechanics Reference"
+    description: >
+      Looking up PF2e-specific mechanics during play: action economy (single
+      action, two actions), innate spell DCs, skill modifiers for specific checks,
+      or creature trait implications. Questions like "What's the Kolyarut's spell
+      DC?" or "What skills does the Kolyarut have bonuses in?" Tests navigation
+      of PF2e's detailed stat block format.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      Factual questions with exact answers from PF2e stat blocks. "What is the
+      Kolyarut's AC?" (34), "What is the Unseen Servant's creature level?" (-1),
+      "What damage type is the Kolyarut weak to and for how much?" (chaotic 15).
+      Verifies accurate parsing of PF2e's distinct stat block structure.

@@ -1,0 +1,19 @@
+# Downloaded content (user fetches via scripts)
+*/docs/
+
+# Build state (question generator)
+*/.corpus_state.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# uv lock (user regenerates)
+uv.lock
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store

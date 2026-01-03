@@ -1,0 +1,36 @@
+name: "D&D 5e SRD Spells"
+
+corpus_context: >
+  319 spells from the D&D 5th Edition System Reference Document (SRD). Each
+  document contains casting time, range, components (V/S/M with specific
+  materials), duration, class availability, full description, and "At Higher
+  Levels" upcasting rules. Covers cantrips through 9th-level spells across all
+  core classes (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard).
+  This is the canonical reference for D&D 5e spellcasting. Markdown format.
+  CC-BY-4.0 license.
+
+scenarios:
+  spell_reference:
+    name: "Spell Reference During Play"
+    description: >
+      Player or DM needing quick spell details during a game session: exact range,
+      area of effect, damage dice, saving throw type, or concentration requirements.
+      Questions like "What's the range and area of Fireball?" or "Does Acid Arrow
+      require concentration?" Tests rapid retrieval of commonly-referenced spells.
+
+  rules_adjudication:
+    name: "Rules Adjudication"
+    description: >
+      DM or player resolving rules questions about spell interactions, edge cases,
+      or exact wording. Questions like "Does Fireball ignite objects being carried?"
+      or "How does Acid Arrow work on a miss?" Tests extraction of specific rules
+      language and edge case handling from spell descriptions.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      Verification questions with unambiguous answers from spell text. "What
+      material components does Fireball require?" (bat guano and sulfur), "What
+      is the exact damage of Acid Arrow on a hit?" (4d4 immediate + 2d4 at end
+      of next turn), "What classes can cast Aid?" (Cleric, Paladin). Tests whether
+      retrieved content was accurately parsed and reported.

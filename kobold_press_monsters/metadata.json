@@ -1,0 +1,7656 @@
+{
+  "corpus": "kobold_press_monsters",
+  "content_type": "monsters",
+  "sources": [
+    "tob",
+    "tob2",
+    "tob3",
+    "cc"
+  ],
+  "total_documents": 1527,
+  "source_counts": {
+    "tob2": 383,
+    "cc": 356,
+    "tob3": 397,
+    "tob": 391
+  },
+  "api_base": "https://api.open5e.com/v1",
+  "license": "Open Gaming License / Creative Commons (varies by source)",
+  "documents": {
+    "a-mi-kuk": {
+      "name": "A-mi-kuk",
+      "source": "tob2",
+      "file": "docs/a-mi-kuk.md"
+    },
+    "aalpamac": {
+      "name": "Aalpamac",
+      "source": "tob2",
+      "file": "docs/aalpamac.md"
+    },
+    "aatxe": {
+      "name": "Aatxe",
+      "source": "cc",
+      "file": "docs/aatxe.md"
+    },
+    "abaasy": {
+      "name": "Abaasy",
+      "source": "tob3",
+      "file": "docs/abaasy.md"
+    },
+    "abbanith-giant": {
+      "name": "Abbanith Giant",
+      "source": "tob2",
+      "file": "docs/abbanith-giant.md"
+    },
+    "aboleth-nihilith": {
+      "name": "Aboleth, Nihilith",
+      "source": "tob",
+      "file": "docs/aboleth-nihilith.md"
+    },
+    "abominable-beauty": {
+      "name": "Abominable Beauty",
+      "source": "tob",
+      "file": "docs/abominable-beauty.md"
+    },
+    "accursed-defiler": {
+      "name": "Accursed Defiler",
+      "source": "tob",
+      "file": "docs/accursed-defiler.md"
+    },
+    "acid-ant": {
+      "name": "Acid Ant",
+      "source": "cc",
+      "file": "docs/acid-ant.md"
+    },
+    "adult-boreal-dragon": {
+      "name": "Adult Boreal Dragon",
+      "source": "tob2",
+      "file": "docs/adult-boreal-dragon.md"
+    },
+    "adult-cave-dragon": {
+      "name": "Adult Cave Dragon",
+      "source": "tob",
+      "file": "docs/adult-cave-dragon.md"
+    },
+    "adult-flame-dragon": {
+      "name": "Adult Flame Dragon",
+      "source": "tob",
+      "file": "docs/adult-flame-dragon.md"
+    },
+    "adult-imperial-dragon": {
+      "name": "Adult Imperial Dragon",
+      "source": "tob2",
+      "file": "docs/adult-imperial-dragon.md"
+    },
+    "adult-light-dragon": {
+      "name": "Adult Light Dragon",
+      "source": "cc",
+      "file": "docs/adult-light-dragon.md"
+    },
+    "adult-mithral-dragon": {
+      "name": "Adult Mithral Dragon",
+      "source": "tob",
+      "file": "docs/adult-mithral-dragon.md"
+    },
+    "adult-rime-worm": {
+      "name": "Adult Rime Worm",
+      "source": "tob",
+      "file": "docs/adult-rime-worm.md"
+    },
+    "adult-sea-dragon": {
+      "name": "Adult Sea Dragon",
+      "source": "tob",
+      "file": "docs/adult-sea-dragon.md"
+    },
+    "adult-void-dragon": {
+      "name": "Adult Void Dragon",
+      "source": "tob",
+      "file": "docs/adult-void-dragon.md"
+    },
+    "adult-wasteland-dragon": {
+      "name": "Adult Wasteland Dragon",
+      "source": "cc",
+      "file": "docs/adult-wasteland-dragon.md"
+    },
+    "adult-wind-dragon": {
+      "name": "Adult Wind Dragon",
+      "source": "tob",
+      "file": "docs/adult-wind-dragon.md"
+    },
+    "agnibarra": {
+      "name": "Agnibarra",
+      "source": "cc",
+      "file": "docs/agnibarra.md"
+    },
+    "ahu-nixta": {
+      "name": "Ahu-Nixta",
+      "source": "cc",
+      "file": "docs/ahu-nixta.md"
+    },
+    "ahu-nixta-cataphract": {
+      "name": "Ahu-Nixta Cataphract",
+      "source": "tob2",
+      "file": "docs/ahu-nixta-cataphract.md"
+    },
+    "ahu-nixta-drudge": {
+      "name": "Ahu-Nixta Drudge",
+      "source": "tob2",
+      "file": "docs/ahu-nixta-drudge.md"
+    },
+    "ahu-nixta-mechanon": {
+      "name": "Ahu-Nixta Mechanon",
+      "source": "tob3",
+      "file": "docs/ahu-nixta-mechanon.md"
+    },
+    "ahuizotl": {
+      "name": "Ahuizotl",
+      "source": "cc",
+      "file": "docs/ahuizotl.md"
+    },
+    "akaasit": {
+      "name": "Akaasit",
+      "source": "tob2",
+      "file": "docs/akaasit.md"
+    },
+    "akanka": {
+      "name": "Akanka",
+      "source": "tob3",
+      "file": "docs/akanka.md"
+    },
+    "akhlut": {
+      "name": "Akhlut",
+      "source": "tob2",
+      "file": "docs/akhlut.md"
+    },
+    "akkorokamui": {
+      "name": "Akkorokamui",
+      "source": "tob3",
+      "file": "docs/akkorokamui.md"
+    },
+    "al-aeshma-genie": {
+      "name": "Al-Aeshma Genie",
+      "source": "tob",
+      "file": "docs/al-aeshma-genie.md"
+    },
+    "ala": {
+      "name": "Ala",
+      "source": "tob",
+      "file": "docs/ala.md"
+    },
+    "alabaster-tree": {
+      "name": "Alabaster Tree",
+      "source": "cc",
+      "file": "docs/alabaster-tree.md"
+    },
+    "alabroza": {
+      "name": "Alabroza",
+      "source": "tob3",
+      "file": "docs/alabroza.md"
+    },
+    "alabroza-bloodfiend": {
+      "name": "Alabroza, Bloodfiend",
+      "source": "tob3",
+      "file": "docs/alabroza-bloodfiend.md"
+    },
+    "alazai": {
+      "name": "Alazai",
+      "source": "tob3",
+      "file": "docs/alazai.md"
+    },
+    "albino-death-weasel": {
+      "name": "Albino Death Weasel",
+      "source": "cc",
+      "file": "docs/albino-death-weasel.md"
+    },
+    "alchemical-apprentice": {
+      "name": "Alchemical Apprentice",
+      "source": "cc",
+      "file": "docs/alchemical-apprentice.md"
+    },
+    "alchemical-golem": {
+      "name": "Alchemical Golem",
+      "source": "cc",
+      "file": "docs/alchemical-golem.md"
+    },
+    "alchemical-skunk": {
+      "name": "Alchemical Skunk",
+      "source": "tob2",
+      "file": "docs/alchemical-skunk.md"
+    },
+    "alchemist-archer": {
+      "name": "Alchemist Archer",
+      "source": "cc",
+      "file": "docs/alchemist-archer.md"
+    },
+    "alehouse-drake": {
+      "name": "Alehouse Drake",
+      "source": "tob",
+      "file": "docs/alehouse-drake.md"
+    },
+    "algorith": {
+      "name": "Algorith",
+      "source": "tob",
+      "file": "docs/algorith.md"
+    },
+    "alke": {
+      "name": "Alke",
+      "source": "tob3",
+      "file": "docs/alke.md"
+    },
+    "alkonost": {
+      "name": "Alkonost",
+      "source": "cc",
+      "file": "docs/alkonost.md"
+    },
+    "alligator": {
+      "name": "Alligator",
+      "source": "tob2",
+      "file": "docs/alligator.md"
+    },
+    "alligator-turtle": {
+      "name": "Alligator Turtle",
+      "source": "tob2",
+      "file": "docs/alligator-turtle.md"
+    },
+    "alliumite": {
+      "name": "Alliumite",
+      "source": "cc",
+      "file": "docs/alliumite.md"
+    },
+    "alliumite-husker": {
+      "name": "Alliumite, Husker",
+      "source": "tob3",
+      "file": "docs/alliumite-husker.md"
+    },
+    "alliumite-rapscallion": {
+      "name": "Alliumite, Rapscallion",
+      "source": "tob3",
+      "file": "docs/alliumite-rapscallion.md"
+    },
+    "alnaar": {
+      "name": "Alnaar",
+      "source": "cc",
+      "file": "docs/alnaar.md"
+    },
+    "alp": {
+      "name": "Alp",
+      "source": "cc",
+      "file": "docs/alp.md"
+    },
+    "alpha-fish": {
+      "name": "Alpha Fish",
+      "source": "tob2",
+      "file": "docs/alpha-fish.md"
+    },
+    "alpha-yek": {
+      "name": "Alpha Yek",
+      "source": "cc",
+      "file": "docs/alpha-yek.md"
+    },
+    "alpine-creeper": {
+      "name": "Alpine Creeper",
+      "source": "tob3",
+      "file": "docs/alpine-creeper.md"
+    },
+    "alseid": {
+      "name": "Alseid",
+      "source": "tob",
+      "file": "docs/alseid.md"
+    },
+    "alseid-grovekeeper": {
+      "name": "Alseid Grovekeeper",
+      "source": "tob",
+      "file": "docs/alseid-grovekeeper.md"
+    },
+    "alseid-woad-warrior": {
+      "name": "Alseid, Woad Warrior",
+      "source": "tob3",
+      "file": "docs/alseid-woad-warrior.md"
+    },
+    "altar-flame-golem": {
+      "name": "Altar Flame Golem",
+      "source": "cc",
+      "file": "docs/altar-flame-golem.md"
+    },
+    "amber-ooze": {
+      "name": "Amber Ooze",
+      "source": "tob2",
+      "file": "docs/amber-ooze.md"
+    },
+    "ammut": {
+      "name": "Ammut",
+      "source": "cc",
+      "file": "docs/ammut.md"
+    },
+    "amphibolt": {
+      "name": "Amphibolt",
+      "source": "tob3",
+      "file": "docs/amphibolt.md"
+    },
+    "amphiptere": {
+      "name": "Amphiptere",
+      "source": "tob",
+      "file": "docs/amphiptere.md"
+    },
+    "ancient-boreal-dragon": {
+      "name": "Ancient Boreal Dragon",
+      "source": "tob2",
+      "file": "docs/ancient-boreal-dragon.md"
+    },
+    "ancient-flame-dragon": {
+      "name": "Ancient Flame Dragon",
+      "source": "tob",
+      "file": "docs/ancient-flame-dragon.md"
+    },
+    "ancient-imperial-dragon": {
+      "name": "Ancient Imperial Dragon",
+      "source": "tob2",
+      "file": "docs/ancient-imperial-dragon.md"
+    },
+    "ancient-light-dragon": {
+      "name": "Ancient Light Dragon",
+      "source": "cc",
+      "file": "docs/ancient-light-dragon.md"
+    },
+    "ancient-mandriano": {
+      "name": "Ancient Mandriano",
+      "source": "cc",
+      "file": "docs/ancient-mandriano.md"
+    },
+    "ancient-mithral-dragon": {
+      "name": "Ancient Mithral Dragon",
+      "source": "tob",
+      "file": "docs/ancient-mithral-dragon.md"
+    },
+    "ancient-sea-dragon": {
+      "name": "Ancient Sea Dragon",
+      "source": "tob",
+      "file": "docs/ancient-sea-dragon.md"
+    },
+    "ancient-titan": {
+      "name": "Ancient Titan",
+      "source": "tob",
+      "file": "docs/ancient-titan.md"
+    },
+    "ancient-void-dragon": {
+      "name": "Ancient Void Dragon",
+      "source": "tob",
+      "file": "docs/ancient-void-dragon.md"
+    },
+    "ancient-wasteland-dragon": {
+      "name": "Ancient Wasteland Dragon",
+      "source": "cc",
+      "file": "docs/ancient-wasteland-dragon.md"
+    },
+    "ancient-wind-dragon": {
+      "name": "Ancient Wind Dragon",
+      "source": "tob",
+      "file": "docs/ancient-wind-dragon.md"
+    },
+    "andrenjinyi": {
+      "name": "Andrenjinyi",
+      "source": "tob",
+      "file": "docs/andrenjinyi.md"
+    },
+    "angatra": {
+      "name": "Angatra",
+      "source": "tob",
+      "file": "docs/angatra.md"
+    },
+    "angel-chained": {
+      "name": "Angel, Chained",
+      "source": "tob",
+      "file": "docs/angel-chained.md"
+    },
+    "angel-haladron": {
+      "name": "Angel, Haladron",
+      "source": "tob3",
+      "file": "docs/angel-haladron.md"
+    },
+    "angel-kalkydra": {
+      "name": "Angel, Kalkydra",
+      "source": "tob3",
+      "file": "docs/angel-kalkydra.md"
+    },
+    "angel-of-judgment": {
+      "name": "Angel of Judgment",
+      "source": "tob2",
+      "file": "docs/angel-of-judgment.md"
+    },
+    "angel-pelagic-deva": {
+      "name": "Angel, Pelagic Deva",
+      "source": "tob3",
+      "file": "docs/angel-pelagic-deva.md"
+    },
+    "angel-psychopomp": {
+      "name": "Angel, Psychopomp",
+      "source": "tob3",
+      "file": "docs/angel-psychopomp.md"
+    },
+    "angel-shrouded": {
+      "name": "Angel, Shrouded",
+      "source": "tob3",
+      "file": "docs/angel-shrouded.md"
+    },
+    "angel-zirnitran": {
+      "name": "Angel, Zirnitran",
+      "source": "tob3",
+      "file": "docs/angel-zirnitran.md"
+    },
+    "angelic-enforcer": {
+      "name": "Angelic Enforcer",
+      "source": "tob2",
+      "file": "docs/angelic-enforcer.md"
+    },
+    "angler-worm": {
+      "name": "Angler Worm",
+      "source": "tob",
+      "file": "docs/angler-worm.md"
+    },
+    "animal-lord-mammoth-queen": {
+      "name": "Animal Lord, Mammoth Queen",
+      "source": "tob3",
+      "file": "docs/animal-lord-mammoth-queen.md"
+    },
+    "animated-bearskin-rug": {
+      "name": "Animated Bearskin Rug",
+      "source": "tob2",
+      "file": "docs/animated-bearskin-rug.md"
+    },
+    "animated-instrument": {
+      "name": "Animated Instrument",
+      "source": "tob3",
+      "file": "docs/animated-instrument.md"
+    },
+    "animated-instrument-quartet": {
+      "name": "Animated Instrument, Quartet",
+      "source": "tob3",
+      "file": "docs/animated-instrument-quartet.md"
+    },
+    "animated-instrument-symphony": {
+      "name": "Animated Instrument, Symphony",
+      "source": "tob3",
+      "file": "docs/animated-instrument-symphony.md"
+    },
+    "animated-offal": {
+      "name": "Animated Offal",
+      "source": "tob3",
+      "file": "docs/animated-offal.md"
+    },
+    "aniwye": {
+      "name": "Aniwye",
+      "source": "tob2",
+      "file": "docs/aniwye.md"
+    },
+    "ankou-soul-herald": {
+      "name": "Ankou Soul Herald",
+      "source": "cc",
+      "file": "docs/ankou-soul-herald.md"
+    },
+    "ankou-soul-seeker": {
+      "name": "Ankou Soul Seeker",
+      "source": "cc",
+      "file": "docs/ankou-soul-seeker.md"
+    },
+    "anophiloi": {
+      "name": "Anophiloi",
+      "source": "cc",
+      "file": "docs/anophiloi.md"
+    },
+    "anubian": {
+      "name": "Anubian",
+      "source": "tob",
+      "file": "docs/anubian.md"
+    },
+    "anzu": {
+      "name": "Anzu",
+      "source": "tob2",
+      "file": "docs/anzu.md"
+    },
+    "apau-perape": {
+      "name": "Apau Perape",
+      "source": "tob",
+      "file": "docs/apau-perape.md"
+    },
+    "apaxrusl": {
+      "name": "Apaxrusl",
+      "source": "tob2",
+      "file": "docs/apaxrusl.md"
+    },
+    "aphasian-abomination": {
+      "name": "Aphasian Abomination",
+      "source": "tob3",
+      "file": "docs/aphasian-abomination.md"
+    },
+    "arachnocrat": {
+      "name": "Arachnocrat",
+      "source": "tob2",
+      "file": "docs/arachnocrat.md"
+    },
+    "arbeyach": {
+      "name": "Arbeyach",
+      "source": "tob",
+      "file": "docs/arbeyach.md"
+    },
+    "arborcyte": {
+      "name": "Arborcyte",
+      "source": "cc",
+      "file": "docs/arborcyte.md"
+    },
+    "arboreal-grappler": {
+      "name": "Arboreal Grappler",
+      "source": "tob",
+      "file": "docs/arboreal-grappler.md"
+    },
+    "arcamag": {
+      "name": "Arcamag",
+      "source": "cc",
+      "file": "docs/arcamag.md"
+    },
+    "arcanaphage": {
+      "name": "Arcanaphage",
+      "source": "cc",
+      "file": "docs/arcanaphage.md"
+    },
+    "arcane-leviathan": {
+      "name": "Arcane Leviathan",
+      "source": "tob3",
+      "file": "docs/arcane-leviathan.md"
+    },
+    "arcane-scavenger": {
+      "name": "Arcane Scavenger",
+      "source": "tob3",
+      "file": "docs/arcane-scavenger.md"
+    },
+    "archaeopteryx": {
+      "name": "Archaeopteryx",
+      "source": "cc",
+      "file": "docs/archaeopteryx.md"
+    },
+    "archon-siege": {
+      "name": "Archon, Siege",
+      "source": "tob3",
+      "file": "docs/archon-siege.md"
+    },
+    "archon-ursan": {
+      "name": "Archon, Ursan",
+      "source": "tob3",
+      "file": "docs/archon-ursan.md"
+    },
+    "archon-word": {
+      "name": "Archon, Word",
+      "source": "tob3",
+      "file": "docs/archon-word.md"
+    },
+    "aridni": {
+      "name": "Aridni",
+      "source": "tob",
+      "file": "docs/aridni.md"
+    },
+    "armory-golem": {
+      "name": "Armory Golem",
+      "source": "cc",
+      "file": "docs/armory-golem.md"
+    },
+    "asanbosam": {
+      "name": "Asanbosam",
+      "source": "tob",
+      "file": "docs/asanbosam.md"
+    },
+    "ash-drake": {
+      "name": "Ash Drake",
+      "source": "tob",
+      "file": "docs/ash-drake.md"
+    },
+    "ash-phoenix": {
+      "name": "Ash Phoenix",
+      "source": "tob2",
+      "file": "docs/ash-phoenix.md"
+    },
+    "ashen-custodian": {
+      "name": "Ashen Custodian",
+      "source": "tob2",
+      "file": "docs/ashen-custodian.md"
+    },
+    "asp-vine": {
+      "name": "Asp Vine",
+      "source": "tob3",
+      "file": "docs/asp-vine.md"
+    },
+    "astral-devourer": {
+      "name": "Astral Devourer",
+      "source": "tob2",
+      "file": "docs/astral-devourer.md"
+    },
+    "astral-snapper": {
+      "name": "Astral Snapper",
+      "source": "cc",
+      "file": "docs/astral-snapper.md"
+    },
+    "astralsupial": {
+      "name": "Astralsupial",
+      "source": "tob3",
+      "file": "docs/astralsupial.md"
+    },
+    "astri": {
+      "name": "Astri",
+      "source": "tob2",
+      "file": "docs/astri.md"
+    },
+    "attercroppe": {
+      "name": "Attercroppe",
+      "source": "tob2",
+      "file": "docs/attercroppe.md"
+    },
+    "august-rooster": {
+      "name": "August Rooster",
+      "source": "tob2",
+      "file": "docs/august-rooster.md"
+    },
+    "aural-hunter": {
+      "name": "Aural Hunter",
+      "source": "tob3",
+      "file": "docs/aural-hunter.md"
+    },
+    "aurora-horribilis": {
+      "name": "Aurora Horribilis",
+      "source": "tob2",
+      "file": "docs/aurora-horribilis.md"
+    },
+    "automata-devil": {
+      "name": "Automata Devil",
+      "source": "tob",
+      "file": "docs/automata-devil.md"
+    },
+    "avalanche-screamer": {
+      "name": "Avalanche Screamer",
+      "source": "tob2",
+      "file": "docs/avalanche-screamer.md"
+    },
+    "avatar-of-shoth": {
+      "name": "Avatar of Shoth",
+      "source": "cc",
+      "file": "docs/avatar-of-shoth.md"
+    },
+    "avestruzii": {
+      "name": "Avestruzii",
+      "source": "tob3",
+      "file": "docs/avestruzii.md"
+    },
+    "avestruzii-champion": {
+      "name": "Avestruzii Champion",
+      "source": "tob3",
+      "file": "docs/avestruzii-champion.md"
+    },
+    "aviere": {
+      "name": "Aviere",
+      "source": "tob2",
+      "file": "docs/aviere.md"
+    },
+    "avulzor": {
+      "name": "Avulzor",
+      "source": "tob2",
+      "file": "docs/avulzor.md"
+    },
+    "azeban": {
+      "name": "Azeban",
+      "source": "cc",
+      "file": "docs/azeban.md"
+    },
+    "azi-dahaka": {
+      "name": "Azi Dahaka",
+      "source": "cc",
+      "file": "docs/azi-dahaka.md"
+    },
+    "aziza": {
+      "name": "Aziza",
+      "source": "tob3",
+      "file": "docs/aziza.md"
+    },
+    "azza-gremlin": {
+      "name": "Azza Gremlin",
+      "source": "tob",
+      "file": "docs/azza-gremlin.md"
+    },
+    "baba-yagas-horsemen-black-night": {
+      "name": "Baba Yaga's Horsemen, Black Night",
+      "source": "tob",
+      "file": "docs/baba-yagas-horsemen-black-night.md"
+    },
+    "baba-yagas-horsemen-bright-day": {
+      "name": "Baba Yaga's Horsemen, Bright Day",
+      "source": "tob",
+      "file": "docs/baba-yagas-horsemen-bright-day.md"
+    },
+    "baba-yagas-horsemen-red-sun": {
+      "name": "Baba Yaga's Horsemen, Red Sun",
+      "source": "tob",
+      "file": "docs/baba-yagas-horsemen-red-sun.md"
+    },
+    "backup-holler-spider": {
+      "name": "Backup Holler Spider",
+      "source": "tob2",
+      "file": "docs/backup-holler-spider.md"
+    },
+    "bagiennik": {
+      "name": "Bagiennik",
+      "source": "tob",
+      "file": "docs/bagiennik.md"
+    },
+    "baleful-miasma": {
+      "name": "Baleful Miasma",
+      "source": "tob3",
+      "file": "docs/baleful-miasma.md"
+    },
+    "baliri-demon": {
+      "name": "Baliri Demon",
+      "source": "tob2",
+      "file": "docs/baliri-demon.md"
+    },
+    "balloon-spider": {
+      "name": "Balloon Spider",
+      "source": "tob2",
+      "file": "docs/balloon-spider.md"
+    },
+    "bandit-lord": {
+      "name": "Bandit Lord",
+      "source": "tob",
+      "file": "docs/bandit-lord.md"
+    },
+    "bannik": {
+      "name": "Bannik",
+      "source": "tob3",
+      "file": "docs/bannik.md"
+    },
+    "bar-brawl": {
+      "name": "Bar Brawl",
+      "source": "cc",
+      "file": "docs/bar-brawl.md"
+    },
+    "barometz": {
+      "name": "Barometz",
+      "source": "tob2",
+      "file": "docs/barometz.md"
+    },
+    "barong": {
+      "name": "Barong",
+      "source": "cc",
+      "file": "docs/barong.md"
+    },
+    "bastet-temple-cat": {
+      "name": "Bastet Temple Cat",
+      "source": "tob",
+      "file": "docs/bastet-temple-cat.md"
+    },
+    "bathhouse-drake": {
+      "name": "Bathhouse Drake",
+      "source": "cc",
+      "file": "docs/bathhouse-drake.md"
+    },
+    "beach-weird": {
+      "name": "Beach Weird",
+      "source": "tob3",
+      "file": "docs/beach-weird.md"
+    },
+    "bearfolk": {
+      "name": "Bearfolk",
+      "source": "tob",
+      "file": "docs/bearfolk.md"
+    },
+    "bearfolk-chieftain": {
+      "name": "Bearfolk Chieftain",
+      "source": "cc",
+      "file": "docs/bearfolk-chieftain.md"
+    },
+    "bearfolk-thunderstomper": {
+      "name": "Bearfolk Thunderstomper",
+      "source": "tob3",
+      "file": "docs/bearfolk-thunderstomper.md"
+    },
+    "bearing-golem": {
+      "name": "Bearing Golem",
+      "source": "tob2",
+      "file": "docs/bearing-golem.md"
+    },
+    "bearmit-crab": {
+      "name": "Bearmit Crab",
+      "source": "cc",
+      "file": "docs/bearmit-crab.md"
+    },
+    "beetle-clacker-soldier": {
+      "name": "Beetle, Clacker Soldier",
+      "source": "tob3",
+      "file": "docs/beetle-clacker-soldier.md"
+    },
+    "beetle-clacker-swarm": {
+      "name": "Beetle, Clacker Swarm",
+      "source": "tob3",
+      "file": "docs/beetle-clacker-swarm.md"
+    },
+    "befouled-weird": {
+      "name": "Befouled Weird",
+      "source": "tob2",
+      "file": "docs/befouled-weird.md"
+    },
+    "beggar-ghoul": {
+      "name": "Beggar Ghoul",
+      "source": "tob",
+      "file": "docs/beggar-ghoul.md"
+    },
+    "behtu": {
+      "name": "Behtu",
+      "source": "tob",
+      "file": "docs/behtu.md"
+    },
+    "beli": {
+      "name": "Beli",
+      "source": "tob",
+      "file": "docs/beli.md"
+    },
+    "belu": {
+      "name": "Belu",
+      "source": "tob3",
+      "file": "docs/belu.md"
+    },
+    "berberoka": {
+      "name": "Berberoka",
+      "source": "tob3",
+      "file": "docs/berberoka.md"
+    },
+    "bereginyas": {
+      "name": "Bereginyas",
+      "source": "tob",
+      "file": "docs/bereginyas.md"
+    },
+    "berstuc": {
+      "name": "Berstuc",
+      "source": "tob",
+      "file": "docs/berstuc.md"
+    },
+    "bilwis": {
+      "name": "Bilwis",
+      "source": "cc",
+      "file": "docs/bilwis.md"
+    },
+    "birgemon-seal": {
+      "name": "Birgemon Seal",
+      "source": "tob3",
+      "file": "docs/birgemon-seal.md"
+    },
+    "black-crier": {
+      "name": "Black Crier",
+      "source": "tob2",
+      "file": "docs/black-crier.md"
+    },
+    "black-knight-commander": {
+      "name": "Black Knight Commander",
+      "source": "tob",
+      "file": "docs/black-knight-commander.md"
+    },
+    "black-patch": {
+      "name": "Black Patch",
+      "source": "tob3",
+      "file": "docs/black-patch.md"
+    },
+    "black-shuck": {
+      "name": "Black Shuck",
+      "source": "tob3",
+      "file": "docs/black-shuck.md"
+    },
+    "black-sun-orc": {
+      "name": "Black Sun Orc",
+      "source": "cc",
+      "file": "docs/black-sun-orc.md"
+    },
+    "black-sun-priestess": {
+      "name": "Black Sun Priestess",
+      "source": "cc",
+      "file": "docs/black-sun-priestess.md"
+    },
+    "blaspheming-hand": {
+      "name": "Blaspheming Hand",
+      "source": "tob3",
+      "file": "docs/blaspheming-hand.md"
+    },
+    "bleakheart": {
+      "name": "Bleakheart",
+      "source": "tob2",
+      "file": "docs/bleakheart.md"
+    },
+    "blemmyes": {
+      "name": "Blemmyes",
+      "source": "tob",
+      "file": "docs/blemmyes.md"
+    },
+    "blestsessebe": {
+      "name": "Blestsessebe",
+      "source": "tob3",
+      "file": "docs/blestsessebe.md"
+    },
+    "bloated-ghoul": {
+      "name": "Bloated Ghoul",
+      "source": "tob2",
+      "file": "docs/bloated-ghoul.md"
+    },
+    "blood-barnacle": {
+      "name": "Blood Barnacle",
+      "source": "tob3",
+      "file": "docs/blood-barnacle.md"
+    },
+    "blood-elemental": {
+      "name": "Blood Elemental",
+      "source": "cc",
+      "file": "docs/blood-elemental.md"
+    },
+    "blood-flurry": {
+      "name": "Blood Flurry",
+      "source": "tob3",
+      "file": "docs/blood-flurry.md"
+    },
+    "blood-giant": {
+      "name": "Blood Giant",
+      "source": "cc",
+      "file": "docs/blood-giant.md"
+    },
+    "blood-hag": {
+      "name": "Blood Hag",
+      "source": "tob",
+      "file": "docs/blood-hag.md"
+    },
+    "blood-imp": {
+      "name": "Blood Imp",
+      "source": "tob2",
+      "file": "docs/blood-imp.md"
+    },
+    "blood-ooze": {
+      "name": "Blood Ooze",
+      "source": "cc",
+      "file": "docs/blood-ooze.md"
+    },
+    "blood-zombie": {
+      "name": "Blood Zombie",
+      "source": "cc",
+      "file": "docs/blood-zombie.md"
+    },
+    "bloodsapper": {
+      "name": "Bloodsapper",
+      "source": "tob2",
+      "file": "docs/bloodsapper.md"
+    },
+    "bloodstone-sentinel": {
+      "name": "Bloodstone Sentinel",
+      "source": "tob2",
+      "file": "docs/bloodstone-sentinel.md"
+    },
+    "bloody-bones": {
+      "name": "Bloody Bones",
+      "source": "cc",
+      "file": "docs/bloody-bones.md"
+    },
+    "boloti": {
+      "name": "Boloti",
+      "source": "tob",
+      "file": "docs/boloti.md"
+    },
+    "bone-collective": {
+      "name": "Bone Collective",
+      "source": "tob",
+      "file": "docs/bone-collective.md"
+    },
+    "bone-collector": {
+      "name": "Bone Collector",
+      "source": "tob3",
+      "file": "docs/bone-collector.md"
+    },
+    "bone-colossus": {
+      "name": "Bone Colossus",
+      "source": "tob2",
+      "file": "docs/bone-colossus.md"
+    },
+    "bone-crab": {
+      "name": "Bone Crab",
+      "source": "tob",
+      "file": "docs/bone-crab.md"
+    },
+    "bone-golem": {
+      "name": "Bone Golem",
+      "source": "cc",
+      "file": "docs/bone-golem.md"
+    },
+    "bone-lord": {
+      "name": "Bone Lord",
+      "source": "tob3",
+      "file": "docs/bone-lord.md"
+    },
+    "bone-swarm": {
+      "name": "Bone Swarm",
+      "source": "tob",
+      "file": "docs/bone-swarm.md"
+    },
+    "bonepowder-ghoul": {
+      "name": "Bonepowder Ghoul",
+      "source": "tob",
+      "file": "docs/bonepowder-ghoul.md"
+    },
+    "boneshard-wraith": {
+      "name": "Boneshard Wraith",
+      "source": "tob2",
+      "file": "docs/boneshard-wraith.md"
+    },
+    "bonespitter": {
+      "name": "Bonespitter",
+      "source": "tob2",
+      "file": "docs/bonespitter.md"
+    },
+    "bookkeeper": {
+      "name": "Bookkeeper",
+      "source": "cc",
+      "file": "docs/bookkeeper.md"
+    },
+    "boomer": {
+      "name": "Boomer",
+      "source": "tob2",
+      "file": "docs/boomer.md"
+    },
+    "boot-grabber": {
+      "name": "Boot Grabber",
+      "source": "cc",
+      "file": "docs/boot-grabber.md"
+    },
+    "boreal-dragon-wyrmling": {
+      "name": "Boreal Dragon Wyrmling",
+      "source": "tob2",
+      "file": "docs/boreal-dragon-wyrmling.md"
+    },
+    "boreas-chosen": {
+      "name": "Boreas’ Chosen",
+      "source": "tob2",
+      "file": "docs/boreas-chosen.md"
+    },
+    "bouda": {
+      "name": "Bouda",
+      "source": "tob",
+      "file": "docs/bouda.md"
+    },
+    "brachyura-shambler": {
+      "name": "Brachyura Shambler",
+      "source": "tob2",
+      "file": "docs/brachyura-shambler.md"
+    },
+    "brain-coral": {
+      "name": "Brain Coral",
+      "source": "tob3",
+      "file": "docs/brain-coral.md"
+    },
+    "brain-hood": {
+      "name": "Brain Hood",
+      "source": "tob2",
+      "file": "docs/brain-hood.md"
+    },
+    "brimstone-locusthound": {
+      "name": "Brimstone Locusthound",
+      "source": "tob2",
+      "file": "docs/brimstone-locusthound.md"
+    },
+    "bronze-golem": {
+      "name": "Bronze Golem",
+      "source": "cc",
+      "file": "docs/bronze-golem.md"
+    },
+    "broodiken": {
+      "name": "Broodiken",
+      "source": "tob",
+      "file": "docs/broodiken.md"
+    },
+    "broodmother-of-leng": {
+      "name": "Broodmother of Leng",
+      "source": "tob2",
+      "file": "docs/broodmother-of-leng.md"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "source": "tob3",
+      "file": "docs/brownie.md"
+    },
+    "brownie-beastrider": {
+      "name": "Brownie Beastrider",
+      "source": "tob3",
+      "file": "docs/brownie-beastrider.md"
+    },
+    "brownie-mystic": {
+      "name": "Brownie Mystic",
+      "source": "tob3",
+      "file": "docs/brownie-mystic.md"
+    },
+    "brumalek": {
+      "name": "Brumalek",
+      "source": "tob3",
+      "file": "docs/brumalek.md"
+    },
+    "bucca": {
+      "name": "Bucca",
+      "source": "tob",
+      "file": "docs/bucca.md"
+    },
+    "bukavac": {
+      "name": "Bukavac",
+      "source": "tob",
+      "file": "docs/bukavac.md"
+    },
+    "bulbous-violet": {
+      "name": "Bulbous Violet",
+      "source": "tob2",
+      "file": "docs/bulbous-violet.md"
+    },
+    "bull": {
+      "name": "Bull",
+      "source": "tob2",
+      "file": "docs/bull.md"
+    },
+    "buraq": {
+      "name": "Buraq",
+      "source": "tob",
+      "file": "docs/buraq.md"
+    },
+    "burrowling": {
+      "name": "Burrowling",
+      "source": "tob",
+      "file": "docs/burrowling.md"
+    },
+    "butatsch": {
+      "name": "Butatsch",
+      "source": "tob2",
+      "file": "docs/butatsch.md"
+    },
+    "cackling-skeleton": {
+      "name": "Cackling Skeleton",
+      "source": "tob2",
+      "file": "docs/cackling-skeleton.md"
+    },
+    "cactid": {
+      "name": "Cactid",
+      "source": "tob",
+      "file": "docs/cactid.md"
+    },
+    "cacus-giant": {
+      "name": "Cacus Giant",
+      "source": "cc",
+      "file": "docs/cacus-giant.md"
+    },
+    "cadaver-sprite": {
+      "name": "Cadaver Sprite",
+      "source": "tob2",
+      "file": "docs/cadaver-sprite.md"
+    },
+    "caldera-kite": {
+      "name": "Caldera Kite",
+      "source": "tob3",
+      "file": "docs/caldera-kite.md"
+    },
+    "caltrop-golem": {
+      "name": "Caltrop Golem",
+      "source": "tob2",
+      "file": "docs/caltrop-golem.md"
+    },
+    "cambium": {
+      "name": "Cambium",
+      "source": "tob",
+      "file": "docs/cambium.md"
+    },
+    "capybear": {
+      "name": "Capybear",
+      "source": "tob3",
+      "file": "docs/capybear.md"
+    },
+    "carbuncle": {
+      "name": "Carbuncle",
+      "source": "cc",
+      "file": "docs/carbuncle.md"
+    },
+    "caretaker-weevil": {
+      "name": "Caretaker Weevil",
+      "source": "tob3",
+      "file": "docs/caretaker-weevil.md"
+    },
+    "carnivorous-ship": {
+      "name": "Carnivorous Ship",
+      "source": "tob2",
+      "file": "docs/carnivorous-ship.md"
+    },
+    "carnivorous-sod": {
+      "name": "Carnivorous Sod",
+      "source": "tob2",
+      "file": "docs/carnivorous-sod.md"
+    },
+    "carrier-mosquito": {
+      "name": "Carrier Mosquito",
+      "source": "tob2",
+      "file": "docs/carrier-mosquito.md"
+    },
+    "carrion-beetle": {
+      "name": "Carrion Beetle",
+      "source": "tob",
+      "file": "docs/carrion-beetle.md"
+    },
+    "catamount": {
+      "name": "Catamount",
+      "source": "tob3",
+      "file": "docs/catamount.md"
+    },
+    "catonoctrix": {
+      "name": "Catonoctrix",
+      "source": "tob3",
+      "file": "docs/catonoctrix.md"
+    },
+    "cats-of-ulthar": {
+      "name": "Cats of Ulthar",
+      "source": "cc",
+      "file": "docs/cats-of-ulthar.md"
+    },
+    "catscratch": {
+      "name": "Catscratch",
+      "source": "tob2",
+      "file": "docs/catscratch.md"
+    },
+    "catterball": {
+      "name": "Catterball",
+      "source": "tob3",
+      "file": "docs/catterball.md"
+    },
+    "cauldronborn": {
+      "name": "Cauldronborn",
+      "source": "cc",
+      "file": "docs/cauldronborn.md"
+    },
+    "cave-dragon-wyrmling": {
+      "name": "Cave Dragon Wyrmling",
+      "source": "tob",
+      "file": "docs/cave-dragon-wyrmling.md"
+    },
+    "cave-drake": {
+      "name": "Cave Drake",
+      "source": "tob2",
+      "file": "docs/cave-drake.md"
+    },
+    "cave-giant": {
+      "name": "Cave Giant",
+      "source": "cc",
+      "file": "docs/cave-giant.md"
+    },
+    "cave-giant-shaman": {
+      "name": "Cave Giant Shaman",
+      "source": "tob2",
+      "file": "docs/cave-giant-shaman.md"
+    },
+    "cave-goat": {
+      "name": "Cave Goat",
+      "source": "tob2",
+      "file": "docs/cave-goat.md"
+    },
+    "cave-mimic": {
+      "name": "Cave Mimic",
+      "source": "tob3",
+      "file": "docs/cave-mimic.md"
+    },
+    "cave-sovereign": {
+      "name": "Cave Sovereign",
+      "source": "tob3",
+      "file": "docs/cave-sovereign.md"
+    },
+    "cavefish-zombie": {
+      "name": "Cavefish Zombie",
+      "source": "tob2",
+      "file": "docs/cavefish-zombie.md"
+    },
+    "cavelight-moss": {
+      "name": "Cavelight Moss",
+      "source": "tob",
+      "file": "docs/cavelight-moss.md"
+    },
+    "centaur-chieftain": {
+      "name": "Centaur Chieftain",
+      "source": "cc",
+      "file": "docs/centaur-chieftain.md"
+    },
+    "chameleon-hydra": {
+      "name": "Chameleon Hydra",
+      "source": "tob2",
+      "file": "docs/chameleon-hydra.md"
+    },
+    "chamrosh": {
+      "name": "Chamrosh",
+      "source": "tob2",
+      "file": "docs/chamrosh.md"
+    },
+    "chaos-creeper": {
+      "name": "Chaos Creeper",
+      "source": "tob3",
+      "file": "docs/chaos-creeper.md"
+    },
+    "chaos-raptor": {
+      "name": "Chaos Raptor",
+      "source": "tob3",
+      "file": "docs/chaos-raptor.md"
+    },
+    "chaos-spawn-goblin": {
+      "name": "Chaos-Spawn Goblin",
+      "source": "cc",
+      "file": "docs/chaos-spawn-goblin.md"
+    },
+    "chatterlome": {
+      "name": "Chatterlome",
+      "source": "tob2",
+      "file": "docs/chatterlome.md"
+    },
+    "chelicerae": {
+      "name": "Chelicerae",
+      "source": "tob",
+      "file": "docs/chelicerae.md"
+    },
+    "chemosit": {
+      "name": "Chemosit",
+      "source": "tob3",
+      "file": "docs/chemosit.md"
+    },
+    "chernomoi": {
+      "name": "Chernomoi",
+      "source": "tob",
+      "file": "docs/chernomoi.md"
+    },
+    "cherufe": {
+      "name": "Cherufe",
+      "source": "tob2",
+      "file": "docs/cherufe.md"
+    },
+    "child-of-the-briar": {
+      "name": "Child Of The Briar",
+      "source": "tob",
+      "file": "docs/child-of-the-briar.md"
+    },
+    "child-of-yggdrasil": {
+      "name": "Child of Yggdrasil",
+      "source": "cc",
+      "file": "docs/child-of-yggdrasil.md"
+    },
+    "chill-haunt": {
+      "name": "Chill Haunt",
+      "source": "tob2",
+      "file": "docs/chill-haunt.md"
+    },
+    "chimera-royal": {
+      "name": "Chimera, Royal",
+      "source": "tob3",
+      "file": "docs/chimera-royal.md"
+    },
+    "chimeric-phantom": {
+      "name": "Chimeric Phantom",
+      "source": "tob2",
+      "file": "docs/chimeric-phantom.md"
+    },
+    "chort-devil": {
+      "name": "Chort Devil",
+      "source": "tob",
+      "file": "docs/chort-devil.md"
+    },
+    "chroma-lizard": {
+      "name": "Chroma Lizard",
+      "source": "tob3",
+      "file": "docs/chroma-lizard.md"
+    },
+    "chronalmental": {
+      "name": "Chronalmental",
+      "source": "tob",
+      "file": "docs/chronalmental.md"
+    },
+    "chronomatic-enhancer": {
+      "name": "Chronomatic Enhancer",
+      "source": "tob2",
+      "file": "docs/chronomatic-enhancer.md"
+    },
+    "chuhaister": {
+      "name": "Chuhaister",
+      "source": "cc",
+      "file": "docs/chuhaister.md"
+    },
+    "chupacabra": {
+      "name": "Chupacabra",
+      "source": "cc",
+      "file": "docs/chupacabra.md"
+    },
+    "cikavak": {
+      "name": "Cikavak",
+      "source": "tob",
+      "file": "docs/cikavak.md"
+    },
+    "cipactli": {
+      "name": "Cipactli",
+      "source": "cc",
+      "file": "docs/cipactli.md"
+    },
+    "city-watch-captain": {
+      "name": "City Watch Captain",
+      "source": "tob",
+      "file": "docs/city-watch-captain.md"
+    },
+    "clacking-skeleton": {
+      "name": "Clacking Skeleton",
+      "source": "cc",
+      "file": "docs/clacking-skeleton.md"
+    },
+    "climbing-vine": {
+      "name": "Climbing Vine",
+      "source": "tob3",
+      "file": "docs/climbing-vine.md"
+    },
+    "clockwork-abomination": {
+      "name": "Clockwork Abomination",
+      "source": "tob",
+      "file": "docs/clockwork-abomination.md"
+    },
+    "clockwork-archon": {
+      "name": "Clockwork Archon",
+      "source": "tob2",
+      "file": "docs/clockwork-archon.md"
+    },
+    "clockwork-armadillo": {
+      "name": "Clockwork Armadillo",
+      "source": "tob3",
+      "file": "docs/clockwork-armadillo.md"
+    },
+    "clockwork-assassin": {
+      "name": "Clockwork Assassin",
+      "source": "cc",
+      "file": "docs/clockwork-assassin.md"
+    },
+    "clockwork-beetle": {
+      "name": "Clockwork Beetle",
+      "source": "tob",
+      "file": "docs/clockwork-beetle.md"
+    },
+    "clockwork-beetle-swarm": {
+      "name": "Clockwork Beetle Swarm",
+      "source": "tob",
+      "file": "docs/clockwork-beetle-swarm.md"
+    },
+    "clockwork-conductor": {
+      "name": "Clockwork Conductor",
+      "source": "tob3",
+      "file": "docs/clockwork-conductor.md"
+    },
+    "clockwork-hound": {
+      "name": "Clockwork Hound",
+      "source": "tob",
+      "file": "docs/clockwork-hound.md"
+    },
+    "clockwork-huntsman": {
+      "name": "Clockwork Huntsman",
+      "source": "tob",
+      "file": "docs/clockwork-huntsman.md"
+    },
+    "clockwork-leech": {
+      "name": "Clockwork Leech",
+      "source": "tob2",
+      "file": "docs/clockwork-leech.md"
+    },
+    "clockwork-mantis": {
+      "name": "Clockwork Mantis",
+      "source": "tob2",
+      "file": "docs/clockwork-mantis.md"
+    },
+    "clockwork-myrmidon": {
+      "name": "Clockwork Myrmidon",
+      "source": "tob",
+      "file": "docs/clockwork-myrmidon.md"
+    },
+    "clockwork-pugilist": {
+      "name": "Clockwork Pugilist",
+      "source": "tob3",
+      "file": "docs/clockwork-pugilist.md"
+    },
+    "clockwork-scorpion": {
+      "name": "Clockwork Scorpion",
+      "source": "tob3",
+      "file": "docs/clockwork-scorpion.md"
+    },
+    "clockwork-servant": {
+      "name": "Clockwork Servant",
+      "source": "cc",
+      "file": "docs/clockwork-servant.md"
+    },
+    "clockwork-soldier": {
+      "name": "Clockwork Soldier",
+      "source": "cc",
+      "file": "docs/clockwork-soldier.md"
+    },
+    "clockwork-tactician": {
+      "name": "Clockwork Tactician",
+      "source": "tob3",
+      "file": "docs/clockwork-tactician.md"
+    },
+    "clockwork-tiger": {
+      "name": "Clockwork Tiger",
+      "source": "tob2",
+      "file": "docs/clockwork-tiger.md"
+    },
+    "clockwork-watchman": {
+      "name": "Clockwork Watchman",
+      "source": "tob",
+      "file": "docs/clockwork-watchman.md"
+    },
+    "cloudhoof-assassin": {
+      "name": "Cloudhoof Assassin",
+      "source": "tob3",
+      "file": "docs/cloudhoof-assassin.md"
+    },
+    "clurichaun": {
+      "name": "Clurichaun",
+      "source": "tob",
+      "file": "docs/clurichaun.md"
+    },
+    "coastline-reaper": {
+      "name": "Coastline Reaper",
+      "source": "tob3",
+      "file": "docs/coastline-reaper.md"
+    },
+    "cobbleswarm": {
+      "name": "Cobbleswarm",
+      "source": "tob",
+      "file": "docs/cobbleswarm.md"
+    },
+    "collais": {
+      "name": "Colláis",
+      "source": "tob2",
+      "file": "docs/collais.md"
+    },
+    "compsognathus": {
+      "name": "Compsognathus",
+      "source": "tob2",
+      "file": "docs/compsognathus.md"
+    },
+    "conjoined-queen": {
+      "name": "Conjoined Queen",
+      "source": "tob2",
+      "file": "docs/conjoined-queen.md"
+    },
+    "conniption-bug": {
+      "name": "Conniption Bug",
+      "source": "tob3",
+      "file": "docs/conniption-bug.md"
+    },
+    "copperkill-slime": {
+      "name": "Copperkill Slime",
+      "source": "tob3",
+      "file": "docs/copperkill-slime.md"
+    },
+    "coral-drake": {
+      "name": "Coral Drake",
+      "source": "tob",
+      "file": "docs/coral-drake.md"
+    },
+    "corpse-mound": {
+      "name": "Corpse Mound",
+      "source": "tob",
+      "file": "docs/corpse-mound.md"
+    },
+    "corpse-thief": {
+      "name": "Corpse Thief",
+      "source": "cc",
+      "file": "docs/corpse-thief.md"
+    },
+    "corpse-worm": {
+      "name": "Corpse Worm",
+      "source": "tob2",
+      "file": "docs/corpse-worm.md"
+    },
+    "corpselight-moth": {
+      "name": "Corpselight Moth",
+      "source": "tob3",
+      "file": "docs/corpselight-moth.md"
+    },
+    "corrupted-pixie": {
+      "name": "Corrupted Pixie",
+      "source": "tob2",
+      "file": "docs/corrupted-pixie.md"
+    },
+    "corrupting-ooze": {
+      "name": "Corrupting Ooze",
+      "source": "tob",
+      "file": "docs/corrupting-ooze.md"
+    },
+    "cosmic-symphony": {
+      "name": "Cosmic Symphony",
+      "source": "tob3",
+      "file": "docs/cosmic-symphony.md"
+    },
+    "crab-duffel": {
+      "name": "Crab, Duffel",
+      "source": "tob3",
+      "file": "docs/crab-duffel.md"
+    },
+    "crab-razorback": {
+      "name": "Crab, Razorback",
+      "source": "tob3",
+      "file": "docs/crab-razorback.md"
+    },
+    "crab-samurai": {
+      "name": "Crab, Samurai",
+      "source": "tob3",
+      "file": "docs/crab-samurai.md"
+    },
+    "crimson-drake": {
+      "name": "Crimson Drake",
+      "source": "tob",
+      "file": "docs/crimson-drake.md"
+    },
+    "crimson-mist": {
+      "name": "Crimson Mist",
+      "source": "cc",
+      "file": "docs/crimson-mist.md"
+    },
+    "crimson-shambler": {
+      "name": "Crimson Shambler",
+      "source": "tob2",
+      "file": "docs/crimson-shambler.md"
+    },
+    "crinaea": {
+      "name": "Crinaea",
+      "source": "tob2",
+      "file": "docs/crinaea.md"
+    },
+    "crocotta": {
+      "name": "Crocotta",
+      "source": "tob2",
+      "file": "docs/crocotta.md"
+    },
+    "cryoceros": {
+      "name": "Cryoceros",
+      "source": "tob2",
+      "file": "docs/cryoceros.md"
+    },
+    "crypt-spider": {
+      "name": "Crypt Spider",
+      "source": "cc",
+      "file": "docs/crypt-spider.md"
+    },
+    "crystalline-devil": {
+      "name": "Crystalline Devil",
+      "source": "tob",
+      "file": "docs/crystalline-devil.md"
+    },
+    "crystalline-monolith": {
+      "name": "Crystalline Monolith",
+      "source": "tob2",
+      "file": "docs/crystalline-monolith.md"
+    },
+    "crystallite": {
+      "name": "Crystallite",
+      "source": "tob3",
+      "file": "docs/crystallite.md"
+    },
+    "cueyatl": {
+      "name": "Cueyatl",
+      "source": "cc",
+      "file": "docs/cueyatl.md"
+    },
+    "cueyatl-moon-priest": {
+      "name": "Cueyatl Moon Priest",
+      "source": "cc",
+      "file": "docs/cueyatl-moon-priest.md"
+    },
+    "cueyatl-sea-priest": {
+      "name": "Cueyatl Sea Priest",
+      "source": "cc",
+      "file": "docs/cueyatl-sea-priest.md"
+    },
+    "cueyatl-warchief": {
+      "name": "Cueyatl Warchief",
+      "source": "tob3",
+      "file": "docs/cueyatl-warchief.md"
+    },
+    "cueyatl-warrior": {
+      "name": "Cueyatl Warrior",
+      "source": "cc",
+      "file": "docs/cueyatl-warrior.md"
+    },
+    "culicoid": {
+      "name": "Culicoid",
+      "source": "tob2",
+      "file": "docs/culicoid.md"
+    },
+    "cyonaxin": {
+      "name": "Cyonaxin",
+      "source": "tob3",
+      "file": "docs/cyonaxin.md"
+    },
+    "daeodon": {
+      "name": "Daeodon",
+      "source": "tob3",
+      "file": "docs/daeodon.md"
+    },
+    "dancing-foliage": {
+      "name": "Dancing Foliage",
+      "source": "tob2",
+      "file": "docs/dancing-foliage.md"
+    },
+    "darakhul-captain": {
+      "name": "Darakhul Captain",
+      "source": "tob2",
+      "file": "docs/darakhul-captain.md"
+    },
+    "darakhul-high-priestess": {
+      "name": "Darakhul High Priestess",
+      "source": "cc",
+      "file": "docs/darakhul-high-priestess.md"
+    },
+    "darakhul-shadowmancer": {
+      "name": "Darakhul Shadowmancer",
+      "source": "cc",
+      "file": "docs/darakhul-shadowmancer.md"
+    },
+    "darakhul-spy": {
+      "name": "Darakhul Spy",
+      "source": "tob2",
+      "file": "docs/darakhul-spy.md"
+    },
+    "dark-eye": {
+      "name": "Dark Eye",
+      "source": "cc",
+      "file": "docs/dark-eye.md"
+    },
+    "dark-father": {
+      "name": "Dark Father",
+      "source": "cc",
+      "file": "docs/dark-father.md"
+    },
+    "dark-servant": {
+      "name": "Dark Servant",
+      "source": "cc",
+      "file": "docs/dark-servant.md"
+    },
+    "dark-voice": {
+      "name": "Dark Voice",
+      "source": "cc",
+      "file": "docs/dark-voice.md"
+    },
+    "dau": {
+      "name": "Dau",
+      "source": "tob",
+      "file": "docs/dau.md"
+    },
+    "dawnfly": {
+      "name": "Dawnfly",
+      "source": "tob3",
+      "file": "docs/dawnfly.md"
+    },
+    "dawnfly-desolation-nymph": {
+      "name": "Dawnfly, Desolation Nymph",
+      "source": "tob3",
+      "file": "docs/dawnfly-desolation-nymph.md"
+    },
+    "de-ogen": {
+      "name": "De Ogen",
+      "source": "tob2",
+      "file": "docs/de-ogen.md"
+    },
+    "death-barque": {
+      "name": "Death Barque",
+      "source": "tob2",
+      "file": "docs/death-barque.md"
+    },
+    "death-butterfly-swarm": {
+      "name": "Death Butterfly Swarm",
+      "source": "tob",
+      "file": "docs/death-butterfly-swarm.md"
+    },
+    "death-shroud-golem": {
+      "name": "Death Shroud Golem",
+      "source": "tob2",
+      "file": "docs/death-shroud-golem.md"
+    },
+    "death-vulture": {
+      "name": "Death Vulture",
+      "source": "tob2",
+      "file": "docs/death-vulture.md"
+    },
+    "death-worm": {
+      "name": "Death Worm",
+      "source": "tob3",
+      "file": "docs/death-worm.md"
+    },
+    "deathcap-myconid": {
+      "name": "Deathcap Myconid",
+      "source": "tob",
+      "file": "docs/deathcap-myconid.md"
+    },
+    "deathspeaker": {
+      "name": "Deathspeaker",
+      "source": "tob2",
+      "file": "docs/deathspeaker.md"
+    },
+    "deathsworn-elf": {
+      "name": "Deathsworn Elf",
+      "source": "cc",
+      "file": "docs/deathsworn-elf.md"
+    },
+    "deathweaver": {
+      "name": "Deathweaver",
+      "source": "tob2",
+      "file": "docs/deathweaver.md"
+    },
+    "deathwisp": {
+      "name": "Deathwisp",
+      "source": "tob",
+      "file": "docs/deathwisp.md"
+    },
+    "deep-drake": {
+      "name": "Deep Drake",
+      "source": "tob",
+      "file": "docs/deep-drake.md"
+    },
+    "deep-one": {
+      "name": "Deep One",
+      "source": "tob",
+      "file": "docs/deep-one.md"
+    },
+    "deep-one-archimandrite": {
+      "name": "Deep One Archimandrite",
+      "source": "tob",
+      "file": "docs/deep-one-archimandrite.md"
+    },
+    "deep-one-hybrid-priest": {
+      "name": "Deep One Hybrid Priest",
+      "source": "tob",
+      "file": "docs/deep-one-hybrid-priest.md"
+    },
+    "deep-troll": {
+      "name": "Deep Troll",
+      "source": "tob2",
+      "file": "docs/deep-troll.md"
+    },
+    "degenerate-titan": {
+      "name": "Degenerate Titan",
+      "source": "tob",
+      "file": "docs/degenerate-titan.md"
+    },
+    "demon-balbazu": {
+      "name": "Demon, Balbazu",
+      "source": "tob3",
+      "file": "docs/demon-balbazu.md"
+    },
+    "demon-inciter": {
+      "name": "Demon, Inciter",
+      "source": "tob3",
+      "file": "docs/demon-inciter.md"
+    },
+    "demon-kogukhpak": {
+      "name": "Demon, Kogukhpak",
+      "source": "tob3",
+      "file": "docs/demon-kogukhpak.md"
+    },
+    "demon-leech": {
+      "name": "Demon, Leech",
+      "source": "tob3",
+      "file": "docs/demon-leech.md"
+    },
+    "demon-maha": {
+      "name": "Demon, Maha",
+      "source": "tob3",
+      "file": "docs/demon-maha.md"
+    },
+    "demon-vetala": {
+      "name": "Demon, Vetala",
+      "source": "tob3",
+      "file": "docs/demon-vetala.md"
+    },
+    "derendian-moth-abomination": {
+      "name": "Derendian Moth Abomination",
+      "source": "tob2",
+      "file": "docs/derendian-moth-abomination.md"
+    },
+    "derro-abysswalker": {
+      "name": "Derro, Abysswalker",
+      "source": "tob3",
+      "file": "docs/derro-abysswalker.md"
+    },
+    "derro-explorer": {
+      "name": "Derro Explorer",
+      "source": "tob2",
+      "file": "docs/derro-explorer.md"
+    },
+    "derro-fetal-savant": {
+      "name": "Derro Fetal Savant",
+      "source": "tob",
+      "file": "docs/derro-fetal-savant.md"
+    },
+    "derro-guard": {
+      "name": "Derro Guard",
+      "source": "tob2",
+      "file": "docs/derro-guard.md"
+    },
+    "derro-hellforged": {
+      "name": "Derro, Hellforged",
+      "source": "tob3",
+      "file": "docs/derro-hellforged.md"
+    },
+    "derro-shadow-antipaladin": {
+      "name": "Derro Shadow Antipaladin",
+      "source": "tob",
+      "file": "docs/derro-shadow-antipaladin.md"
+    },
+    "derro-shadowseeker": {
+      "name": "Derro Shadowseeker",
+      "source": "tob2",
+      "file": "docs/derro-shadowseeker.md"
+    },
+    "derro-voidwarped": {
+      "name": "Derro, Voidwarped",
+      "source": "tob3",
+      "file": "docs/derro-voidwarped.md"
+    },
+    "desert-giant": {
+      "name": "Desert Giant",
+      "source": "tob",
+      "file": "docs/desert-giant.md"
+    },
+    "desert-slime": {
+      "name": "Desert Slime",
+      "source": "tob3",
+      "file": "docs/desert-slime.md"
+    },
+    "desert-troll": {
+      "name": "Desert Troll",
+      "source": "cc",
+      "file": "docs/desert-troll.md"
+    },
+    "despair-and-anger": {
+      "name": "Despair And Anger",
+      "source": "tob3",
+      "file": "docs/despair-and-anger.md"
+    },
+    "destroyer": {
+      "name": "Destroyer",
+      "source": "tob2",
+      "file": "docs/destroyer.md"
+    },
+    "devil-bough": {
+      "name": "Devil Bough",
+      "source": "cc",
+      "file": "docs/devil-bough.md"
+    },
+    "devil-devilflame-juggler": {
+      "name": "Devil, Devilflame Juggler",
+      "source": "tob3",
+      "file": "docs/devil-devilflame-juggler.md"
+    },
+    "devil-infernal-tutor": {
+      "name": "Devil, Infernal Tutor",
+      "source": "tob3",
+      "file": "docs/devil-infernal-tutor.md"
+    },
+    "devil-infernal-tutor-lesser": {
+      "name": "Devil, Infernal Tutor, Lesser",
+      "source": "tob3",
+      "file": "docs/devil-infernal-tutor-lesser.md"
+    },
+    "devil-maelstrom": {
+      "name": "Devil, Maelstrom",
+      "source": "tob3",
+      "file": "docs/devil-maelstrom.md"
+    },
+    "devil-moldering": {
+      "name": "Devil, Moldering",
+      "source": "tob3",
+      "file": "docs/devil-moldering.md"
+    },
+    "devil-rimepacted": {
+      "name": "Devil, Rimepacted",
+      "source": "tob3",
+      "file": "docs/devil-rimepacted.md"
+    },
+    "devil-shark": {
+      "name": "Devil Shark",
+      "source": "cc",
+      "file": "docs/devil-shark.md"
+    },
+    "devilbound-gnomish-prince": {
+      "name": "Devilbound Gnomish Prince",
+      "source": "tob",
+      "file": "docs/devilbound-gnomish-prince.md"
+    },
+    "devouring-angel": {
+      "name": "Devouring Angel",
+      "source": "tob3",
+      "file": "docs/devouring-angel.md"
+    },
+    "dhampir": {
+      "name": "Dhampir",
+      "source": "cc",
+      "file": "docs/dhampir.md"
+    },
+    "dhampir-commander": {
+      "name": "Dhampir Commander",
+      "source": "cc",
+      "file": "docs/dhampir-commander.md"
+    },
+    "dimensional-shambler": {
+      "name": "Dimensional Shambler",
+      "source": "tob2",
+      "file": "docs/dimensional-shambler.md"
+    },
+    "diminution-drake": {
+      "name": "Diminution Drake",
+      "source": "tob2",
+      "file": "docs/diminution-drake.md"
+    },
+    "dinosaur-guardian-archaeopteryx": {
+      "name": "Dinosaur, Guardian Archaeopteryx",
+      "source": "tob3",
+      "file": "docs/dinosaur-guardian-archaeopteryx.md"
+    },
+    "dinosaur-jeholopterus": {
+      "name": "Dinosaur, Jeholopterus",
+      "source": "tob3",
+      "file": "docs/dinosaur-jeholopterus.md"
+    },
+    "dinosaur-razorfeather-raptor": {
+      "name": "Dinosaur, Razorfeather Raptor",
+      "source": "tob3",
+      "file": "docs/dinosaur-razorfeather-raptor.md"
+    },
+    "dinosaur-therizinosaurus": {
+      "name": "Dinosaur, Therizinosaurus",
+      "source": "tob3",
+      "file": "docs/dinosaur-therizinosaurus.md"
+    },
+    "dinosaur-thundercall-hadrosaur": {
+      "name": "Dinosaur, Thundercall Hadrosaur",
+      "source": "tob3",
+      "file": "docs/dinosaur-thundercall-hadrosaur.md"
+    },
+    "diomedian-horse": {
+      "name": "Diomedian Horse",
+      "source": "tob3",
+      "file": "docs/diomedian-horse.md"
+    },
+    "dipsa": {
+      "name": "Dipsa",
+      "source": "tob",
+      "file": "docs/dipsa.md"
+    },
+    "dire-lionfish": {
+      "name": "Dire Lionfish",
+      "source": "tob3",
+      "file": "docs/dire-lionfish.md"
+    },
+    "dire-owlbear": {
+      "name": "Dire Owlbear",
+      "source": "tob3",
+      "file": "docs/dire-owlbear.md"
+    },
+    "dire-pangolin": {
+      "name": "Dire Pangolin",
+      "source": "tob3",
+      "file": "docs/dire-pangolin.md"
+    },
+    "dire-wildebeest": {
+      "name": "Dire Wildebeest",
+      "source": "tob3",
+      "file": "docs/dire-wildebeest.md"
+    },
+    "dissimortuum": {
+      "name": "Dissimortuum",
+      "source": "tob",
+      "file": "docs/dissimortuum.md"
+    },
+    "div": {
+      "name": "Div",
+      "source": "tob3",
+      "file": "docs/div.md"
+    },
+    "diving-gel": {
+      "name": "Diving Gel",
+      "source": "tob3",
+      "file": "docs/diving-gel.md"
+    },
+    "dogmole": {
+      "name": "Dogmole",
+      "source": "tob",
+      "file": "docs/dogmole.md"
+    },
+    "dogmole-juggernaut": {
+      "name": "Dogmole Juggernaut",
+      "source": "tob",
+      "file": "docs/dogmole-juggernaut.md"
+    },
+    "dokkaebi": {
+      "name": "Dokkaebi",
+      "source": "tob3",
+      "file": "docs/dokkaebi.md"
+    },
+    "domovoi": {
+      "name": "Domovoi",
+      "source": "tob",
+      "file": "docs/domovoi.md"
+    },
+    "doom-creeper": {
+      "name": "Doom Creeper",
+      "source": "tob3",
+      "file": "docs/doom-creeper.md"
+    },
+    "doom-golem": {
+      "name": "Doom Golem",
+      "source": "cc",
+      "file": "docs/doom-golem.md"
+    },
+    "doppelixir": {
+      "name": "Doppelixir",
+      "source": "tob3",
+      "file": "docs/doppelixir.md"
+    },
+    "doppelrat": {
+      "name": "Doppelrat",
+      "source": "tob",
+      "file": "docs/doppelrat.md"
+    },
+    "dorreq": {
+      "name": "Dorreq",
+      "source": "tob",
+      "file": "docs/dorreq.md"
+    },
+    "dracotaur": {
+      "name": "Dracotaur",
+      "source": "cc",
+      "file": "docs/dracotaur.md"
+    },
+    "dragon-eel": {
+      "name": "Dragon Eel",
+      "source": "tob",
+      "file": "docs/dragon-eel.md"
+    },
+    "dragon-prismatic-adult": {
+      "name": "Dragon, Prismatic Adult",
+      "source": "tob3",
+      "file": "docs/dragon-prismatic-adult.md"
+    },
+    "dragon-prismatic-ancient": {
+      "name": "Dragon, Prismatic Ancient",
+      "source": "tob3",
+      "file": "docs/dragon-prismatic-ancient.md"
+    },
+    "dragon-prismatic-wyrmling": {
+      "name": "Dragon, Prismatic Wyrmling",
+      "source": "tob3",
+      "file": "docs/dragon-prismatic-wyrmling.md"
+    },
+    "dragon-prismatic-young": {
+      "name": "Dragon, Prismatic Young",
+      "source": "tob3",
+      "file": "docs/dragon-prismatic-young.md"
+    },
+    "dragon-sand-adult": {
+      "name": "Dragon, Sand Adult",
+      "source": "tob3",
+      "file": "docs/dragon-sand-adult.md"
+    },
+    "dragon-sand-ancient": {
+      "name": "Dragon, Sand Ancient",
+      "source": "tob3",
+      "file": "docs/dragon-sand-ancient.md"
+    },
+    "dragon-sand-wyrmling": {
+      "name": "Dragon, Sand Wyrmling",
+      "source": "tob3",
+      "file": "docs/dragon-sand-wyrmling.md"
+    },
+    "dragon-sand-young": {
+      "name": "Dragon, Sand Young",
+      "source": "tob3",
+      "file": "docs/dragon-sand-young.md"
+    },
+    "dragonette-barnyard": {
+      "name": "Dragonette, Barnyard",
+      "source": "tob3",
+      "file": "docs/dragonette-barnyard.md"
+    },
+    "dragonette-sedge": {
+      "name": "Dragonette, Sedge",
+      "source": "tob3",
+      "file": "docs/dragonette-sedge.md"
+    },
+    "dragonette-shovel": {
+      "name": "Dragonette, Shovel",
+      "source": "tob3",
+      "file": "docs/dragonette-shovel.md"
+    },
+    "dragonflesh-golem": {
+      "name": "Dragonflesh Golem",
+      "source": "tob2",
+      "file": "docs/dragonflesh-golem.md"
+    },
+    "dragonleaf-tree": {
+      "name": "Dragonleaf Tree",
+      "source": "tob",
+      "file": "docs/dragonleaf-tree.md"
+    },
+    "drake-bakery": {
+      "name": "Drake, Bakery",
+      "source": "tob3",
+      "file": "docs/drake-bakery.md"
+    },
+    "drake-cactus": {
+      "name": "Drake, Cactus",
+      "source": "tob3",
+      "file": "docs/drake-cactus.md"
+    },
+    "drake-ethereal": {
+      "name": "Drake, Ethereal",
+      "source": "tob3",
+      "file": "docs/drake-ethereal.md"
+    },
+    "drake-reef": {
+      "name": "Drake, Reef",
+      "source": "tob3",
+      "file": "docs/drake-reef.md"
+    },
+    "drake-riptide": {
+      "name": "Drake, Riptide",
+      "source": "tob3",
+      "file": "docs/drake-riptide.md"
+    },
+    "drake-shepherd": {
+      "name": "Drake, Shepherd",
+      "source": "tob3",
+      "file": "docs/drake-shepherd.md"
+    },
+    "drake-vapor": {
+      "name": "Drake, Vapor",
+      "source": "tob3",
+      "file": "docs/drake-vapor.md"
+    },
+    "drake-venom": {
+      "name": "Drake, Venom",
+      "source": "tob3",
+      "file": "docs/drake-venom.md"
+    },
+    "drakon": {
+      "name": "Drakon",
+      "source": "tob",
+      "file": "docs/drakon.md"
+    },
+    "dread-examiner": {
+      "name": "Dread Examiner",
+      "source": "tob3",
+      "file": "docs/dread-examiner.md"
+    },
+    "dread-walker-excavator": {
+      "name": "Dread Walker Excavator",
+      "source": "tob2",
+      "file": "docs/dread-walker-excavator.md"
+    },
+    "dream-eater": {
+      "name": "Dream Eater",
+      "source": "tob",
+      "file": "docs/dream-eater.md"
+    },
+    "dream-squire": {
+      "name": "Dream Squire",
+      "source": "cc",
+      "file": "docs/dream-squire.md"
+    },
+    "dream-wraith": {
+      "name": "Dream Wraith",
+      "source": "cc",
+      "file": "docs/dream-wraith.md"
+    },
+    "droth": {
+      "name": "Droth",
+      "source": "cc",
+      "file": "docs/droth.md"
+    },
+    "drowned-maiden": {
+      "name": "Drowned Maiden",
+      "source": "tob",
+      "file": "docs/drowned-maiden.md"
+    },
+    "drudge-pitcher": {
+      "name": "Drudge Pitcher",
+      "source": "tob3",
+      "file": "docs/drudge-pitcher.md"
+    },
+    "dubius": {
+      "name": "Dubius",
+      "source": "tob3",
+      "file": "docs/dubius.md"
+    },
+    "dullahan": {
+      "name": "Dullahan",
+      "source": "tob",
+      "file": "docs/dullahan.md"
+    },
+    "dune-mimic": {
+      "name": "Dune Mimic",
+      "source": "tob",
+      "file": "docs/dune-mimic.md"
+    },
+    "duskthorn-dryad": {
+      "name": "Duskthorn Dryad",
+      "source": "tob",
+      "file": "docs/duskthorn-dryad.md"
+    },
+    "dust-goblin": {
+      "name": "Dust Goblin",
+      "source": "tob",
+      "file": "docs/dust-goblin.md"
+    },
+    "dust-goblin-chieftain": {
+      "name": "Dust Goblin Chieftain",
+      "source": "cc",
+      "file": "docs/dust-goblin-chieftain.md"
+    },
+    "dust-grazer": {
+      "name": "Dust Grazer",
+      "source": "tob3",
+      "file": "docs/dust-grazer.md"
+    },
+    "dvarapala": {
+      "name": "Dvarapala",
+      "source": "cc",
+      "file": "docs/dvarapala.md"
+    },
+    "dwarf-angler": {
+      "name": "Dwarf, Angler",
+      "source": "tob3",
+      "file": "docs/dwarf-angler.md"
+    },
+    "dwarf-firecracker": {
+      "name": "Dwarf, Firecracker",
+      "source": "tob3",
+      "file": "docs/dwarf-firecracker.md"
+    },
+    "dwarf-pike-guard": {
+      "name": "Dwarf, Pike Guard",
+      "source": "tob3",
+      "file": "docs/dwarf-pike-guard.md"
+    },
+    "dwarf-pike-guard-captain": {
+      "name": "Dwarf, Pike Guard Captain",
+      "source": "tob3",
+      "file": "docs/dwarf-pike-guard-captain.md"
+    },
+    "dwarven-ringmage": {
+      "name": "Dwarven Ringmage",
+      "source": "tob",
+      "file": "docs/dwarven-ringmage.md"
+    },
+    "eala": {
+      "name": "Eala",
+      "source": "tob",
+      "file": "docs/eala.md"
+    },
+    "eater-of-dust-yakat-shi": {
+      "name": "Eater Of Dust (Yakat-Shi)",
+      "source": "tob",
+      "file": "docs/eater-of-dust-yakat-shi.md"
+    },
+    "echo": {
+      "name": "Echo",
+      "source": "cc",
+      "file": "docs/echo.md"
+    },
+    "ecstatic-bloom": {
+      "name": "Ecstatic Bloom",
+      "source": "cc",
+      "file": "docs/ecstatic-bloom.md"
+    },
+    "edimmu": {
+      "name": "Edimmu",
+      "source": "tob",
+      "file": "docs/edimmu.md"
+    },
+    "edjet": {
+      "name": "Edjet",
+      "source": "cc",
+      "file": "docs/edjet.md"
+    },
+    "edjet-initiate": {
+      "name": "Edjet Initiate",
+      "source": "tob2",
+      "file": "docs/edjet-initiate.md"
+    },
+    "eel-hound": {
+      "name": "Eel Hound",
+      "source": "tob",
+      "file": "docs/eel-hound.md"
+    },
+    "egret-harpy": {
+      "name": "Egret Harpy",
+      "source": "tob2",
+      "file": "docs/egret-harpy.md"
+    },
+    "einherjar": {
+      "name": "Einherjar",
+      "source": "tob",
+      "file": "docs/einherjar.md"
+    },
+    "elder-ghost-boar": {
+      "name": "Elder Ghost Boar",
+      "source": "cc",
+      "file": "docs/elder-ghost-boar.md"
+    },
+    "elder-shadow-drake": {
+      "name": "Elder Shadow Drake",
+      "source": "tob",
+      "file": "docs/elder-shadow-drake.md"
+    },
+    "eldritch-ooze": {
+      "name": "Eldritch Ooze",
+      "source": "tob2",
+      "file": "docs/eldritch-ooze.md"
+    },
+    "eleinomae": {
+      "name": "Eleinomae",
+      "source": "tob",
+      "file": "docs/eleinomae.md"
+    },
+    "elemental-locus": {
+      "name": "Elemental Locus",
+      "source": "tob",
+      "file": "docs/elemental-locus.md"
+    },
+    "elemental-permafrost": {
+      "name": "Elemental, Permafrost",
+      "source": "tob3",
+      "file": "docs/elemental-permafrost.md"
+    },
+    "elemental-rockslide": {
+      "name": "Elemental, Rockslide",
+      "source": "tob3",
+      "file": "docs/elemental-rockslide.md"
+    },
+    "elementalist": {
+      "name": "Elementalist",
+      "source": "cc",
+      "file": "docs/elementalist.md"
+    },
+    "elf-shadow-fey-executioner": {
+      "name": "Elf, Shadow Fey Executioner",
+      "source": "tob3",
+      "file": "docs/elf-shadow-fey-executioner.md"
+    },
+    "elite-kobold": {
+      "name": "Elite Kobold",
+      "source": "cc",
+      "file": "docs/elite-kobold.md"
+    },
+    "elophar": {
+      "name": "Elophar",
+      "source": "cc",
+      "file": "docs/elophar.md"
+    },
+    "elvish-veteran-archer": {
+      "name": "Elvish Veteran Archer",
+      "source": "tob",
+      "file": "docs/elvish-veteran-archer.md"
+    },
+    "ember-glider": {
+      "name": "Ember Glider",
+      "source": "tob3",
+      "file": "docs/ember-glider.md"
+    },
+    "emerald-eye": {
+      "name": "Emerald Eye",
+      "source": "tob",
+      "file": "docs/emerald-eye.md"
+    },
+    "emerald-order-cult-leader": {
+      "name": "Emerald Order Cult Leader",
+      "source": "tob",
+      "file": "docs/emerald-order-cult-leader.md"
+    },
+    "emperors-hyena": {
+      "name": "Emperor’s Hyena",
+      "source": "tob2",
+      "file": "docs/emperors-hyena.md"
+    },
+    "empty-cloak": {
+      "name": "Empty Cloak",
+      "source": "tob",
+      "file": "docs/empty-cloak.md"
+    },
+    "empusa": {
+      "name": "Empusa",
+      "source": "tob2",
+      "file": "docs/empusa.md"
+    },
+    "enchanter": {
+      "name": "Enchanter",
+      "source": "cc",
+      "file": "docs/enchanter.md"
+    },
+    "eonic-drifter": {
+      "name": "Eonic Drifter",
+      "source": "tob",
+      "file": "docs/eonic-drifter.md"
+    },
+    "eonic-savant": {
+      "name": "Eonic Savant",
+      "source": "tob2",
+      "file": "docs/eonic-savant.md"
+    },
+    "equitox": {
+      "name": "Equitox",
+      "source": "tob3",
+      "file": "docs/equitox.md"
+    },
+    "erina-defender": {
+      "name": "Erina Defender",
+      "source": "tob",
+      "file": "docs/erina-defender.md"
+    },
+    "erina-scrounger": {
+      "name": "Erina Scrounger",
+      "source": "tob",
+      "file": "docs/erina-scrounger.md"
+    },
+    "erina-tussler": {
+      "name": "Erina Tussler",
+      "source": "tob3",
+      "file": "docs/erina-tussler.md"
+    },
+    "ettin-kobold": {
+      "name": "Ettin, Kobold",
+      "source": "tob3",
+      "file": "docs/ettin-kobold.md"
+    },
+    "execrable-shrub": {
+      "name": "Execrable Shrub",
+      "source": "cc",
+      "file": "docs/execrable-shrub.md"
+    },
+    "exploding-toad": {
+      "name": "Exploding Toad",
+      "source": "cc",
+      "file": "docs/exploding-toad.md"
+    },
+    "eye-golem": {
+      "name": "Eye Golem",
+      "source": "tob",
+      "file": "docs/eye-golem.md"
+    },
+    "eye-of-the-gods": {
+      "name": "Eye of the Gods",
+      "source": "cc",
+      "file": "docs/eye-of-the-gods.md"
+    },
+    "fabricator": {
+      "name": "Fabricator",
+      "source": "tob2",
+      "file": "docs/fabricator.md"
+    },
+    "faceless-wanderer": {
+      "name": "Faceless Wanderer",
+      "source": "tob2",
+      "file": "docs/faceless-wanderer.md"
+    },
+    "falsifier-fog": {
+      "name": "Falsifier Fog",
+      "source": "tob2",
+      "file": "docs/falsifier-fog.md"
+    },
+    "fane-spirit": {
+      "name": "Fane Spirit",
+      "source": "tob2",
+      "file": "docs/fane-spirit.md"
+    },
+    "fang-of-the-great-wolf": {
+      "name": "Fang of the Great Wolf",
+      "source": "cc",
+      "file": "docs/fang-of-the-great-wolf.md"
+    },
+    "far-darrig": {
+      "name": "Far Darrig",
+      "source": "tob",
+      "file": "docs/far-darrig.md"
+    },
+    "far-dorocha": {
+      "name": "Far Dorocha",
+      "source": "tob2",
+      "file": "docs/far-dorocha.md"
+    },
+    "far-wanderer": {
+      "name": "Far Wanderer",
+      "source": "cc",
+      "file": "docs/far-wanderer.md"
+    },
+    "fate-eater": {
+      "name": "Fate Eater",
+      "source": "tob",
+      "file": "docs/fate-eater.md"
+    },
+    "faux-garou": {
+      "name": "Faux-Garou",
+      "source": "tob3",
+      "file": "docs/faux-garou.md"
+    },
+    "fear-liath": {
+      "name": "Fear Liath",
+      "source": "cc",
+      "file": "docs/fear-liath.md"
+    },
+    "fear-smith": {
+      "name": "Fear Smith",
+      "source": "tob",
+      "file": "docs/fear-smith.md"
+    },
+    "felid-dragon": {
+      "name": "Felid Dragon",
+      "source": "tob2",
+      "file": "docs/felid-dragon.md"
+    },
+    "fellforged": {
+      "name": "Fellforged",
+      "source": "tob",
+      "file": "docs/fellforged.md"
+    },
+    "fennec-fox": {
+      "name": "Fennec Fox",
+      "source": "tob2",
+      "file": "docs/fennec-fox.md"
+    },
+    "fext": {
+      "name": "Fext",
+      "source": "tob",
+      "file": "docs/fext.md"
+    },
+    "fey-drake": {
+      "name": "Fey Drake",
+      "source": "cc",
+      "file": "docs/fey-drake.md"
+    },
+    "fey-revenant": {
+      "name": "Fey Revenant",
+      "source": "tob2",
+      "file": "docs/fey-revenant.md"
+    },
+    "feyward-tree": {
+      "name": "Feyward Tree",
+      "source": "tob",
+      "file": "docs/feyward-tree.md"
+    },
+    "fidele-angel": {
+      "name": "Fidele Angel",
+      "source": "tob",
+      "file": "docs/fidele-angel.md"
+    },
+    "fierstjerren": {
+      "name": "Fierstjerren",
+      "source": "cc",
+      "file": "docs/fierstjerren.md"
+    },
+    "fire-dancer-swarm": {
+      "name": "Fire Dancer Swarm",
+      "source": "tob",
+      "file": "docs/fire-dancer-swarm.md"
+    },
+    "fire-imp": {
+      "name": "Fire Imp",
+      "source": "cc",
+      "file": "docs/fire-imp.md"
+    },
+    "fire-infused-water-elemental": {
+      "name": "Fire-Infused Water Elemental",
+      "source": "tob2",
+      "file": "docs/fire-infused-water-elemental.md"
+    },
+    "firebird": {
+      "name": "Firebird",
+      "source": "tob",
+      "file": "docs/firebird.md"
+    },
+    "firegeist": {
+      "name": "Firegeist",
+      "source": "tob",
+      "file": "docs/firegeist.md"
+    },
+    "flab-giant": {
+      "name": "Flab Giant",
+      "source": "tob",
+      "file": "docs/flab-giant.md"
+    },
+    "flame-dragon-wyrmling": {
+      "name": "Flame Dragon Wyrmling",
+      "source": "tob",
+      "file": "docs/flame-dragon-wyrmling.md"
+    },
+    "flame-eater-swarm": {
+      "name": "Flame Eater Swarm",
+      "source": "cc",
+      "file": "docs/flame-eater-swarm.md"
+    },
+    "flame-scourged-scion": {
+      "name": "Flame-Scourged Scion",
+      "source": "cc",
+      "file": "docs/flame-scourged-scion.md"
+    },
+    "flayed-wraith": {
+      "name": "Flayed Wraith",
+      "source": "tob2",
+      "file": "docs/flayed-wraith.md"
+    },
+    "flesh-reaver": {
+      "name": "Flesh Reaver",
+      "source": "cc",
+      "file": "docs/flesh-reaver.md"
+    },
+    "fleshdreg": {
+      "name": "Fleshdreg",
+      "source": "tob2",
+      "file": "docs/fleshdreg.md"
+    },
+    "fleshpod-hornet": {
+      "name": "Fleshpod Hornet",
+      "source": "cc",
+      "file": "docs/fleshpod-hornet.md"
+    },
+    "fleshspurned": {
+      "name": "Fleshspurned",
+      "source": "tob2",
+      "file": "docs/fleshspurned.md"
+    },
+    "flithidir": {
+      "name": "Flithidir",
+      "source": "tob2",
+      "file": "docs/flithidir.md"
+    },
+    "flutterflesh": {
+      "name": "Flutterflesh",
+      "source": "tob",
+      "file": "docs/flutterflesh.md"
+    },
+    "flying-polyp": {
+      "name": "Flying Polyp",
+      "source": "cc",
+      "file": "docs/flying-polyp.md"
+    },
+    "folk-of-leng": {
+      "name": "Folk Of Leng",
+      "source": "tob",
+      "file": "docs/folk-of-leng.md"
+    },
+    "forest-drake": {
+      "name": "Forest Drake",
+      "source": "cc",
+      "file": "docs/forest-drake.md"
+    },
+    "forest-emperor": {
+      "name": "Forest Emperor",
+      "source": "tob2",
+      "file": "docs/forest-emperor.md"
+    },
+    "forest-falcon": {
+      "name": "Forest Falcon",
+      "source": "tob2",
+      "file": "docs/forest-falcon.md"
+    },
+    "forest-marauder": {
+      "name": "Forest Marauder",
+      "source": "tob",
+      "file": "docs/forest-marauder.md"
+    },
+    "forgotten-regent": {
+      "name": "Forgotten Regent",
+      "source": "tob3",
+      "file": "docs/forgotten-regent.md"
+    },
+    "foxfire-ooze": {
+      "name": "Foxfire Ooze",
+      "source": "cc",
+      "file": "docs/foxfire-ooze.md"
+    },
+    "foxin": {
+      "name": "Foxin",
+      "source": "cc",
+      "file": "docs/foxin.md"
+    },
+    "fractal-golem": {
+      "name": "Fractal Golem",
+      "source": "cc",
+      "file": "docs/fractal-golem.md"
+    },
+    "fragrant-one": {
+      "name": "Fragrant One",
+      "source": "tob2",
+      "file": "docs/fragrant-one.md"
+    },
+    "fragrite": {
+      "name": "Fragrite",
+      "source": "cc",
+      "file": "docs/fragrite.md"
+    },
+    "fraughashar": {
+      "name": "Fraughashar",
+      "source": "tob",
+      "file": "docs/fraughashar.md"
+    },
+    "frost-mole": {
+      "name": "Frost Mole",
+      "source": "tob2",
+      "file": "docs/frost-mole.md"
+    },
+    "frostjack": {
+      "name": "Frostjack",
+      "source": "tob3",
+      "file": "docs/frostjack.md"
+    },
+    "frostveil": {
+      "name": "Frostveil",
+      "source": "tob",
+      "file": "docs/frostveil.md"
+    },
+    "fulad-zereh": {
+      "name": "Fulad-Zereh",
+      "source": "cc",
+      "file": "docs/fulad-zereh.md"
+    },
+    "fulminar": {
+      "name": "Fulminar",
+      "source": "cc",
+      "file": "docs/fulminar.md"
+    },
+    "fungi-duskwilt": {
+      "name": "Fungi, Duskwilt",
+      "source": "tob3",
+      "file": "docs/fungi-duskwilt.md"
+    },
+    "fungi-mulcher": {
+      "name": "Fungi, Mulcher",
+      "source": "tob3",
+      "file": "docs/fungi-mulcher.md"
+    },
+    "fungi-mush-marcher": {
+      "name": "Fungi, Mush Marcher",
+      "source": "tob3",
+      "file": "docs/fungi-mush-marcher.md"
+    },
+    "fungi-void-fungus": {
+      "name": "Fungi, Void Fungus",
+      "source": "tob3",
+      "file": "docs/fungi-void-fungus.md"
+    },
+    "gaki": {
+      "name": "Gaki",
+      "source": "cc",
+      "file": "docs/gaki.md"
+    },
+    "galidroo": {
+      "name": "Galidroo",
+      "source": "tob2",
+      "file": "docs/galidroo.md"
+    },
+    "gargoctopus": {
+      "name": "Gargoctopus",
+      "source": "cc",
+      "file": "docs/gargoctopus.md"
+    },
+    "garlicle": {
+      "name": "Garlicle",
+      "source": "tob2",
+      "file": "docs/garlicle.md"
+    },
+    "garmvvolf": {
+      "name": "Garmvvolf",
+      "source": "tob3",
+      "file": "docs/garmvvolf.md"
+    },
+    "garroter-crab": {
+      "name": "Garroter Crab",
+      "source": "tob",
+      "file": "docs/garroter-crab.md"
+    },
+    "gaunt-one": {
+      "name": "Gaunt One",
+      "source": "tob2",
+      "file": "docs/gaunt-one.md"
+    },
+    "gbahali-postosuchus": {
+      "name": "Gbahali (Postosuchus)",
+      "source": "tob",
+      "file": "docs/gbahali-postosuchus.md"
+    },
+    "gearforged-templar": {
+      "name": "Gearforged Templar",
+      "source": "tob",
+      "file": "docs/gearforged-templar.md"
+    },
+    "gearmass": {
+      "name": "Gearmass",
+      "source": "tob3",
+      "file": "docs/gearmass.md"
+    },
+    "gerridae": {
+      "name": "Gerridae",
+      "source": "tob",
+      "file": "docs/gerridae.md"
+    },
+    "ghast-of-leng": {
+      "name": "Ghast of Leng",
+      "source": "cc",
+      "file": "docs/ghast-of-leng.md"
+    },
+    "ghillie-dubh": {
+      "name": "Ghillie Dubh",
+      "source": "tob2",
+      "file": "docs/ghillie-dubh.md"
+    },
+    "ghost-boar": {
+      "name": "Ghost Boar",
+      "source": "cc",
+      "file": "docs/ghost-boar.md"
+    },
+    "ghost-dragon": {
+      "name": "Ghost Dragon",
+      "source": "cc",
+      "file": "docs/ghost-dragon.md"
+    },
+    "ghost-dwarf": {
+      "name": "Ghost Dwarf",
+      "source": "cc",
+      "file": "docs/ghost-dwarf.md"
+    },
+    "ghost-knight": {
+      "name": "Ghost Knight",
+      "source": "tob",
+      "file": "docs/ghost-knight.md"
+    },
+    "ghost-knight-templar": {
+      "name": "Ghost Knight Templar",
+      "source": "tob3",
+      "file": "docs/ghost-knight-templar.md"
+    },
+    "ghostwalk-spider": {
+      "name": "Ghostwalk Spider",
+      "source": "tob",
+      "file": "docs/ghostwalk-spider.md"
+    },
+    "ghoul-bat": {
+      "name": "Ghoul Bat",
+      "source": "tob2",
+      "file": "docs/ghoul-bat.md"
+    },
+    "ghoul-darakhul": {
+      "name": "Ghoul, Darakhul",
+      "source": "tob",
+      "file": "docs/ghoul-darakhul.md"
+    },
+    "ghoul-imperial": {
+      "name": "Ghoul, Imperial",
+      "source": "tob",
+      "file": "docs/ghoul-imperial.md"
+    },
+    "ghoul-iron": {
+      "name": "Ghoul, Iron",
+      "source": "tob",
+      "file": "docs/ghoul-iron.md"
+    },
+    "ghoulsteed": {
+      "name": "Ghoulsteed",
+      "source": "cc",
+      "file": "docs/ghoulsteed.md"
+    },
+    "ghul": {
+      "name": "Ghul",
+      "source": "tob2",
+      "file": "docs/ghul.md"
+    },
+    "giant-albino-bat": {
+      "name": "Giant Albino Bat",
+      "source": "cc",
+      "file": "docs/giant-albino-bat.md"
+    },
+    "giant-ant": {
+      "name": "Giant Ant",
+      "source": "tob",
+      "file": "docs/giant-ant.md"
+    },
+    "giant-ant-queen": {
+      "name": "Giant Ant Queen",
+      "source": "tob",
+      "file": "docs/giant-ant-queen.md"
+    },
+    "giant-armadillo": {
+      "name": "Giant Armadillo",
+      "source": "tob2",
+      "file": "docs/giant-armadillo.md"
+    },
+    "giant-bombardier-beetle": {
+      "name": "Giant Bombardier Beetle",
+      "source": "tob2",
+      "file": "docs/giant-bombardier-beetle.md"
+    },
+    "giant-firestorm": {
+      "name": "Giant, Firestorm",
+      "source": "tob3",
+      "file": "docs/giant-firestorm.md"
+    },
+    "giant-flea": {
+      "name": "Giant Flea",
+      "source": "tob3",
+      "file": "docs/giant-flea.md"
+    },
+    "giant-flea-swarm": {
+      "name": "Giant Flea Swarm",
+      "source": "tob3",
+      "file": "docs/giant-flea-swarm.md"
+    },
+    "giant-frilled-lizard": {
+      "name": "Giant Frilled Lizard",
+      "source": "tob2",
+      "file": "docs/giant-frilled-lizard.md"
+    },
+    "giant-hellfire": {
+      "name": "Giant, Hellfire",
+      "source": "tob3",
+      "file": "docs/giant-hellfire.md"
+    },
+    "giant-honey-bee": {
+      "name": "Giant Honey Bee",
+      "source": "tob2",
+      "file": "docs/giant-honey-bee.md"
+    },
+    "giant-husk": {
+      "name": "Giant Husk",
+      "source": "tob2",
+      "file": "docs/giant-husk.md"
+    },
+    "giant-lantern": {
+      "name": "Giant, Lantern",
+      "source": "tob3",
+      "file": "docs/giant-lantern.md"
+    },
+    "giant-leech": {
+      "name": "Giant Leech",
+      "source": "tob2",
+      "file": "docs/giant-leech.md"
+    },
+    "giant-mantis-shrimp": {
+      "name": "Giant Mantis Shrimp",
+      "source": "tob3",
+      "file": "docs/giant-mantis-shrimp.md"
+    },
+    "giant-mole-lizard": {
+      "name": "Giant Mole Lizard",
+      "source": "tob3",
+      "file": "docs/giant-mole-lizard.md"
+    },
+    "giant-mongoose": {
+      "name": "Giant Mongoose",
+      "source": "tob2",
+      "file": "docs/giant-mongoose.md"
+    },
+    "giant-moth": {
+      "name": "Giant Moth",
+      "source": "cc",
+      "file": "docs/giant-moth.md"
+    },
+    "giant-pufferfish": {
+      "name": "Giant Pufferfish",
+      "source": "tob3",
+      "file": "docs/giant-pufferfish.md"
+    },
+    "giant-shark-bowl": {
+      "name": "Giant Shark Bowl",
+      "source": "cc",
+      "file": "docs/giant-shark-bowl.md"
+    },
+    "giant-shire": {
+      "name": "Giant, Shire",
+      "source": "tob3",
+      "file": "docs/giant-shire.md"
+    },
+    "giant-sloth": {
+      "name": "Giant Sloth",
+      "source": "cc",
+      "file": "docs/giant-sloth.md"
+    },
+    "giant-snow-beetle": {
+      "name": "Giant Snow Beetle",
+      "source": "tob2",
+      "file": "docs/giant-snow-beetle.md"
+    },
+    "giant-thursir-armorer": {
+      "name": "Giant, Thursir Armorer",
+      "source": "tob3",
+      "file": "docs/giant-thursir-armorer.md"
+    },
+    "giant-thursir-hearth-priestess": {
+      "name": "Giant, Thursir Hearth Priestess",
+      "source": "tob3",
+      "file": "docs/giant-thursir-hearth-priestess.md"
+    },
+    "giant-vampire-bat": {
+      "name": "Giant Vampire Bat",
+      "source": "cc",
+      "file": "docs/giant-vampire-bat.md"
+    },
+    "giant-walking-stick": {
+      "name": "Giant Walking Stick",
+      "source": "tob3",
+      "file": "docs/giant-walking-stick.md"
+    },
+    "giant-water-scorpion": {
+      "name": "Giant Water Scorpion",
+      "source": "tob2",
+      "file": "docs/giant-water-scorpion.md"
+    },
+    "gigantura": {
+      "name": "Gigantura",
+      "source": "tob3",
+      "file": "docs/gigantura.md"
+    },
+    "gilded-devil": {
+      "name": "Gilded Devil",
+      "source": "tob",
+      "file": "docs/gilded-devil.md"
+    },
+    "glacial-corrupter": {
+      "name": "Glacial Corrupter",
+      "source": "tob2",
+      "file": "docs/glacial-corrupter.md"
+    },
+    "glacial-crawler": {
+      "name": "Glacial Crawler",
+      "source": "tob3",
+      "file": "docs/glacial-crawler.md"
+    },
+    "glacier-behemoth": {
+      "name": "Glacier Behemoth",
+      "source": "tob2",
+      "file": "docs/glacier-behemoth.md"
+    },
+    "glass-gator": {
+      "name": "Glass Gator",
+      "source": "tob",
+      "file": "docs/glass-gator.md"
+    },
+    "glass-golem": {
+      "name": "Glass Golem",
+      "source": "cc",
+      "file": "docs/glass-golem.md"
+    },
+    "gloomflower": {
+      "name": "Gloomflower",
+      "source": "cc",
+      "file": "docs/gloomflower.md"
+    },
+    "gnarljak": {
+      "name": "Gnarljak",
+      "source": "tob",
+      "file": "docs/gnarljak.md"
+    },
+    "gnoll-havoc-runner": {
+      "name": "Gnoll Havoc Runner",
+      "source": "tob",
+      "file": "docs/gnoll-havoc-runner.md"
+    },
+    "gnoll-slaver": {
+      "name": "Gnoll Slaver",
+      "source": "cc",
+      "file": "docs/gnoll-slaver.md"
+    },
+    "gnyan": {
+      "name": "Gnyan",
+      "source": "tob3",
+      "file": "docs/gnyan.md"
+    },
+    "goat-man": {
+      "name": "Goat-Man",
+      "source": "tob",
+      "file": "docs/goat-man.md"
+    },
+    "goblin-siege-engine": {
+      "name": "Goblin Siege Engine",
+      "source": "tob3",
+      "file": "docs/goblin-siege-engine.md"
+    },
+    "godslayer": {
+      "name": "Godslayer",
+      "source": "tob3",
+      "file": "docs/godslayer.md"
+    },
+    "golem-barnyard": {
+      "name": "Golem, Barnyard",
+      "source": "tob3",
+      "file": "docs/golem-barnyard.md"
+    },
+    "golem-chain": {
+      "name": "Golem, Chain",
+      "source": "tob3",
+      "file": "docs/golem-chain.md"
+    },
+    "golem-ice": {
+      "name": "Golem, Ice",
+      "source": "tob3",
+      "file": "docs/golem-ice.md"
+    },
+    "golem-origami": {
+      "name": "Golem, Origami",
+      "source": "tob3",
+      "file": "docs/golem-origami.md"
+    },
+    "golem-tar": {
+      "name": "Golem, Tar",
+      "source": "tob3",
+      "file": "docs/golem-tar.md"
+    },
+    "goliath-longlegs": {
+      "name": "Goliath Longlegs",
+      "source": "cc",
+      "file": "docs/goliath-longlegs.md"
+    },
+    "gorao-ka": {
+      "name": "Gorao-Ka",
+      "source": "tob2",
+      "file": "docs/gorao-ka.md"
+    },
+    "goreling": {
+      "name": "Goreling",
+      "source": "cc",
+      "file": "docs/goreling.md"
+    },
+    "graknork": {
+      "name": "Graknork",
+      "source": "tob2",
+      "file": "docs/graknork.md"
+    },
+    "grave-behemoth": {
+      "name": "Grave Behemoth",
+      "source": "cc",
+      "file": "docs/grave-behemoth.md"
+    },
+    "graveyard-dragon": {
+      "name": "Graveyard Dragon",
+      "source": "tob2",
+      "file": "docs/graveyard-dragon.md"
+    },
+    "gray-orc": {
+      "name": "Gray Orc",
+      "source": "tob2",
+      "file": "docs/gray-orc.md"
+    },
+    "gray-thirster": {
+      "name": "Gray Thirster",
+      "source": "tob",
+      "file": "docs/gray-thirster.md"
+    },
+    "great-gray-owl": {
+      "name": "Great Gray Owl",
+      "source": "tob2",
+      "file": "docs/great-gray-owl.md"
+    },
+    "great-mandrake": {
+      "name": "Great Mandrake",
+      "source": "cc",
+      "file": "docs/great-mandrake.md"
+    },
+    "greater-death-butterfly-swarm": {
+      "name": "Greater Death Butterfly Swarm",
+      "source": "tob",
+      "file": "docs/greater-death-butterfly-swarm.md"
+    },
+    "greater-ghast-of-leng": {
+      "name": "Greater Ghast of Leng",
+      "source": "tob2",
+      "file": "docs/greater-ghast-of-leng.md"
+    },
+    "greater-lunarchidna": {
+      "name": "Greater Lunarchidna",
+      "source": "tob2",
+      "file": "docs/greater-lunarchidna.md"
+    },
+    "greater-rakshasa": {
+      "name": "Greater Rakshasa",
+      "source": "cc",
+      "file": "docs/greater-rakshasa.md"
+    },
+    "greater-scrag": {
+      "name": "Greater Scrag",
+      "source": "cc",
+      "file": "docs/greater-scrag.md"
+    },
+    "greed-swarm": {
+      "name": "Greed Swarm",
+      "source": "tob2",
+      "file": "docs/greed-swarm.md"
+    },
+    "green-abyss-orc": {
+      "name": "Green Abyss Orc",
+      "source": "cc",
+      "file": "docs/green-abyss-orc.md"
+    },
+    "green-knight-of-the-woods": {
+      "name": "Green Knight of the Woods",
+      "source": "cc",
+      "file": "docs/green-knight-of-the-woods.md"
+    },
+    "gremlin-bilge": {
+      "name": "Gremlin, Bilge",
+      "source": "tob3",
+      "file": "docs/gremlin-bilge.md"
+    },
+    "gremlin-bilge-bosun": {
+      "name": "Gremlin, Bilge Bosun",
+      "source": "tob3",
+      "file": "docs/gremlin-bilge-bosun.md"
+    },
+    "gremlin-rum-story-keeper": {
+      "name": "Gremlin, Rum Story Keeper",
+      "source": "tob3",
+      "file": "docs/gremlin-rum-story-keeper.md"
+    },
+    "grim-jester": {
+      "name": "Grim Jester",
+      "source": "tob",
+      "file": "docs/grim-jester.md"
+    },
+    "grimmlet": {
+      "name": "Grimmlet",
+      "source": "tob2",
+      "file": "docs/grimmlet.md"
+    },
+    "grimmlet-swarm": {
+      "name": "Grimmlet Swarm",
+      "source": "tob2",
+      "file": "docs/grimmlet-swarm.md"
+    },
+    "grindylow": {
+      "name": "Grindylow",
+      "source": "cc",
+      "file": "docs/grindylow.md"
+    },
+    "grivid": {
+      "name": "Grivid",
+      "source": "tob3",
+      "file": "docs/grivid.md"
+    },
+    "grolar-bear": {
+      "name": "Grolar Bear",
+      "source": "tob3",
+      "file": "docs/grolar-bear.md"
+    },
+    "grolar-bear-alpha": {
+      "name": "Grolar Bear Alpha",
+      "source": "tob3",
+      "file": "docs/grolar-bear-alpha.md"
+    },
+    "grove-bear": {
+      "name": "Grove Bear",
+      "source": "tob2",
+      "file": "docs/grove-bear.md"
+    },
+    "gug": {
+      "name": "Gug",
+      "source": "tob",
+      "file": "docs/gug.md"
+    },
+    "gugalanna": {
+      "name": "Gugalanna",
+      "source": "cc",
+      "file": "docs/gugalanna.md"
+    },
+    "gullkin": {
+      "name": "Gullkin",
+      "source": "tob3",
+      "file": "docs/gullkin.md"
+    },
+    "gullkin-hunter": {
+      "name": "Gullkin Hunter",
+      "source": "tob3",
+      "file": "docs/gullkin-hunter.md"
+    },
+    "gulon": {
+      "name": "Gulon",
+      "source": "cc",
+      "file": "docs/gulon.md"
+    },
+    "gulper-behemoth": {
+      "name": "Gulper Behemoth",
+      "source": "tob2",
+      "file": "docs/gulper-behemoth.md"
+    },
+    "gumienniki": {
+      "name": "Gumienniki",
+      "source": "cc",
+      "file": "docs/gumienniki.md"
+    },
+    "gypsosphinx": {
+      "name": "Gypsosphinx",
+      "source": "tob",
+      "file": "docs/gypsosphinx.md"
+    },
+    "haakjir": {
+      "name": "Haakjir",
+      "source": "tob3",
+      "file": "docs/haakjir.md"
+    },
+    "hag-brine": {
+      "name": "Hag, Brine",
+      "source": "tob3",
+      "file": "docs/hag-brine.md"
+    },
+    "hag-floe": {
+      "name": "Hag, Floe",
+      "source": "tob3",
+      "file": "docs/hag-floe.md"
+    },
+    "hag-pesta": {
+      "name": "Hag, Pesta",
+      "source": "tob3",
+      "file": "docs/hag-pesta.md"
+    },
+    "hag-wood": {
+      "name": "Hag, Wood",
+      "source": "tob3",
+      "file": "docs/hag-wood.md"
+    },
+    "hair-golem": {
+      "name": "Hair Golem",
+      "source": "cc",
+      "file": "docs/hair-golem.md"
+    },
+    "haleshi": {
+      "name": "Haleshi",
+      "source": "tob2",
+      "file": "docs/haleshi.md"
+    },
+    "hallowed-reed": {
+      "name": "Hallowed Reed",
+      "source": "cc",
+      "file": "docs/hallowed-reed.md"
+    },
+    "hantu-penanggal": {
+      "name": "Hantu Penanggal",
+      "source": "tob2",
+      "file": "docs/hantu-penanggal.md"
+    },
+    "harbinger-of-wrath": {
+      "name": "Harbinger of Wrath",
+      "source": "tob2",
+      "file": "docs/harbinger-of-wrath.md"
+    },
+    "harefolk": {
+      "name": "Harefolk",
+      "source": "tob2",
+      "file": "docs/harefolk.md"
+    },
+    "harpy-plague": {
+      "name": "Harpy, Plague",
+      "source": "tob3",
+      "file": "docs/harpy-plague.md"
+    },
+    "harvest-horse": {
+      "name": "Harvest Horse",
+      "source": "tob3",
+      "file": "docs/harvest-horse.md"
+    },
+    "haugbui": {
+      "name": "Haugbui",
+      "source": "tob",
+      "file": "docs/haugbui.md"
+    },
+    "haunted-giant": {
+      "name": "Haunted Giant",
+      "source": "cc",
+      "file": "docs/haunted-giant.md"
+    },
+    "heavy-cavalry": {
+      "name": "Heavy Cavalry",
+      "source": "cc",
+      "file": "docs/heavy-cavalry.md"
+    },
+    "hebi-doku": {
+      "name": "Hebi-Doku",
+      "source": "tob2",
+      "file": "docs/hebi-doku.md"
+    },
+    "heggarna": {
+      "name": "Heggarna",
+      "source": "tob2",
+      "file": "docs/heggarna.md"
+    },
+    "helashruu": {
+      "name": "Helashruu",
+      "source": "tob2",
+      "file": "docs/helashruu.md"
+    },
+    "herald-of-blood": {
+      "name": "Herald Of Blood",
+      "source": "tob",
+      "file": "docs/herald-of-blood.md"
+    },
+    "herald-of-darkness": {
+      "name": "Herald Of Darkness",
+      "source": "tob",
+      "file": "docs/herald-of-darkness.md"
+    },
+    "herald-of-slaughter": {
+      "name": "Herald of Slaughter",
+      "source": "tob2",
+      "file": "docs/herald-of-slaughter.md"
+    },
+    "herald-of-the-void": {
+      "name": "Herald of the Void",
+      "source": "tob2",
+      "file": "docs/herald-of-the-void.md"
+    },
+    "herd-skulker": {
+      "name": "Herd Skulker",
+      "source": "tob3",
+      "file": "docs/herd-skulker.md"
+    },
+    "hierophant-lich": {
+      "name": "Hierophant Lich",
+      "source": "cc",
+      "file": "docs/hierophant-lich.md"
+    },
+    "hinderling": {
+      "name": "Hinderling",
+      "source": "tob3",
+      "file": "docs/hinderling.md"
+    },
+    "hippopotamus": {
+      "name": "Hippopotamus",
+      "source": "tob3",
+      "file": "docs/hippopotamus.md"
+    },
+    "hippopotamus-sacred": {
+      "name": "Hippopotamus, Sacred",
+      "source": "tob3",
+      "file": "docs/hippopotamus-sacred.md"
+    },
+    "hirudine-stalker": {
+      "name": "Hirudine Stalker",
+      "source": "tob3",
+      "file": "docs/hirudine-stalker.md"
+    },
+    "hoard-drake": {
+      "name": "Hoard Drake",
+      "source": "tob2",
+      "file": "docs/hoard-drake.md"
+    },
+    "hoard-golem": {
+      "name": "Hoard Golem",
+      "source": "tob",
+      "file": "docs/hoard-golem.md"
+    },
+    "hoarfrost-drake": {
+      "name": "Hoarfrost Drake",
+      "source": "tob2",
+      "file": "docs/hoarfrost-drake.md"
+    },
+    "hodag": {
+      "name": "Hodag",
+      "source": "tob2",
+      "file": "docs/hodag.md"
+    },
+    "holler-spider": {
+      "name": "Holler Spider",
+      "source": "tob2",
+      "file": "docs/holler-spider.md"
+    },
+    "hongaek": {
+      "name": "Hongaek",
+      "source": "tob2",
+      "file": "docs/hongaek.md"
+    },
+    "hooden-horse": {
+      "name": "Hooden Horse",
+      "source": "tob2",
+      "file": "docs/hooden-horse.md"
+    },
+    "horakh": {
+      "name": "Horakh",
+      "source": "tob",
+      "file": "docs/horakh.md"
+    },
+    "horned-serpent": {
+      "name": "Horned Serpent",
+      "source": "cc",
+      "file": "docs/horned-serpent.md"
+    },
+    "hound-of-the-night": {
+      "name": "Hound Of The Night",
+      "source": "tob",
+      "file": "docs/hound-of-the-night.md"
+    },
+    "hound-of-tindalos": {
+      "name": "Hound of Tindalos",
+      "source": "cc",
+      "file": "docs/hound-of-tindalos.md"
+    },
+    "howler-baboon": {
+      "name": "Howler Baboon",
+      "source": "tob2",
+      "file": "docs/howler-baboon.md"
+    },
+    "howler-of-the-hill": {
+      "name": "Howler Of The Hill",
+      "source": "tob3",
+      "file": "docs/howler-of-the-hill.md"
+    },
+    "hraesvelgr-the-corpse-swallower": {
+      "name": "Hraesvelgr The Corpse Swallower",
+      "source": "tob",
+      "file": "docs/hraesvelgr-the-corpse-swallower.md"
+    },
+    "huecambra": {
+      "name": "Huecambra",
+      "source": "tob2",
+      "file": "docs/huecambra.md"
+    },
+    "huli-jing": {
+      "name": "Huli Jing",
+      "source": "tob2",
+      "file": "docs/huli-jing.md"
+    },
+    "hulking-whelp": {
+      "name": "Hulking Whelp",
+      "source": "tob",
+      "file": "docs/hulking-whelp.md"
+    },
+    "hundun": {
+      "name": "Hundun",
+      "source": "tob",
+      "file": "docs/hundun.md"
+    },
+    "hvalfiskr": {
+      "name": "Hvalfiskr",
+      "source": "tob3",
+      "file": "docs/hvalfiskr.md"
+    },
+    "hverhuldra": {
+      "name": "Hverhuldra",
+      "source": "tob2",
+      "file": "docs/hverhuldra.md"
+    },
+    "iaaffrat": {
+      "name": "Ia'affrat",
+      "source": "tob",
+      "file": "docs/iaaffrat.md"
+    },
+    "ibexian": {
+      "name": "Ibexian",
+      "source": "tob3",
+      "file": "docs/ibexian.md"
+    },
+    "ice-bogie": {
+      "name": "Ice Bogie",
+      "source": "tob2",
+      "file": "docs/ice-bogie.md"
+    },
+    "ice-elemental": {
+      "name": "Ice Elemental",
+      "source": "tob2",
+      "file": "docs/ice-elemental.md"
+    },
+    "ice-maiden": {
+      "name": "Ice Maiden",
+      "source": "tob",
+      "file": "docs/ice-maiden.md"
+    },
+    "ice-urchin": {
+      "name": "Ice Urchin",
+      "source": "tob3",
+      "file": "docs/ice-urchin.md"
+    },
+    "ice-willow": {
+      "name": "Ice Willow",
+      "source": "tob3",
+      "file": "docs/ice-willow.md"
+    },
+    "iceworm": {
+      "name": "Iceworm",
+      "source": "tob3",
+      "file": "docs/iceworm.md"
+    },
+    "ichneumon": {
+      "name": "Ichneumon",
+      "source": "cc",
+      "file": "docs/ichneumon.md"
+    },
+    "ichor-ooze": {
+      "name": "Ichor Ooze",
+      "source": "tob2",
+      "file": "docs/ichor-ooze.md"
+    },
+    "idolic-deity": {
+      "name": "Idolic Deity",
+      "source": "tob",
+      "file": "docs/idolic-deity.md"
+    },
+    "ijiraq": {
+      "name": "Ijiraq",
+      "source": "cc",
+      "file": "docs/ijiraq.md"
+    },
+    "ikuchi": {
+      "name": "Ikuchi",
+      "source": "tob2",
+      "file": "docs/ikuchi.md"
+    },
+    "illhveli-kembingur": {
+      "name": "Illhveli, Kembingur",
+      "source": "tob2",
+      "file": "docs/illhveli-kembingur.md"
+    },
+    "illhveli-nauthveli": {
+      "name": "Illhveli, Nauthveli",
+      "source": "tob2",
+      "file": "docs/illhveli-nauthveli.md"
+    },
+    "imperator": {
+      "name": "Imperator",
+      "source": "tob3",
+      "file": "docs/imperator.md"
+    },
+    "imperator-penguin-swarm": {
+      "name": "Imperator, Penguin Swarm",
+      "source": "tob3",
+      "file": "docs/imperator-penguin-swarm.md"
+    },
+    "imperial-dragon-wyrmling": {
+      "name": "Imperial Dragon Wyrmling",
+      "source": "tob2",
+      "file": "docs/imperial-dragon-wyrmling.md"
+    },
+    "imy-ut-ushabti": {
+      "name": "Imy-Ut Ushabti",
+      "source": "tob",
+      "file": "docs/imy-ut-ushabti.md"
+    },
+    "incandescent-one": {
+      "name": "Incandescent One",
+      "source": "tob3",
+      "file": "docs/incandescent-one.md"
+    },
+    "incarnate-gloom": {
+      "name": "Incarnate Gloom",
+      "source": "tob2",
+      "file": "docs/incarnate-gloom.md"
+    },
+    "incinis": {
+      "name": "Incinis",
+      "source": "cc",
+      "file": "docs/incinis.md"
+    },
+    "infernal-centaur": {
+      "name": "Infernal Centaur",
+      "source": "tob2",
+      "file": "docs/infernal-centaur.md"
+    },
+    "infernal-knight": {
+      "name": "Infernal Knight",
+      "source": "cc",
+      "file": "docs/infernal-knight.md"
+    },
+    "infernal-swarm": {
+      "name": "Infernal Swarm",
+      "source": "tob2",
+      "file": "docs/infernal-swarm.md"
+    },
+    "initiate-of-the-elder-elementals": {
+      "name": "Initiate of the Elder Elementals",
+      "source": "tob2",
+      "file": "docs/initiate-of-the-elder-elementals.md"
+    },
+    "ink-devil": {
+      "name": "Ink Devil",
+      "source": "tob",
+      "file": "docs/ink-devil.md"
+    },
+    "ink-guardian": {
+      "name": "Ink Guardian",
+      "source": "cc",
+      "file": "docs/ink-guardian.md"
+    },
+    "inkling": {
+      "name": "Inkling",
+      "source": "cc",
+      "file": "docs/inkling.md"
+    },
+    "ion-slime": {
+      "name": "Ion Slime",
+      "source": "tob3",
+      "file": "docs/ion-slime.md"
+    },
+    "irid": {
+      "name": "Irid",
+      "source": "tob2",
+      "file": "docs/irid.md"
+    },
+    "iron-sphere": {
+      "name": "Iron Sphere",
+      "source": "cc",
+      "file": "docs/iron-sphere.md"
+    },
+    "isonade": {
+      "name": "Isonade",
+      "source": "tob",
+      "file": "docs/isonade.md"
+    },
+    "jaanavar-jal": {
+      "name": "Jaanavar Jal",
+      "source": "cc",
+      "file": "docs/jaanavar-jal.md"
+    },
+    "jack-of-strings": {
+      "name": "Jack of Strings",
+      "source": "tob2",
+      "file": "docs/jack-of-strings.md"
+    },
+    "jaculus": {
+      "name": "Jaculus",
+      "source": "tob",
+      "file": "docs/jaculus.md"
+    },
+    "jba-fofi-spider": {
+      "name": "J'ba Fofi Spider",
+      "source": "tob",
+      "file": "docs/jba-fofi-spider.md"
+    },
+    "jiangshi": {
+      "name": "Jiangshi",
+      "source": "cc",
+      "file": "docs/jiangshi.md"
+    },
+    "jinmenju": {
+      "name": "Jinmenju",
+      "source": "cc",
+      "file": "docs/jinmenju.md"
+    },
+    "jinnborn-air-pirate": {
+      "name": "Jinnborn Air Pirate",
+      "source": "tob3",
+      "file": "docs/jinnborn-air-pirate.md"
+    },
+    "jotun-giant": {
+      "name": "Jotun Giant",
+      "source": "tob",
+      "file": "docs/jotun-giant.md"
+    },
+    "jubjub-bird": {
+      "name": "Jubjub Bird",
+      "source": "tob3",
+      "file": "docs/jubjub-bird.md"
+    },
+    "juniper-sheriff": {
+      "name": "Juniper Sheriff",
+      "source": "tob3",
+      "file": "docs/juniper-sheriff.md"
+    },
+    "junk-shaman": {
+      "name": "Junk Shaman",
+      "source": "cc",
+      "file": "docs/junk-shaman.md"
+    },
+    "kachlian": {
+      "name": "Kachlian",
+      "source": "tob2",
+      "file": "docs/kachlian.md"
+    },
+    "kalke": {
+      "name": "Kalke",
+      "source": "tob",
+      "file": "docs/kalke.md"
+    },
+    "kallikantzaros": {
+      "name": "Kallikantzaros",
+      "source": "cc",
+      "file": "docs/kallikantzaros.md"
+    },
+    "kamaitachi": {
+      "name": "Kamaitachi",
+      "source": "tob2",
+      "file": "docs/kamaitachi.md"
+    },
+    "kapi": {
+      "name": "Kapi",
+      "source": "cc",
+      "file": "docs/kapi.md"
+    },
+    "kappa": {
+      "name": "Kappa",
+      "source": "cc",
+      "file": "docs/kappa.md"
+    },
+    "karakura": {
+      "name": "Karakura",
+      "source": "cc",
+      "file": "docs/karakura.md"
+    },
+    "karkadann": {
+      "name": "Karkadann",
+      "source": "tob3",
+      "file": "docs/karkadann.md"
+    },
+    "kaveph": {
+      "name": "Kaveph",
+      "source": "tob2",
+      "file": "docs/kaveph.md"
+    },
+    "keelbreaker-crab": {
+      "name": "Keelbreaker Crab",
+      "source": "tob2",
+      "file": "docs/keelbreaker-crab.md"
+    },
+    "keg-golem": {
+      "name": "Keg Golem",
+      "source": "cc",
+      "file": "docs/keg-golem.md"
+    },
+    "kelp-drake": {
+      "name": "Kelp Drake",
+      "source": "tob2",
+      "file": "docs/kelp-drake.md"
+    },
+    "kelp-eel": {
+      "name": "Kelp Eel",
+      "source": "tob2",
+      "file": "docs/kelp-eel.md"
+    },
+    "keyhole-dragonette": {
+      "name": "Keyhole Dragonette",
+      "source": "tob2",
+      "file": "docs/keyhole-dragonette.md"
+    },
+    "kezai": {
+      "name": "Kezai",
+      "source": "tob2",
+      "file": "docs/kezai.md"
+    },
+    "khamaseen": {
+      "name": "Khamaseen",
+      "source": "tob3",
+      "file": "docs/khamaseen.md"
+    },
+    "khargi": {
+      "name": "Khargi",
+      "source": "tob3",
+      "file": "docs/khargi.md"
+    },
+    "khodumodumo": {
+      "name": "Khodumodumo",
+      "source": "tob2",
+      "file": "docs/khodumodumo.md"
+    },
+    "kikimora": {
+      "name": "Kikimora",
+      "source": "tob",
+      "file": "docs/kikimora.md"
+    },
+    "king-kobold": {
+      "name": "King Kobold",
+      "source": "cc",
+      "file": "docs/king-kobold.md"
+    },
+    "kinnara": {
+      "name": "Kinnara",
+      "source": "cc",
+      "file": "docs/kinnara.md"
+    },
+    "kirikari": {
+      "name": "Kirikari",
+      "source": "tob2",
+      "file": "docs/kirikari.md"
+    },
+    "kishi-demon": {
+      "name": "Kishi Demon",
+      "source": "tob",
+      "file": "docs/kishi-demon.md"
+    },
+    "kitsune": {
+      "name": "Kitsune",
+      "source": "cc",
+      "file": "docs/kitsune.md"
+    },
+    "knight-ab-errant": {
+      "name": "Knight Ab-errant",
+      "source": "tob2",
+      "file": "docs/knight-ab-errant.md"
+    },
+    "knight-of-the-road": {
+      "name": "Knight of the Road",
+      "source": "cc",
+      "file": "docs/knight-of-the-road.md"
+    },
+    "kobold-alchemist": {
+      "name": "Kobold Alchemist",
+      "source": "tob",
+      "file": "docs/kobold-alchemist.md"
+    },
+    "kobold-chieftain": {
+      "name": "Kobold Chieftain",
+      "source": "tob",
+      "file": "docs/kobold-chieftain.md"
+    },
+    "kobold-drake-rider": {
+      "name": "Kobold, Drake Rider",
+      "source": "tob3",
+      "file": "docs/kobold-drake-rider.md"
+    },
+    "kobold-empyrean": {
+      "name": "Kobold, Empyrean",
+      "source": "tob3",
+      "file": "docs/kobold-empyrean.md"
+    },
+    "kobold-ghost-hunter": {
+      "name": "Kobold, Ghost Hunter",
+      "source": "tob3",
+      "file": "docs/kobold-ghost-hunter.md"
+    },
+    "kobold-leviathan-hunter": {
+      "name": "Kobold, Leviathan Hunter",
+      "source": "tob3",
+      "file": "docs/kobold-leviathan-hunter.md"
+    },
+    "kobold-planes-hunter": {
+      "name": "Kobold, Planes Hunter",
+      "source": "tob3",
+      "file": "docs/kobold-planes-hunter.md"
+    },
+    "kobold-sapper": {
+      "name": "Kobold, Sapper",
+      "source": "tob3",
+      "file": "docs/kobold-sapper.md"
+    },
+    "kobold-spellclerk": {
+      "name": "Kobold Spellclerk",
+      "source": "tob2",
+      "file": "docs/kobold-spellclerk.md"
+    },
+    "kobold-trapsmith": {
+      "name": "Kobold Trapsmith",
+      "source": "tob",
+      "file": "docs/kobold-trapsmith.md"
+    },
+    "kobold-war-machine": {
+      "name": "Kobold War Machine",
+      "source": "tob2",
+      "file": "docs/kobold-war-machine.md"
+    },
+    "kongamato": {
+      "name": "Kongamato",
+      "source": "tob",
+      "file": "docs/kongamato.md"
+    },
+    "koralk-harvester-devil": {
+      "name": "Koralk (Harvester Devil)",
+      "source": "tob",
+      "file": "docs/koralk-harvester-devil.md"
+    },
+    "korrigan": {
+      "name": "Korrigan",
+      "source": "cc",
+      "file": "docs/korrigan.md"
+    },
+    "koschei": {
+      "name": "Koschei",
+      "source": "tob",
+      "file": "docs/koschei.md"
+    },
+    "kot-bayun": {
+      "name": "Kot Bayun",
+      "source": "tob",
+      "file": "docs/kot-bayun.md"
+    },
+    "krake-spawn": {
+      "name": "Krake Spawn",
+      "source": "tob",
+      "file": "docs/krake-spawn.md"
+    },
+    "kryt": {
+      "name": "Kryt",
+      "source": "cc",
+      "file": "docs/kryt.md"
+    },
+    "kulmking": {
+      "name": "Külmking",
+      "source": "cc",
+      "file": "docs/kulmking.md"
+    },
+    "kuunganisha": {
+      "name": "Kuunganisha",
+      "source": "cc",
+      "file": "docs/kuunganisha.md"
+    },
+    "labyrinth-keeper": {
+      "name": "Labyrinth Keeper",
+      "source": "cc",
+      "file": "docs/labyrinth-keeper.md"
+    },
+    "lady-in-white": {
+      "name": "Lady in White",
+      "source": "cc",
+      "file": "docs/lady-in-white.md"
+    },
+    "laestrigonian-giant": {
+      "name": "Laestrigonian Giant",
+      "source": "cc",
+      "file": "docs/laestrigonian-giant.md"
+    },
+    "lake-troll": {
+      "name": "Lake Troll",
+      "source": "tob",
+      "file": "docs/lake-troll.md"
+    },
+    "lakescourge-lotus": {
+      "name": "Lakescourge Lotus",
+      "source": "tob3",
+      "file": "docs/lakescourge-lotus.md"
+    },
+    "lamassu": {
+      "name": "Lamassu",
+      "source": "cc",
+      "file": "docs/lamassu.md"
+    },
+    "lambent-witchfyre": {
+      "name": "Lambent Witchfyre",
+      "source": "tob2",
+      "file": "docs/lambent-witchfyre.md"
+    },
+    "lantern-beetle": {
+      "name": "Lantern Beetle",
+      "source": "tob2",
+      "file": "docs/lantern-beetle.md"
+    },
+    "lantern-dragonette": {
+      "name": "Lantern Dragonette",
+      "source": "tob",
+      "file": "docs/lantern-dragonette.md"
+    },
+    "lava-keeper": {
+      "name": "Lava Keeper",
+      "source": "tob2",
+      "file": "docs/lava-keeper.md"
+    },
+    "lazavik": {
+      "name": "Lazavik",
+      "source": "tob2",
+      "file": "docs/lazavik.md"
+    },
+    "leashed-lesion": {
+      "name": "Leashed Lesion",
+      "source": "tob3",
+      "file": "docs/leashed-lesion.md"
+    },
+    "leech-swarm": {
+      "name": "Leech Swarm",
+      "source": "tob2",
+      "file": "docs/leech-swarm.md"
+    },
+    "lemurfolk": {
+      "name": "Lemurfolk",
+      "source": "tob",
+      "file": "docs/lemurfolk.md"
+    },
+    "lemurfolk-greyfur": {
+      "name": "Lemurfolk Greyfur",
+      "source": "tob",
+      "file": "docs/lemurfolk-greyfur.md"
+    },
+    "leonino": {
+      "name": "Leonino",
+      "source": "cc",
+      "file": "docs/leonino.md"
+    },
+    "leshy": {
+      "name": "Leshy",
+      "source": "tob",
+      "file": "docs/leshy.md"
+    },
+    "lesser-lunarchidna": {
+      "name": "Lesser Lunarchidna",
+      "source": "tob2",
+      "file": "docs/lesser-lunarchidna.md"
+    },
+    "lesser-scrag": {
+      "name": "Lesser Scrag",
+      "source": "cc",
+      "file": "docs/lesser-scrag.md"
+    },
+    "ley-wanderer": {
+      "name": "Ley Wanderer",
+      "source": "tob3",
+      "file": "docs/ley-wanderer.md"
+    },
+    "library-automaton": {
+      "name": "Library Automaton",
+      "source": "tob",
+      "file": "docs/library-automaton.md"
+    },
+    "lich-hound": {
+      "name": "Lich Hound",
+      "source": "tob",
+      "file": "docs/lich-hound.md"
+    },
+    "life-broker": {
+      "name": "Life Broker",
+      "source": "tob3",
+      "file": "docs/life-broker.md"
+    },
+    "light-cavalry": {
+      "name": "Light Cavalry",
+      "source": "cc",
+      "file": "docs/light-cavalry.md"
+    },
+    "light-dragon-wyrmling": {
+      "name": "Light Dragon Wyrmling",
+      "source": "cc",
+      "file": "docs/light-dragon-wyrmling.md"
+    },
+    "light-drake": {
+      "name": "Light Drake",
+      "source": "tob2",
+      "file": "docs/light-drake.md"
+    },
+    "light-eater": {
+      "name": "Light Eater",
+      "source": "tob3",
+      "file": "docs/light-eater.md"
+    },
+    "likho": {
+      "name": "Likho",
+      "source": "tob",
+      "file": "docs/likho.md"
+    },
+    "liminal-drake": {
+      "name": "Liminal Drake",
+      "source": "tob2",
+      "file": "docs/liminal-drake.md"
+    },
+    "lindwurm": {
+      "name": "Lindwurm",
+      "source": "tob",
+      "file": "docs/lindwurm.md"
+    },
+    "liosalfar": {
+      "name": "Liosalfar",
+      "source": "tob",
+      "file": "docs/liosalfar.md"
+    },
+    "living-shade": {
+      "name": "Living Shade",
+      "source": "cc",
+      "file": "docs/living-shade.md"
+    },
+    "living-soot": {
+      "name": "Living Soot",
+      "source": "tob3",
+      "file": "docs/living-soot.md"
+    },
+    "living-star": {
+      "name": "Living Star",
+      "source": "cc",
+      "file": "docs/living-star.md"
+    },
+    "living-wick": {
+      "name": "Living Wick",
+      "source": "tob",
+      "file": "docs/living-wick.md"
+    },
+    "lobe-lemur": {
+      "name": "Lobe Lemur",
+      "source": "tob3",
+      "file": "docs/lobe-lemur.md"
+    },
+    "locksmith": {
+      "name": "Locksmith",
+      "source": "tob2",
+      "file": "docs/locksmith.md"
+    },
+    "lord-zombie": {
+      "name": "Lord Zombie",
+      "source": "cc",
+      "file": "docs/lord-zombie.md"
+    },
+    "lorelei": {
+      "name": "Lorelei",
+      "source": "tob",
+      "file": "docs/lorelei.md"
+    },
+    "lost-minotaur": {
+      "name": "Lost Minotaur",
+      "source": "cc",
+      "file": "docs/lost-minotaur.md"
+    },
+    "lotus-golem": {
+      "name": "Lotus Golem",
+      "source": "cc",
+      "file": "docs/lotus-golem.md"
+    },
+    "lou-carcolh": {
+      "name": "Lou Carcolh",
+      "source": "cc",
+      "file": "docs/lou-carcolh.md"
+    },
+    "loxoda": {
+      "name": "Loxoda",
+      "source": "tob",
+      "file": "docs/loxoda.md"
+    },
+    "luck-leech": {
+      "name": "Luck Leech",
+      "source": "tob2",
+      "file": "docs/luck-leech.md"
+    },
+    "lunar-devil": {
+      "name": "Lunar Devil",
+      "source": "tob",
+      "file": "docs/lunar-devil.md"
+    },
+    "lunarian": {
+      "name": "Lunarian",
+      "source": "tob2",
+      "file": "docs/lunarian.md"
+    },
+    "lycanthrope-werecrocodile": {
+      "name": "Lycanthrope, Werecrocodile",
+      "source": "tob3",
+      "file": "docs/lycanthrope-werecrocodile.md"
+    },
+    "lycanthrope-wereotter": {
+      "name": "Lycanthrope, Wereotter",
+      "source": "tob3",
+      "file": "docs/lycanthrope-wereotter.md"
+    },
+    "lymarien": {
+      "name": "Lymarien",
+      "source": "tob2",
+      "file": "docs/lymarien.md"
+    },
+    "lymarien-swarm": {
+      "name": "Lymarien Swarm",
+      "source": "tob2",
+      "file": "docs/lymarien-swarm.md"
+    },
+    "lystrosaurus": {
+      "name": "Lystrosaurus",
+      "source": "cc",
+      "file": "docs/lystrosaurus.md"
+    },
+    "mad-piper": {
+      "name": "Mad Piper",
+      "source": "tob2",
+      "file": "docs/mad-piper.md"
+    },
+    "magma-octopus": {
+      "name": "Magma Octopus",
+      "source": "tob2",
+      "file": "docs/magma-octopus.md"
+    },
+    "magnetic-elemental": {
+      "name": "Magnetic Elemental",
+      "source": "tob2",
+      "file": "docs/magnetic-elemental.md"
+    },
+    "mahoru": {
+      "name": "Mahoru",
+      "source": "tob",
+      "file": "docs/mahoru.md"
+    },
+    "major-malleable": {
+      "name": "Major Malleable",
+      "source": "tob2",
+      "file": "docs/major-malleable.md"
+    },
+    "malakbel": {
+      "name": "Malakbel",
+      "source": "tob",
+      "file": "docs/malakbel.md"
+    },
+    "mallqui": {
+      "name": "Mallqui",
+      "source": "tob",
+      "file": "docs/mallqui.md"
+    },
+    "malmbjorn": {
+      "name": "Malmbjorn",
+      "source": "tob3",
+      "file": "docs/malmbjorn.md"
+    },
+    "malphas-storm-crow": {
+      "name": "Malphas (Storm Crow)",
+      "source": "tob",
+      "file": "docs/malphas-storm-crow.md"
+    },
+    "mamura": {
+      "name": "Mamura",
+      "source": "tob",
+      "file": "docs/mamura.md"
+    },
+    "manabane-scarab-swarm": {
+      "name": "Manabane Scarab Swarm",
+      "source": "tob",
+      "file": "docs/manabane-scarab-swarm.md"
+    },
+    "manastorm-golem": {
+      "name": "Manastorm Golem",
+      "source": "cc",
+      "file": "docs/manastorm-golem.md"
+    },
+    "mandrake": {
+      "name": "Mandrake",
+      "source": "cc",
+      "file": "docs/mandrake.md"
+    },
+    "mandriano": {
+      "name": "Mandriano",
+      "source": "cc",
+      "file": "docs/mandriano.md"
+    },
+    "manggus": {
+      "name": "Manggus",
+      "source": "tob2",
+      "file": "docs/manggus.md"
+    },
+    "mangrove-treant": {
+      "name": "Mangrove Treant",
+      "source": "tob2",
+      "file": "docs/mangrove-treant.md"
+    },
+    "map-mimic": {
+      "name": "Map Mimic",
+      "source": "tob",
+      "file": "docs/map-mimic.md"
+    },
+    "mari-lwyd": {
+      "name": "Mari Lwyd",
+      "source": "tob2",
+      "file": "docs/mari-lwyd.md"
+    },
+    "marsh-dire": {
+      "name": "Marsh Dire",
+      "source": "tob2",
+      "file": "docs/marsh-dire.md"
+    },
+    "mask-wight": {
+      "name": "Mask Wight",
+      "source": "tob",
+      "file": "docs/mask-wight.md"
+    },
+    "massive-malleable": {
+      "name": "Massive Malleable",
+      "source": "tob2",
+      "file": "docs/massive-malleable.md"
+    },
+    "matriarch-serpentine-lamia": {
+      "name": "Matriarch Serpentine Lamia",
+      "source": "cc",
+      "file": "docs/matriarch-serpentine-lamia.md"
+    },
+    "mavka": {
+      "name": "Mavka",
+      "source": "tob",
+      "file": "docs/mavka.md"
+    },
+    "mbielu": {
+      "name": "Mbielu",
+      "source": "tob",
+      "file": "docs/mbielu.md"
+    },
+    "mead-archon": {
+      "name": "Mead Archon",
+      "source": "tob2",
+      "file": "docs/mead-archon.md"
+    },
+    "meerkat": {
+      "name": "Meerkat",
+      "source": "tob3",
+      "file": "docs/meerkat.md"
+    },
+    "meerkats-swarm": {
+      "name": "Meerkats, Swarm",
+      "source": "tob3",
+      "file": "docs/meerkats-swarm.md"
+    },
+    "megantereon": {
+      "name": "Megantereon",
+      "source": "tob3",
+      "file": "docs/megantereon.md"
+    },
+    "megapede": {
+      "name": "Megapede",
+      "source": "cc",
+      "file": "docs/megapede.md"
+    },
+    "mei-jiao-shou": {
+      "name": "Mei Jiao Shou",
+      "source": "tob2",
+      "file": "docs/mei-jiao-shou.md"
+    },
+    "mi-go": {
+      "name": "Mi-Go",
+      "source": "tob",
+      "file": "docs/mi-go.md"
+    },
+    "midnight-sun": {
+      "name": "Midnight Sun",
+      "source": "tob3",
+      "file": "docs/midnight-sun.md"
+    },
+    "millitaur": {
+      "name": "Millitaur",
+      "source": "tob",
+      "file": "docs/millitaur.md"
+    },
+    "mindrot-thrall": {
+      "name": "Mindrot Thrall",
+      "source": "tob",
+      "file": "docs/mindrot-thrall.md"
+    },
+    "mindshard": {
+      "name": "Mindshard",
+      "source": "tob3",
+      "file": "docs/mindshard.md"
+    },
+    "mineral-ooze": {
+      "name": "Mineral Ooze",
+      "source": "tob2",
+      "file": "docs/mineral-ooze.md"
+    },
+    "minor-malleable": {
+      "name": "Minor Malleable",
+      "source": "tob2",
+      "file": "docs/minor-malleable.md"
+    },
+    "minotaur-ravening": {
+      "name": "Minotaur, Ravening",
+      "source": "tob3",
+      "file": "docs/minotaur-ravening.md"
+    },
+    "mirager": {
+      "name": "Mirager",
+      "source": "tob",
+      "file": "docs/mirager.md"
+    },
+    "miremal": {
+      "name": "Miremal",
+      "source": "tob",
+      "file": "docs/miremal.md"
+    },
+    "mirror-hag": {
+      "name": "Mirror Hag",
+      "source": "tob",
+      "file": "docs/mirror-hag.md"
+    },
+    "mngwa": {
+      "name": "Mngwa",
+      "source": "tob",
+      "file": "docs/mngwa.md"
+    },
+    "moderate-malleable": {
+      "name": "Moderate Malleable",
+      "source": "tob2",
+      "file": "docs/moderate-malleable.md"
+    },
+    "mold-zombie": {
+      "name": "Mold Zombie",
+      "source": "cc",
+      "file": "docs/mold-zombie.md"
+    },
+    "monarch-skeleton": {
+      "name": "Monarch Skeleton",
+      "source": "cc",
+      "file": "docs/monarch-skeleton.md"
+    },
+    "monkey's-bane-vine": {
+      "name": "Monkey'S Bane Vine",
+      "source": "tob3",
+      "file": "docs/monkey's-bane-vine.md"
+    },
+    "monkey-king": {
+      "name": "Monkey King",
+      "source": "cc",
+      "file": "docs/monkey-king.md"
+    },
+    "monolith-champion": {
+      "name": "Monolith Champion",
+      "source": "tob",
+      "file": "docs/monolith-champion.md"
+    },
+    "monolith-footman": {
+      "name": "Monolith Footman",
+      "source": "tob",
+      "file": "docs/monolith-footman.md"
+    },
+    "moon-drake": {
+      "name": "Moon Drake",
+      "source": "cc",
+      "file": "docs/moon-drake.md"
+    },
+    "moon-nymph": {
+      "name": "Moon Nymph",
+      "source": "cc",
+      "file": "docs/moon-nymph.md"
+    },
+    "moon-weaver": {
+      "name": "Moon Weaver",
+      "source": "tob3",
+      "file": "docs/moon-weaver.md"
+    },
+    "moonchild-naga": {
+      "name": "Moonchild Naga",
+      "source": "cc",
+      "file": "docs/moonchild-naga.md"
+    },
+    "moonkite": {
+      "name": "Moonkite",
+      "source": "tob2",
+      "file": "docs/moonkite.md"
+    },
+    "moonless-hunter": {
+      "name": "Moonless Hunter",
+      "source": "tob3",
+      "file": "docs/moonless-hunter.md"
+    },
+    "moonweb": {
+      "name": "Moonweb",
+      "source": "tob3",
+      "file": "docs/moonweb.md"
+    },
+    "moppet": {
+      "name": "Moppet",
+      "source": "tob3",
+      "file": "docs/moppet.md"
+    },
+    "mordant-snare": {
+      "name": "Mordant Snare",
+      "source": "tob",
+      "file": "docs/mordant-snare.md"
+    },
+    "morko": {
+      "name": "Morko",
+      "source": "cc",
+      "file": "docs/morko.md"
+    },
+    "morphoi": {
+      "name": "Morphoi",
+      "source": "tob",
+      "file": "docs/morphoi.md"
+    },
+    "mortifera": {
+      "name": "Mortifera",
+      "source": "tob3",
+      "file": "docs/mortifera.md"
+    },
+    "moss-lurker": {
+      "name": "Moss Lurker",
+      "source": "tob",
+      "file": "docs/moss-lurker.md"
+    },
+    "mountain-dryad": {
+      "name": "Mountain Dryad",
+      "source": "tob2",
+      "file": "docs/mountain-dryad.md"
+    },
+    "mountain-giant": {
+      "name": "Mountain Giant",
+      "source": "cc",
+      "file": "docs/mountain-giant.md"
+    },
+    "mountain-nymph": {
+      "name": "Mountain Nymph",
+      "source": "tob2",
+      "file": "docs/mountain-nymph.md"
+    },
+    "mountain-strider": {
+      "name": "Mountain Strider",
+      "source": "tob2",
+      "file": "docs/mountain-strider.md"
+    },
+    "mud-golem": {
+      "name": "Mud Golem",
+      "source": "cc",
+      "file": "docs/mud-golem.md"
+    },
+    "mudmutt": {
+      "name": "Mudmutt",
+      "source": "tob3",
+      "file": "docs/mudmutt.md"
+    },
+    "mummy-peat": {
+      "name": "Mummy, Peat",
+      "source": "tob3",
+      "file": "docs/mummy-peat.md"
+    },
+    "muraenid": {
+      "name": "Muraenid",
+      "source": "tob3",
+      "file": "docs/muraenid.md"
+    },
+    "murgrik": {
+      "name": "Murgrik",
+      "source": "tob2",
+      "file": "docs/murgrik.md"
+    },
+    "musk-deer": {
+      "name": "Musk Deer",
+      "source": "tob3",
+      "file": "docs/musk-deer.md"
+    },
+    "musk-deer-swarm": {
+      "name": "Musk Deer, Swarm",
+      "source": "tob3",
+      "file": "docs/musk-deer-swarm.md"
+    },
+    "mydnari": {
+      "name": "Mydnari",
+      "source": "tob2",
+      "file": "docs/mydnari.md"
+    },
+    "myling": {
+      "name": "Myling",
+      "source": "tob",
+      "file": "docs/myling.md"
+    },
+    "myrmex": {
+      "name": "Myrmex",
+      "source": "tob3",
+      "file": "docs/myrmex.md"
+    },
+    "myrmex-speaker": {
+      "name": "Myrmex Speaker",
+      "source": "tob3",
+      "file": "docs/myrmex-speaker.md"
+    },
+    "myrmex-young": {
+      "name": "Myrmex, Young",
+      "source": "tob3",
+      "file": "docs/myrmex-young.md"
+    },
+    "mystic": {
+      "name": "Mystic",
+      "source": "tob2",
+      "file": "docs/mystic.md"
+    },
+    "mytholabe": {
+      "name": "Mytholabe",
+      "source": "cc",
+      "file": "docs/mytholabe.md"
+    },
+    "nachzehrer": {
+      "name": "Nachzehrer",
+      "source": "cc",
+      "file": "docs/nachzehrer.md"
+    },
+    "naina": {
+      "name": "Naina",
+      "source": "tob",
+      "file": "docs/naina.md"
+    },
+    "naizu-ha": {
+      "name": "Naizu-Ha",
+      "source": "tob2",
+      "file": "docs/naizu-ha.md"
+    },
+    "nalusa-falaya": {
+      "name": "Nalusa Falaya",
+      "source": "cc",
+      "file": "docs/nalusa-falaya.md"
+    },
+    "nariphon": {
+      "name": "Nariphon",
+      "source": "tob3",
+      "file": "docs/nariphon.md"
+    },
+    "narshark": {
+      "name": "Narshark",
+      "source": "tob2",
+      "file": "docs/narshark.md"
+    },
+    "nautiloid": {
+      "name": "Nautiloid",
+      "source": "tob3",
+      "file": "docs/nautiloid.md"
+    },
+    "necrophage-ghast": {
+      "name": "Necrophage Ghast",
+      "source": "cc",
+      "file": "docs/necrophage-ghast.md"
+    },
+    "necrotech-bonecage-constrictor": {
+      "name": "Necrotech Bonecage Constrictor",
+      "source": "tob3",
+      "file": "docs/necrotech-bonecage-constrictor.md"
+    },
+    "necrotech-reaver": {
+      "name": "Necrotech Reaver",
+      "source": "tob3",
+      "file": "docs/necrotech-reaver.md"
+    },
+    "necrotech-thunderer": {
+      "name": "Necrotech Thunderer",
+      "source": "tob3",
+      "file": "docs/necrotech-thunderer.md"
+    },
+    "necrotic-tick": {
+      "name": "Necrotic Tick",
+      "source": "cc",
+      "file": "docs/necrotic-tick.md"
+    },
+    "neophron": {
+      "name": "Neophron",
+      "source": "cc",
+      "file": "docs/neophron.md"
+    },
+    "nephirron-devil": {
+      "name": "Nephirron Devil",
+      "source": "tob2",
+      "file": "docs/nephirron-devil.md"
+    },
+    "ngobou": {
+      "name": "Ngobou",
+      "source": "tob",
+      "file": "docs/ngobou.md"
+    },
+    "nharyth": {
+      "name": "Nharyth",
+      "source": "tob2",
+      "file": "docs/nharyth.md"
+    },
+    "nian": {
+      "name": "Nian",
+      "source": "cc",
+      "file": "docs/nian.md"
+    },
+    "nichny": {
+      "name": "Nichny",
+      "source": "tob",
+      "file": "docs/nichny.md"
+    },
+    "night-scorpion": {
+      "name": "Night Scorpion",
+      "source": "tob",
+      "file": "docs/night-scorpion.md"
+    },
+    "nightgarm": {
+      "name": "Nightgarm",
+      "source": "tob",
+      "file": "docs/nightgarm.md"
+    },
+    "nightgaunt": {
+      "name": "Nightgaunt",
+      "source": "cc",
+      "file": "docs/nightgaunt.md"
+    },
+    "nihilethic-zombie": {
+      "name": "Nihilethic Zombie",
+      "source": "tob",
+      "file": "docs/nihilethic-zombie.md"
+    },
+    "ningyo": {
+      "name": "Ningyo",
+      "source": "cc",
+      "file": "docs/ningyo.md"
+    },
+    "niya-atha-raja": {
+      "name": "Niya-Atha Raja",
+      "source": "tob3",
+      "file": "docs/niya-atha-raja.md"
+    },
+    "niya-atha-sorcerer": {
+      "name": "Niya-Atha Sorcerer",
+      "source": "tob3",
+      "file": "docs/niya-atha-sorcerer.md"
+    },
+    "niya-atha-warrior": {
+      "name": "Niya-Atha Warrior",
+      "source": "tob3",
+      "file": "docs/niya-atha-warrior.md"
+    },
+    "nkosi": {
+      "name": "Nkosi",
+      "source": "tob",
+      "file": "docs/nkosi.md"
+    },
+    "nkosi-pridelord": {
+      "name": "Nkosi Pridelord",
+      "source": "tob",
+      "file": "docs/nkosi-pridelord.md"
+    },
+    "nkosi-war-ostrich": {
+      "name": "Nkosi War Ostrich",
+      "source": "tob",
+      "file": "docs/nkosi-war-ostrich.md"
+    },
+    "noctiny": {
+      "name": "Noctiny",
+      "source": "tob",
+      "file": "docs/noctiny.md"
+    },
+    "nodosaurus": {
+      "name": "Nodosaurus",
+      "source": "cc",
+      "file": "docs/nodosaurus.md"
+    },
+    "noth-norren": {
+      "name": "Noth-norren",
+      "source": "tob2",
+      "file": "docs/noth-norren.md"
+    },
+    "npc:-apostle": {
+      "name": "Npc: Apostle",
+      "source": "tob3",
+      "file": "docs/npc:-apostle.md"
+    },
+    "npc:-atavist": {
+      "name": "Npc: Atavist",
+      "source": "tob3",
+      "file": "docs/npc:-atavist.md"
+    },
+    "npc:-breathstealer": {
+      "name": "Npc: Breathstealer",
+      "source": "tob3",
+      "file": "docs/npc:-breathstealer.md"
+    },
+    "npc:-cultist-psychophant": {
+      "name": "Npc: Cultist Psychophant",
+      "source": "tob3",
+      "file": "docs/npc:-cultist-psychophant.md"
+    },
+    "npc:-field-commander": {
+      "name": "Npc: Field Commander",
+      "source": "tob3",
+      "file": "docs/npc:-field-commander.md"
+    },
+    "npc:-first-servant": {
+      "name": "Npc: First Servant",
+      "source": "tob3",
+      "file": "docs/npc:-first-servant.md"
+    },
+    "npc:-fixer": {
+      "name": "Npc: Fixer",
+      "source": "tob3",
+      "file": "docs/npc:-fixer.md"
+    },
+    "npc:-frost-afflicted": {
+      "name": "Npc: Frost-Afflicted",
+      "source": "tob3",
+      "file": "docs/npc:-frost-afflicted.md"
+    },
+    "npc:-infested-duelist": {
+      "name": "Npc: Infested Duelist",
+      "source": "tob3",
+      "file": "docs/npc:-infested-duelist.md"
+    },
+    "npc:-infiltrator": {
+      "name": "Npc: Infiltrator",
+      "source": "tob3",
+      "file": "docs/npc:-infiltrator.md"
+    },
+    "npc:-merchant-captain": {
+      "name": "Npc: Merchant Captain",
+      "source": "tob3",
+      "file": "docs/npc:-merchant-captain.md"
+    },
+    "npc:-warlock-of-the-genie-lord": {
+      "name": "Npc: Warlock Of The Genie Lord",
+      "source": "tob3",
+      "file": "docs/npc:-warlock-of-the-genie-lord.md"
+    },
+    "npc:-wind-acolyte": {
+      "name": "Npc: Wind Acolyte",
+      "source": "tob3",
+      "file": "docs/npc:-wind-acolyte.md"
+    },
+    "nullicorn": {
+      "name": "Nullicorn",
+      "source": "tob3",
+      "file": "docs/nullicorn.md"
+    },
+    "nyctli": {
+      "name": "Nyctli",
+      "source": "tob2",
+      "file": "docs/nyctli.md"
+    },
+    "nyctli-swarm": {
+      "name": "Nyctli Swarm",
+      "source": "tob2",
+      "file": "docs/nyctli-swarm.md"
+    },
+    "oaken-sentinel": {
+      "name": "Oaken Sentinel",
+      "source": "tob3",
+      "file": "docs/oaken-sentinel.md"
+    },
+    "oasis-keeper": {
+      "name": "Oasis Keeper",
+      "source": "tob2",
+      "file": "docs/oasis-keeper.md"
+    },
+    "obeleric": {
+      "name": "Obeleric",
+      "source": "tob3",
+      "file": "docs/obeleric.md"
+    },
+    "obsidian-ophidian": {
+      "name": "Obsidian Ophidian",
+      "source": "tob3",
+      "file": "docs/obsidian-ophidian.md"
+    },
+    "oculo-swarm": {
+      "name": "Oculo Swarm",
+      "source": "tob",
+      "file": "docs/oculo-swarm.md"
+    },
+    "offal-walker": {
+      "name": "Offal Walker",
+      "source": "tob3",
+      "file": "docs/offal-walker.md"
+    },
+    "ogre-alleybasher": {
+      "name": "Ogre, Alleybasher",
+      "source": "tob3",
+      "file": "docs/ogre-alleybasher.md"
+    },
+    "ogre-black-sun": {
+      "name": "Ogre, Black Sun",
+      "source": "tob3",
+      "file": "docs/ogre-black-sun.md"
+    },
+    "ogre-chieftain-corrupted": {
+      "name": "Ogre Chieftain, Corrupted",
+      "source": "tob",
+      "file": "docs/ogre-chieftain-corrupted.md"
+    },
+    "ogre-cunning-artisan": {
+      "name": "Ogre, Cunning Artisan",
+      "source": "tob3",
+      "file": "docs/ogre-cunning-artisan.md"
+    },
+    "ogre-kadag": {
+      "name": "Ogre, Kadag",
+      "source": "tob3",
+      "file": "docs/ogre-kadag.md"
+    },
+    "ogre-rainforest": {
+      "name": "Ogre, Rainforest",
+      "source": "tob3",
+      "file": "docs/ogre-rainforest.md"
+    },
+    "ogre-rockchewer": {
+      "name": "Ogre, Rockchewer",
+      "source": "tob3",
+      "file": "docs/ogre-rockchewer.md"
+    },
+    "ogre-void-blessed": {
+      "name": "Ogre, Void Blessed",
+      "source": "tob3",
+      "file": "docs/ogre-void-blessed.md"
+    },
+    "ogrepede": {
+      "name": "Ogrepede",
+      "source": "tob2",
+      "file": "docs/ogrepede.md"
+    },
+    "old-salt": {
+      "name": "Old Salt",
+      "source": "tob3",
+      "file": "docs/old-salt.md"
+    },
+    "oliphaunt": {
+      "name": "Oliphaunt",
+      "source": "cc",
+      "file": "docs/oliphaunt.md"
+    },
+    "one-headed-clockwork-dragon": {
+      "name": "One-Headed Clockwork Dragon",
+      "source": "cc",
+      "file": "docs/one-headed-clockwork-dragon.md"
+    },
+    "one-horned-ogre": {
+      "name": "One-Horned Ogre",
+      "source": "tob2",
+      "file": "docs/one-horned-ogre.md"
+    },
+    "onyx-magistrate": {
+      "name": "Onyx Magistrate",
+      "source": "tob2",
+      "file": "docs/onyx-magistrate.md"
+    },
+    "oozasis": {
+      "name": "Oozasis",
+      "source": "tob",
+      "file": "docs/oozasis.md"
+    },
+    "ooze-leavesrot": {
+      "name": "Ooze, Leavesrot",
+      "source": "tob3",
+      "file": "docs/ooze-leavesrot.md"
+    },
+    "ooze-manure": {
+      "name": "Ooze, Manure",
+      "source": "tob3",
+      "file": "docs/ooze-manure.md"
+    },
+    "ooze-scintillating": {
+      "name": "Ooze, Scintillating",
+      "source": "tob3",
+      "file": "docs/ooze-scintillating.md"
+    },
+    "ooze-shoal": {
+      "name": "Ooze, Shoal",
+      "source": "tob3",
+      "file": "docs/ooze-shoal.md"
+    },
+    "ooze-sinkhole": {
+      "name": "Ooze, Sinkhole",
+      "source": "tob3",
+      "file": "docs/ooze-sinkhole.md"
+    },
+    "ooze-sinoper": {
+      "name": "Ooze, Sinoper",
+      "source": "tob3",
+      "file": "docs/ooze-sinoper.md"
+    },
+    "ooze-snow": {
+      "name": "Ooze, Snow",
+      "source": "tob3",
+      "file": "docs/ooze-snow.md"
+    },
+    "ophanim": {
+      "name": "Ophanim",
+      "source": "cc",
+      "file": "docs/ophanim.md"
+    },
+    "ophidiotaur": {
+      "name": "Ophidiotaur",
+      "source": "tob2",
+      "file": "docs/ophidiotaur.md"
+    },
+    "ophinix": {
+      "name": "Ophinix",
+      "source": "tob2",
+      "file": "docs/ophinix.md"
+    },
+    "ophio-fungus": {
+      "name": "Ophio Fungus",
+      "source": "tob2",
+      "file": "docs/ophio-fungus.md"
+    },
+    "orniraptor": {
+      "name": "Orniraptor",
+      "source": "tob2",
+      "file": "docs/orniraptor.md"
+    },
+    "orobas-devil": {
+      "name": "Orobas Devil",
+      "source": "tob",
+      "file": "docs/orobas-devil.md"
+    },
+    "orphan-of-the-black": {
+      "name": "Orphan of the Black",
+      "source": "tob2",
+      "file": "docs/orphan-of-the-black.md"
+    },
+    "orthrus": {
+      "name": "Orthrus",
+      "source": "cc",
+      "file": "docs/orthrus.md"
+    },
+    "ortifex": {
+      "name": "Ortifex",
+      "source": "tob2",
+      "file": "docs/ortifex.md"
+    },
+    "ostinato": {
+      "name": "Ostinato",
+      "source": "tob",
+      "file": "docs/ostinato.md"
+    },
+    "oth": {
+      "name": "Oth",
+      "source": "cc",
+      "file": "docs/oth.md"
+    },
+    "otterfolk": {
+      "name": "Otterfolk",
+      "source": "tob2",
+      "file": "docs/otterfolk.md"
+    },
+    "ouroban": {
+      "name": "Ouroban",
+      "source": "cc",
+      "file": "docs/ouroban.md"
+    },
+    "ouroboros": {
+      "name": "Ouroboros",
+      "source": "cc",
+      "file": "docs/ouroboros.md"
+    },
+    "overshadow": {
+      "name": "Overshadow",
+      "source": "tob2",
+      "file": "docs/overshadow.md"
+    },
+    "owl-harpy": {
+      "name": "Owl Harpy",
+      "source": "tob",
+      "file": "docs/owl-harpy.md"
+    },
+    "pact-drake": {
+      "name": "Pact Drake",
+      "source": "cc",
+      "file": "docs/pact-drake.md"
+    },
+    "pact-lich": {
+      "name": "Pact Lich",
+      "source": "cc",
+      "file": "docs/pact-lich.md"
+    },
+    "painted-phantasm": {
+      "name": "Painted Phantasm",
+      "source": "tob3",
+      "file": "docs/painted-phantasm.md"
+    },
+    "pal-rai-yuk": {
+      "name": "Pal-Rai-Yuk",
+      "source": "tob2",
+      "file": "docs/pal-rai-yuk.md"
+    },
+    "pale-screamer": {
+      "name": "Pale Screamer",
+      "source": "tob2",
+      "file": "docs/pale-screamer.md"
+    },
+    "paper-drake": {
+      "name": "Paper Drake",
+      "source": "tob",
+      "file": "docs/paper-drake.md"
+    },
+    "paper-golem": {
+      "name": "Paper Golem",
+      "source": "cc",
+      "file": "docs/paper-golem.md"
+    },
+    "paper-golem-swarm": {
+      "name": "Paper Golem Swarm",
+      "source": "cc",
+      "file": "docs/paper-golem-swarm.md"
+    },
+    "parzzval": {
+      "name": "Parzz’val",
+      "source": "tob2",
+      "file": "docs/parzzval.md"
+    },
+    "pattern-dancer": {
+      "name": "Pattern Dancer",
+      "source": "cc",
+      "file": "docs/pattern-dancer.md"
+    },
+    "peat-mammoth": {
+      "name": "Peat Mammoth",
+      "source": "tob2",
+      "file": "docs/peat-mammoth.md"
+    },
+    "pech": {
+      "name": "Pech",
+      "source": "cc",
+      "file": "docs/pech.md"
+    },
+    "pech-lithlord": {
+      "name": "Pech Lithlord",
+      "source": "cc",
+      "file": "docs/pech-lithlord.md"
+    },
+    "pech-stonemaster": {
+      "name": "Pech Stonemaster",
+      "source": "cc",
+      "file": "docs/pech-stonemaster.md"
+    },
+    "pelagic-blush-worm": {
+      "name": "Pelagic Blush Worm",
+      "source": "tob3",
+      "file": "docs/pelagic-blush-worm.md"
+    },
+    "peluda-drake": {
+      "name": "Peluda Drake",
+      "source": "cc",
+      "file": "docs/peluda-drake.md"
+    },
+    "peri": {
+      "name": "Peri",
+      "source": "tob3",
+      "file": "docs/peri.md"
+    },
+    "pescavitus": {
+      "name": "Pescavitus",
+      "source": "tob3",
+      "file": "docs/pescavitus.md"
+    },
+    "pestilence-swarm": {
+      "name": "Pestilence Swarm",
+      "source": "tob2",
+      "file": "docs/pestilence-swarm.md"
+    },
+    "phantom": {
+      "name": "Phantom",
+      "source": "cc",
+      "file": "docs/phantom.md"
+    },
+    "phase-giant": {
+      "name": "Phase Giant",
+      "source": "tob2",
+      "file": "docs/phase-giant.md"
+    },
+    "philosophers-ghost": {
+      "name": "Philosopher's Ghost",
+      "source": "cc",
+      "file": "docs/philosophers-ghost.md"
+    },
+    "phoenixborn": {
+      "name": "Phoenixborn",
+      "source": "tob3",
+      "file": "docs/phoenixborn.md"
+    },
+    "phoenixborn-sorcerer": {
+      "name": "Phoenixborn Sorcerer",
+      "source": "tob3",
+      "file": "docs/phoenixborn-sorcerer.md"
+    },
+    "piasa": {
+      "name": "Piasa",
+      "source": "cc",
+      "file": "docs/piasa.md"
+    },
+    "pillar-of-the-lost-magocracy": {
+      "name": "Pillar of the Lost Magocracy",
+      "source": "cc",
+      "file": "docs/pillar-of-the-lost-magocracy.md"
+    },
+    "pine-doom": {
+      "name": "Pine Doom",
+      "source": "tob2",
+      "file": "docs/pine-doom.md"
+    },
+    "pishacha": {
+      "name": "Pishacha",
+      "source": "cc",
+      "file": "docs/pishacha.md"
+    },
+    "pixies-umbrella": {
+      "name": "Pixie’s Umbrella",
+      "source": "tob2",
+      "file": "docs/pixies-umbrella.md"
+    },
+    "pixiu": {
+      "name": "Pixiu",
+      "source": "cc",
+      "file": "docs/pixiu.md"
+    },
+    "plague-spirit": {
+      "name": "Plague Spirit",
+      "source": "tob2",
+      "file": "docs/plague-spirit.md"
+    },
+    "plaresh": {
+      "name": "Plaresh",
+      "source": "cc",
+      "file": "docs/plaresh.md"
+    },
+    "pombero": {
+      "name": "Pombero",
+      "source": "tob",
+      "file": "docs/pombero.md"
+    },
+    "porcellina": {
+      "name": "Porcellina",
+      "source": "tob3",
+      "file": "docs/porcellina.md"
+    },
+    "possessed-pillar": {
+      "name": "Possessed Pillar",
+      "source": "tob",
+      "file": "docs/possessed-pillar.md"
+    },
+    "preta": {
+      "name": "Preta",
+      "source": "cc",
+      "file": "docs/preta.md"
+    },
+    "primal-oozer": {
+      "name": "Primal Oozer",
+      "source": "tob2",
+      "file": "docs/primal-oozer.md"
+    },
+    "primordial-matriarch": {
+      "name": "Primordial Matriarch",
+      "source": "tob3",
+      "file": "docs/primordial-matriarch.md"
+    },
+    "primordial-surge": {
+      "name": "Primordial Surge",
+      "source": "tob3",
+      "file": "docs/primordial-surge.md"
+    },
+    "prismatic-beetle-swarm": {
+      "name": "Prismatic Beetle Swarm",
+      "source": "tob",
+      "file": "docs/prismatic-beetle-swarm.md"
+    },
+    "psoglav-demon": {
+      "name": "Psoglav Demon",
+      "source": "tob",
+      "file": "docs/psoglav-demon.md"
+    },
+    "psychic-vampire": {
+      "name": "Psychic Vampire",
+      "source": "tob2",
+      "file": "docs/psychic-vampire.md"
+    },
+    "puffinfolk": {
+      "name": "Puffinfolk",
+      "source": "tob3",
+      "file": "docs/puffinfolk.md"
+    },
+    "purple-slime": {
+      "name": "Purple Slime",
+      "source": "cc",
+      "file": "docs/purple-slime.md"
+    },
+    "pustulent-shambler": {
+      "name": "Pustulent Shambler",
+      "source": "tob2",
+      "file": "docs/pustulent-shambler.md"
+    },
+    "putrescent-slime": {
+      "name": "Putrescent Slime",
+      "source": "tob2",
+      "file": "docs/putrescent-slime.md"
+    },
+    "putrid-haunt": {
+      "name": "Putrid Haunt",
+      "source": "tob",
+      "file": "docs/putrid-haunt.md"
+    },
+    "pyrite-pile": {
+      "name": "Pyrite Pile",
+      "source": "tob3",
+      "file": "docs/pyrite-pile.md"
+    },
+    "pyrrhic-podthrower": {
+      "name": "Pyrrhic Podthrower",
+      "source": "tob3",
+      "file": "docs/pyrrhic-podthrower.md"
+    },
+    "púca": {
+      "name": "Púca",
+      "source": "tob3",
+      "file": "docs/púca.md"
+    },
+    "qiqirn": {
+      "name": "Qiqirn",
+      "source": "tob2",
+      "file": "docs/qiqirn.md"
+    },
+    "quagga": {
+      "name": "Quagga",
+      "source": "tob3",
+      "file": "docs/quagga.md"
+    },
+    "quickserpent": {
+      "name": "Quickserpent",
+      "source": "tob2",
+      "file": "docs/quickserpent.md"
+    },
+    "quickstep": {
+      "name": "Quickstep",
+      "source": "cc",
+      "file": "docs/quickstep.md"
+    },
+    "quiet-soul": {
+      "name": "Quiet Soul",
+      "source": "cc",
+      "file": "docs/quiet-soul.md"
+    },
+    "qumdaq": {
+      "name": "Qumdaq",
+      "source": "tob3",
+      "file": "docs/qumdaq.md"
+    },
+    "quoreq": {
+      "name": "Quoreq",
+      "source": "tob2",
+      "file": "docs/quoreq.md"
+    },
+    "qwyllion": {
+      "name": "Qwyllion",
+      "source": "tob",
+      "file": "docs/qwyllion.md"
+    },
+    "radiant-spark-swarm": {
+      "name": "Radiant Spark Swarm",
+      "source": "tob2",
+      "file": "docs/radiant-spark-swarm.md"
+    },
+    "rafflesian": {
+      "name": "Rafflesian",
+      "source": "tob3",
+      "file": "docs/rafflesian.md"
+    },
+    "rageipede": {
+      "name": "Rageipede",
+      "source": "cc",
+      "file": "docs/rageipede.md"
+    },
+    "rakshasa-myrmidon": {
+      "name": "Rakshasa, Myrmidon",
+      "source": "tob3",
+      "file": "docs/rakshasa-myrmidon.md"
+    },
+    "rakshasa-pustakam": {
+      "name": "Rakshasa, Pustakam",
+      "source": "tob3",
+      "file": "docs/rakshasa-pustakam.md"
+    },
+    "rakshasa-servitor": {
+      "name": "Rakshasa, Servitor",
+      "source": "tob3",
+      "file": "docs/rakshasa-servitor.md"
+    },
+    "rakshasa-slayer": {
+      "name": "Rakshasa, Slayer",
+      "source": "tob3",
+      "file": "docs/rakshasa-slayer.md"
+    },
+    "ramag": {
+      "name": "Ramag",
+      "source": "tob",
+      "file": "docs/ramag.md"
+    },
+    "ramag-portal-master": {
+      "name": "Ramag Portal Master",
+      "source": "cc",
+      "file": "docs/ramag-portal-master.md"
+    },
+    "rat-king": {
+      "name": "Rat King",
+      "source": "tob",
+      "file": "docs/rat-king.md"
+    },
+    "ratatosk": {
+      "name": "Ratatosk",
+      "source": "tob",
+      "file": "docs/ratatosk.md"
+    },
+    "ratatosk-warlord": {
+      "name": "Ratatosk Warlord",
+      "source": "cc",
+      "file": "docs/ratatosk-warlord.md"
+    },
+    "ratfolk": {
+      "name": "Ratfolk",
+      "source": "tob",
+      "file": "docs/ratfolk.md"
+    },
+    "ratfolk-mercenary": {
+      "name": "Ratfolk Mercenary",
+      "source": "cc",
+      "file": "docs/ratfolk-mercenary.md"
+    },
+    "ratfolk-rogue": {
+      "name": "Ratfolk Rogue",
+      "source": "tob",
+      "file": "docs/ratfolk-rogue.md"
+    },
+    "ratfolk-warlock": {
+      "name": "Ratfolk Warlock",
+      "source": "cc",
+      "file": "docs/ratfolk-warlock.md"
+    },
+    "rattok": {
+      "name": "Rattok",
+      "source": "cc",
+      "file": "docs/rattok.md"
+    },
+    "ravenala": {
+      "name": "Ravenala",
+      "source": "tob",
+      "file": "docs/ravenala.md"
+    },
+    "ravenfolk-doom-croaker": {
+      "name": "Ravenfolk Doom Croaker",
+      "source": "tob",
+      "file": "docs/ravenfolk-doom-croaker.md"
+    },
+    "ravenfolk-scout": {
+      "name": "Ravenfolk Scout",
+      "source": "tob",
+      "file": "docs/ravenfolk-scout.md"
+    },
+    "ravenfolk-warrior": {
+      "name": "Ravenfolk Warrior",
+      "source": "tob",
+      "file": "docs/ravenfolk-warrior.md"
+    },
+    "razorleaf": {
+      "name": "Razorleaf",
+      "source": "cc",
+      "file": "docs/razorleaf.md"
+    },
+    "red-banded-line-spider": {
+      "name": "Red-Banded Line Spider",
+      "source": "tob",
+      "file": "docs/red-banded-line-spider.md"
+    },
+    "red-hag": {
+      "name": "Red Hag",
+      "source": "tob",
+      "file": "docs/red-hag.md"
+    },
+    "redcap": {
+      "name": "Redcap",
+      "source": "tob",
+      "file": "docs/redcap.md"
+    },
+    "relentless-hound": {
+      "name": "Relentless Hound",
+      "source": "tob3",
+      "file": "docs/relentless-hound.md"
+    },
+    "repository": {
+      "name": "Repository",
+      "source": "tob2",
+      "file": "docs/repository.md"
+    },
+    "resinous-frog": {
+      "name": "Resinous Frog",
+      "source": "tob2",
+      "file": "docs/resinous-frog.md"
+    },
+    "rift-swine": {
+      "name": "Rift Swine",
+      "source": "tob",
+      "file": "docs/rift-swine.md"
+    },
+    "righteous-sentinel": {
+      "name": "Righteous Sentinel",
+      "source": "tob2",
+      "file": "docs/righteous-sentinel.md"
+    },
+    "rime-worm-grub": {
+      "name": "Rime Worm Grub",
+      "source": "tob",
+      "file": "docs/rime-worm-grub.md"
+    },
+    "rimewing": {
+      "name": "Rimewing",
+      "source": "cc",
+      "file": "docs/rimewing.md"
+    },
+    "ring-servant": {
+      "name": "Ring Servant",
+      "source": "cc",
+      "file": "docs/ring-servant.md"
+    },
+    "risen-reaver": {
+      "name": "Risen Reaver",
+      "source": "tob",
+      "file": "docs/risen-reaver.md"
+    },
+    "roachling-lord": {
+      "name": "Roachling Lord",
+      "source": "tob",
+      "file": "docs/roachling-lord.md"
+    },
+    "roachling-scout": {
+      "name": "Roachling Scout",
+      "source": "cc",
+      "file": "docs/roachling-scout.md"
+    },
+    "roachling-skirmisher": {
+      "name": "Roachling Skirmisher",
+      "source": "tob",
+      "file": "docs/roachling-skirmisher.md"
+    },
+    "rochade": {
+      "name": "Rochade",
+      "source": "tob3",
+      "file": "docs/rochade.md"
+    },
+    "rock-roach": {
+      "name": "Rock Roach",
+      "source": "tob2",
+      "file": "docs/rock-roach.md"
+    },
+    "rock-salamander": {
+      "name": "Rock Salamander",
+      "source": "tob3",
+      "file": "docs/rock-salamander.md"
+    },
+    "rockwood": {
+      "name": "Rockwood",
+      "source": "tob3",
+      "file": "docs/rockwood.md"
+    },
+    "roggenwolf": {
+      "name": "Roggenwolf",
+      "source": "cc",
+      "file": "docs/roggenwolf.md"
+    },
+    "rotsam": {
+      "name": "Rotsam",
+      "source": "tob2",
+      "file": "docs/rotsam.md"
+    },
+    "rotsam-swarm": {
+      "name": "Rotsam Swarm",
+      "source": "tob2",
+      "file": "docs/rotsam-swarm.md"
+    },
+    "rotting-wind": {
+      "name": "Rotting Wind",
+      "source": "tob",
+      "file": "docs/rotting-wind.md"
+    },
+    "rubezahl": {
+      "name": "Rubezahl",
+      "source": "tob",
+      "file": "docs/rubezahl.md"
+    },
+    "ruby-ooze": {
+      "name": "Ruby Ooze",
+      "source": "cc",
+      "file": "docs/ruby-ooze.md"
+    },
+    "rum-gremlin": {
+      "name": "Rum Gremlin",
+      "source": "tob",
+      "file": "docs/rum-gremlin.md"
+    },
+    "rum-lord": {
+      "name": "Rum Lord",
+      "source": "tob2",
+      "file": "docs/rum-lord.md"
+    },
+    "runeswarm": {
+      "name": "Runeswarm",
+      "source": "tob2",
+      "file": "docs/runeswarm.md"
+    },
+    "rusalka": {
+      "name": "Rusalka",
+      "source": "tob",
+      "file": "docs/rusalka.md"
+    },
+    "rust-drake": {
+      "name": "Rust Drake",
+      "source": "tob",
+      "file": "docs/rust-drake.md"
+    },
+    "salamander-monarch": {
+      "name": "Salamander Monarch",
+      "source": "tob2",
+      "file": "docs/salamander-monarch.md"
+    },
+    "salt-devil": {
+      "name": "Salt Devil",
+      "source": "tob",
+      "file": "docs/salt-devil.md"
+    },
+    "salt-golem": {
+      "name": "Salt Golem",
+      "source": "tob",
+      "file": "docs/salt-golem.md"
+    },
+    "sammael": {
+      "name": "Sammael",
+      "source": "cc",
+      "file": "docs/sammael.md"
+    },
+    "sand-hag": {
+      "name": "Sand Hag",
+      "source": "tob",
+      "file": "docs/sand-hag.md"
+    },
+    "sand-silhouette": {
+      "name": "Sand Silhouette",
+      "source": "tob",
+      "file": "docs/sand-silhouette.md"
+    },
+    "sand-spider": {
+      "name": "Sand Spider",
+      "source": "tob",
+      "file": "docs/sand-spider.md"
+    },
+    "sanddrift-drake": {
+      "name": "Sanddrift Drake",
+      "source": "tob2",
+      "file": "docs/sanddrift-drake.md"
+    },
+    "sandman": {
+      "name": "Sandman",
+      "source": "tob",
+      "file": "docs/sandman.md"
+    },
+    "sandwyrm": {
+      "name": "Sandwyrm",
+      "source": "tob",
+      "file": "docs/sandwyrm.md"
+    },
+    "sap-demon": {
+      "name": "Sap Demon",
+      "source": "tob",
+      "file": "docs/sap-demon.md"
+    },
+    "sapphire-jelly": {
+      "name": "Sapphire Jelly",
+      "source": "tob2",
+      "file": "docs/sapphire-jelly.md"
+    },
+    "sarcophagus-slime": {
+      "name": "Sarcophagus Slime",
+      "source": "tob",
+      "file": "docs/sarcophagus-slime.md"
+    },
+    "sarsaok": {
+      "name": "Sarsaok",
+      "source": "tob2",
+      "file": "docs/sarsaok.md"
+    },
+    "sasori-fukurowashi": {
+      "name": "Sasori Fukurowashi",
+      "source": "tob2",
+      "file": "docs/sasori-fukurowashi.md"
+    },
+    "sasquatch": {
+      "name": "Sasquatch",
+      "source": "tob2",
+      "file": "docs/sasquatch.md"
+    },
+    "sathaq-worm": {
+      "name": "Sathaq Worm",
+      "source": "tob",
+      "file": "docs/sathaq-worm.md"
+    },
+    "savager": {
+      "name": "Savager",
+      "source": "tob",
+      "file": "docs/savager.md"
+    },
+    "savior-lumen": {
+      "name": "Savior Lumen",
+      "source": "tob3",
+      "file": "docs/savior-lumen.md"
+    },
+    "sazakan": {
+      "name": "Sazakan",
+      "source": "tob3",
+      "file": "docs/sazakan.md"
+    },
+    "scarab-ruin": {
+      "name": "Scarab, Ruin",
+      "source": "tob3",
+      "file": "docs/scarab-ruin.md"
+    },
+    "scarab-suncatcher": {
+      "name": "Scarab, Suncatcher",
+      "source": "tob3",
+      "file": "docs/scarab-suncatcher.md"
+    },
+    "scarlet-ibis": {
+      "name": "Scarlet Ibis",
+      "source": "tob2",
+      "file": "docs/scarlet-ibis.md"
+    },
+    "scarsupial": {
+      "name": "Scarsupial",
+      "source": "tob3",
+      "file": "docs/scarsupial.md"
+    },
+    "scheznyki": {
+      "name": "Scheznyki",
+      "source": "tob",
+      "file": "docs/scheznyki.md"
+    },
+    "scitalis": {
+      "name": "Scitalis",
+      "source": "cc",
+      "file": "docs/scitalis.md"
+    },
+    "scorchrunner-jackal": {
+      "name": "Scorchrunner Jackal",
+      "source": "tob3",
+      "file": "docs/scorchrunner-jackal.md"
+    },
+    "scorpion-cultist": {
+      "name": "Scorpion Cultist",
+      "source": "tob",
+      "file": "docs/scorpion-cultist.md"
+    },
+    "scribe-devil": {
+      "name": "Scribe Devil",
+      "source": "tob2",
+      "file": "docs/scribe-devil.md"
+    },
+    "scrofin": {
+      "name": "Scrofin",
+      "source": "tob2",
+      "file": "docs/scrofin.md"
+    },
+    "scroll-mummy": {
+      "name": "Scroll Mummy",
+      "source": "tob2",
+      "file": "docs/scroll-mummy.md"
+    },
+    "sea-dragon-wyrmling": {
+      "name": "Sea Dragon Wyrmling",
+      "source": "tob",
+      "file": "docs/sea-dragon-wyrmling.md"
+    },
+    "selang": {
+      "name": "Selang",
+      "source": "tob",
+      "file": "docs/selang.md"
+    },
+    "sentinel-in-darkness": {
+      "name": "Sentinel in Darkness",
+      "source": "cc",
+      "file": "docs/sentinel-in-darkness.md"
+    },
+    "serpentfolk-of-yig": {
+      "name": "Serpentfolk of Yig",
+      "source": "cc",
+      "file": "docs/serpentfolk-of-yig.md"
+    },
+    "serpentine-lamia": {
+      "name": "Serpentine Lamia",
+      "source": "cc",
+      "file": "docs/serpentine-lamia.md"
+    },
+    "serpopard": {
+      "name": "Serpopard",
+      "source": "tob",
+      "file": "docs/serpopard.md"
+    },
+    "servant-of-the-unsated-god": {
+      "name": "Servant of the Unsated God",
+      "source": "tob2",
+      "file": "docs/servant-of-the-unsated-god.md"
+    },
+    "servant-of-the-vine": {
+      "name": "Servant of the Vine",
+      "source": "cc",
+      "file": "docs/servant-of-the-vine.md"
+    },
+    "servant-of-yig": {
+      "name": "Servant of Yig",
+      "source": "cc",
+      "file": "docs/servant-of-yig.md"
+    },
+    "sewer-weird": {
+      "name": "Sewer Weird",
+      "source": "tob3",
+      "file": "docs/sewer-weird.md"
+    },
+    "shabti": {
+      "name": "Shabti",
+      "source": "tob",
+      "file": "docs/shabti.md"
+    },
+    "shadhavar": {
+      "name": "Shadhavar",
+      "source": "tob",
+      "file": "docs/shadhavar.md"
+    },
+    "shadow-beast": {
+      "name": "Shadow Beast",
+      "source": "tob",
+      "file": "docs/shadow-beast.md"
+    },
+    "shadow-blight": {
+      "name": "Shadow Blight",
+      "source": "cc",
+      "file": "docs/shadow-blight.md"
+    },
+    "shadow-boxer": {
+      "name": "Shadow Boxer",
+      "source": "tob2",
+      "file": "docs/shadow-boxer.md"
+    },
+    "shadow-fey": {
+      "name": "Shadow Fey",
+      "source": "tob",
+      "file": "docs/shadow-fey.md"
+    },
+    "shadow-fey-ambassador": {
+      "name": "Shadow Fey Ambassador",
+      "source": "cc",
+      "file": "docs/shadow-fey-ambassador.md"
+    },
+    "shadow-fey-duelist": {
+      "name": "Shadow Fey Duelist",
+      "source": "tob",
+      "file": "docs/shadow-fey-duelist.md"
+    },
+    "shadow-fey-enchantress": {
+      "name": "Shadow Fey Enchantress",
+      "source": "tob",
+      "file": "docs/shadow-fey-enchantress.md"
+    },
+    "shadow-fey-forest-hunter": {
+      "name": "Shadow Fey Forest Hunter",
+      "source": "tob",
+      "file": "docs/shadow-fey-forest-hunter.md"
+    },
+    "shadow-fey-guardian": {
+      "name": "Shadow Fey Guardian",
+      "source": "tob",
+      "file": "docs/shadow-fey-guardian.md"
+    },
+    "shadow-fey-poisoner": {
+      "name": "Shadow Fey Poisoner",
+      "source": "cc",
+      "file": "docs/shadow-fey-poisoner.md"
+    },
+    "shadow-giant": {
+      "name": "Shadow Giant",
+      "source": "tob2",
+      "file": "docs/shadow-giant.md"
+    },
+    "shadow-goblin": {
+      "name": "Shadow Goblin",
+      "source": "cc",
+      "file": "docs/shadow-goblin.md"
+    },
+    "shadow-lurker": {
+      "name": "Shadow Lurker",
+      "source": "tob3",
+      "file": "docs/shadow-lurker.md"
+    },
+    "shadow-of-death": {
+      "name": "Shadow of Death",
+      "source": "tob2",
+      "file": "docs/shadow-of-death.md"
+    },
+    "shadow-ooze": {
+      "name": "Shadow Ooze",
+      "source": "cc",
+      "file": "docs/shadow-ooze.md"
+    },
+    "shadow-river-lord": {
+      "name": "Shadow River Lord",
+      "source": "cc",
+      "file": "docs/shadow-river-lord.md"
+    },
+    "shadow-skeleton": {
+      "name": "Shadow Skeleton",
+      "source": "cc",
+      "file": "docs/shadow-skeleton.md"
+    },
+    "shantak": {
+      "name": "Shantak",
+      "source": "cc",
+      "file": "docs/shantak.md"
+    },
+    "shard-swarm": {
+      "name": "Shard Swarm",
+      "source": "cc",
+      "file": "docs/shard-swarm.md"
+    },
+    "sharkjaw-skeleton": {
+      "name": "Sharkjaw Skeleton",
+      "source": "tob",
+      "file": "docs/sharkjaw-skeleton.md"
+    },
+    "shellycoat": {
+      "name": "Shellycoat",
+      "source": "tob",
+      "file": "docs/shellycoat.md"
+    },
+    "shetani": {
+      "name": "Shetani",
+      "source": "tob3",
+      "file": "docs/shetani.md"
+    },
+    "shiftshroom": {
+      "name": "Shiftshroom",
+      "source": "tob2",
+      "file": "docs/shiftshroom.md"
+    },
+    "shimmer-seal": {
+      "name": "Shimmer Seal",
+      "source": "tob2",
+      "file": "docs/shimmer-seal.md"
+    },
+    "shockwing": {
+      "name": "Shockwing",
+      "source": "cc",
+      "file": "docs/shockwing.md"
+    },
+    "shoggoth": {
+      "name": "Shoggoth",
+      "source": "tob",
+      "file": "docs/shoggoth.md"
+    },
+    "shoreline-scrapper": {
+      "name": "Shoreline Scrapper",
+      "source": "cc",
+      "file": "docs/shoreline-scrapper.md"
+    },
+    "shriekbat": {
+      "name": "Shriekbat",
+      "source": "tob2",
+      "file": "docs/shriekbat.md"
+    },
+    "shroud": {
+      "name": "Shroud",
+      "source": "tob",
+      "file": "docs/shroud.md"
+    },
+    "shukankor": {
+      "name": "Shukankor",
+      "source": "tob2",
+      "file": "docs/shukankor.md"
+    },
+    "shurale": {
+      "name": "Shurale",
+      "source": "tob2",
+      "file": "docs/shurale.md"
+    },
+    "sigilian": {
+      "name": "Sigilian",
+      "source": "cc",
+      "file": "docs/sigilian.md"
+    },
+    "silenal": {
+      "name": "Silenal",
+      "source": "tob2",
+      "file": "docs/silenal.md"
+    },
+    "silent-crier": {
+      "name": "Silent Crier",
+      "source": "tob3",
+      "file": "docs/silent-crier.md"
+    },
+    "silver-dragon-wyrmling-skeleton": {
+      "name": "Silver Dragon Wyrmling Skeleton",
+      "source": "tob2",
+      "file": "docs/silver-dragon-wyrmling-skeleton.md"
+    },
+    "simhamukha": {
+      "name": "Simhamukha",
+      "source": "cc",
+      "file": "docs/simhamukha.md"
+    },
+    "simurg": {
+      "name": "Simurg",
+      "source": "cc",
+      "file": "docs/simurg.md"
+    },
+    "sinstar": {
+      "name": "Sinstar",
+      "source": "tob3",
+      "file": "docs/sinstar.md"
+    },
+    "sinstar-thrall": {
+      "name": "Sinstar Thrall",
+      "source": "tob3",
+      "file": "docs/sinstar-thrall.md"
+    },
+    "skein-witch": {
+      "name": "Skein Witch",
+      "source": "tob",
+      "file": "docs/skein-witch.md"
+    },
+    "skin-bat": {
+      "name": "Skin Bat",
+      "source": "tob",
+      "file": "docs/skin-bat.md"
+    },
+    "skitterhaunt": {
+      "name": "Skitterhaunt",
+      "source": "tob",
+      "file": "docs/skitterhaunt.md"
+    },
+    "skull-drake": {
+      "name": "Skull Drake",
+      "source": "cc",
+      "file": "docs/skull-drake.md"
+    },
+    "skull-lantern": {
+      "name": "Skull Lantern",
+      "source": "cc",
+      "file": "docs/skull-lantern.md"
+    },
+    "sleipnir": {
+      "name": "Sleipnir",
+      "source": "cc",
+      "file": "docs/sleipnir.md"
+    },
+    "slithy-tove": {
+      "name": "Slithy Tove",
+      "source": "tob3",
+      "file": "docs/slithy-tove.md"
+    },
+    "slow-storm": {
+      "name": "Slow Storm",
+      "source": "tob",
+      "file": "docs/slow-storm.md"
+    },
+    "sluagh-swarm": {
+      "name": "Sluagh Swarm",
+      "source": "tob",
+      "file": "docs/sluagh-swarm.md"
+    },
+    "smaragdine-golem": {
+      "name": "Smaragdine Golem",
+      "source": "tob",
+      "file": "docs/smaragdine-golem.md"
+    },
+    "snake-with-a-hundred-mage-hands": {
+      "name": "Snake with a Hundred Mage Hands",
+      "source": "tob2",
+      "file": "docs/snake-with-a-hundred-mage-hands.md"
+    },
+    "snallygaster": {
+      "name": "Snallygaster",
+      "source": "tob3",
+      "file": "docs/snallygaster.md"
+    },
+    "snatch-bat": {
+      "name": "Snatch Bat",
+      "source": "tob3",
+      "file": "docs/snatch-bat.md"
+    },
+    "snow-cat": {
+      "name": "Snow Cat",
+      "source": "cc",
+      "file": "docs/snow-cat.md"
+    },
+    "snow-giant": {
+      "name": "Snow Giant",
+      "source": "tob2",
+      "file": "docs/snow-giant.md"
+    },
+    "snow-hag": {
+      "name": "Snow Hag",
+      "source": "cc",
+      "file": "docs/snow-hag.md"
+    },
+    "snow-terror": {
+      "name": "Snow Terror",
+      "source": "tob2",
+      "file": "docs/snow-terror.md"
+    },
+    "sodwose": {
+      "name": "Sodwose",
+      "source": "tob3",
+      "file": "docs/sodwose.md"
+    },
+    "soil-snake": {
+      "name": "Soil Snake",
+      "source": "tob3",
+      "file": "docs/soil-snake.md"
+    },
+    "somberweave": {
+      "name": "Somberweave",
+      "source": "tob2",
+      "file": "docs/somberweave.md"
+    },
+    "son-of-fenris": {
+      "name": "Son Of Fenris",
+      "source": "tob",
+      "file": "docs/son-of-fenris.md"
+    },
+    "song-angel": {
+      "name": "Song Angel",
+      "source": "cc",
+      "file": "docs/song-angel.md"
+    },
+    "sootwing": {
+      "name": "Sootwing",
+      "source": "cc",
+      "file": "docs/sootwing.md"
+    },
+    "sooze": {
+      "name": "Sooze",
+      "source": "cc",
+      "file": "docs/sooze.md"
+    },
+    "soul-eater": {
+      "name": "Soul Eater",
+      "source": "tob",
+      "file": "docs/soul-eater.md"
+    },
+    "spark": {
+      "name": "Spark",
+      "source": "tob",
+      "file": "docs/spark.md"
+    },
+    "spawn-of-alquam": {
+      "name": "Spawn of Alquam",
+      "source": "tob2",
+      "file": "docs/spawn-of-alquam.md"
+    },
+    "spawn-of-arbeyach": {
+      "name": "Spawn Of Arbeyach",
+      "source": "tob",
+      "file": "docs/spawn-of-arbeyach.md"
+    },
+    "spawn-of-chernobog": {
+      "name": "Spawn of Chernobog",
+      "source": "cc",
+      "file": "docs/spawn-of-chernobog.md"
+    },
+    "spawn-of-hriggala": {
+      "name": "Spawn of Hriggala",
+      "source": "tob2",
+      "file": "docs/spawn-of-hriggala.md"
+    },
+    "spawn-of-rhopalocerex": {
+      "name": "Spawn of Rhopalocerex",
+      "source": "tob2",
+      "file": "docs/spawn-of-rhopalocerex.md"
+    },
+    "speaker-to-the-darkness": {
+      "name": "Speaker to the Darkness",
+      "source": "cc",
+      "file": "docs/speaker-to-the-darkness.md"
+    },
+    "spectral-guardian": {
+      "name": "Spectral Guardian",
+      "source": "tob",
+      "file": "docs/spectral-guardian.md"
+    },
+    "spellhound": {
+      "name": "Spellhound",
+      "source": "tob2",
+      "file": "docs/spellhound.md"
+    },
+    "spider-drake": {
+      "name": "Spider Drake",
+      "source": "cc",
+      "file": "docs/spider-drake.md"
+    },
+    "spider-of-leng": {
+      "name": "Spider Of Leng",
+      "source": "tob",
+      "file": "docs/spider-of-leng.md"
+    },
+    "spider-thief": {
+      "name": "Spider Thief",
+      "source": "tob",
+      "file": "docs/spider-thief.md"
+    },
+    "spinosaurus": {
+      "name": "Spinosaurus",
+      "source": "tob",
+      "file": "docs/spinosaurus.md"
+    },
+    "spire-walker": {
+      "name": "Spire Walker",
+      "source": "tob",
+      "file": "docs/spire-walker.md"
+    },
+    "spirit-lamp": {
+      "name": "Spirit Lamp",
+      "source": "cc",
+      "file": "docs/spirit-lamp.md"
+    },
+    "splinter-matron": {
+      "name": "Splinter Matron",
+      "source": "tob3",
+      "file": "docs/splinter-matron.md"
+    },
+    "sporous-crab": {
+      "name": "Sporous Crab",
+      "source": "tob2",
+      "file": "docs/sporous-crab.md"
+    },
+    "spree": {
+      "name": "Spree",
+      "source": "cc",
+      "file": "docs/spree.md"
+    },
+    "spurred-water-skate": {
+      "name": "Spurred Water Skate",
+      "source": "tob2",
+      "file": "docs/spurred-water-skate.md"
+    },
+    "ssadar": {
+      "name": "Ssadar",
+      "source": "tob2",
+      "file": "docs/ssadar.md"
+    },
+    "stained-glass-moth": {
+      "name": "Stained-Glass Moth",
+      "source": "tob3",
+      "file": "docs/stained-glass-moth.md"
+    },
+    "star-drake": {
+      "name": "Star Drake",
+      "source": "tob",
+      "file": "docs/star-drake.md"
+    },
+    "star-nosed-diopsid": {
+      "name": "Star-Nosed Diopsid",
+      "source": "tob3",
+      "file": "docs/star-nosed-diopsid.md"
+    },
+    "star-spawn-of-cthulhu": {
+      "name": "Star Spawn Of Cthulhu",
+      "source": "tob",
+      "file": "docs/star-spawn-of-cthulhu.md"
+    },
+    "stargazer": {
+      "name": "Stargazer",
+      "source": "tob3",
+      "file": "docs/stargazer.md"
+    },
+    "starving-specter": {
+      "name": "Starving Specter",
+      "source": "tob3",
+      "file": "docs/starving-specter.md"
+    },
+    "steam-golem": {
+      "name": "Steam Golem",
+      "source": "tob",
+      "file": "docs/steam-golem.md"
+    },
+    "stellar-rorqual": {
+      "name": "Stellar Rorqual",
+      "source": "tob2",
+      "file": "docs/stellar-rorqual.md"
+    },
+    "stone-creeper": {
+      "name": "Stone Creeper",
+      "source": "tob2",
+      "file": "docs/stone-creeper.md"
+    },
+    "stone-eater-slime": {
+      "name": "Stone-Eater Slime",
+      "source": "tob3",
+      "file": "docs/stone-eater-slime.md"
+    },
+    "storm-lord": {
+      "name": "Storm Lord",
+      "source": "cc",
+      "file": "docs/storm-lord.md"
+    },
+    "storm-maiden": {
+      "name": "Storm Maiden",
+      "source": "tob2",
+      "file": "docs/storm-maiden.md"
+    },
+    "storm-spirit": {
+      "name": "Storm Spirit",
+      "source": "cc",
+      "file": "docs/storm-spirit.md"
+    },
+    "stormboar": {
+      "name": "Stormboar",
+      "source": "tob2",
+      "file": "docs/stormboar.md"
+    },
+    "strobing-fungus": {
+      "name": "Strobing Fungus",
+      "source": "tob2",
+      "file": "docs/strobing-fungus.md"
+    },
+    "stryx": {
+      "name": "Stryx",
+      "source": "tob",
+      "file": "docs/stryx.md"
+    },
+    "stuhac": {
+      "name": "Stuhac",
+      "source": "tob",
+      "file": "docs/stuhac.md"
+    },
+    "stygian-fat-tailed-scorpion": {
+      "name": "Stygian Fat-Tailed Scorpion",
+      "source": "tob",
+      "file": "docs/stygian-fat-tailed-scorpion.md"
+    },
+    "subek": {
+      "name": "Subek",
+      "source": "tob",
+      "file": "docs/subek.md"
+    },
+    "sulsha": {
+      "name": "Sulsha",
+      "source": "tob2",
+      "file": "docs/sulsha.md"
+    },
+    "sunflower-sprite": {
+      "name": "Sunflower Sprite",
+      "source": "tob3",
+      "file": "docs/sunflower-sprite.md"
+    },
+    "sunset-raptor": {
+      "name": "Sunset Raptor",
+      "source": "cc",
+      "file": "docs/sunset-raptor.md"
+    },
+    "suppurating-ooze": {
+      "name": "Suppurating Ooze",
+      "source": "cc",
+      "file": "docs/suppurating-ooze.md"
+    },
+    "suturefly": {
+      "name": "Suturefly",
+      "source": "tob",
+      "file": "docs/suturefly.md"
+    },
+    "swamp-adder": {
+      "name": "Swamp Adder",
+      "source": "tob",
+      "file": "docs/swamp-adder.md"
+    },
+    "swamp-lily": {
+      "name": "Swamp Lily",
+      "source": "tob2",
+      "file": "docs/swamp-lily.md"
+    },
+    "swamp-naga": {
+      "name": "Swamp Naga",
+      "source": "tob2",
+      "file": "docs/swamp-naga.md"
+    },
+    "swampgas-bubble": {
+      "name": "Swampgas Bubble",
+      "source": "tob2",
+      "file": "docs/swampgas-bubble.md"
+    },
+    "swampgas-shade": {
+      "name": "Swampgas Shade",
+      "source": "tob3",
+      "file": "docs/swampgas-shade.md"
+    },
+    "swarm-biting-gnat": {
+      "name": "Swarm, Biting Gnat",
+      "source": "tob3",
+      "file": "docs/swarm-biting-gnat.md"
+    },
+    "swarm-gryllus": {
+      "name": "Swarm, Gryllus",
+      "source": "tob3",
+      "file": "docs/swarm-gryllus.md"
+    },
+    "swarm-ice-borers": {
+      "name": "Swarm, Ice Borers",
+      "source": "tob3",
+      "file": "docs/swarm-ice-borers.md"
+    },
+    "swarm-of-compsognathus": {
+      "name": "Swarm of Compsognathus",
+      "source": "tob2",
+      "file": "docs/swarm-of-compsognathus.md"
+    },
+    "swarm-of-esteron": {
+      "name": "Swarm of Esteron",
+      "source": "tob2",
+      "file": "docs/swarm-of-esteron.md"
+    },
+    "swarm-swamp-slirghs": {
+      "name": "Swarm, Swamp Slirghs",
+      "source": "tob3",
+      "file": "docs/swarm-swamp-slirghs.md"
+    },
+    "swarm-vampire-blossom": {
+      "name": "Swarm, Vampire Blossom",
+      "source": "tob3",
+      "file": "docs/swarm-vampire-blossom.md"
+    },
+    "swolbold": {
+      "name": "Swolbold",
+      "source": "cc",
+      "file": "docs/swolbold.md"
+    },
+    "talus-flow": {
+      "name": "Talus Flow",
+      "source": "tob3",
+      "file": "docs/talus-flow.md"
+    },
+    "tar-ghoul": {
+      "name": "Tar Ghoul",
+      "source": "cc",
+      "file": "docs/tar-ghoul.md"
+    },
+    "tar-ooze": {
+      "name": "Tar Ooze",
+      "source": "tob2",
+      "file": "docs/tar-ooze.md"
+    },
+    "tatzelwurm": {
+      "name": "Tatzelwurm",
+      "source": "tob3",
+      "file": "docs/tatzelwurm.md"
+    },
+    "tembril": {
+      "name": "Tembril",
+      "source": "tob2",
+      "file": "docs/tembril.md"
+    },
+    "temple-dog": {
+      "name": "Temple Dog",
+      "source": "tob",
+      "file": "docs/temple-dog.md"
+    },
+    "terror-bird": {
+      "name": "Terror Bird",
+      "source": "cc",
+      "file": "docs/terror-bird.md"
+    },
+    "tetomatli": {
+      "name": "Tetomatli",
+      "source": "tob2",
+      "file": "docs/tetomatli.md"
+    },
+    "the-barbed": {
+      "name": "The Barbed",
+      "source": "cc",
+      "file": "docs/the-barbed.md"
+    },
+    "the-flesh": {
+      "name": "The Flesh",
+      "source": "tob3",
+      "file": "docs/the-flesh.md"
+    },
+    "thin-giant": {
+      "name": "Thin Giant",
+      "source": "tob2",
+      "file": "docs/thin-giant.md"
+    },
+    "thorned-sulfurlord": {
+      "name": "Thorned Sulfurlord",
+      "source": "cc",
+      "file": "docs/thorned-sulfurlord.md"
+    },
+    "thornheart-guardian": {
+      "name": "Thornheart Guardian",
+      "source": "tob2",
+      "file": "docs/thornheart-guardian.md"
+    },
+    "thread-bound-constrictor-snake": {
+      "name": "Thread-Bound Constrictor Snake",
+      "source": "cc",
+      "file": "docs/thread-bound-constrictor-snake.md"
+    },
+    "three-headed-clockwork-dragon": {
+      "name": "Three-Headed Clockwork Dragon",
+      "source": "cc",
+      "file": "docs/three-headed-clockwork-dragon.md"
+    },
+    "three-headed-cobra": {
+      "name": "Three-Headed Cobra",
+      "source": "cc",
+      "file": "docs/three-headed-cobra.md"
+    },
+    "thripper": {
+      "name": "Thripper",
+      "source": "tob3",
+      "file": "docs/thripper.md"
+    },
+    "thrummren": {
+      "name": "Thrummren",
+      "source": "tob2",
+      "file": "docs/thrummren.md"
+    },
+    "thuellai": {
+      "name": "Thuellai",
+      "source": "tob",
+      "file": "docs/thuellai.md"
+    },
+    "thursir-giant": {
+      "name": "Thursir Giant",
+      "source": "tob",
+      "file": "docs/thursir-giant.md"
+    },
+    "tidehunter": {
+      "name": "Tidehunter",
+      "source": "tob2",
+      "file": "docs/tidehunter.md"
+    },
+    "tigebra": {
+      "name": "Tigebra",
+      "source": "tob3",
+      "file": "docs/tigebra.md"
+    },
+    "timingila": {
+      "name": "Timingila",
+      "source": "tob2",
+      "file": "docs/timingila.md"
+    },
+    "titanoboa": {
+      "name": "Titanoboa",
+      "source": "tob",
+      "file": "docs/titanoboa.md"
+    },
+    "tophet": {
+      "name": "Tophet",
+      "source": "tob",
+      "file": "docs/tophet.md"
+    },
+    "torch-mimic": {
+      "name": "Torch Mimic",
+      "source": "tob3",
+      "file": "docs/torch-mimic.md"
+    },
+    "tormented-qiqirn": {
+      "name": "Tormented Qiqirn",
+      "source": "tob2",
+      "file": "docs/tormented-qiqirn.md"
+    },
+    "tosculi-drone": {
+      "name": "Tosculi Drone",
+      "source": "tob",
+      "file": "docs/tosculi-drone.md"
+    },
+    "tosculi-elite-bow-raider": {
+      "name": "Tosculi Elite Bow Raider",
+      "source": "tob",
+      "file": "docs/tosculi-elite-bow-raider.md"
+    },
+    "tosculi-hive-queen": {
+      "name": "Tosculi Hive-Queen",
+      "source": "tob",
+      "file": "docs/tosculi-hive-queen.md"
+    },
+    "tosculi-jeweled-drone": {
+      "name": "Tosculi Jeweled Drone",
+      "source": "cc",
+      "file": "docs/tosculi-jeweled-drone.md"
+    },
+    "tosculi-warrior": {
+      "name": "Tosculi Warrior",
+      "source": "tob",
+      "file": "docs/tosculi-warrior.md"
+    },
+    "transcendent-lunarchida": {
+      "name": "Transcendent Lunarchida",
+      "source": "tob2",
+      "file": "docs/transcendent-lunarchida.md"
+    },
+    "treacle": {
+      "name": "Treacle",
+      "source": "tob",
+      "file": "docs/treacle.md"
+    },
+    "tree-skinner": {
+      "name": "Tree Skinner",
+      "source": "tob2",
+      "file": "docs/tree-skinner.md"
+    },
+    "tricenatorus": {
+      "name": "Tricenatorus",
+      "source": "tob2",
+      "file": "docs/tricenatorus.md"
+    },
+    "tripwire-patch": {
+      "name": "Tripwire Patch",
+      "source": "tob3",
+      "file": "docs/tripwire-patch.md"
+    },
+    "troll-breakwater": {
+      "name": "Troll, Breakwater",
+      "source": "tob3",
+      "file": "docs/troll-breakwater.md"
+    },
+    "troll-gutter": {
+      "name": "Troll, Gutter",
+      "source": "tob3",
+      "file": "docs/troll-gutter.md"
+    },
+    "troll-rattleback": {
+      "name": "Troll, Rattleback",
+      "source": "tob3",
+      "file": "docs/troll-rattleback.md"
+    },
+    "troll-tumor": {
+      "name": "Troll, Tumor",
+      "source": "tob3",
+      "file": "docs/troll-tumor.md"
+    },
+    "trollkin-fire-shaman": {
+      "name": "Trollkin Fire Shaman",
+      "source": "tob3",
+      "file": "docs/trollkin-fire-shaman.md"
+    },
+    "trollkin-ironmonger": {
+      "name": "Trollkin Ironmonger",
+      "source": "tob3",
+      "file": "docs/trollkin-ironmonger.md"
+    },
+    "trollkin-ragecaster": {
+      "name": "Trollkin Ragecaster",
+      "source": "tob3",
+      "file": "docs/trollkin-ragecaster.md"
+    },
+    "trollkin-raider": {
+      "name": "Trollkin Raider",
+      "source": "tob2",
+      "file": "docs/trollkin-raider.md"
+    },
+    "trollkin-reaver": {
+      "name": "Trollkin Reaver",
+      "source": "tob",
+      "file": "docs/trollkin-reaver.md"
+    },
+    "trollkin-shaman": {
+      "name": "Trollkin Shaman",
+      "source": "cc",
+      "file": "docs/trollkin-shaman.md"
+    },
+    "trollking-grunt": {
+      "name": "Trollking Grunt",
+      "source": "cc",
+      "file": "docs/trollking-grunt.md"
+    },
+    "truant-devourer": {
+      "name": "Truant Devourer",
+      "source": "tob3",
+      "file": "docs/truant-devourer.md"
+    },
+    "tuberkith": {
+      "name": "Tuberkith",
+      "source": "tob3",
+      "file": "docs/tuberkith.md"
+    },
+    "tulpa": {
+      "name": "Tulpa",
+      "source": "cc",
+      "file": "docs/tulpa.md"
+    },
+    "tusked-crimson-ogre": {
+      "name": "Tusked Crimson Ogre",
+      "source": "cc",
+      "file": "docs/tusked-crimson-ogre.md"
+    },
+    "tusked-skyfish": {
+      "name": "Tusked Skyfish",
+      "source": "tob",
+      "file": "docs/tusked-skyfish.md"
+    },
+    "tveirherjar": {
+      "name": "Tveirherjar",
+      "source": "cc",
+      "file": "docs/tveirherjar.md"
+    },
+    "two-headed-eagle": {
+      "name": "Two-Headed Eagle",
+      "source": "cc",
+      "file": "docs/two-headed-eagle.md"
+    },
+    "tzepharion": {
+      "name": "Tzepharion",
+      "source": "tob2",
+      "file": "docs/tzepharion.md"
+    },
+    "ulnorya": {
+      "name": "Ulnorya",
+      "source": "tob2",
+      "file": "docs/ulnorya.md"
+    },
+    "umbral-shambler": {
+      "name": "Umbral Shambler",
+      "source": "tob3",
+      "file": "docs/umbral-shambler.md"
+    },
+    "umbral-vampire": {
+      "name": "Umbral Vampire",
+      "source": "tob",
+      "file": "docs/umbral-vampire.md"
+    },
+    "undead-phoenix": {
+      "name": "Undead Phoenix",
+      "source": "cc",
+      "file": "docs/undead-phoenix.md"
+    },
+    "underworld-sentinel": {
+      "name": "Underworld Sentinel",
+      "source": "tob3",
+      "file": "docs/underworld-sentinel.md"
+    },
+    "unhatched": {
+      "name": "Unhatched",
+      "source": "cc",
+      "file": "docs/unhatched.md"
+    },
+    "uraeus": {
+      "name": "Uraeus",
+      "source": "tob",
+      "file": "docs/uraeus.md"
+    },
+    "uridimmu": {
+      "name": "Uridimmu",
+      "source": "tob2",
+      "file": "docs/uridimmu.md"
+    },
+    "urochar-strangling-watcher": {
+      "name": "Urochar (Strangling Watcher)",
+      "source": "tob",
+      "file": "docs/urochar-strangling-watcher.md"
+    },
+    "ursa-polaris": {
+      "name": "Ursa Polaris",
+      "source": "cc",
+      "file": "docs/ursa-polaris.md"
+    },
+    "urushi-constrictor": {
+      "name": "Urushi Constrictor",
+      "source": "tob3",
+      "file": "docs/urushi-constrictor.md"
+    },
+    "ushabti": {
+      "name": "Ushabti",
+      "source": "tob",
+      "file": "docs/ushabti.md"
+    },
+    "vaettir": {
+      "name": "Vaettir",
+      "source": "tob",
+      "file": "docs/vaettir.md"
+    },
+    "valkruung": {
+      "name": "Valkruung",
+      "source": "tob2",
+      "file": "docs/valkruung.md"
+    },
+    "valkyrie": {
+      "name": "Valkyrie",
+      "source": "tob",
+      "file": "docs/valkyrie.md"
+    },
+    "vallowex": {
+      "name": "Vallowex",
+      "source": "tob2",
+      "file": "docs/vallowex.md"
+    },
+    "vampire-patrician": {
+      "name": "Vampire Patrician",
+      "source": "cc",
+      "file": "docs/vampire-patrician.md"
+    },
+    "vampire-priestess": {
+      "name": "Vampire Priestess",
+      "source": "cc",
+      "file": "docs/vampire-priestess.md"
+    },
+    "vampire-warlock-variant": {
+      "name": "Vampire Warlock - Variant",
+      "source": "tob",
+      "file": "docs/vampire-warlock-variant.md"
+    },
+    "vampiric-knight": {
+      "name": "Vampiric Knight",
+      "source": "cc",
+      "file": "docs/vampiric-knight.md"
+    },
+    "vampiric-vanguard": {
+      "name": "Vampiric Vanguard",
+      "source": "tob3",
+      "file": "docs/vampiric-vanguard.md"
+    },
+    "vanara": {
+      "name": "Vanara",
+      "source": "cc",
+      "file": "docs/vanara.md"
+    },
+    "vangsluagh": {
+      "name": "Vangsluagh",
+      "source": "tob2",
+      "file": "docs/vangsluagh.md"
+    },
+    "vapor-lynx": {
+      "name": "Vapor Lynx",
+      "source": "tob",
+      "file": "docs/vapor-lynx.md"
+    },
+    "vellso": {
+      "name": "Vellso",
+      "source": "cc",
+      "file": "docs/vellso.md"
+    },
+    "venom-elemental": {
+      "name": "Venom Elemental",
+      "source": "cc",
+      "file": "docs/venom-elemental.md"
+    },
+    "venom-maw-hydra": {
+      "name": "Venom Maw Hydra",
+      "source": "cc",
+      "file": "docs/venom-maw-hydra.md"
+    },
+    "venomous-mummy": {
+      "name": "Venomous Mummy",
+      "source": "tob",
+      "file": "docs/venomous-mummy.md"
+    },
+    "vent-linnorm": {
+      "name": "Vent Linnorm",
+      "source": "tob2",
+      "file": "docs/vent-linnorm.md"
+    },
+    "veritigibbet": {
+      "name": "Veritigibbet",
+      "source": "tob3",
+      "file": "docs/veritigibbet.md"
+    },
+    "vesiculosa": {
+      "name": "Vesiculosa",
+      "source": "tob",
+      "file": "docs/vesiculosa.md"
+    },
+    "veteran-swordbreaker-skeleton": {
+      "name": "Veteran Swordbreaker Skeleton",
+      "source": "tob2",
+      "file": "docs/veteran-swordbreaker-skeleton.md"
+    },
+    "vexxeh": {
+      "name": "Vexxeh",
+      "source": "tob2",
+      "file": "docs/vexxeh.md"
+    },
+    "viiret": {
+      "name": "Viiret",
+      "source": "tob2",
+      "file": "docs/viiret.md"
+    },
+    "vila": {
+      "name": "Vila",
+      "source": "tob",
+      "file": "docs/vila.md"
+    },
+    "vile-barber": {
+      "name": "Vile Barber",
+      "source": "tob",
+      "file": "docs/vile-barber.md"
+    },
+    "vine-drake": {
+      "name": "Vine Drake",
+      "source": "tob2",
+      "file": "docs/vine-drake.md"
+    },
+    "vine-golem": {
+      "name": "Vine Golem",
+      "source": "tob2",
+      "file": "docs/vine-golem.md"
+    },
+    "vine-lord": {
+      "name": "Vine Lord",
+      "source": "tob",
+      "file": "docs/vine-lord.md"
+    },
+    "vine-lords-tendril-puppet": {
+      "name": "Vine Lord's Tendril Puppet",
+      "source": "tob",
+      "file": "docs/vine-lords-tendril-puppet.md"
+    },
+    "vine-troll-skeleton": {
+      "name": "Vine Troll Skeleton",
+      "source": "tob",
+      "file": "docs/vine-troll-skeleton.md"
+    },
+    "vines-of-nemthyr": {
+      "name": "Vines of Nemthyr",
+      "source": "cc",
+      "file": "docs/vines-of-nemthyr.md"
+    },
+    "virtuoso-lich": {
+      "name": "Virtuoso Lich",
+      "source": "tob2",
+      "file": "docs/virtuoso-lich.md"
+    },
+    "void-constructor": {
+      "name": "Void Constructor",
+      "source": "tob3",
+      "file": "docs/void-constructor.md"
+    },
+    "void-dragon-wyrmling": {
+      "name": "Void Dragon Wyrmling",
+      "source": "tob",
+      "file": "docs/void-dragon-wyrmling.md"
+    },
+    "void-giant": {
+      "name": "Void Giant",
+      "source": "cc",
+      "file": "docs/void-giant.md"
+    },
+    "void-knight": {
+      "name": "Void Knight",
+      "source": "tob3",
+      "file": "docs/void-knight.md"
+    },
+    "voidling": {
+      "name": "Voidling",
+      "source": "tob",
+      "file": "docs/voidling.md"
+    },
+    "voidpool": {
+      "name": "Voidpool",
+      "source": "tob2",
+      "file": "docs/voidpool.md"
+    },
+    "vorthropod": {
+      "name": "Vorthropod",
+      "source": "tob3",
+      "file": "docs/vorthropod.md"
+    },
+    "wakwak": {
+      "name": "Wakwak",
+      "source": "tob3",
+      "file": "docs/wakwak.md"
+    },
+    "walled-horror": {
+      "name": "Walled Horror",
+      "source": "tob2",
+      "file": "docs/walled-horror.md"
+    },
+    "wampus-cat": {
+      "name": "Wampus Cat",
+      "source": "tob",
+      "file": "docs/wampus-cat.md"
+    },
+    "wandering-haze": {
+      "name": "Wandering Haze",
+      "source": "tob3",
+      "file": "docs/wandering-haze.md"
+    },
+    "wanyudo": {
+      "name": "Wanyudo",
+      "source": "tob2",
+      "file": "docs/wanyudo.md"
+    },
+    "war-machine-golem": {
+      "name": "War Machine Golem",
+      "source": "cc",
+      "file": "docs/war-machine-golem.md"
+    },
+    "war-wyvern": {
+      "name": "War Wyvern",
+      "source": "cc",
+      "file": "docs/war-wyvern.md"
+    },
+    "wardu": {
+      "name": "Wardu",
+      "source": "tob2",
+      "file": "docs/wardu.md"
+    },
+    "warlocks-trumpetbloom": {
+      "name": "Warlock's Trumpetbloom",
+      "source": "cc",
+      "file": "docs/warlocks-trumpetbloom.md"
+    },
+    "warmth-thief": {
+      "name": "Warmth Thief",
+      "source": "tob2",
+      "file": "docs/warmth-thief.md"
+    },
+    "wasteland-dragon-wyrmling": {
+      "name": "Wasteland Dragon Wyrmling",
+      "source": "cc",
+      "file": "docs/wasteland-dragon-wyrmling.md"
+    },
+    "water-horse": {
+      "name": "Water Horse",
+      "source": "cc",
+      "file": "docs/water-horse.md"
+    },
+    "water-leaper": {
+      "name": "Water Leaper",
+      "source": "tob",
+      "file": "docs/water-leaper.md"
+    },
+    "waterkledde": {
+      "name": "Waterkledde",
+      "source": "tob3",
+      "file": "docs/waterkledde.md"
+    },
+    "weaving-spider": {
+      "name": "Weaving Spider",
+      "source": "tob",
+      "file": "docs/weaving-spider.md"
+    },
+    "web-zombie": {
+      "name": "Web Zombie",
+      "source": "tob2",
+      "file": "docs/web-zombie.md"
+    },
+    "weeping-treant": {
+      "name": "Weeping Treant",
+      "source": "tob",
+      "file": "docs/weeping-treant.md"
+    },
+    "weirding-scroll": {
+      "name": "Weirding Scroll",
+      "source": "cc",
+      "file": "docs/weirding-scroll.md"
+    },
+    "wendigo": {
+      "name": "Wendigo",
+      "source": "cc",
+      "file": "docs/wendigo.md"
+    },
+    "werebat": {
+      "name": "Werebat",
+      "source": "cc",
+      "file": "docs/werebat.md"
+    },
+    "werehyena": {
+      "name": "Werehyena",
+      "source": "cc",
+      "file": "docs/werehyena.md"
+    },
+    "wereowl": {
+      "name": "Wereowl",
+      "source": "tob2",
+      "file": "docs/wereowl.md"
+    },
+    "wereshark": {
+      "name": "Wereshark",
+      "source": "tob2",
+      "file": "docs/wereshark.md"
+    },
+    "werynax": {
+      "name": "Werynax",
+      "source": "tob2",
+      "file": "docs/werynax.md"
+    },
+    "wharfling": {
+      "name": "Wharfling",
+      "source": "tob",
+      "file": "docs/wharfling.md"
+    },
+    "wharfling-swarm": {
+      "name": "Wharfling Swarm",
+      "source": "tob",
+      "file": "docs/wharfling-swarm.md"
+    },
+    "whisperer-in-darkness": {
+      "name": "Whisperer in Darkness",
+      "source": "cc",
+      "file": "docs/whisperer-in-darkness.md"
+    },
+    "white-ape": {
+      "name": "White Ape",
+      "source": "tob",
+      "file": "docs/white-ape.md"
+    },
+    "white-stag": {
+      "name": "White Stag",
+      "source": "cc",
+      "file": "docs/white-stag.md"
+    },
+    "wicked-skull": {
+      "name": "Wicked Skull",
+      "source": "tob2",
+      "file": "docs/wicked-skull.md"
+    },
+    "wickerman": {
+      "name": "Wickerman",
+      "source": "cc",
+      "file": "docs/wickerman.md"
+    },
+    "wild-sirocco": {
+      "name": "Wild Sirocco",
+      "source": "tob3",
+      "file": "docs/wild-sirocco.md"
+    },
+    "wilderness-crone": {
+      "name": "Wilderness Crone",
+      "source": "tob3",
+      "file": "docs/wilderness-crone.md"
+    },
+    "willowhaunt": {
+      "name": "Willowhaunt",
+      "source": "tob2",
+      "file": "docs/willowhaunt.md"
+    },
+    "wind-demon": {
+      "name": "Wind Demon",
+      "source": "cc",
+      "file": "docs/wind-demon.md"
+    },
+    "wind-eater": {
+      "name": "Wind Eater",
+      "source": "cc",
+      "file": "docs/wind-eater.md"
+    },
+    "wind-weasel": {
+      "name": "Wind Weasel",
+      "source": "cc",
+      "file": "docs/wind-weasel.md"
+    },
+    "wind-witch": {
+      "name": "Wind Witch",
+      "source": "tob3",
+      "file": "docs/wind-witch.md"
+    },
+    "winds-harp": {
+      "name": "Wind's Harp",
+      "source": "cc",
+      "file": "docs/winds-harp.md"
+    },
+    "windy-wailer": {
+      "name": "Windy Wailer",
+      "source": "tob2",
+      "file": "docs/windy-wailer.md"
+    },
+    "winterghast": {
+      "name": "Winterghast",
+      "source": "tob2",
+      "file": "docs/winterghast.md"
+    },
+    "wintergrim": {
+      "name": "Wintergrim",
+      "source": "tob2",
+      "file": "docs/wintergrim.md"
+    },
+    "wirbeln-fungi": {
+      "name": "Wirbeln Fungi",
+      "source": "cc",
+      "file": "docs/wirbeln-fungi.md"
+    },
+    "witch-queen": {
+      "name": "Witch Queen",
+      "source": "cc",
+      "file": "docs/witch-queen.md"
+    },
+    "witchalder": {
+      "name": "Witchalder",
+      "source": "tob3",
+      "file": "docs/witchalder.md"
+    },
+    "witchlight": {
+      "name": "Witchlight",
+      "source": "tob",
+      "file": "docs/witchlight.md"
+    },
+    "wizard-kobold": {
+      "name": "Wizard Kobold",
+      "source": "cc",
+      "file": "docs/wizard-kobold.md"
+    },
+    "woe-siphon": {
+      "name": "Woe Siphon",
+      "source": "tob2",
+      "file": "docs/woe-siphon.md"
+    },
+    "wolf-reaver-dwarf": {
+      "name": "Wolf Reaver Dwarf",
+      "source": "tob",
+      "file": "docs/wolf-reaver-dwarf.md"
+    },
+    "wolf-spirit-swarm": {
+      "name": "Wolf Spirit Swarm",
+      "source": "tob",
+      "file": "docs/wolf-spirit-swarm.md"
+    },
+    "wolpertinger": {
+      "name": "Wolpertinger",
+      "source": "cc",
+      "file": "docs/wolpertinger.md"
+    },
+    "wood-golem": {
+      "name": "Wood Golem",
+      "source": "cc",
+      "file": "docs/wood-golem.md"
+    },
+    "wood-ward": {
+      "name": "Wood Ward",
+      "source": "tob2",
+      "file": "docs/wood-ward.md"
+    },
+    "woodwose": {
+      "name": "Woodwose",
+      "source": "cc",
+      "file": "docs/woodwose.md"
+    },
+    "wormhearted-suffragan": {
+      "name": "Wormhearted Suffragan",
+      "source": "tob",
+      "file": "docs/wormhearted-suffragan.md"
+    },
+    "wrackwraith": {
+      "name": "Wrackwraith",
+      "source": "tob3",
+      "file": "docs/wrackwraith.md"
+    },
+    "wraith-bear": {
+      "name": "Wraith Bear",
+      "source": "tob2",
+      "file": "docs/wraith-bear.md"
+    },
+    "wraith-oathrot": {
+      "name": "Wraith, Oathrot",
+      "source": "tob3",
+      "file": "docs/wraith-oathrot.md"
+    },
+    "wyrmling-wind-dragon": {
+      "name": "Wyrmling Wind Dragon",
+      "source": "tob",
+      "file": "docs/wyrmling-wind-dragon.md"
+    },
+    "wyvern-knight": {
+      "name": "Wyvern Knight",
+      "source": "cc",
+      "file": "docs/wyvern-knight.md"
+    },
+    "xanka": {
+      "name": "Xanka",
+      "source": "tob",
+      "file": "docs/xanka.md"
+    },
+    "xecha": {
+      "name": "Xecha",
+      "source": "tob3",
+      "file": "docs/xecha.md"
+    },
+    "xenabsorber": {
+      "name": "Xenabsorber",
+      "source": "cc",
+      "file": "docs/xenabsorber.md"
+    },
+    "xhkarsh": {
+      "name": "Xhkarsh",
+      "source": "tob",
+      "file": "docs/xhkarsh.md"
+    },
+    "xing-tian": {
+      "name": "Xing Tian",
+      "source": "tob2",
+      "file": "docs/xing-tian.md"
+    },
+    "xiphus": {
+      "name": "Xiphus",
+      "source": "cc",
+      "file": "docs/xiphus.md"
+    },
+    "yaga-goo": {
+      "name": "Yaga Goo",
+      "source": "cc",
+      "file": "docs/yaga-goo.md"
+    },
+    "yakirian": {
+      "name": "Yakirian",
+      "source": "cc",
+      "file": "docs/yakirian.md"
+    },
+    "yali": {
+      "name": "Yali",
+      "source": "tob3",
+      "file": "docs/yali.md"
+    },
+    "yann-an-oed": {
+      "name": "Yann-An-Oed",
+      "source": "cc",
+      "file": "docs/yann-an-oed.md"
+    },
+    "yaojing": {
+      "name": "Yaojing",
+      "source": "tob2",
+      "file": "docs/yaojing.md"
+    },
+    "yathon": {
+      "name": "Yathon",
+      "source": "tob2",
+      "file": "docs/yathon.md"
+    },
+    "yavalnoi": {
+      "name": "Yavalnoi",
+      "source": "tob2",
+      "file": "docs/yavalnoi.md"
+    },
+    "ychen-bannog": {
+      "name": "Ychen Bannog",
+      "source": "tob",
+      "file": "docs/ychen-bannog.md"
+    },
+    "yek": {
+      "name": "Yek",
+      "source": "cc",
+      "file": "docs/yek.md"
+    },
+    "young-blue-dragon-zombie": {
+      "name": "Young Blue Dragon Zombie",
+      "source": "tob2",
+      "file": "docs/young-blue-dragon-zombie.md"
+    },
+    "young-boreal-dragon": {
+      "name": "Young Boreal Dragon",
+      "source": "tob2",
+      "file": "docs/young-boreal-dragon.md"
+    },
+    "young-cave-dragon": {
+      "name": "Young Cave Dragon",
+      "source": "tob",
+      "file": "docs/young-cave-dragon.md"
+    },
+    "young-flame-dragon": {
+      "name": "Young Flame Dragon",
+      "source": "tob",
+      "file": "docs/young-flame-dragon.md"
+    },
+    "young-imperial-dragon": {
+      "name": "Young Imperial Dragon",
+      "source": "tob2",
+      "file": "docs/young-imperial-dragon.md"
+    },
+    "young-light-dragon": {
+      "name": "Young Light Dragon",
+      "source": "cc",
+      "file": "docs/young-light-dragon.md"
+    },
+    "young-mithral-dragon": {
+      "name": "Young Mithral Dragon",
+      "source": "tob",
+      "file": "docs/young-mithral-dragon.md"
+    },
+    "young-sea-dragon": {
+      "name": "Young Sea Dragon",
+      "source": "tob",
+      "file": "docs/young-sea-dragon.md"
+    },
+    "young-spinosaurus": {
+      "name": "Young Spinosaurus",
+      "source": "tob",
+      "file": "docs/young-spinosaurus.md"
+    },
+    "young-void-dragon": {
+      "name": "Young Void Dragon",
+      "source": "tob",
+      "file": "docs/young-void-dragon.md"
+    },
+    "young-wasteland-dragon": {
+      "name": "Young Wasteland Dragon",
+      "source": "cc",
+      "file": "docs/young-wasteland-dragon.md"
+    },
+    "young-wind-dragon": {
+      "name": "Young Wind Dragon",
+      "source": "tob",
+      "file": "docs/young-wind-dragon.md"
+    },
+    "yowler": {
+      "name": "Yowler",
+      "source": "tob2",
+      "file": "docs/yowler.md"
+    },
+    "yumerai": {
+      "name": "Yumerai",
+      "source": "tob2",
+      "file": "docs/yumerai.md"
+    },
+    "zalikum": {
+      "name": "Zalikum",
+      "source": "tob2",
+      "file": "docs/zalikum.md"
+    },
+    "zanskaran-viper": {
+      "name": "Zanskaran Viper",
+      "source": "tob",
+      "file": "docs/zanskaran-viper.md"
+    },
+    "zaratan": {
+      "name": "Zaratan",
+      "source": "tob",
+      "file": "docs/zaratan.md"
+    },
+    "zeitgeist": {
+      "name": "Zeitgeist",
+      "source": "tob2",
+      "file": "docs/zeitgeist.md"
+    },
+    "zilaq": {
+      "name": "Zilaq",
+      "source": "tob3",
+      "file": "docs/zilaq.md"
+    },
+    "zimwi": {
+      "name": "Zimwi",
+      "source": "tob",
+      "file": "docs/zimwi.md"
+    },
+    "ziphius": {
+      "name": "Ziphius",
+      "source": "cc",
+      "file": "docs/ziphius.md"
+    },
+    "zmey": {
+      "name": "Zmey",
+      "source": "tob",
+      "file": "docs/zmey.md"
+    },
+    "zmey-headling": {
+      "name": "Zmey Headling",
+      "source": "tob",
+      "file": "docs/zmey-headling.md"
+    },
+    "zombie-smokeplume": {
+      "name": "Zombie, Smokeplume",
+      "source": "tob3",
+      "file": "docs/zombie-smokeplume.md"
+    },
+    "zombie-voidclaw": {
+      "name": "Zombie, Voidclaw",
+      "source": "tob3",
+      "file": "docs/zombie-voidclaw.md"
+    },
+    "zoog": {
+      "name": "Zoog",
+      "source": "cc",
+      "file": "docs/zoog.md"
+    },
+    "zoryas": {
+      "name": "Zoryas",
+      "source": "cc",
+      "file": "docs/zoryas.md"
+    },
+    "zouyu": {
+      "name": "Zouyu",
+      "source": "tob2",
+      "file": "docs/zouyu.md"
+    }
+  }
+}

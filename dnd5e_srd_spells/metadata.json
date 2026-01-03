@@ -1,0 +1,1610 @@
+{
+  "corpus": "dnd5e_srd_spells",
+  "content_type": "spells",
+  "sources": [
+    "wotc-srd"
+  ],
+  "total_documents": 319,
+  "source_counts": {
+    "wotc-srd": 319
+  },
+  "api_base": "https://api.open5e.com/v1",
+  "license": "Open Gaming License / Creative Commons (varies by source)",
+  "documents": {
+    "acid-arrow": {
+      "name": "Acid Arrow",
+      "source": "wotc-srd",
+      "file": "docs/acid-arrow.md"
+    },
+    "acid-splash": {
+      "name": "Acid Splash",
+      "source": "wotc-srd",
+      "file": "docs/acid-splash.md"
+    },
+    "aid": {
+      "name": "Aid",
+      "source": "wotc-srd",
+      "file": "docs/aid.md"
+    },
+    "alarm": {
+      "name": "Alarm",
+      "source": "wotc-srd",
+      "file": "docs/alarm.md"
+    },
+    "alter-self": {
+      "name": "Alter Self",
+      "source": "wotc-srd",
+      "file": "docs/alter-self.md"
+    },
+    "animal-friendship": {
+      "name": "Animal Friendship",
+      "source": "wotc-srd",
+      "file": "docs/animal-friendship.md"
+    },
+    "animal-messenger": {
+      "name": "Animal Messenger",
+      "source": "wotc-srd",
+      "file": "docs/animal-messenger.md"
+    },
+    "animal-shapes": {
+      "name": "Animal Shapes",
+      "source": "wotc-srd",
+      "file": "docs/animal-shapes.md"
+    },
+    "animate-dead": {
+      "name": "Animate Dead",
+      "source": "wotc-srd",
+      "file": "docs/animate-dead.md"
+    },
+    "animate-objects": {
+      "name": "Animate Objects",
+      "source": "wotc-srd",
+      "file": "docs/animate-objects.md"
+    },
+    "antilife-shell": {
+      "name": "Antilife Shell",
+      "source": "wotc-srd",
+      "file": "docs/antilife-shell.md"
+    },
+    "antimagic-field": {
+      "name": "Antimagic Field",
+      "source": "wotc-srd",
+      "file": "docs/antimagic-field.md"
+    },
+    "antipathysympathy": {
+      "name": "Antipathy/Sympathy",
+      "source": "wotc-srd",
+      "file": "docs/antipathysympathy.md"
+    },
+    "arcane-eye": {
+      "name": "Arcane Eye",
+      "source": "wotc-srd",
+      "file": "docs/arcane-eye.md"
+    },
+    "arcane-hand": {
+      "name": "Arcane Hand",
+      "source": "wotc-srd",
+      "file": "docs/arcane-hand.md"
+    },
+    "arcane-lock": {
+      "name": "Arcane Lock",
+      "source": "wotc-srd",
+      "file": "docs/arcane-lock.md"
+    },
+    "arcane-sword": {
+      "name": "Arcane Sword",
+      "source": "wotc-srd",
+      "file": "docs/arcane-sword.md"
+    },
+    "arcanists-magic-aura": {
+      "name": "Arcanist's Magic Aura",
+      "source": "wotc-srd",
+      "file": "docs/arcanists-magic-aura.md"
+    },
+    "astral-projection": {
+      "name": "Astral Projection",
+      "source": "wotc-srd",
+      "file": "docs/astral-projection.md"
+    },
+    "augury": {
+      "name": "Augury",
+      "source": "wotc-srd",
+      "file": "docs/augury.md"
+    },
+    "awaken": {
+      "name": "Awaken",
+      "source": "wotc-srd",
+      "file": "docs/awaken.md"
+    },
+    "bane": {
+      "name": "Bane",
+      "source": "wotc-srd",
+      "file": "docs/bane.md"
+    },
+    "banishment": {
+      "name": "Banishment",
+      "source": "wotc-srd",
+      "file": "docs/banishment.md"
+    },
+    "barkskin": {
+      "name": "Barkskin",
+      "source": "wotc-srd",
+      "file": "docs/barkskin.md"
+    },
+    "beacon-of-hope": {
+      "name": "Beacon of Hope",
+      "source": "wotc-srd",
+      "file": "docs/beacon-of-hope.md"
+    },
+    "bestow-curse": {
+      "name": "Bestow Curse",
+      "source": "wotc-srd",
+      "file": "docs/bestow-curse.md"
+    },
+    "black-tentacles": {
+      "name": "Black Tentacles",
+      "source": "wotc-srd",
+      "file": "docs/black-tentacles.md"
+    },
+    "blade-barrier": {
+      "name": "Blade Barrier",
+      "source": "wotc-srd",
+      "file": "docs/blade-barrier.md"
+    },
+    "bless": {
+      "name": "Bless",
+      "source": "wotc-srd",
+      "file": "docs/bless.md"
+    },
+    "blight": {
+      "name": "Blight",
+      "source": "wotc-srd",
+      "file": "docs/blight.md"
+    },
+    "blindnessdeafness": {
+      "name": "Blindness/Deafness",
+      "source": "wotc-srd",
+      "file": "docs/blindnessdeafness.md"
+    },
+    "blink": {
+      "name": "Blink",
+      "source": "wotc-srd",
+      "file": "docs/blink.md"
+    },
+    "blur": {
+      "name": "Blur",
+      "source": "wotc-srd",
+      "file": "docs/blur.md"
+    },
+    "branding-smite": {
+      "name": "Branding Smite",
+      "source": "wotc-srd",
+      "file": "docs/branding-smite.md"
+    },
+    "burning-hands": {
+      "name": "Burning Hands",
+      "source": "wotc-srd",
+      "file": "docs/burning-hands.md"
+    },
+    "call-lightning": {
+      "name": "Call Lightning",
+      "source": "wotc-srd",
+      "file": "docs/call-lightning.md"
+    },
+    "calm-emotions": {
+      "name": "Calm Emotions",
+      "source": "wotc-srd",
+      "file": "docs/calm-emotions.md"
+    },
+    "chain-lightning": {
+      "name": "Chain Lightning",
+      "source": "wotc-srd",
+      "file": "docs/chain-lightning.md"
+    },
+    "charm-person": {
+      "name": "Charm Person",
+      "source": "wotc-srd",
+      "file": "docs/charm-person.md"
+    },
+    "chill-touch": {
+      "name": "Chill Touch",
+      "source": "wotc-srd",
+      "file": "docs/chill-touch.md"
+    },
+    "circle-of-death": {
+      "name": "Circle of Death",
+      "source": "wotc-srd",
+      "file": "docs/circle-of-death.md"
+    },
+    "clairvoyance": {
+      "name": "Clairvoyance",
+      "source": "wotc-srd",
+      "file": "docs/clairvoyance.md"
+    },
+    "clone": {
+      "name": "Clone",
+      "source": "wotc-srd",
+      "file": "docs/clone.md"
+    },
+    "cloudkill": {
+      "name": "Cloudkill",
+      "source": "wotc-srd",
+      "file": "docs/cloudkill.md"
+    },
+    "color-spray": {
+      "name": "Color Spray",
+      "source": "wotc-srd",
+      "file": "docs/color-spray.md"
+    },
+    "command": {
+      "name": "Command",
+      "source": "wotc-srd",
+      "file": "docs/command.md"
+    },
+    "commune": {
+      "name": "Commune",
+      "source": "wotc-srd",
+      "file": "docs/commune.md"
+    },
+    "commune-with-nature": {
+      "name": "Commune with Nature",
+      "source": "wotc-srd",
+      "file": "docs/commune-with-nature.md"
+    },
+    "comprehend-languages": {
+      "name": "Comprehend Languages",
+      "source": "wotc-srd",
+      "file": "docs/comprehend-languages.md"
+    },
+    "compulsion": {
+      "name": "Compulsion",
+      "source": "wotc-srd",
+      "file": "docs/compulsion.md"
+    },
+    "cone-of-cold": {
+      "name": "Cone of Cold",
+      "source": "wotc-srd",
+      "file": "docs/cone-of-cold.md"
+    },
+    "confusion": {
+      "name": "Confusion",
+      "source": "wotc-srd",
+      "file": "docs/confusion.md"
+    },
+    "conjure-animals": {
+      "name": "Conjure Animals",
+      "source": "wotc-srd",
+      "file": "docs/conjure-animals.md"
+    },
+    "conjure-celestial": {
+      "name": "Conjure Celestial",
+      "source": "wotc-srd",
+      "file": "docs/conjure-celestial.md"
+    },
+    "conjure-elemental": {
+      "name": "Conjure Elemental",
+      "source": "wotc-srd",
+      "file": "docs/conjure-elemental.md"
+    },
+    "conjure-fey": {
+      "name": "Conjure Fey",
+      "source": "wotc-srd",
+      "file": "docs/conjure-fey.md"
+    },
+    "conjure-minor-elementals": {
+      "name": "Conjure Minor Elementals",
+      "source": "wotc-srd",
+      "file": "docs/conjure-minor-elementals.md"
+    },
+    "conjure-woodland-beings": {
+      "name": "Conjure Woodland Beings",
+      "source": "wotc-srd",
+      "file": "docs/conjure-woodland-beings.md"
+    },
+    "contact-other-plane": {
+      "name": "Contact Other Plane",
+      "source": "wotc-srd",
+      "file": "docs/contact-other-plane.md"
+    },
+    "contagion": {
+      "name": "Contagion",
+      "source": "wotc-srd",
+      "file": "docs/contagion.md"
+    },
+    "contingency": {
+      "name": "Contingency",
+      "source": "wotc-srd",
+      "file": "docs/contingency.md"
+    },
+    "continual-flame": {
+      "name": "Continual Flame",
+      "source": "wotc-srd",
+      "file": "docs/continual-flame.md"
+    },
+    "control-water": {
+      "name": "Control Water",
+      "source": "wotc-srd",
+      "file": "docs/control-water.md"
+    },
+    "control-weather": {
+      "name": "Control Weather",
+      "source": "wotc-srd",
+      "file": "docs/control-weather.md"
+    },
+    "counterspell": {
+      "name": "Counterspell",
+      "source": "wotc-srd",
+      "file": "docs/counterspell.md"
+    },
+    "create-food-and-water": {
+      "name": "Create Food and Water",
+      "source": "wotc-srd",
+      "file": "docs/create-food-and-water.md"
+    },
+    "create-undead": {
+      "name": "Create Undead",
+      "source": "wotc-srd",
+      "file": "docs/create-undead.md"
+    },
+    "create-or-destroy-water": {
+      "name": "Create or Destroy Water",
+      "source": "wotc-srd",
+      "file": "docs/create-or-destroy-water.md"
+    },
+    "creation": {
+      "name": "Creation",
+      "source": "wotc-srd",
+      "file": "docs/creation.md"
+    },
+    "cure-wounds": {
+      "name": "Cure Wounds",
+      "source": "wotc-srd",
+      "file": "docs/cure-wounds.md"
+    },
+    "dancing-lights": {
+      "name": "Dancing Lights",
+      "source": "wotc-srd",
+      "file": "docs/dancing-lights.md"
+    },
+    "darkness": {
+      "name": "Darkness",
+      "source": "wotc-srd",
+      "file": "docs/darkness.md"
+    },
+    "darkvision": {
+      "name": "Darkvision",
+      "source": "wotc-srd",
+      "file": "docs/darkvision.md"
+    },
+    "daylight": {
+      "name": "Daylight",
+      "source": "wotc-srd",
+      "file": "docs/daylight.md"
+    },
+    "death-ward": {
+      "name": "Death Ward",
+      "source": "wotc-srd",
+      "file": "docs/death-ward.md"
+    },
+    "delayed-blast-fireball": {
+      "name": "Delayed Blast Fireball",
+      "source": "wotc-srd",
+      "file": "docs/delayed-blast-fireball.md"
+    },
+    "demiplane": {
+      "name": "Demiplane",
+      "source": "wotc-srd",
+      "file": "docs/demiplane.md"
+    },
+    "detect-evil-and-good": {
+      "name": "Detect Evil and Good",
+      "source": "wotc-srd",
+      "file": "docs/detect-evil-and-good.md"
+    },
+    "detect-magic": {
+      "name": "Detect Magic",
+      "source": "wotc-srd",
+      "file": "docs/detect-magic.md"
+    },
+    "detect-poison-and-disease": {
+      "name": "Detect Poison and Disease",
+      "source": "wotc-srd",
+      "file": "docs/detect-poison-and-disease.md"
+    },
+    "detect-thoughts": {
+      "name": "Detect Thoughts",
+      "source": "wotc-srd",
+      "file": "docs/detect-thoughts.md"
+    },
+    "dimension-door": {
+      "name": "Dimension Door",
+      "source": "wotc-srd",
+      "file": "docs/dimension-door.md"
+    },
+    "disguise-self": {
+      "name": "Disguise Self",
+      "source": "wotc-srd",
+      "file": "docs/disguise-self.md"
+    },
+    "disintegrate": {
+      "name": "Disintegrate",
+      "source": "wotc-srd",
+      "file": "docs/disintegrate.md"
+    },
+    "dispel-evil-and-good": {
+      "name": "Dispel Evil and Good",
+      "source": "wotc-srd",
+      "file": "docs/dispel-evil-and-good.md"
+    },
+    "dispel-magic": {
+      "name": "Dispel Magic",
+      "source": "wotc-srd",
+      "file": "docs/dispel-magic.md"
+    },
+    "divination": {
+      "name": "Divination",
+      "source": "wotc-srd",
+      "file": "docs/divination.md"
+    },
+    "divine-favor": {
+      "name": "Divine Favor",
+      "source": "wotc-srd",
+      "file": "docs/divine-favor.md"
+    },
+    "divine-word": {
+      "name": "Divine Word",
+      "source": "wotc-srd",
+      "file": "docs/divine-word.md"
+    },
+    "dominate-beast": {
+      "name": "Dominate Beast",
+      "source": "wotc-srd",
+      "file": "docs/dominate-beast.md"
+    },
+    "dominate-monster": {
+      "name": "Dominate Monster",
+      "source": "wotc-srd",
+      "file": "docs/dominate-monster.md"
+    },
+    "dominate-person": {
+      "name": "Dominate Person",
+      "source": "wotc-srd",
+      "file": "docs/dominate-person.md"
+    },
+    "dream": {
+      "name": "Dream",
+      "source": "wotc-srd",
+      "file": "docs/dream.md"
+    },
+    "druidcraft": {
+      "name": "Druidcraft",
+      "source": "wotc-srd",
+      "file": "docs/druidcraft.md"
+    },
+    "earthquake": {
+      "name": "Earthquake",
+      "source": "wotc-srd",
+      "file": "docs/earthquake.md"
+    },
+    "eldritch-blast": {
+      "name": "Eldritch Blast",
+      "source": "wotc-srd",
+      "file": "docs/eldritch-blast.md"
+    },
+    "enhance-ability": {
+      "name": "Enhance Ability",
+      "source": "wotc-srd",
+      "file": "docs/enhance-ability.md"
+    },
+    "enlargereduce": {
+      "name": "Enlarge/Reduce",
+      "source": "wotc-srd",
+      "file": "docs/enlargereduce.md"
+    },
+    "entangle": {
+      "name": "Entangle",
+      "source": "wotc-srd",
+      "file": "docs/entangle.md"
+    },
+    "enthrall": {
+      "name": "Enthrall",
+      "source": "wotc-srd",
+      "file": "docs/enthrall.md"
+    },
+    "etherealness": {
+      "name": "Etherealness",
+      "source": "wotc-srd",
+      "file": "docs/etherealness.md"
+    },
+    "expeditious-retreat": {
+      "name": "Expeditious Retreat",
+      "source": "wotc-srd",
+      "file": "docs/expeditious-retreat.md"
+    },
+    "eyebite": {
+      "name": "Eyebite",
+      "source": "wotc-srd",
+      "file": "docs/eyebite.md"
+    },
+    "fabricate": {
+      "name": "Fabricate",
+      "source": "wotc-srd",
+      "file": "docs/fabricate.md"
+    },
+    "faerie-fire": {
+      "name": "Faerie Fire",
+      "source": "wotc-srd",
+      "file": "docs/faerie-fire.md"
+    },
+    "faithful-hound": {
+      "name": "Faithful Hound",
+      "source": "wotc-srd",
+      "file": "docs/faithful-hound.md"
+    },
+    "false-life": {
+      "name": "False Life",
+      "source": "wotc-srd",
+      "file": "docs/false-life.md"
+    },
+    "fear": {
+      "name": "Fear",
+      "source": "wotc-srd",
+      "file": "docs/fear.md"
+    },
+    "feather-fall": {
+      "name": "Feather Fall",
+      "source": "wotc-srd",
+      "file": "docs/feather-fall.md"
+    },
+    "feeblemind": {
+      "name": "Feeblemind",
+      "source": "wotc-srd",
+      "file": "docs/feeblemind.md"
+    },
+    "find-familiar": {
+      "name": "Find Familiar",
+      "source": "wotc-srd",
+      "file": "docs/find-familiar.md"
+    },
+    "find-steed": {
+      "name": "Find Steed",
+      "source": "wotc-srd",
+      "file": "docs/find-steed.md"
+    },
+    "find-traps": {
+      "name": "Find Traps",
+      "source": "wotc-srd",
+      "file": "docs/find-traps.md"
+    },
+    "find-the-path": {
+      "name": "Find the Path",
+      "source": "wotc-srd",
+      "file": "docs/find-the-path.md"
+    },
+    "finger-of-death": {
+      "name": "Finger of Death",
+      "source": "wotc-srd",
+      "file": "docs/finger-of-death.md"
+    },
+    "fire-bolt": {
+      "name": "Fire Bolt",
+      "source": "wotc-srd",
+      "file": "docs/fire-bolt.md"
+    },
+    "fire-shield": {
+      "name": "Fire Shield",
+      "source": "wotc-srd",
+      "file": "docs/fire-shield.md"
+    },
+    "fire-storm": {
+      "name": "Fire Storm",
+      "source": "wotc-srd",
+      "file": "docs/fire-storm.md"
+    },
+    "fireball": {
+      "name": "Fireball",
+      "source": "wotc-srd",
+      "file": "docs/fireball.md"
+    },
+    "flame-blade": {
+      "name": "Flame Blade",
+      "source": "wotc-srd",
+      "file": "docs/flame-blade.md"
+    },
+    "flame-strike": {
+      "name": "Flame Strike",
+      "source": "wotc-srd",
+      "file": "docs/flame-strike.md"
+    },
+    "flaming-sphere": {
+      "name": "Flaming Sphere",
+      "source": "wotc-srd",
+      "file": "docs/flaming-sphere.md"
+    },
+    "flesh-to-stone": {
+      "name": "Flesh to Stone",
+      "source": "wotc-srd",
+      "file": "docs/flesh-to-stone.md"
+    },
+    "floating-disk": {
+      "name": "Floating Disk",
+      "source": "wotc-srd",
+      "file": "docs/floating-disk.md"
+    },
+    "fly": {
+      "name": "Fly",
+      "source": "wotc-srd",
+      "file": "docs/fly.md"
+    },
+    "fog-cloud": {
+      "name": "Fog Cloud",
+      "source": "wotc-srd",
+      "file": "docs/fog-cloud.md"
+    },
+    "forbiddance": {
+      "name": "Forbiddance",
+      "source": "wotc-srd",
+      "file": "docs/forbiddance.md"
+    },
+    "forcecage": {
+      "name": "Forcecage",
+      "source": "wotc-srd",
+      "file": "docs/forcecage.md"
+    },
+    "foresight": {
+      "name": "Foresight",
+      "source": "wotc-srd",
+      "file": "docs/foresight.md"
+    },
+    "freedom-of-movement": {
+      "name": "Freedom of Movement",
+      "source": "wotc-srd",
+      "file": "docs/freedom-of-movement.md"
+    },
+    "freezing-sphere": {
+      "name": "Freezing Sphere",
+      "source": "wotc-srd",
+      "file": "docs/freezing-sphere.md"
+    },
+    "gaseous-form": {
+      "name": "Gaseous Form",
+      "source": "wotc-srd",
+      "file": "docs/gaseous-form.md"
+    },
+    "gate": {
+      "name": "Gate",
+      "source": "wotc-srd",
+      "file": "docs/gate.md"
+    },
+    "geas": {
+      "name": "Geas",
+      "source": "wotc-srd",
+      "file": "docs/geas.md"
+    },
+    "gentle-repose": {
+      "name": "Gentle Repose",
+      "source": "wotc-srd",
+      "file": "docs/gentle-repose.md"
+    },
+    "giant-insect": {
+      "name": "Giant Insect",
+      "source": "wotc-srd",
+      "file": "docs/giant-insect.md"
+    },
+    "glibness": {
+      "name": "Glibness",
+      "source": "wotc-srd",
+      "file": "docs/glibness.md"
+    },
+    "globe-of-invulnerability": {
+      "name": "Globe of Invulnerability",
+      "source": "wotc-srd",
+      "file": "docs/globe-of-invulnerability.md"
+    },
+    "glyph-of-warding": {
+      "name": "Glyph of Warding",
+      "source": "wotc-srd",
+      "file": "docs/glyph-of-warding.md"
+    },
+    "goodberry": {
+      "name": "Goodberry",
+      "source": "wotc-srd",
+      "file": "docs/goodberry.md"
+    },
+    "grease": {
+      "name": "Grease",
+      "source": "wotc-srd",
+      "file": "docs/grease.md"
+    },
+    "greater-invisibility": {
+      "name": "Greater Invisibility",
+      "source": "wotc-srd",
+      "file": "docs/greater-invisibility.md"
+    },
+    "greater-restoration": {
+      "name": "Greater Restoration",
+      "source": "wotc-srd",
+      "file": "docs/greater-restoration.md"
+    },
+    "guardian-of-faith": {
+      "name": "Guardian of Faith",
+      "source": "wotc-srd",
+      "file": "docs/guardian-of-faith.md"
+    },
+    "guards-and-wards": {
+      "name": "Guards and Wards",
+      "source": "wotc-srd",
+      "file": "docs/guards-and-wards.md"
+    },
+    "guidance": {
+      "name": "Guidance",
+      "source": "wotc-srd",
+      "file": "docs/guidance.md"
+    },
+    "guiding-bolt": {
+      "name": "Guiding Bolt",
+      "source": "wotc-srd",
+      "file": "docs/guiding-bolt.md"
+    },
+    "gust-of-wind": {
+      "name": "Gust of Wind",
+      "source": "wotc-srd",
+      "file": "docs/gust-of-wind.md"
+    },
+    "hallow": {
+      "name": "Hallow",
+      "source": "wotc-srd",
+      "file": "docs/hallow.md"
+    },
+    "hallucinatory-terrain": {
+      "name": "Hallucinatory Terrain",
+      "source": "wotc-srd",
+      "file": "docs/hallucinatory-terrain.md"
+    },
+    "harm": {
+      "name": "Harm",
+      "source": "wotc-srd",
+      "file": "docs/harm.md"
+    },
+    "haste": {
+      "name": "Haste",
+      "source": "wotc-srd",
+      "file": "docs/haste.md"
+    },
+    "heal": {
+      "name": "Heal",
+      "source": "wotc-srd",
+      "file": "docs/heal.md"
+    },
+    "healing-word": {
+      "name": "Healing Word",
+      "source": "wotc-srd",
+      "file": "docs/healing-word.md"
+    },
+    "heat-metal": {
+      "name": "Heat Metal",
+      "source": "wotc-srd",
+      "file": "docs/heat-metal.md"
+    },
+    "hellish-rebuke": {
+      "name": "Hellish Rebuke",
+      "source": "wotc-srd",
+      "file": "docs/hellish-rebuke.md"
+    },
+    "heroes-feast": {
+      "name": "Heroes' Feast",
+      "source": "wotc-srd",
+      "file": "docs/heroes-feast.md"
+    },
+    "heroism": {
+      "name": "Heroism",
+      "source": "wotc-srd",
+      "file": "docs/heroism.md"
+    },
+    "hideous-laughter": {
+      "name": "Hideous Laughter",
+      "source": "wotc-srd",
+      "file": "docs/hideous-laughter.md"
+    },
+    "hold-monster": {
+      "name": "Hold Monster",
+      "source": "wotc-srd",
+      "file": "docs/hold-monster.md"
+    },
+    "hold-person": {
+      "name": "Hold Person",
+      "source": "wotc-srd",
+      "file": "docs/hold-person.md"
+    },
+    "holy-aura": {
+      "name": "Holy Aura",
+      "source": "wotc-srd",
+      "file": "docs/holy-aura.md"
+    },
+    "hunters-mark": {
+      "name": "Hunter's Mark",
+      "source": "wotc-srd",
+      "file": "docs/hunters-mark.md"
+    },
+    "hypnotic-pattern": {
+      "name": "Hypnotic Pattern",
+      "source": "wotc-srd",
+      "file": "docs/hypnotic-pattern.md"
+    },
+    "ice-storm": {
+      "name": "Ice Storm",
+      "source": "wotc-srd",
+      "file": "docs/ice-storm.md"
+    },
+    "identify": {
+      "name": "Identify",
+      "source": "wotc-srd",
+      "file": "docs/identify.md"
+    },
+    "illusory-script": {
+      "name": "Illusory Script",
+      "source": "wotc-srd",
+      "file": "docs/illusory-script.md"
+    },
+    "imprisonment": {
+      "name": "Imprisonment",
+      "source": "wotc-srd",
+      "file": "docs/imprisonment.md"
+    },
+    "incendiary-cloud": {
+      "name": "Incendiary Cloud",
+      "source": "wotc-srd",
+      "file": "docs/incendiary-cloud.md"
+    },
+    "inflict-wounds": {
+      "name": "Inflict Wounds",
+      "source": "wotc-srd",
+      "file": "docs/inflict-wounds.md"
+    },
+    "insect-plague": {
+      "name": "Insect Plague",
+      "source": "wotc-srd",
+      "file": "docs/insect-plague.md"
+    },
+    "instant-summons": {
+      "name": "Instant Summons",
+      "source": "wotc-srd",
+      "file": "docs/instant-summons.md"
+    },
+    "invisibility": {
+      "name": "Invisibility",
+      "source": "wotc-srd",
+      "file": "docs/invisibility.md"
+    },
+    "irresistible-dance": {
+      "name": "Irresistible Dance",
+      "source": "wotc-srd",
+      "file": "docs/irresistible-dance.md"
+    },
+    "jump": {
+      "name": "Jump",
+      "source": "wotc-srd",
+      "file": "docs/jump.md"
+    },
+    "knock": {
+      "name": "Knock",
+      "source": "wotc-srd",
+      "file": "docs/knock.md"
+    },
+    "legend-lore": {
+      "name": "Legend Lore",
+      "source": "wotc-srd",
+      "file": "docs/legend-lore.md"
+    },
+    "lesser-restoration": {
+      "name": "Lesser Restoration",
+      "source": "wotc-srd",
+      "file": "docs/lesser-restoration.md"
+    },
+    "levitate": {
+      "name": "Levitate",
+      "source": "wotc-srd",
+      "file": "docs/levitate.md"
+    },
+    "light": {
+      "name": "Light",
+      "source": "wotc-srd",
+      "file": "docs/light.md"
+    },
+    "lightning-bolt": {
+      "name": "Lightning Bolt",
+      "source": "wotc-srd",
+      "file": "docs/lightning-bolt.md"
+    },
+    "locate-animals-or-plants": {
+      "name": "Locate Animals or Plants",
+      "source": "wotc-srd",
+      "file": "docs/locate-animals-or-plants.md"
+    },
+    "locate-creature": {
+      "name": "Locate Creature",
+      "source": "wotc-srd",
+      "file": "docs/locate-creature.md"
+    },
+    "locate-object": {
+      "name": "Locate Object",
+      "source": "wotc-srd",
+      "file": "docs/locate-object.md"
+    },
+    "longstrider": {
+      "name": "Longstrider",
+      "source": "wotc-srd",
+      "file": "docs/longstrider.md"
+    },
+    "mage-armor": {
+      "name": "Mage Armor",
+      "source": "wotc-srd",
+      "file": "docs/mage-armor.md"
+    },
+    "mage-hand": {
+      "name": "Mage Hand",
+      "source": "wotc-srd",
+      "file": "docs/mage-hand.md"
+    },
+    "magic-circle": {
+      "name": "Magic Circle",
+      "source": "wotc-srd",
+      "file": "docs/magic-circle.md"
+    },
+    "magic-jar": {
+      "name": "Magic Jar",
+      "source": "wotc-srd",
+      "file": "docs/magic-jar.md"
+    },
+    "magic-missile": {
+      "name": "Magic Missile",
+      "source": "wotc-srd",
+      "file": "docs/magic-missile.md"
+    },
+    "magic-mouth": {
+      "name": "Magic Mouth",
+      "source": "wotc-srd",
+      "file": "docs/magic-mouth.md"
+    },
+    "magic-weapon": {
+      "name": "Magic Weapon",
+      "source": "wotc-srd",
+      "file": "docs/magic-weapon.md"
+    },
+    "magnificent-mansion": {
+      "name": "Magnificent Mansion",
+      "source": "wotc-srd",
+      "file": "docs/magnificent-mansion.md"
+    },
+    "major-image": {
+      "name": "Major Image",
+      "source": "wotc-srd",
+      "file": "docs/major-image.md"
+    },
+    "mass-cure-wounds": {
+      "name": "Mass Cure Wounds",
+      "source": "wotc-srd",
+      "file": "docs/mass-cure-wounds.md"
+    },
+    "mass-heal": {
+      "name": "Mass Heal",
+      "source": "wotc-srd",
+      "file": "docs/mass-heal.md"
+    },
+    "mass-healing-word": {
+      "name": "Mass Healing Word",
+      "source": "wotc-srd",
+      "file": "docs/mass-healing-word.md"
+    },
+    "mass-suggestion": {
+      "name": "Mass Suggestion",
+      "source": "wotc-srd",
+      "file": "docs/mass-suggestion.md"
+    },
+    "maze": {
+      "name": "Maze",
+      "source": "wotc-srd",
+      "file": "docs/maze.md"
+    },
+    "meld-into-stone": {
+      "name": "Meld into Stone",
+      "source": "wotc-srd",
+      "file": "docs/meld-into-stone.md"
+    },
+    "mending": {
+      "name": "Mending",
+      "source": "wotc-srd",
+      "file": "docs/mending.md"
+    },
+    "message": {
+      "name": "Message",
+      "source": "wotc-srd",
+      "file": "docs/message.md"
+    },
+    "meteor-swarm": {
+      "name": "Meteor Swarm",
+      "source": "wotc-srd",
+      "file": "docs/meteor-swarm.md"
+    },
+    "mind-blank": {
+      "name": "Mind Blank",
+      "source": "wotc-srd",
+      "file": "docs/mind-blank.md"
+    },
+    "minor-illusion": {
+      "name": "Minor Illusion",
+      "source": "wotc-srd",
+      "file": "docs/minor-illusion.md"
+    },
+    "mirage-arcane": {
+      "name": "Mirage Arcane",
+      "source": "wotc-srd",
+      "file": "docs/mirage-arcane.md"
+    },
+    "mirror-image": {
+      "name": "Mirror Image",
+      "source": "wotc-srd",
+      "file": "docs/mirror-image.md"
+    },
+    "mislead": {
+      "name": "Mislead",
+      "source": "wotc-srd",
+      "file": "docs/mislead.md"
+    },
+    "misty-step": {
+      "name": "Misty Step",
+      "source": "wotc-srd",
+      "file": "docs/misty-step.md"
+    },
+    "modify-memory": {
+      "name": "Modify Memory",
+      "source": "wotc-srd",
+      "file": "docs/modify-memory.md"
+    },
+    "moonbeam": {
+      "name": "Moonbeam",
+      "source": "wotc-srd",
+      "file": "docs/moonbeam.md"
+    },
+    "move-earth": {
+      "name": "Move Earth",
+      "source": "wotc-srd",
+      "file": "docs/move-earth.md"
+    },
+    "nondetection": {
+      "name": "Nondetection",
+      "source": "wotc-srd",
+      "file": "docs/nondetection.md"
+    },
+    "pass-without-trace": {
+      "name": "Pass without Trace",
+      "source": "wotc-srd",
+      "file": "docs/pass-without-trace.md"
+    },
+    "passwall": {
+      "name": "Passwall",
+      "source": "wotc-srd",
+      "file": "docs/passwall.md"
+    },
+    "phantasmal-killer": {
+      "name": "Phantasmal Killer",
+      "source": "wotc-srd",
+      "file": "docs/phantasmal-killer.md"
+    },
+    "phantom-steed": {
+      "name": "Phantom Steed",
+      "source": "wotc-srd",
+      "file": "docs/phantom-steed.md"
+    },
+    "planar-ally": {
+      "name": "Planar Ally",
+      "source": "wotc-srd",
+      "file": "docs/planar-ally.md"
+    },
+    "planar-binding": {
+      "name": "Planar Binding",
+      "source": "wotc-srd",
+      "file": "docs/planar-binding.md"
+    },
+    "plane-shift": {
+      "name": "Plane Shift",
+      "source": "wotc-srd",
+      "file": "docs/plane-shift.md"
+    },
+    "plant-growth": {
+      "name": "Plant Growth",
+      "source": "wotc-srd",
+      "file": "docs/plant-growth.md"
+    },
+    "poison-spray": {
+      "name": "Poison Spray",
+      "source": "wotc-srd",
+      "file": "docs/poison-spray.md"
+    },
+    "polymorph": {
+      "name": "Polymorph",
+      "source": "wotc-srd",
+      "file": "docs/polymorph.md"
+    },
+    "power-word-kill": {
+      "name": "Power Word Kill",
+      "source": "wotc-srd",
+      "file": "docs/power-word-kill.md"
+    },
+    "power-word-stun": {
+      "name": "Power Word Stun",
+      "source": "wotc-srd",
+      "file": "docs/power-word-stun.md"
+    },
+    "prayer-of-healing": {
+      "name": "Prayer of Healing",
+      "source": "wotc-srd",
+      "file": "docs/prayer-of-healing.md"
+    },
+    "prestidigitation": {
+      "name": "Prestidigitation",
+      "source": "wotc-srd",
+      "file": "docs/prestidigitation.md"
+    },
+    "prismatic-spray": {
+      "name": "Prismatic Spray",
+      "source": "wotc-srd",
+      "file": "docs/prismatic-spray.md"
+    },
+    "prismatic-wall": {
+      "name": "Prismatic Wall",
+      "source": "wotc-srd",
+      "file": "docs/prismatic-wall.md"
+    },
+    "private-sanctum": {
+      "name": "Private Sanctum",
+      "source": "wotc-srd",
+      "file": "docs/private-sanctum.md"
+    },
+    "produce-flame": {
+      "name": "Produce Flame",
+      "source": "wotc-srd",
+      "file": "docs/produce-flame.md"
+    },
+    "programmed-illusion": {
+      "name": "Programmed Illusion",
+      "source": "wotc-srd",
+      "file": "docs/programmed-illusion.md"
+    },
+    "project-image": {
+      "name": "Project Image",
+      "source": "wotc-srd",
+      "file": "docs/project-image.md"
+    },
+    "protection-from-energy": {
+      "name": "Protection from Energy",
+      "source": "wotc-srd",
+      "file": "docs/protection-from-energy.md"
+    },
+    "protection-from-evil-and-good": {
+      "name": "Protection from Evil and Good",
+      "source": "wotc-srd",
+      "file": "docs/protection-from-evil-and-good.md"
+    },
+    "protection-from-poison": {
+      "name": "Protection from Poison",
+      "source": "wotc-srd",
+      "file": "docs/protection-from-poison.md"
+    },
+    "purify-food-and-drink": {
+      "name": "Purify Food and Drink",
+      "source": "wotc-srd",
+      "file": "docs/purify-food-and-drink.md"
+    },
+    "raise-dead": {
+      "name": "Raise Dead",
+      "source": "wotc-srd",
+      "file": "docs/raise-dead.md"
+    },
+    "ray-of-enfeeblement": {
+      "name": "Ray of Enfeeblement",
+      "source": "wotc-srd",
+      "file": "docs/ray-of-enfeeblement.md"
+    },
+    "ray-of-frost": {
+      "name": "Ray of Frost",
+      "source": "wotc-srd",
+      "file": "docs/ray-of-frost.md"
+    },
+    "regenerate": {
+      "name": "Regenerate",
+      "source": "wotc-srd",
+      "file": "docs/regenerate.md"
+    },
+    "reincarnate": {
+      "name": "Reincarnate",
+      "source": "wotc-srd",
+      "file": "docs/reincarnate.md"
+    },
+    "remove-curse": {
+      "name": "Remove Curse",
+      "source": "wotc-srd",
+      "file": "docs/remove-curse.md"
+    },
+    "resilient-sphere": {
+      "name": "Resilient Sphere",
+      "source": "wotc-srd",
+      "file": "docs/resilient-sphere.md"
+    },
+    "resistance": {
+      "name": "Resistance",
+      "source": "wotc-srd",
+      "file": "docs/resistance.md"
+    },
+    "resurrection": {
+      "name": "Resurrection",
+      "source": "wotc-srd",
+      "file": "docs/resurrection.md"
+    },
+    "reverse-gravity": {
+      "name": "Reverse Gravity",
+      "source": "wotc-srd",
+      "file": "docs/reverse-gravity.md"
+    },
+    "revivify": {
+      "name": "Revivify",
+      "source": "wotc-srd",
+      "file": "docs/revivify.md"
+    },
+    "rope-trick": {
+      "name": "Rope Trick",
+      "source": "wotc-srd",
+      "file": "docs/rope-trick.md"
+    },
+    "sacred-flame": {
+      "name": "Sacred Flame",
+      "source": "wotc-srd",
+      "file": "docs/sacred-flame.md"
+    },
+    "sanctuary": {
+      "name": "Sanctuary",
+      "source": "wotc-srd",
+      "file": "docs/sanctuary.md"
+    },
+    "scorching-ray": {
+      "name": "Scorching Ray",
+      "source": "wotc-srd",
+      "file": "docs/scorching-ray.md"
+    },
+    "scrying": {
+      "name": "Scrying",
+      "source": "wotc-srd",
+      "file": "docs/scrying.md"
+    },
+    "secret-chest": {
+      "name": "Secret Chest",
+      "source": "wotc-srd",
+      "file": "docs/secret-chest.md"
+    },
+    "see-invisibility": {
+      "name": "See Invisibility",
+      "source": "wotc-srd",
+      "file": "docs/see-invisibility.md"
+    },
+    "seeming": {
+      "name": "Seeming",
+      "source": "wotc-srd",
+      "file": "docs/seeming.md"
+    },
+    "sending": {
+      "name": "Sending",
+      "source": "wotc-srd",
+      "file": "docs/sending.md"
+    },
+    "sequester": {
+      "name": "Sequester",
+      "source": "wotc-srd",
+      "file": "docs/sequester.md"
+    },
+    "shapechange": {
+      "name": "Shapechange",
+      "source": "wotc-srd",
+      "file": "docs/shapechange.md"
+    },
+    "shatter": {
+      "name": "Shatter",
+      "source": "wotc-srd",
+      "file": "docs/shatter.md"
+    },
+    "shield": {
+      "name": "Shield",
+      "source": "wotc-srd",
+      "file": "docs/shield.md"
+    },
+    "shield-of-faith": {
+      "name": "Shield of Faith",
+      "source": "wotc-srd",
+      "file": "docs/shield-of-faith.md"
+    },
+    "shillelagh": {
+      "name": "Shillelagh",
+      "source": "wotc-srd",
+      "file": "docs/shillelagh.md"
+    },
+    "shocking-grasp": {
+      "name": "Shocking Grasp",
+      "source": "wotc-srd",
+      "file": "docs/shocking-grasp.md"
+    },
+    "silence": {
+      "name": "Silence",
+      "source": "wotc-srd",
+      "file": "docs/silence.md"
+    },
+    "silent-image": {
+      "name": "Silent Image",
+      "source": "wotc-srd",
+      "file": "docs/silent-image.md"
+    },
+    "simulacrum": {
+      "name": "Simulacrum",
+      "source": "wotc-srd",
+      "file": "docs/simulacrum.md"
+    },
+    "sleep": {
+      "name": "Sleep",
+      "source": "wotc-srd",
+      "file": "docs/sleep.md"
+    },
+    "sleet-storm": {
+      "name": "Sleet Storm",
+      "source": "wotc-srd",
+      "file": "docs/sleet-storm.md"
+    },
+    "slow": {
+      "name": "Slow",
+      "source": "wotc-srd",
+      "file": "docs/slow.md"
+    },
+    "spare-the-dying": {
+      "name": "Spare the Dying",
+      "source": "wotc-srd",
+      "file": "docs/spare-the-dying.md"
+    },
+    "speak-with-animals": {
+      "name": "Speak with Animals",
+      "source": "wotc-srd",
+      "file": "docs/speak-with-animals.md"
+    },
+    "speak-with-dead": {
+      "name": "Speak with Dead",
+      "source": "wotc-srd",
+      "file": "docs/speak-with-dead.md"
+    },
+    "speak-with-plants": {
+      "name": "Speak with Plants",
+      "source": "wotc-srd",
+      "file": "docs/speak-with-plants.md"
+    },
+    "spider-climb": {
+      "name": "Spider Climb",
+      "source": "wotc-srd",
+      "file": "docs/spider-climb.md"
+    },
+    "spike-growth": {
+      "name": "Spike Growth",
+      "source": "wotc-srd",
+      "file": "docs/spike-growth.md"
+    },
+    "spirit-guardians": {
+      "name": "Spirit Guardians",
+      "source": "wotc-srd",
+      "file": "docs/spirit-guardians.md"
+    },
+    "spiritual-weapon": {
+      "name": "Spiritual Weapon",
+      "source": "wotc-srd",
+      "file": "docs/spiritual-weapon.md"
+    },
+    "stinking-cloud": {
+      "name": "Stinking Cloud",
+      "source": "wotc-srd",
+      "file": "docs/stinking-cloud.md"
+    },
+    "stone-shape": {
+      "name": "Stone Shape",
+      "source": "wotc-srd",
+      "file": "docs/stone-shape.md"
+    },
+    "stoneskin": {
+      "name": "Stoneskin",
+      "source": "wotc-srd",
+      "file": "docs/stoneskin.md"
+    },
+    "storm-of-vengeance": {
+      "name": "Storm of Vengeance",
+      "source": "wotc-srd",
+      "file": "docs/storm-of-vengeance.md"
+    },
+    "suggestion": {
+      "name": "Suggestion",
+      "source": "wotc-srd",
+      "file": "docs/suggestion.md"
+    },
+    "sunbeam": {
+      "name": "Sunbeam",
+      "source": "wotc-srd",
+      "file": "docs/sunbeam.md"
+    },
+    "sunburst": {
+      "name": "Sunburst",
+      "source": "wotc-srd",
+      "file": "docs/sunburst.md"
+    },
+    "symbol": {
+      "name": "Symbol",
+      "source": "wotc-srd",
+      "file": "docs/symbol.md"
+    },
+    "telekinesis": {
+      "name": "Telekinesis",
+      "source": "wotc-srd",
+      "file": "docs/telekinesis.md"
+    },
+    "telepathic-bond": {
+      "name": "Telepathic Bond",
+      "source": "wotc-srd",
+      "file": "docs/telepathic-bond.md"
+    },
+    "teleport": {
+      "name": "Teleport",
+      "source": "wotc-srd",
+      "file": "docs/teleport.md"
+    },
+    "teleportation-circle": {
+      "name": "Teleportation Circle",
+      "source": "wotc-srd",
+      "file": "docs/teleportation-circle.md"
+    },
+    "thaumaturgy": {
+      "name": "Thaumaturgy",
+      "source": "wotc-srd",
+      "file": "docs/thaumaturgy.md"
+    },
+    "thunderwave": {
+      "name": "Thunderwave",
+      "source": "wotc-srd",
+      "file": "docs/thunderwave.md"
+    },
+    "time-stop": {
+      "name": "Time Stop",
+      "source": "wotc-srd",
+      "file": "docs/time-stop.md"
+    },
+    "tiny-hut": {
+      "name": "Tiny Hut",
+      "source": "wotc-srd",
+      "file": "docs/tiny-hut.md"
+    },
+    "tongues": {
+      "name": "Tongues",
+      "source": "wotc-srd",
+      "file": "docs/tongues.md"
+    },
+    "transport-via-plants": {
+      "name": "Transport via Plants",
+      "source": "wotc-srd",
+      "file": "docs/transport-via-plants.md"
+    },
+    "tree-stride": {
+      "name": "Tree Stride",
+      "source": "wotc-srd",
+      "file": "docs/tree-stride.md"
+    },
+    "true-polymorph": {
+      "name": "True Polymorph",
+      "source": "wotc-srd",
+      "file": "docs/true-polymorph.md"
+    },
+    "true-resurrection": {
+      "name": "True Resurrection",
+      "source": "wotc-srd",
+      "file": "docs/true-resurrection.md"
+    },
+    "true-seeing": {
+      "name": "True Seeing",
+      "source": "wotc-srd",
+      "file": "docs/true-seeing.md"
+    },
+    "true-strike": {
+      "name": "True Strike",
+      "source": "wotc-srd",
+      "file": "docs/true-strike.md"
+    },
+    "unseen-servant": {
+      "name": "Unseen Servant",
+      "source": "wotc-srd",
+      "file": "docs/unseen-servant.md"
+    },
+    "vampiric-touch": {
+      "name": "Vampiric Touch",
+      "source": "wotc-srd",
+      "file": "docs/vampiric-touch.md"
+    },
+    "vicious-mockery": {
+      "name": "Vicious Mockery",
+      "source": "wotc-srd",
+      "file": "docs/vicious-mockery.md"
+    },
+    "wall-of-fire": {
+      "name": "Wall of Fire",
+      "source": "wotc-srd",
+      "file": "docs/wall-of-fire.md"
+    },
+    "wall-of-force": {
+      "name": "Wall of Force",
+      "source": "wotc-srd",
+      "file": "docs/wall-of-force.md"
+    },
+    "wall-of-ice": {
+      "name": "Wall of Ice",
+      "source": "wotc-srd",
+      "file": "docs/wall-of-ice.md"
+    },
+    "wall-of-stone": {
+      "name": "Wall of Stone",
+      "source": "wotc-srd",
+      "file": "docs/wall-of-stone.md"
+    },
+    "wall-of-thorns": {
+      "name": "Wall of Thorns",
+      "source": "wotc-srd",
+      "file": "docs/wall-of-thorns.md"
+    },
+    "warding-bond": {
+      "name": "Warding Bond",
+      "source": "wotc-srd",
+      "file": "docs/warding-bond.md"
+    },
+    "water-breathing": {
+      "name": "Water Breathing",
+      "source": "wotc-srd",
+      "file": "docs/water-breathing.md"
+    },
+    "water-walk": {
+      "name": "Water Walk",
+      "source": "wotc-srd",
+      "file": "docs/water-walk.md"
+    },
+    "web": {
+      "name": "Web",
+      "source": "wotc-srd",
+      "file": "docs/web.md"
+    },
+    "weird": {
+      "name": "Weird",
+      "source": "wotc-srd",
+      "file": "docs/weird.md"
+    },
+    "wind-walk": {
+      "name": "Wind Walk",
+      "source": "wotc-srd",
+      "file": "docs/wind-walk.md"
+    },
+    "wind-wall": {
+      "name": "Wind Wall",
+      "source": "wotc-srd",
+      "file": "docs/wind-wall.md"
+    },
+    "wish": {
+      "name": "Wish",
+      "source": "wotc-srd",
+      "file": "docs/wish.md"
+    },
+    "word-of-recall": {
+      "name": "Word of Recall",
+      "source": "wotc-srd",
+      "file": "docs/word-of-recall.md"
+    },
+    "zone-of-truth": {
+      "name": "Zone of Truth",
+      "source": "wotc-srd",
+      "file": "docs/zone-of-truth.md"
+    }
+  }
+}

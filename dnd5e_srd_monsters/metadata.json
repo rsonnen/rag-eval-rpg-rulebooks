@@ -1,0 +1,1625 @@
+{
+  "corpus": "dnd5e_srd_monsters",
+  "content_type": "monsters",
+  "sources": [
+    "wotc-srd"
+  ],
+  "total_documents": 322,
+  "source_counts": {
+    "wotc-srd": 322
+  },
+  "api_base": "https://api.open5e.com/v1",
+  "license": "Open Gaming License / Creative Commons (varies by source)",
+  "documents": {
+    "aboleth": {
+      "name": "Aboleth",
+      "source": "wotc-srd",
+      "file": "docs/aboleth.md"
+    },
+    "acolyte": {
+      "name": "Acolyte",
+      "source": "wotc-srd",
+      "file": "docs/acolyte.md"
+    },
+    "adult-black-dragon": {
+      "name": "Adult Black Dragon",
+      "source": "wotc-srd",
+      "file": "docs/adult-black-dragon.md"
+    },
+    "adult-blue-dragon": {
+      "name": "Adult Blue Dragon",
+      "source": "wotc-srd",
+      "file": "docs/adult-blue-dragon.md"
+    },
+    "adult-brass-dragon": {
+      "name": "Adult Brass Dragon",
+      "source": "wotc-srd",
+      "file": "docs/adult-brass-dragon.md"
+    },
+    "adult-bronze-dragon": {
+      "name": "Adult Bronze Dragon",
+      "source": "wotc-srd",
+      "file": "docs/adult-bronze-dragon.md"
+    },
+    "adult-copper-dragon": {
+      "name": "Adult Copper Dragon",
+      "source": "wotc-srd",
+      "file": "docs/adult-copper-dragon.md"
+    },
+    "adult-gold-dragon": {
+      "name": "Adult Gold Dragon",
+      "source": "wotc-srd",
+      "file": "docs/adult-gold-dragon.md"
+    },
+    "adult-green-dragon": {
+      "name": "Adult Green Dragon",
+      "source": "wotc-srd",
+      "file": "docs/adult-green-dragon.md"
+    },
+    "adult-red-dragon": {
+      "name": "Adult Red Dragon",
+      "source": "wotc-srd",
+      "file": "docs/adult-red-dragon.md"
+    },
+    "adult-silver-dragon": {
+      "name": "Adult Silver Dragon",
+      "source": "wotc-srd",
+      "file": "docs/adult-silver-dragon.md"
+    },
+    "adult-white-dragon": {
+      "name": "Adult White Dragon",
+      "source": "wotc-srd",
+      "file": "docs/adult-white-dragon.md"
+    },
+    "air-elemental": {
+      "name": "Air Elemental",
+      "source": "wotc-srd",
+      "file": "docs/air-elemental.md"
+    },
+    "ancient-black-dragon": {
+      "name": "Ancient Black Dragon",
+      "source": "wotc-srd",
+      "file": "docs/ancient-black-dragon.md"
+    },
+    "ancient-blue-dragon": {
+      "name": "Ancient Blue Dragon",
+      "source": "wotc-srd",
+      "file": "docs/ancient-blue-dragon.md"
+    },
+    "ancient-brass-dragon": {
+      "name": "Ancient Brass Dragon",
+      "source": "wotc-srd",
+      "file": "docs/ancient-brass-dragon.md"
+    },
+    "ancient-bronze-dragon": {
+      "name": "Ancient Bronze Dragon",
+      "source": "wotc-srd",
+      "file": "docs/ancient-bronze-dragon.md"
+    },
+    "ancient-copper-dragon": {
+      "name": "Ancient Copper Dragon",
+      "source": "wotc-srd",
+      "file": "docs/ancient-copper-dragon.md"
+    },
+    "ancient-gold-dragon": {
+      "name": "Ancient Gold Dragon",
+      "source": "wotc-srd",
+      "file": "docs/ancient-gold-dragon.md"
+    },
+    "ancient-green-dragon": {
+      "name": "Ancient Green Dragon",
+      "source": "wotc-srd",
+      "file": "docs/ancient-green-dragon.md"
+    },
+    "ancient-red-dragon": {
+      "name": "Ancient Red Dragon",
+      "source": "wotc-srd",
+      "file": "docs/ancient-red-dragon.md"
+    },
+    "ancient-silver-dragon": {
+      "name": "Ancient Silver Dragon",
+      "source": "wotc-srd",
+      "file": "docs/ancient-silver-dragon.md"
+    },
+    "ancient-white-dragon": {
+      "name": "Ancient White Dragon",
+      "source": "wotc-srd",
+      "file": "docs/ancient-white-dragon.md"
+    },
+    "androsphinx": {
+      "name": "Androsphinx",
+      "source": "wotc-srd",
+      "file": "docs/androsphinx.md"
+    },
+    "animated-armor": {
+      "name": "Animated Armor",
+      "source": "wotc-srd",
+      "file": "docs/animated-armor.md"
+    },
+    "ankheg": {
+      "name": "Ankheg",
+      "source": "wotc-srd",
+      "file": "docs/ankheg.md"
+    },
+    "ape": {
+      "name": "Ape",
+      "source": "wotc-srd",
+      "file": "docs/ape.md"
+    },
+    "archmage": {
+      "name": "Archmage",
+      "source": "wotc-srd",
+      "file": "docs/archmage.md"
+    },
+    "assassin": {
+      "name": "Assassin",
+      "source": "wotc-srd",
+      "file": "docs/assassin.md"
+    },
+    "awakened-shrub": {
+      "name": "Awakened Shrub",
+      "source": "wotc-srd",
+      "file": "docs/awakened-shrub.md"
+    },
+    "awakened-tree": {
+      "name": "Awakened Tree",
+      "source": "wotc-srd",
+      "file": "docs/awakened-tree.md"
+    },
+    "axe-beak": {
+      "name": "Axe Beak",
+      "source": "wotc-srd",
+      "file": "docs/axe-beak.md"
+    },
+    "azer": {
+      "name": "Azer",
+      "source": "wotc-srd",
+      "file": "docs/azer.md"
+    },
+    "baboon": {
+      "name": "Baboon",
+      "source": "wotc-srd",
+      "file": "docs/baboon.md"
+    },
+    "badger": {
+      "name": "Badger",
+      "source": "wotc-srd",
+      "file": "docs/badger.md"
+    },
+    "balor": {
+      "name": "Balor",
+      "source": "wotc-srd",
+      "file": "docs/balor.md"
+    },
+    "bandit": {
+      "name": "Bandit",
+      "source": "wotc-srd",
+      "file": "docs/bandit.md"
+    },
+    "bandit-captain": {
+      "name": "Bandit Captain",
+      "source": "wotc-srd",
+      "file": "docs/bandit-captain.md"
+    },
+    "barbed-devil": {
+      "name": "Barbed Devil",
+      "source": "wotc-srd",
+      "file": "docs/barbed-devil.md"
+    },
+    "basilisk": {
+      "name": "Basilisk",
+      "source": "wotc-srd",
+      "file": "docs/basilisk.md"
+    },
+    "bat": {
+      "name": "Bat",
+      "source": "wotc-srd",
+      "file": "docs/bat.md"
+    },
+    "bearded-devil": {
+      "name": "Bearded Devil",
+      "source": "wotc-srd",
+      "file": "docs/bearded-devil.md"
+    },
+    "behir": {
+      "name": "Behir",
+      "source": "wotc-srd",
+      "file": "docs/behir.md"
+    },
+    "berserker": {
+      "name": "Berserker",
+      "source": "wotc-srd",
+      "file": "docs/berserker.md"
+    },
+    "black-bear": {
+      "name": "Black Bear",
+      "source": "wotc-srd",
+      "file": "docs/black-bear.md"
+    },
+    "black-dragon-wyrmling": {
+      "name": "Black Dragon Wyrmling",
+      "source": "wotc-srd",
+      "file": "docs/black-dragon-wyrmling.md"
+    },
+    "black-pudding": {
+      "name": "Black Pudding",
+      "source": "wotc-srd",
+      "file": "docs/black-pudding.md"
+    },
+    "blink-dog": {
+      "name": "Blink Dog",
+      "source": "wotc-srd",
+      "file": "docs/blink-dog.md"
+    },
+    "blood-hawk": {
+      "name": "Blood Hawk",
+      "source": "wotc-srd",
+      "file": "docs/blood-hawk.md"
+    },
+    "blue-dragon-wyrmling": {
+      "name": "Blue Dragon Wyrmling",
+      "source": "wotc-srd",
+      "file": "docs/blue-dragon-wyrmling.md"
+    },
+    "boar": {
+      "name": "Boar",
+      "source": "wotc-srd",
+      "file": "docs/boar.md"
+    },
+    "bone-devil": {
+      "name": "Bone Devil",
+      "source": "wotc-srd",
+      "file": "docs/bone-devil.md"
+    },
+    "brass-dragon-wyrmling": {
+      "name": "Brass Dragon Wyrmling",
+      "source": "wotc-srd",
+      "file": "docs/brass-dragon-wyrmling.md"
+    },
+    "bronze-dragon-wyrmling": {
+      "name": "Bronze Dragon Wyrmling",
+      "source": "wotc-srd",
+      "file": "docs/bronze-dragon-wyrmling.md"
+    },
+    "brown-bear": {
+      "name": "Brown Bear",
+      "source": "wotc-srd",
+      "file": "docs/brown-bear.md"
+    },
+    "bugbear": {
+      "name": "Bugbear",
+      "source": "wotc-srd",
+      "file": "docs/bugbear.md"
+    },
+    "bulette": {
+      "name": "Bulette",
+      "source": "wotc-srd",
+      "file": "docs/bulette.md"
+    },
+    "camel": {
+      "name": "Camel",
+      "source": "wotc-srd",
+      "file": "docs/camel.md"
+    },
+    "cat": {
+      "name": "Cat",
+      "source": "wotc-srd",
+      "file": "docs/cat.md"
+    },
+    "centaur": {
+      "name": "Centaur",
+      "source": "wotc-srd",
+      "file": "docs/centaur.md"
+    },
+    "chain-devil": {
+      "name": "Chain Devil",
+      "source": "wotc-srd",
+      "file": "docs/chain-devil.md"
+    },
+    "chimera": {
+      "name": "Chimera",
+      "source": "wotc-srd",
+      "file": "docs/chimera.md"
+    },
+    "chuul": {
+      "name": "Chuul",
+      "source": "wotc-srd",
+      "file": "docs/chuul.md"
+    },
+    "clay-golem": {
+      "name": "Clay Golem",
+      "source": "wotc-srd",
+      "file": "docs/clay-golem.md"
+    },
+    "cloaker": {
+      "name": "Cloaker",
+      "source": "wotc-srd",
+      "file": "docs/cloaker.md"
+    },
+    "cloud-giant": {
+      "name": "Cloud Giant",
+      "source": "wotc-srd",
+      "file": "docs/cloud-giant.md"
+    },
+    "cockatrice": {
+      "name": "Cockatrice",
+      "source": "wotc-srd",
+      "file": "docs/cockatrice.md"
+    },
+    "commoner": {
+      "name": "Commoner",
+      "source": "wotc-srd",
+      "file": "docs/commoner.md"
+    },
+    "constrictor-snake": {
+      "name": "Constrictor Snake",
+      "source": "wotc-srd",
+      "file": "docs/constrictor-snake.md"
+    },
+    "copper-dragon-wyrmling": {
+      "name": "Copper Dragon Wyrmling",
+      "source": "wotc-srd",
+      "file": "docs/copper-dragon-wyrmling.md"
+    },
+    "couatl": {
+      "name": "Couatl",
+      "source": "wotc-srd",
+      "file": "docs/couatl.md"
+    },
+    "crab": {
+      "name": "Crab",
+      "source": "wotc-srd",
+      "file": "docs/crab.md"
+    },
+    "crocodile": {
+      "name": "Crocodile",
+      "source": "wotc-srd",
+      "file": "docs/crocodile.md"
+    },
+    "cult-fanatic": {
+      "name": "Cult Fanatic",
+      "source": "wotc-srd",
+      "file": "docs/cult-fanatic.md"
+    },
+    "cultist": {
+      "name": "Cultist",
+      "source": "wotc-srd",
+      "file": "docs/cultist.md"
+    },
+    "darkmantle": {
+      "name": "Darkmantle",
+      "source": "wotc-srd",
+      "file": "docs/darkmantle.md"
+    },
+    "death-dog": {
+      "name": "Death Dog",
+      "source": "wotc-srd",
+      "file": "docs/death-dog.md"
+    },
+    "deep-gnome-svirfneblin": {
+      "name": "Deep Gnome (Svirfneblin)",
+      "source": "wotc-srd",
+      "file": "docs/deep-gnome-svirfneblin.md"
+    },
+    "deer": {
+      "name": "Deer",
+      "source": "wotc-srd",
+      "file": "docs/deer.md"
+    },
+    "deva": {
+      "name": "Deva",
+      "source": "wotc-srd",
+      "file": "docs/deva.md"
+    },
+    "dire-wolf": {
+      "name": "Dire Wolf",
+      "source": "wotc-srd",
+      "file": "docs/dire-wolf.md"
+    },
+    "djinni": {
+      "name": "Djinni",
+      "source": "wotc-srd",
+      "file": "docs/djinni.md"
+    },
+    "doppelganger": {
+      "name": "Doppelganger",
+      "source": "wotc-srd",
+      "file": "docs/doppelganger.md"
+    },
+    "draft-horse": {
+      "name": "Draft Horse",
+      "source": "wotc-srd",
+      "file": "docs/draft-horse.md"
+    },
+    "dragon-turtle": {
+      "name": "Dragon Turtle",
+      "source": "wotc-srd",
+      "file": "docs/dragon-turtle.md"
+    },
+    "dretch": {
+      "name": "Dretch",
+      "source": "wotc-srd",
+      "file": "docs/dretch.md"
+    },
+    "drider": {
+      "name": "Drider",
+      "source": "wotc-srd",
+      "file": "docs/drider.md"
+    },
+    "drow": {
+      "name": "Drow",
+      "source": "wotc-srd",
+      "file": "docs/drow.md"
+    },
+    "druid": {
+      "name": "Druid",
+      "source": "wotc-srd",
+      "file": "docs/druid.md"
+    },
+    "dryad": {
+      "name": "Dryad",
+      "source": "wotc-srd",
+      "file": "docs/dryad.md"
+    },
+    "duergar": {
+      "name": "Duergar",
+      "source": "wotc-srd",
+      "file": "docs/duergar.md"
+    },
+    "dust-mephit": {
+      "name": "Dust Mephit",
+      "source": "wotc-srd",
+      "file": "docs/dust-mephit.md"
+    },
+    "eagle": {
+      "name": "Eagle",
+      "source": "wotc-srd",
+      "file": "docs/eagle.md"
+    },
+    "earth-elemental": {
+      "name": "Earth Elemental",
+      "source": "wotc-srd",
+      "file": "docs/earth-elemental.md"
+    },
+    "efreeti": {
+      "name": "Efreeti",
+      "source": "wotc-srd",
+      "file": "docs/efreeti.md"
+    },
+    "elephant": {
+      "name": "Elephant",
+      "source": "wotc-srd",
+      "file": "docs/elephant.md"
+    },
+    "elk": {
+      "name": "Elk",
+      "source": "wotc-srd",
+      "file": "docs/elk.md"
+    },
+    "erinyes": {
+      "name": "Erinyes",
+      "source": "wotc-srd",
+      "file": "docs/erinyes.md"
+    },
+    "ettercap": {
+      "name": "Ettercap",
+      "source": "wotc-srd",
+      "file": "docs/ettercap.md"
+    },
+    "ettin": {
+      "name": "Ettin",
+      "source": "wotc-srd",
+      "file": "docs/ettin.md"
+    },
+    "fire-elemental": {
+      "name": "Fire Elemental",
+      "source": "wotc-srd",
+      "file": "docs/fire-elemental.md"
+    },
+    "fire-giant": {
+      "name": "Fire Giant",
+      "source": "wotc-srd",
+      "file": "docs/fire-giant.md"
+    },
+    "flesh-golem": {
+      "name": "Flesh Golem",
+      "source": "wotc-srd",
+      "file": "docs/flesh-golem.md"
+    },
+    "flying-snake": {
+      "name": "Flying Snake",
+      "source": "wotc-srd",
+      "file": "docs/flying-snake.md"
+    },
+    "flying-sword": {
+      "name": "Flying Sword",
+      "source": "wotc-srd",
+      "file": "docs/flying-sword.md"
+    },
+    "frog": {
+      "name": "Frog",
+      "source": "wotc-srd",
+      "file": "docs/frog.md"
+    },
+    "frost-giant": {
+      "name": "Frost Giant",
+      "source": "wotc-srd",
+      "file": "docs/frost-giant.md"
+    },
+    "gargoyle": {
+      "name": "Gargoyle",
+      "source": "wotc-srd",
+      "file": "docs/gargoyle.md"
+    },
+    "gelatinous-cube": {
+      "name": "Gelatinous Cube",
+      "source": "wotc-srd",
+      "file": "docs/gelatinous-cube.md"
+    },
+    "ghast": {
+      "name": "Ghast",
+      "source": "wotc-srd",
+      "file": "docs/ghast.md"
+    },
+    "ghost": {
+      "name": "Ghost",
+      "source": "wotc-srd",
+      "file": "docs/ghost.md"
+    },
+    "ghoul": {
+      "name": "Ghoul",
+      "source": "wotc-srd",
+      "file": "docs/ghoul.md"
+    },
+    "giant-ape": {
+      "name": "Giant Ape",
+      "source": "wotc-srd",
+      "file": "docs/giant-ape.md"
+    },
+    "giant-badger": {
+      "name": "Giant Badger",
+      "source": "wotc-srd",
+      "file": "docs/giant-badger.md"
+    },
+    "giant-bat": {
+      "name": "Giant Bat",
+      "source": "wotc-srd",
+      "file": "docs/giant-bat.md"
+    },
+    "giant-boar": {
+      "name": "Giant Boar",
+      "source": "wotc-srd",
+      "file": "docs/giant-boar.md"
+    },
+    "giant-centipede": {
+      "name": "Giant Centipede",
+      "source": "wotc-srd",
+      "file": "docs/giant-centipede.md"
+    },
+    "giant-constrictor-snake": {
+      "name": "Giant Constrictor Snake",
+      "source": "wotc-srd",
+      "file": "docs/giant-constrictor-snake.md"
+    },
+    "giant-crab": {
+      "name": "Giant Crab",
+      "source": "wotc-srd",
+      "file": "docs/giant-crab.md"
+    },
+    "giant-crocodile": {
+      "name": "Giant Crocodile",
+      "source": "wotc-srd",
+      "file": "docs/giant-crocodile.md"
+    },
+    "giant-eagle": {
+      "name": "Giant Eagle",
+      "source": "wotc-srd",
+      "file": "docs/giant-eagle.md"
+    },
+    "giant-elk": {
+      "name": "Giant Elk",
+      "source": "wotc-srd",
+      "file": "docs/giant-elk.md"
+    },
+    "giant-fire-beetle": {
+      "name": "Giant Fire Beetle",
+      "source": "wotc-srd",
+      "file": "docs/giant-fire-beetle.md"
+    },
+    "giant-frog": {
+      "name": "Giant Frog",
+      "source": "wotc-srd",
+      "file": "docs/giant-frog.md"
+    },
+    "giant-goat": {
+      "name": "Giant Goat",
+      "source": "wotc-srd",
+      "file": "docs/giant-goat.md"
+    },
+    "giant-hyena": {
+      "name": "Giant Hyena",
+      "source": "wotc-srd",
+      "file": "docs/giant-hyena.md"
+    },
+    "giant-lizard": {
+      "name": "Giant Lizard",
+      "source": "wotc-srd",
+      "file": "docs/giant-lizard.md"
+    },
+    "giant-octopus": {
+      "name": "Giant Octopus",
+      "source": "wotc-srd",
+      "file": "docs/giant-octopus.md"
+    },
+    "giant-owl": {
+      "name": "Giant Owl",
+      "source": "wotc-srd",
+      "file": "docs/giant-owl.md"
+    },
+    "giant-poisonous-snake": {
+      "name": "Giant Poisonous Snake",
+      "source": "wotc-srd",
+      "file": "docs/giant-poisonous-snake.md"
+    },
+    "giant-rat": {
+      "name": "Giant Rat",
+      "source": "wotc-srd",
+      "file": "docs/giant-rat.md"
+    },
+    "giant-rat-diseased": {
+      "name": "Giant Rat (Diseased)",
+      "source": "wotc-srd",
+      "file": "docs/giant-rat-diseased.md"
+    },
+    "giant-scorpion": {
+      "name": "Giant Scorpion",
+      "source": "wotc-srd",
+      "file": "docs/giant-scorpion.md"
+    },
+    "giant-sea-horse": {
+      "name": "Giant Sea Horse",
+      "source": "wotc-srd",
+      "file": "docs/giant-sea-horse.md"
+    },
+    "giant-shark": {
+      "name": "Giant Shark",
+      "source": "wotc-srd",
+      "file": "docs/giant-shark.md"
+    },
+    "giant-spider": {
+      "name": "Giant Spider",
+      "source": "wotc-srd",
+      "file": "docs/giant-spider.md"
+    },
+    "giant-toad": {
+      "name": "Giant Toad",
+      "source": "wotc-srd",
+      "file": "docs/giant-toad.md"
+    },
+    "giant-vulture": {
+      "name": "Giant Vulture",
+      "source": "wotc-srd",
+      "file": "docs/giant-vulture.md"
+    },
+    "giant-wasp": {
+      "name": "Giant Wasp",
+      "source": "wotc-srd",
+      "file": "docs/giant-wasp.md"
+    },
+    "giant-weasel": {
+      "name": "Giant Weasel",
+      "source": "wotc-srd",
+      "file": "docs/giant-weasel.md"
+    },
+    "giant-wolf-spider": {
+      "name": "Giant Wolf Spider",
+      "source": "wotc-srd",
+      "file": "docs/giant-wolf-spider.md"
+    },
+    "gibbering-mouther": {
+      "name": "Gibbering Mouther",
+      "source": "wotc-srd",
+      "file": "docs/gibbering-mouther.md"
+    },
+    "glabrezu": {
+      "name": "Glabrezu",
+      "source": "wotc-srd",
+      "file": "docs/glabrezu.md"
+    },
+    "gladiator": {
+      "name": "Gladiator",
+      "source": "wotc-srd",
+      "file": "docs/gladiator.md"
+    },
+    "gnoll": {
+      "name": "Gnoll",
+      "source": "wotc-srd",
+      "file": "docs/gnoll.md"
+    },
+    "goat": {
+      "name": "Goat",
+      "source": "wotc-srd",
+      "file": "docs/goat.md"
+    },
+    "goblin": {
+      "name": "Goblin",
+      "source": "wotc-srd",
+      "file": "docs/goblin.md"
+    },
+    "gold-dragon-wyrmling": {
+      "name": "Gold Dragon Wyrmling",
+      "source": "wotc-srd",
+      "file": "docs/gold-dragon-wyrmling.md"
+    },
+    "gorgon": {
+      "name": "Gorgon",
+      "source": "wotc-srd",
+      "file": "docs/gorgon.md"
+    },
+    "gray-ooze": {
+      "name": "Gray Ooze",
+      "source": "wotc-srd",
+      "file": "docs/gray-ooze.md"
+    },
+    "green-dragon-wyrmling": {
+      "name": "Green Dragon Wyrmling",
+      "source": "wotc-srd",
+      "file": "docs/green-dragon-wyrmling.md"
+    },
+    "green-hag": {
+      "name": "Green Hag",
+      "source": "wotc-srd",
+      "file": "docs/green-hag.md"
+    },
+    "grick": {
+      "name": "Grick",
+      "source": "wotc-srd",
+      "file": "docs/grick.md"
+    },
+    "griffon": {
+      "name": "Griffon",
+      "source": "wotc-srd",
+      "file": "docs/griffon.md"
+    },
+    "grimlock": {
+      "name": "Grimlock",
+      "source": "wotc-srd",
+      "file": "docs/grimlock.md"
+    },
+    "guard": {
+      "name": "Guard",
+      "source": "wotc-srd",
+      "file": "docs/guard.md"
+    },
+    "guardian-naga": {
+      "name": "Guardian Naga",
+      "source": "wotc-srd",
+      "file": "docs/guardian-naga.md"
+    },
+    "gynosphinx": {
+      "name": "Gynosphinx",
+      "source": "wotc-srd",
+      "file": "docs/gynosphinx.md"
+    },
+    "half-red-dragon-veteran": {
+      "name": "Half-Red Dragon Veteran",
+      "source": "wotc-srd",
+      "file": "docs/half-red-dragon-veteran.md"
+    },
+    "harpy": {
+      "name": "Harpy",
+      "source": "wotc-srd",
+      "file": "docs/harpy.md"
+    },
+    "hawk": {
+      "name": "Hawk",
+      "source": "wotc-srd",
+      "file": "docs/hawk.md"
+    },
+    "hell-hound": {
+      "name": "Hell Hound",
+      "source": "wotc-srd",
+      "file": "docs/hell-hound.md"
+    },
+    "hezrou": {
+      "name": "Hezrou",
+      "source": "wotc-srd",
+      "file": "docs/hezrou.md"
+    },
+    "hill-giant": {
+      "name": "Hill Giant",
+      "source": "wotc-srd",
+      "file": "docs/hill-giant.md"
+    },
+    "hippogriff": {
+      "name": "Hippogriff",
+      "source": "wotc-srd",
+      "file": "docs/hippogriff.md"
+    },
+    "hobgoblin": {
+      "name": "Hobgoblin",
+      "source": "wotc-srd",
+      "file": "docs/hobgoblin.md"
+    },
+    "homunculus": {
+      "name": "Homunculus",
+      "source": "wotc-srd",
+      "file": "docs/homunculus.md"
+    },
+    "horned-devil": {
+      "name": "Horned Devil",
+      "source": "wotc-srd",
+      "file": "docs/horned-devil.md"
+    },
+    "hunter-shark": {
+      "name": "Hunter Shark",
+      "source": "wotc-srd",
+      "file": "docs/hunter-shark.md"
+    },
+    "hydra": {
+      "name": "Hydra",
+      "source": "wotc-srd",
+      "file": "docs/hydra.md"
+    },
+    "hyena": {
+      "name": "Hyena",
+      "source": "wotc-srd",
+      "file": "docs/hyena.md"
+    },
+    "ice-devil": {
+      "name": "Ice Devil",
+      "source": "wotc-srd",
+      "file": "docs/ice-devil.md"
+    },
+    "ice-mephit": {
+      "name": "Ice Mephit",
+      "source": "wotc-srd",
+      "file": "docs/ice-mephit.md"
+    },
+    "imp": {
+      "name": "Imp",
+      "source": "wotc-srd",
+      "file": "docs/imp.md"
+    },
+    "invisible-stalker": {
+      "name": "Invisible Stalker",
+      "source": "wotc-srd",
+      "file": "docs/invisible-stalker.md"
+    },
+    "iron-golem": {
+      "name": "Iron Golem",
+      "source": "wotc-srd",
+      "file": "docs/iron-golem.md"
+    },
+    "jackal": {
+      "name": "Jackal",
+      "source": "wotc-srd",
+      "file": "docs/jackal.md"
+    },
+    "killer-whale": {
+      "name": "Killer Whale",
+      "source": "wotc-srd",
+      "file": "docs/killer-whale.md"
+    },
+    "knight": {
+      "name": "Knight",
+      "source": "wotc-srd",
+      "file": "docs/knight.md"
+    },
+    "kobold": {
+      "name": "Kobold",
+      "source": "wotc-srd",
+      "file": "docs/kobold.md"
+    },
+    "kraken": {
+      "name": "Kraken",
+      "source": "wotc-srd",
+      "file": "docs/kraken.md"
+    },
+    "lamia": {
+      "name": "Lamia",
+      "source": "wotc-srd",
+      "file": "docs/lamia.md"
+    },
+    "lemure": {
+      "name": "Lemure",
+      "source": "wotc-srd",
+      "file": "docs/lemure.md"
+    },
+    "lich": {
+      "name": "Lich",
+      "source": "wotc-srd",
+      "file": "docs/lich.md"
+    },
+    "lion": {
+      "name": "Lion",
+      "source": "wotc-srd",
+      "file": "docs/lion.md"
+    },
+    "lizard": {
+      "name": "Lizard",
+      "source": "wotc-srd",
+      "file": "docs/lizard.md"
+    },
+    "lizardfolk": {
+      "name": "Lizardfolk",
+      "source": "wotc-srd",
+      "file": "docs/lizardfolk.md"
+    },
+    "mage": {
+      "name": "Mage",
+      "source": "wotc-srd",
+      "file": "docs/mage.md"
+    },
+    "magma-mephit": {
+      "name": "Magma Mephit",
+      "source": "wotc-srd",
+      "file": "docs/magma-mephit.md"
+    },
+    "magmin": {
+      "name": "Magmin",
+      "source": "wotc-srd",
+      "file": "docs/magmin.md"
+    },
+    "mammoth": {
+      "name": "Mammoth",
+      "source": "wotc-srd",
+      "file": "docs/mammoth.md"
+    },
+    "manticore": {
+      "name": "Manticore",
+      "source": "wotc-srd",
+      "file": "docs/manticore.md"
+    },
+    "marilith": {
+      "name": "Marilith",
+      "source": "wotc-srd",
+      "file": "docs/marilith.md"
+    },
+    "mastiff": {
+      "name": "Mastiff",
+      "source": "wotc-srd",
+      "file": "docs/mastiff.md"
+    },
+    "medusa": {
+      "name": "Medusa",
+      "source": "wotc-srd",
+      "file": "docs/medusa.md"
+    },
+    "merfolk": {
+      "name": "Merfolk",
+      "source": "wotc-srd",
+      "file": "docs/merfolk.md"
+    },
+    "merrow": {
+      "name": "Merrow",
+      "source": "wotc-srd",
+      "file": "docs/merrow.md"
+    },
+    "mimic": {
+      "name": "Mimic",
+      "source": "wotc-srd",
+      "file": "docs/mimic.md"
+    },
+    "minotaur": {
+      "name": "Minotaur",
+      "source": "wotc-srd",
+      "file": "docs/minotaur.md"
+    },
+    "minotaur-skeleton": {
+      "name": "Minotaur Skeleton",
+      "source": "wotc-srd",
+      "file": "docs/minotaur-skeleton.md"
+    },
+    "mule": {
+      "name": "Mule",
+      "source": "wotc-srd",
+      "file": "docs/mule.md"
+    },
+    "mummy": {
+      "name": "Mummy",
+      "source": "wotc-srd",
+      "file": "docs/mummy.md"
+    },
+    "mummy-lord": {
+      "name": "Mummy Lord",
+      "source": "wotc-srd",
+      "file": "docs/mummy-lord.md"
+    },
+    "nalfeshnee": {
+      "name": "Nalfeshnee",
+      "source": "wotc-srd",
+      "file": "docs/nalfeshnee.md"
+    },
+    "night-hag": {
+      "name": "Night Hag",
+      "source": "wotc-srd",
+      "file": "docs/night-hag.md"
+    },
+    "nightmare": {
+      "name": "Nightmare",
+      "source": "wotc-srd",
+      "file": "docs/nightmare.md"
+    },
+    "noble": {
+      "name": "Noble",
+      "source": "wotc-srd",
+      "file": "docs/noble.md"
+    },
+    "ochre-jelly": {
+      "name": "Ochre Jelly",
+      "source": "wotc-srd",
+      "file": "docs/ochre-jelly.md"
+    },
+    "octopus": {
+      "name": "Octopus",
+      "source": "wotc-srd",
+      "file": "docs/octopus.md"
+    },
+    "ogre": {
+      "name": "Ogre",
+      "source": "wotc-srd",
+      "file": "docs/ogre.md"
+    },
+    "ogre-zombie": {
+      "name": "Ogre Zombie",
+      "source": "wotc-srd",
+      "file": "docs/ogre-zombie.md"
+    },
+    "oni": {
+      "name": "Oni",
+      "source": "wotc-srd",
+      "file": "docs/oni.md"
+    },
+    "orc": {
+      "name": "Orc",
+      "source": "wotc-srd",
+      "file": "docs/orc.md"
+    },
+    "otyugh": {
+      "name": "Otyugh",
+      "source": "wotc-srd",
+      "file": "docs/otyugh.md"
+    },
+    "owl": {
+      "name": "Owl",
+      "source": "wotc-srd",
+      "file": "docs/owl.md"
+    },
+    "owlbear": {
+      "name": "Owlbear",
+      "source": "wotc-srd",
+      "file": "docs/owlbear.md"
+    },
+    "panther": {
+      "name": "Panther",
+      "source": "wotc-srd",
+      "file": "docs/panther.md"
+    },
+    "pegasus": {
+      "name": "Pegasus",
+      "source": "wotc-srd",
+      "file": "docs/pegasus.md"
+    },
+    "phase-spider": {
+      "name": "Phase Spider",
+      "source": "wotc-srd",
+      "file": "docs/phase-spider.md"
+    },
+    "pit-fiend": {
+      "name": "Pit Fiend",
+      "source": "wotc-srd",
+      "file": "docs/pit-fiend.md"
+    },
+    "planetar": {
+      "name": "Planetar",
+      "source": "wotc-srd",
+      "file": "docs/planetar.md"
+    },
+    "plesiosaurus": {
+      "name": "Plesiosaurus",
+      "source": "wotc-srd",
+      "file": "docs/plesiosaurus.md"
+    },
+    "poisonous-snake": {
+      "name": "Poisonous Snake",
+      "source": "wotc-srd",
+      "file": "docs/poisonous-snake.md"
+    },
+    "polar-bear": {
+      "name": "Polar Bear",
+      "source": "wotc-srd",
+      "file": "docs/polar-bear.md"
+    },
+    "pony": {
+      "name": "Pony",
+      "source": "wotc-srd",
+      "file": "docs/pony.md"
+    },
+    "priest": {
+      "name": "Priest",
+      "source": "wotc-srd",
+      "file": "docs/priest.md"
+    },
+    "pseudodragon": {
+      "name": "Pseudodragon",
+      "source": "wotc-srd",
+      "file": "docs/pseudodragon.md"
+    },
+    "purple-worm": {
+      "name": "Purple Worm",
+      "source": "wotc-srd",
+      "file": "docs/purple-worm.md"
+    },
+    "quasit": {
+      "name": "Quasit",
+      "source": "wotc-srd",
+      "file": "docs/quasit.md"
+    },
+    "quipper": {
+      "name": "Quipper",
+      "source": "wotc-srd",
+      "file": "docs/quipper.md"
+    },
+    "rakshasa": {
+      "name": "Rakshasa",
+      "source": "wotc-srd",
+      "file": "docs/rakshasa.md"
+    },
+    "rat": {
+      "name": "Rat",
+      "source": "wotc-srd",
+      "file": "docs/rat.md"
+    },
+    "raven": {
+      "name": "Raven",
+      "source": "wotc-srd",
+      "file": "docs/raven.md"
+    },
+    "red-dragon-wyrmling": {
+      "name": "Red Dragon Wyrmling",
+      "source": "wotc-srd",
+      "file": "docs/red-dragon-wyrmling.md"
+    },
+    "reef-shark": {
+      "name": "Reef Shark",
+      "source": "wotc-srd",
+      "file": "docs/reef-shark.md"
+    },
+    "remorhaz": {
+      "name": "Remorhaz",
+      "source": "wotc-srd",
+      "file": "docs/remorhaz.md"
+    },
+    "rhinoceros": {
+      "name": "Rhinoceros",
+      "source": "wotc-srd",
+      "file": "docs/rhinoceros.md"
+    },
+    "riding-horse": {
+      "name": "Riding Horse",
+      "source": "wotc-srd",
+      "file": "docs/riding-horse.md"
+    },
+    "roc": {
+      "name": "Roc",
+      "source": "wotc-srd",
+      "file": "docs/roc.md"
+    },
+    "roper": {
+      "name": "Roper",
+      "source": "wotc-srd",
+      "file": "docs/roper.md"
+    },
+    "rug-of-smothering": {
+      "name": "Rug of Smothering",
+      "source": "wotc-srd",
+      "file": "docs/rug-of-smothering.md"
+    },
+    "rust-monster": {
+      "name": "Rust Monster",
+      "source": "wotc-srd",
+      "file": "docs/rust-monster.md"
+    },
+    "saber-toothed-tiger": {
+      "name": "Saber-Toothed Tiger",
+      "source": "wotc-srd",
+      "file": "docs/saber-toothed-tiger.md"
+    },
+    "sahuagin": {
+      "name": "Sahuagin",
+      "source": "wotc-srd",
+      "file": "docs/sahuagin.md"
+    },
+    "salamander": {
+      "name": "Salamander",
+      "source": "wotc-srd",
+      "file": "docs/salamander.md"
+    },
+    "satyr": {
+      "name": "Satyr",
+      "source": "wotc-srd",
+      "file": "docs/satyr.md"
+    },
+    "scorpion": {
+      "name": "Scorpion",
+      "source": "wotc-srd",
+      "file": "docs/scorpion.md"
+    },
+    "scout": {
+      "name": "Scout",
+      "source": "wotc-srd",
+      "file": "docs/scout.md"
+    },
+    "sea-hag": {
+      "name": "Sea Hag",
+      "source": "wotc-srd",
+      "file": "docs/sea-hag.md"
+    },
+    "sea-horse": {
+      "name": "Sea Horse",
+      "source": "wotc-srd",
+      "file": "docs/sea-horse.md"
+    },
+    "shadow": {
+      "name": "Shadow",
+      "source": "wotc-srd",
+      "file": "docs/shadow.md"
+    },
+    "shambling-mound": {
+      "name": "Shambling Mound",
+      "source": "wotc-srd",
+      "file": "docs/shambling-mound.md"
+    },
+    "shield-guardian": {
+      "name": "Shield Guardian",
+      "source": "wotc-srd",
+      "file": "docs/shield-guardian.md"
+    },
+    "shrieker": {
+      "name": "Shrieker",
+      "source": "wotc-srd",
+      "file": "docs/shrieker.md"
+    },
+    "silver-dragon-wyrmling": {
+      "name": "Silver Dragon Wyrmling",
+      "source": "wotc-srd",
+      "file": "docs/silver-dragon-wyrmling.md"
+    },
+    "skeleton": {
+      "name": "Skeleton",
+      "source": "wotc-srd",
+      "file": "docs/skeleton.md"
+    },
+    "solar": {
+      "name": "Solar",
+      "source": "wotc-srd",
+      "file": "docs/solar.md"
+    },
+    "specter": {
+      "name": "Specter",
+      "source": "wotc-srd",
+      "file": "docs/specter.md"
+    },
+    "spider": {
+      "name": "Spider",
+      "source": "wotc-srd",
+      "file": "docs/spider.md"
+    },
+    "spirit-naga": {
+      "name": "Spirit Naga",
+      "source": "wotc-srd",
+      "file": "docs/spirit-naga.md"
+    },
+    "sprite": {
+      "name": "Sprite",
+      "source": "wotc-srd",
+      "file": "docs/sprite.md"
+    },
+    "spy": {
+      "name": "Spy",
+      "source": "wotc-srd",
+      "file": "docs/spy.md"
+    },
+    "steam-mephit": {
+      "name": "Steam Mephit",
+      "source": "wotc-srd",
+      "file": "docs/steam-mephit.md"
+    },
+    "stirge": {
+      "name": "Stirge",
+      "source": "wotc-srd",
+      "file": "docs/stirge.md"
+    },
+    "stone-giant": {
+      "name": "Stone Giant",
+      "source": "wotc-srd",
+      "file": "docs/stone-giant.md"
+    },
+    "stone-golem": {
+      "name": "Stone Golem",
+      "source": "wotc-srd",
+      "file": "docs/stone-golem.md"
+    },
+    "storm-giant": {
+      "name": "Storm Giant",
+      "source": "wotc-srd",
+      "file": "docs/storm-giant.md"
+    },
+    "succubusincubus": {
+      "name": "Succubus/Incubus",
+      "source": "wotc-srd",
+      "file": "docs/succubusincubus.md"
+    },
+    "swarm-of-bats": {
+      "name": "Swarm of Bats",
+      "source": "wotc-srd",
+      "file": "docs/swarm-of-bats.md"
+    },
+    "swarm-of-beetles": {
+      "name": "Swarm of Beetles",
+      "source": "wotc-srd",
+      "file": "docs/swarm-of-beetles.md"
+    },
+    "swarm-of-centipedes": {
+      "name": "Swarm of Centipedes",
+      "source": "wotc-srd",
+      "file": "docs/swarm-of-centipedes.md"
+    },
+    "swarm-of-insects": {
+      "name": "Swarm of Insects",
+      "source": "wotc-srd",
+      "file": "docs/swarm-of-insects.md"
+    },
+    "swarm-of-poisonous-snakes": {
+      "name": "Swarm of Poisonous Snakes",
+      "source": "wotc-srd",
+      "file": "docs/swarm-of-poisonous-snakes.md"
+    },
+    "swarm-of-quippers": {
+      "name": "Swarm of Quippers",
+      "source": "wotc-srd",
+      "file": "docs/swarm-of-quippers.md"
+    },
+    "swarm-of-rats": {
+      "name": "Swarm of Rats",
+      "source": "wotc-srd",
+      "file": "docs/swarm-of-rats.md"
+    },
+    "swarm-of-ravens": {
+      "name": "Swarm of Ravens",
+      "source": "wotc-srd",
+      "file": "docs/swarm-of-ravens.md"
+    },
+    "swarm-of-spiders": {
+      "name": "Swarm of Spiders",
+      "source": "wotc-srd",
+      "file": "docs/swarm-of-spiders.md"
+    },
+    "swarm-of-wasps": {
+      "name": "Swarm of Wasps",
+      "source": "wotc-srd",
+      "file": "docs/swarm-of-wasps.md"
+    },
+    "tarrasque": {
+      "name": "Tarrasque",
+      "source": "wotc-srd",
+      "file": "docs/tarrasque.md"
+    },
+    "thug": {
+      "name": "Thug",
+      "source": "wotc-srd",
+      "file": "docs/thug.md"
+    },
+    "tiger": {
+      "name": "Tiger",
+      "source": "wotc-srd",
+      "file": "docs/tiger.md"
+    },
+    "treant": {
+      "name": "Treant",
+      "source": "wotc-srd",
+      "file": "docs/treant.md"
+    },
+    "tribal-warrior": {
+      "name": "Tribal Warrior",
+      "source": "wotc-srd",
+      "file": "docs/tribal-warrior.md"
+    },
+    "triceratops": {
+      "name": "Triceratops",
+      "source": "wotc-srd",
+      "file": "docs/triceratops.md"
+    },
+    "troll": {
+      "name": "Troll",
+      "source": "wotc-srd",
+      "file": "docs/troll.md"
+    },
+    "tyrannosaurus-rex": {
+      "name": "Tyrannosaurus Rex",
+      "source": "wotc-srd",
+      "file": "docs/tyrannosaurus-rex.md"
+    },
+    "unicorn": {
+      "name": "Unicorn",
+      "source": "wotc-srd",
+      "file": "docs/unicorn.md"
+    },
+    "vampire": {
+      "name": "Vampire",
+      "source": "wotc-srd",
+      "file": "docs/vampire.md"
+    },
+    "vampire-spawn": {
+      "name": "Vampire Spawn",
+      "source": "wotc-srd",
+      "file": "docs/vampire-spawn.md"
+    },
+    "veteran": {
+      "name": "Veteran",
+      "source": "wotc-srd",
+      "file": "docs/veteran.md"
+    },
+    "violet-fungus": {
+      "name": "Violet Fungus",
+      "source": "wotc-srd",
+      "file": "docs/violet-fungus.md"
+    },
+    "vrock": {
+      "name": "Vrock",
+      "source": "wotc-srd",
+      "file": "docs/vrock.md"
+    },
+    "vulture": {
+      "name": "Vulture",
+      "source": "wotc-srd",
+      "file": "docs/vulture.md"
+    },
+    "warhorse": {
+      "name": "Warhorse",
+      "source": "wotc-srd",
+      "file": "docs/warhorse.md"
+    },
+    "warhorse-skeleton": {
+      "name": "Warhorse Skeleton",
+      "source": "wotc-srd",
+      "file": "docs/warhorse-skeleton.md"
+    },
+    "water-elemental": {
+      "name": "Water Elemental",
+      "source": "wotc-srd",
+      "file": "docs/water-elemental.md"
+    },
+    "weasel": {
+      "name": "Weasel",
+      "source": "wotc-srd",
+      "file": "docs/weasel.md"
+    },
+    "werebear": {
+      "name": "Werebear",
+      "source": "wotc-srd",
+      "file": "docs/werebear.md"
+    },
+    "wereboar": {
+      "name": "Wereboar",
+      "source": "wotc-srd",
+      "file": "docs/wereboar.md"
+    },
+    "wererat": {
+      "name": "Wererat",
+      "source": "wotc-srd",
+      "file": "docs/wererat.md"
+    },
+    "weretiger": {
+      "name": "Weretiger",
+      "source": "wotc-srd",
+      "file": "docs/weretiger.md"
+    },
+    "werewolf": {
+      "name": "Werewolf",
+      "source": "wotc-srd",
+      "file": "docs/werewolf.md"
+    },
+    "white-dragon-wyrmling": {
+      "name": "White Dragon Wyrmling",
+      "source": "wotc-srd",
+      "file": "docs/white-dragon-wyrmling.md"
+    },
+    "wight": {
+      "name": "Wight",
+      "source": "wotc-srd",
+      "file": "docs/wight.md"
+    },
+    "will-o-wisp": {
+      "name": "Will-o'-Wisp",
+      "source": "wotc-srd",
+      "file": "docs/will-o-wisp.md"
+    },
+    "winter-wolf": {
+      "name": "Winter Wolf",
+      "source": "wotc-srd",
+      "file": "docs/winter-wolf.md"
+    },
+    "wolf": {
+      "name": "Wolf",
+      "source": "wotc-srd",
+      "file": "docs/wolf.md"
+    },
+    "worg": {
+      "name": "Worg",
+      "source": "wotc-srd",
+      "file": "docs/worg.md"
+    },
+    "wraith": {
+      "name": "Wraith",
+      "source": "wotc-srd",
+      "file": "docs/wraith.md"
+    },
+    "wyvern": {
+      "name": "Wyvern",
+      "source": "wotc-srd",
+      "file": "docs/wyvern.md"
+    },
+    "xorn": {
+      "name": "Xorn",
+      "source": "wotc-srd",
+      "file": "docs/xorn.md"
+    },
+    "young-black-dragon": {
+      "name": "Young Black Dragon",
+      "source": "wotc-srd",
+      "file": "docs/young-black-dragon.md"
+    },
+    "young-blue-dragon": {
+      "name": "Young Blue Dragon",
+      "source": "wotc-srd",
+      "file": "docs/young-blue-dragon.md"
+    },
+    "young-brass-dragon": {
+      "name": "Young Brass Dragon",
+      "source": "wotc-srd",
+      "file": "docs/young-brass-dragon.md"
+    },
+    "young-bronze-dragon": {
+      "name": "Young Bronze Dragon",
+      "source": "wotc-srd",
+      "file": "docs/young-bronze-dragon.md"
+    },
+    "young-copper-dragon": {
+      "name": "Young Copper Dragon",
+      "source": "wotc-srd",
+      "file": "docs/young-copper-dragon.md"
+    },
+    "young-gold-dragon": {
+      "name": "Young Gold Dragon",
+      "source": "wotc-srd",
+      "file": "docs/young-gold-dragon.md"
+    },
+    "young-green-dragon": {
+      "name": "Young Green Dragon",
+      "source": "wotc-srd",
+      "file": "docs/young-green-dragon.md"
+    },
+    "young-red-dragon": {
+      "name": "Young Red Dragon",
+      "source": "wotc-srd",
+      "file": "docs/young-red-dragon.md"
+    },
+    "young-silver-dragon": {
+      "name": "Young Silver Dragon",
+      "source": "wotc-srd",
+      "file": "docs/young-silver-dragon.md"
+    },
+    "young-white-dragon": {
+      "name": "Young White Dragon",
+      "source": "wotc-srd",
+      "file": "docs/young-white-dragon.md"
+    },
+    "zombie": {
+      "name": "Zombie",
+      "source": "wotc-srd",
+      "file": "docs/zombie.md"
+    }
+  }
+}

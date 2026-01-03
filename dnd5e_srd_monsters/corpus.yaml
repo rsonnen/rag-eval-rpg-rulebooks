@@ -1,0 +1,37 @@
+name: "D&D 5e SRD Monsters"
+
+corpus_context: >
+  322 creature stat blocks from the D&D 5th Edition System Reference Document
+  (SRD). Each document includes full stat block: size, type, alignment, armor
+  class, hit points (with dice formula), speed (including special movement),
+  ability scores (STR/DEX/CON/INT/WIS/CHA with modifiers), saving throws, skills,
+  damage resistances/immunities, condition immunities, senses, languages,
+  challenge rating, traits, actions, and legendary actions where applicable.
+  Markdown format with ability score table. CC-BY-4.0 license.
+
+scenarios:
+  combat_reference:
+    name: "Combat Reference and Encounter Building"
+    description: >
+      A DM running combat or preparing encounters who needs specific mechanical
+      details: hit points, armor class, attack bonuses, damage dice, saving throw
+      DCs, or special abilities. Questions like "What is the Adult Black Dragon's
+      breath weapon save DC and damage?" or "How many legendary actions can an
+      Aboleth take?" Tests retrieval of specific combat statistics.
+
+  ability_mechanics:
+    name: "Ability and Feature Mechanics"
+    description: >
+      Understanding how creature abilities work mechanically: legendary resistance
+      uses, recharge conditions, disease mechanics, charm effects, or multiattack
+      sequences. Questions like "How does the Aboleth's Mucous Cloud disease work?"
+      verify the system can retrieve and explain complex multi-step abilities.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      Questions with exact numerical or textual answers from stat blocks to verify
+      retrieval accuracy. "What are the Aboleth's ability scores?" "How much damage
+      does the Adult Black Dragon's bite attack deal?" "What languages does the
+      Aboleth speak?" Tests extraction of specific data points from structured
+      stat block format.

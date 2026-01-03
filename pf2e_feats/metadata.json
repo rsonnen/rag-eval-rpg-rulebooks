@@ -1,0 +1,3518 @@
+{
+  "corpus": "pf2e_feats",
+  "category": "feat",
+  "total_documents": 500,
+  "api_base": "https://elasticsearch.aonprd.com/aon",
+  "license": "ORC License (Open RPG Creative License)",
+  "license_url": "https://paizo.com/orclicense",
+  "attribution": "Content from Archives of Nethys (2e.aonprd.com), Pathfinder 2e by Paizo Inc.",
+  "documents": {
+    "feat-887": {
+      "name": "Lastwall Warden",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-887.md"
+    },
+    "feat-888": {
+      "name": "Living Monolith Dedication",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-888.md"
+    },
+    "feat-889": {
+      "name": "Ka Stone Ritual",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-889.md"
+    },
+    "feat-890": {
+      "name": "Stone Blood",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-890.md"
+    },
+    "feat-891": {
+      "name": "Fortified Flesh",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-891.md"
+    },
+    "feat-892": {
+      "name": "Attunement to Stone",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-892.md"
+    },
+    "feat-893": {
+      "name": "Judgment of the Monolith",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-893.md"
+    },
+    "feat-894": {
+      "name": "Stone Communion",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-894.md"
+    },
+    "feat-895": {
+      "name": "Red Mantis Assassin Dedication",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-895.md"
+    },
+    "feat-896": {
+      "name": "Basic Red Mantis Magic",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-896.md"
+    },
+    "feat-897": {
+      "name": "Advanced Red Mantis Magic",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-897.md"
+    },
+    "feat-898": {
+      "name": "Crimson Shroud",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-898.md"
+    },
+    "feat-899": {
+      "name": "Mantis Form",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-899.md"
+    },
+    "feat-900": {
+      "name": "Student of Perfection Dedication",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-900.md"
+    },
+    "feat-901": {
+      "name": "Perfect Strike",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-901.md"
+    },
+    "feat-902": {
+      "name": "Perfect Ki Adept",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-902.md"
+    },
+    "feat-903": {
+      "name": "Magic Warrior Dedication",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-903.md"
+    },
+    "feat-904": {
+      "name": "Magic Warrior Aspect",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-904.md"
+    },
+    "feat-905": {
+      "name": "Magic Warrior Transformation",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-905.md"
+    },
+    "feat-906": {
+      "name": "Nameless Anonymity",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-906.md"
+    },
+    "feat-907": {
+      "name": "Hellknight Armiger Dedication",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-907.md"
+    },
+    "feat-908": {
+      "name": "Ardent Armiger",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-908.md"
+    },
+    "feat-909": {
+      "name": "Diabolic Certitude",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-909.md"
+    },
+    "feat-910": {
+      "name": "Mortification",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-910.md"
+    },
+    "feat-911": {
+      "name": "Armiger's Mobility",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-911.md"
+    },
+    "feat-912": {
+      "name": "Runescarred Dedication",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-912.md"
+    },
+    "feat-913": {
+      "name": "Spell Runes",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-913.md"
+    },
+    "feat-914": {
+      "name": "Living Rune",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-914.md"
+    },
+    "feat-915": {
+      "name": "Warding Rune",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-915.md"
+    },
+    "feat-916": {
+      "name": "Greater Spell Runes",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-916.md"
+    },
+    "feat-917": {
+      "name": "Lion Blade Dedication",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-917.md"
+    },
+    "feat-918": {
+      "name": "Lost in the Crowd",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-918.md"
+    },
+    "feat-919": {
+      "name": "Crowd Mastery",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-919.md"
+    },
+    "feat-920": {
+      "name": "Expeditious Advance",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-920.md"
+    },
+    "feat-921": {
+      "name": "Spy's Countermeasures",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-921.md"
+    },
+    "feat-922": {
+      "name": "Flicker",
+      "source": [
+        "World Guide"
+      ],
+      "file": "docs/feat-922.md"
+    },
+    "feat-923": {
+      "name": "Different Worlds",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/feat-923.md"
+    },
+    "feat-924": {
+      "name": "Reveal Machinations",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/feat-924.md"
+    },
+    "feat-925": {
+      "name": "Secret Speech",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/feat-925.md"
+    },
+    "feat-926": {
+      "name": "Silver's Refrain",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/feat-926.md"
+    },
+    "feat-927": {
+      "name": "Tweak Appearances",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/feat-927.md"
+    },
+    "feat-928": {
+      "name": "Bellflower Dedication",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/feat-928.md"
+    },
+    "feat-929": {
+      "name": "Scarecrow",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/feat-929.md"
+    },
+    "feat-930": {
+      "name": "Garden Path",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/feat-930.md"
+    },
+    "feat-931": {
+      "name": "Practiced Guidance",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/feat-931.md"
+    },
+    "feat-932": {
+      "name": "Tiller's Drive",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/feat-932.md"
+    },
+    "feat-933": {
+      "name": "Tiller's Aid",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/feat-933.md"
+    },
+    "feat-934": {
+      "name": "Cut the Bonds",
+      "source": [
+        "Pathfinder #147: Tomorrow Must Burn"
+      ],
+      "file": "docs/feat-934.md"
+    },
+    "feat-936": {
+      "name": "Rain of Embers Stance",
+      "source": [
+        "PFS Quest #2: Unforgiving Fire",
+        "PFS Guide"
+      ],
+      "file": "docs/feat-936.md"
+    },
+    "feat-938": {
+      "name": "Arcane Tattoos",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-938.md"
+    },
+    "feat-939": {
+      "name": "Courteous Comeback",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-939.md"
+    },
+    "feat-940": {
+      "name": "Devil's Advocate",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-940.md"
+    },
+    "feat-941": {
+      "name": "Dragon Spit",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-941.md"
+    },
+    "feat-942": {
+      "name": "Gloomseer",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-942.md"
+    },
+    "feat-943": {
+      "name": "Keep Up Appearances",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-943.md"
+    },
+    "feat-944": {
+      "name": "Know Oneself",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-944.md"
+    },
+    "feat-945": {
+      "name": "Quah Bond",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-945.md"
+    },
+    "feat-946": {
+      "name": "Saoc Astrology",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-946.md"
+    },
+    "feat-947": {
+      "name": "Tupilaq Carver",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-947.md"
+    },
+    "feat-948": {
+      "name": "Viking Shieldbearer",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-948.md"
+    },
+    "feat-949": {
+      "name": "Witch Warden",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-949.md"
+    },
+    "feat-950": {
+      "name": "Darkseer",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-950.md"
+    },
+    "feat-951": {
+      "name": "Ornate Tattoo",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-951.md"
+    },
+    "feat-952": {
+      "name": "Wavetouched Paragon",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-952.md"
+    },
+    "feat-953": {
+      "name": "Dragon Prince",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-953.md"
+    },
+    "feat-954": {
+      "name": "Heir of the Saoc",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-954.md"
+    },
+    "feat-955": {
+      "name": "Shory Aeromancer",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-955.md"
+    },
+    "feat-956": {
+      "name": "Virtue-Forged Tattoos",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-956.md"
+    },
+    "feat-957": {
+      "name": "Irriseni Ice-Witch",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-957.md"
+    },
+    "feat-958": {
+      "name": "Shadow Pact",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-958.md"
+    },
+    "feat-959": {
+      "name": "Shory Aerialist",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-959.md"
+    },
+    "feat-960": {
+      "name": "Round Ears",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-960.md"
+    },
+    "feat-961": {
+      "name": "Sociable",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-961.md"
+    },
+    "feat-962": {
+      "name": "Overlooked Mastermind",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-962.md"
+    },
+    "feat-963": {
+      "name": "Tusks",
+      "source": [
+        "Character Guide",
+        "Player Core"
+      ],
+      "file": "docs/feat-963.md"
+    },
+    "feat-964": {
+      "name": "Avenge in Glory",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-964.md"
+    },
+    "feat-965": {
+      "name": "Clan's Edge",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-965.md"
+    },
+    "feat-966": {
+      "name": "Forge-Day's Rest",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-966.md"
+    },
+    "feat-967": {
+      "name": "Surface Culture",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-967.md"
+    },
+    "feat-968": {
+      "name": "Clan Protector",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-968.md"
+    },
+    "feat-969": {
+      "name": "Protective Sheath",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-969.md"
+    },
+    "feat-970": {
+      "name": "Tomb-Watcher's Glare",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-970.md"
+    },
+    "feat-971": {
+      "name": "Battleforger",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-971.md"
+    },
+    "feat-972": {
+      "name": "Energy Blessed",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-972.md"
+    },
+    "feat-973": {
+      "name": "Heroes' Call",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-973.md"
+    },
+    "feat-974": {
+      "name": "Kneel for No God",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-974.md"
+    },
+    "feat-975": {
+      "name": "Elemental Wrath",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-975.md"
+    },
+    "feat-976": {
+      "name": "Elven Verve",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-976.md"
+    },
+    "feat-977": {
+      "name": "Share Thoughts",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-977.md"
+    },
+    "feat-978": {
+      "name": "Wildborn Magic",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-978.md"
+    },
+    "feat-979": {
+      "name": "Woodcraft",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-979.md"
+    },
+    "feat-980": {
+      "name": "Defiance Unto Death",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-980.md"
+    },
+    "feat-981": {
+      "name": "Elven Instincts",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-981.md"
+    },
+    "feat-982": {
+      "name": "Forest Stealth",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-982.md"
+    },
+    "feat-983": {
+      "name": "Wildborn Adept",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-983.md"
+    },
+    "feat-984": {
+      "name": "Brightness Seeker",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-984.md"
+    },
+    "feat-985": {
+      "name": "Sense Thoughts",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-985.md"
+    },
+    "feat-986": {
+      "name": "Wandering Heart",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-986.md"
+    },
+    "feat-987": {
+      "name": "Gnome Polyglot",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-987.md"
+    },
+    "feat-988": {
+      "name": "Grim Insight",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-988.md"
+    },
+    "feat-989": {
+      "name": "Inventive Offensive",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-989.md"
+    },
+    "feat-990": {
+      "name": "Life-Giving Magic",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-990.md"
+    },
+    "feat-991": {
+      "name": "Natural Performer",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-991.md"
+    },
+    "feat-992": {
+      "name": "Theoretical Acumen",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-992.md"
+    },
+    "feat-993": {
+      "name": "Unexpected Shift",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-993.md"
+    },
+    "feat-994": {
+      "name": "Vibrant Display",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-994.md"
+    },
+    "feat-995": {
+      "name": "Eclectic Obsession",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-995.md"
+    },
+    "feat-996": {
+      "name": "Intuitive Illusions",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-996.md"
+    },
+    "feat-997": {
+      "name": "Natural Illusionist",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-997.md"
+    },
+    "feat-998": {
+      "name": "Fortuitous Shift",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-998.md"
+    },
+    "feat-999": {
+      "name": "Bouncy Goblin",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-999.md"
+    },
+    "feat-1000": {
+      "name": "Fang Sharpener",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1000.md"
+    },
+    "feat-1001": {
+      "name": "Hard Tail",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1001.md"
+    },
+    "feat-1002": {
+      "name": "Ankle Bite",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1002.md"
+    },
+    "feat-1003": {
+      "name": "Chosen of Lamashtu",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1003.md"
+    },
+    "feat-1004": {
+      "name": "Tail Spin",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1004.md"
+    },
+    "feat-1005": {
+      "name": "Torch Goblin",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1005.md"
+    },
+    "feat-1006": {
+      "name": "Tree Climber (Goblin)",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1006.md"
+    },
+    "feat-1007": {
+      "name": "Freeze It!",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1007.md"
+    },
+    "feat-1008": {
+      "name": "Hungry Goblin",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1008.md"
+    },
+    "feat-1009": {
+      "name": "Roll with It (Goblin)",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1009.md"
+    },
+    "feat-1010": {
+      "name": "Scalding Spit",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1010.md"
+    },
+    "feat-1011": {
+      "name": "Unbreakable-er Goblin",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1011.md"
+    },
+    "feat-1012": {
+      "name": "Adroit Manipulation",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1012.md"
+    },
+    "feat-1013": {
+      "name": "Innocuous",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1013.md"
+    },
+    "feat-1014": {
+      "name": "Intuitive Cooperation",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1014.md"
+    },
+    "feat-1015": {
+      "name": "Unassuming Dedication",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1015.md"
+    },
+    "feat-1016": {
+      "name": "Easily Dismissed",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1016.md"
+    },
+    "feat-1017": {
+      "name": "Halfling Ingenuity",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1017.md"
+    },
+    "feat-1018": {
+      "name": "Shared Luck (Halfling)",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1018.md"
+    },
+    "feat-1019": {
+      "name": "Cunning Climber",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1019.md"
+    },
+    "feat-1020": {
+      "name": "Fade Away",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1020.md"
+    },
+    "feat-1021": {
+      "name": "Helpful Halfling",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1021.md"
+    },
+    "feat-1022": {
+      "name": "Cobble Dancer",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1022.md"
+    },
+    "feat-1023": {
+      "name": "Incredible Luck (Halfling)",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1023.md"
+    },
+    "feat-1024": {
+      "name": "Alchemical Scholar",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1024.md"
+    },
+    "feat-1025": {
+      "name": "Hobgoblin Lore",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1025.md"
+    },
+    "feat-1026": {
+      "name": "Hobgoblin Weapon Familiarity",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1026.md"
+    },
+    "feat-1027": {
+      "name": "Leech-Clipper",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1027.md"
+    },
+    "feat-1028": {
+      "name": "Remorseless Lash",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1028.md"
+    },
+    "feat-1029": {
+      "name": "Vigorous Health",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1029.md"
+    },
+    "feat-1030": {
+      "name": "Agonizing Rebuke",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1030.md"
+    },
+    "feat-1031": {
+      "name": "Expert Drill Sergeant",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1031.md"
+    },
+    "feat-1032": {
+      "name": "Formation Training",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1032.md"
+    },
+    "feat-1033": {
+      "name": "Hobgoblin Weapon Discipline",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1033.md"
+    },
+    "feat-1034": {
+      "name": "Pride in Arms",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1034.md"
+    },
+    "feat-1035": {
+      "name": "Formation Master",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1035.md"
+    },
+    "feat-1036": {
+      "name": "Hobgoblin Weapon Expertise",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1036.md"
+    },
+    "feat-1037": {
+      "name": "Grasping Reach",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1037.md"
+    },
+    "feat-1038": {
+      "name": "Harmlessly Cute",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1038.md"
+    },
+    "feat-1039": {
+      "name": "Leshy Lore",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1039.md"
+    },
+    "feat-1040": {
+      "name": "Leshy Superstition",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1040.md"
+    },
+    "feat-1041": {
+      "name": "Seedpod",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1041.md"
+    },
+    "feat-1042": {
+      "name": "Shadow of the Wilds",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1042.md"
+    },
+    "feat-1043": {
+      "name": "Undaunted",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1043.md"
+    },
+    "feat-1044": {
+      "name": "Leshy Glide",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1044.md"
+    },
+    "feat-1045": {
+      "name": "Ritual Reversion",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1045.md"
+    },
+    "feat-1046": {
+      "name": "Speak with Kindred",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1046.md"
+    },
+    "feat-1047": {
+      "name": "Bark and Tendril",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1047.md"
+    },
+    "feat-1048": {
+      "name": "Lucky Keepsake",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1048.md"
+    },
+    "feat-1049": {
+      "name": "Solar Rejuvenation (Leshy)",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1049.md"
+    },
+    "feat-1050": {
+      "name": "Lizardfolk Lore",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1050.md"
+    },
+    "feat-1051": {
+      "name": "Marsh Runner",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1051.md"
+    },
+    "feat-1052": {
+      "name": "Parthenogenic Hatchling",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1052.md"
+    },
+    "feat-1053": {
+      "name": "Razor Claws",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1053.md"
+    },
+    "feat-1054": {
+      "name": "Reptile Speaker",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1054.md"
+    },
+    "feat-1055": {
+      "name": "Sharp Fangs",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1055.md"
+    },
+    "feat-1056": {
+      "name": "Tail Whip",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1056.md"
+    },
+    "feat-1057": {
+      "name": "Envenom Fangs",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1057.md"
+    },
+    "feat-1058": {
+      "name": "Gecko's Grip",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1058.md"
+    },
+    "feat-1059": {
+      "name": "Iruxi Unarmed Cunning",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1059.md"
+    },
+    "feat-1060": {
+      "name": "Shed Tail",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1060.md"
+    },
+    "feat-1061": {
+      "name": "Swift Swimmer",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1061.md"
+    },
+    "feat-1062": {
+      "name": "Terrain Advantage",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1062.md"
+    },
+    "feat-1064": {
+      "name": "Backup Disguise",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1064.md"
+    },
+    "feat-1065": {
+      "name": "Sow Rumor",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1065.md"
+    },
+    "feat-1066": {
+      "name": "Entourage",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1066.md"
+    },
+    "feat-1067": {
+      "name": "Firebrand Braggart Dedication",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1067.md"
+    },
+    "feat-1068": {
+      "name": "Boaster's Challenge",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1068.md"
+    },
+    "feat-1069": {
+      "name": "Daring Act",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1069.md"
+    },
+    "feat-1070": {
+      "name": "Bravo's Determination",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1070.md"
+    },
+    "feat-1071": {
+      "name": "Great Boaster",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1071.md"
+    },
+    "feat-1072": {
+      "name": "Daring Flourish",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1072.md"
+    },
+    "feat-1073": {
+      "name": "Demanding Challenge",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1073.md"
+    },
+    "feat-1074": {
+      "name": "Daredevil's Gambit",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1074.md"
+    },
+    "feat-1075": {
+      "name": "Order Training",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1075.md"
+    },
+    "feat-1076": {
+      "name": "Advanced Order Training",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1076.md"
+    },
+    "feat-1077": {
+      "name": "Hellknight Order Cross-Training",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1077.md"
+    },
+    "feat-1078": {
+      "name": "Hellknight Dedication",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1078.md"
+    },
+    "feat-1079": {
+      "name": "Sense Chaos",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1079.md"
+    },
+    "feat-1080": {
+      "name": "Blade of Law",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1080.md"
+    },
+    "feat-1081": {
+      "name": "Hell's Armaments",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1081.md"
+    },
+    "feat-1082": {
+      "name": "Hellknight Signifer Dedication",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1082.md"
+    },
+    "feat-1083": {
+      "name": "Masked Casting",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1083.md"
+    },
+    "feat-1084": {
+      "name": "Gaze of Veracity",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1084.md"
+    },
+    "feat-1085": {
+      "name": "Signifer's Sight",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1085.md"
+    },
+    "feat-1086": {
+      "name": "Signifer Armor Expertise",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1086.md"
+    },
+    "feat-1087": {
+      "name": "Everstand Stance",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1087.md"
+    },
+    "feat-1088": {
+      "name": "Everstand Strike",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1088.md"
+    },
+    "feat-1089": {
+      "name": "Light of Revelation",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1089.md"
+    },
+    "feat-1090": {
+      "name": "Sun Blade",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1090.md"
+    },
+    "feat-1091": {
+      "name": "Impassable Wall Stance",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1091.md"
+    },
+    "feat-1092": {
+      "name": "Knight Vigilant",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1092.md"
+    },
+    "feat-1093": {
+      "name": "Unshakable Idealism",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1093.md"
+    },
+    "feat-1094": {
+      "name": "Endure Death's Touch",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1094.md"
+    },
+    "feat-1095": {
+      "name": "Aegis of Arnisant",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1095.md"
+    },
+    "feat-1096": {
+      "name": "Knight in Shining Armor",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1096.md"
+    },
+    "feat-1097": {
+      "name": "Knight Reclaimant Dedication",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1097.md"
+    },
+    "feat-1098": {
+      "name": "Invoke the Crimson Oath",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1098.md"
+    },
+    "feat-1099": {
+      "name": "Survivor of Desolation",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1099.md"
+    },
+    "feat-1100": {
+      "name": "Reaper of Repose",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1100.md"
+    },
+    "feat-1101": {
+      "name": "Blade of the Crimson Oath",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1101.md"
+    },
+    "feat-1102": {
+      "name": "Magaambyan Attendant Dedication",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1102.md"
+    },
+    "feat-1103": {
+      "name": "Mask Familiar",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1103.md"
+    },
+    "feat-1104": {
+      "name": "Adaptive Mask Familiar",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1104.md"
+    },
+    "feat-1105": {
+      "name": "Cascade Bearer's Flexibility",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1105.md"
+    },
+    "feat-1106": {
+      "name": "Emerald Boughs Accustomation",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1106.md"
+    },
+    "feat-1107": {
+      "name": "Rain-Scribe Sustenance",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1107.md"
+    },
+    "feat-1108": {
+      "name": "Tempest-Sun Redirection",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1108.md"
+    },
+    "feat-1109": {
+      "name": "Uzunjati Storytelling",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1109.md"
+    },
+    "feat-1110": {
+      "name": "Cascade Bearer's Spellcasting",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1110.md"
+    },
+    "feat-1111": {
+      "name": "Emerald Boughs Hideaway",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1111.md"
+    },
+    "feat-1112": {
+      "name": "Rain-Scribe Mobility",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1112.md"
+    },
+    "feat-1113": {
+      "name": "Tempest-Sun Shielding",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1113.md"
+    },
+    "feat-1114": {
+      "name": "Uzunjati Recollection",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1114.md"
+    },
+    "feat-1115": {
+      "name": "Halcyon Speaker Dedication",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1115.md"
+    },
+    "feat-1116": {
+      "name": "Dualistic Synergy",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1116.md"
+    },
+    "feat-1117": {
+      "name": "Persistent Creation",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1117.md"
+    },
+    "feat-1118": {
+      "name": "Halcyon Spellcasting Initiate",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1118.md"
+    },
+    "feat-1119": {
+      "name": "Shared Synergy",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1119.md"
+    },
+    "feat-1120": {
+      "name": "Charged Creation",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1120.md"
+    },
+    "feat-1121": {
+      "name": "Flexible Halcyon Spellcasting",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1121.md"
+    },
+    "feat-1122": {
+      "name": "Halcyon Spellcasting Adept",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1122.md"
+    },
+    "feat-1123": {
+      "name": "Fulminating Synergy",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1123.md"
+    },
+    "feat-1124": {
+      "name": "Halcyon Spellcasting Sage",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1124.md"
+    },
+    "feat-1125": {
+      "name": "Synergistic Spell",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1125.md"
+    },
+    "feat-1126": {
+      "name": "Forced Entry",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1126.md"
+    },
+    "feat-1127": {
+      "name": "Recognize Threat",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1127.md"
+    },
+    "feat-1128": {
+      "name": "Everyone Duck!",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1128.md"
+    },
+    "feat-1129": {
+      "name": "Educated Assessment",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1129.md"
+    },
+    "feat-1130": {
+      "name": "Scrollmaster Dedication",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1130.md"
+    },
+    "feat-1131": {
+      "name": "Lore Seeker",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1131.md"
+    },
+    "feat-1132": {
+      "name": "Unravel Mysteries",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1132.md"
+    },
+    "feat-1133": {
+      "name": "Font of Knowledge",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1133.md"
+    },
+    "feat-1134": {
+      "name": "Spellmaster Dedication",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1134.md"
+    },
+    "feat-1135": {
+      "name": "Surreptitious Spellcaster",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1135.md"
+    },
+    "feat-1136": {
+      "name": "Ward Casting",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1136.md"
+    },
+    "feat-1137": {
+      "name": "Spellmaster's Resilience",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1137.md"
+    },
+    "feat-1138": {
+      "name": "Absorb Spell",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1138.md"
+    },
+    "feat-1139": {
+      "name": "Swordmaster Dedication",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1139.md"
+    },
+    "feat-1140": {
+      "name": "Harrying Strike",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1140.md"
+    },
+    "feat-1141": {
+      "name": "Shoulder Catastrophe",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1141.md"
+    },
+    "feat-1142": {
+      "name": "Death's Door",
+      "source": [
+        "Character Guide"
+      ],
+      "file": "docs/feat-1142.md"
+    },
+    "feat-1144": {
+      "name": "False Faith",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City"
+      ],
+      "file": "docs/feat-1144.md"
+    },
+    "feat-1146": {
+      "name": "Crystal Keeper Dedication",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City"
+      ],
+      "file": "docs/feat-1146.md"
+    },
+    "feat-1147": {
+      "name": "Crystal Ward Spells",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City"
+      ],
+      "file": "docs/feat-1147.md"
+    },
+    "feat-1148": {
+      "name": "Simple Crystal Magic",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City"
+      ],
+      "file": "docs/feat-1148.md"
+    },
+    "feat-1149": {
+      "name": "Armor Rune Shifter",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City"
+      ],
+      "file": "docs/feat-1149.md"
+    },
+    "feat-1150": {
+      "name": "Weapon-Rune Shifter",
+      "source": [
+        "Pathfinder #148: Fires of the Haunted City"
+      ],
+      "file": "docs/feat-1150.md"
+    },
+    "feat-1151": {
+      "name": "Deadly Poison Weapon",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad"
+      ],
+      "file": "docs/feat-1151.md"
+    },
+    "feat-1152": {
+      "name": "Pesh Skin",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad"
+      ],
+      "file": "docs/feat-1152.md"
+    },
+    "feat-1153": {
+      "name": "Shaped Contaminant",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad"
+      ],
+      "file": "docs/feat-1153.md"
+    },
+    "feat-1154": {
+      "name": "Zephyr Guard Dedication",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad"
+      ],
+      "file": "docs/feat-1154.md"
+    },
+    "feat-1155": {
+      "name": "Decry Thief",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad"
+      ],
+      "file": "docs/feat-1155.md"
+    },
+    "feat-1156": {
+      "name": "Know the Beat",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad"
+      ],
+      "file": "docs/feat-1156.md"
+    },
+    "feat-1157": {
+      "name": "Relentless Disarm",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad"
+      ],
+      "file": "docs/feat-1157.md"
+    },
+    "feat-1158": {
+      "name": "Unfazed Assessment",
+      "source": [
+        "Pathfinder #149: Against the Scarlet Triad"
+      ],
+      "file": "docs/feat-1158.md"
+    },
+    "feat-1160": {
+      "name": "Apex Companion",
+      "source": [
+        "Pathfinder #150: Broken Promises"
+      ],
+      "file": "docs/feat-1160.md"
+    },
+    "feat-1161": {
+      "name": "Aura of Unbreakable Virtue",
+      "source": [
+        "Pathfinder #150: Broken Promises"
+      ],
+      "file": "docs/feat-1161.md"
+    },
+    "feat-1162": {
+      "name": "Bloodline Metamorphosis",
+      "source": [
+        "Pathfinder #150: Broken Promises"
+      ],
+      "file": "docs/feat-1162.md"
+    },
+    "feat-1163": {
+      "name": "Efficient Alchemy (Paragon)",
+      "source": [
+        "Pathfinder #150: Broken Promises"
+      ],
+      "file": "docs/feat-1163.md"
+    },
+    "feat-1164": {
+      "name": "Emblazon Divinity",
+      "source": [
+        "Pathfinder #150: Broken Promises"
+      ],
+      "file": "docs/feat-1164.md"
+    },
+    "feat-1165": {
+      "name": "Enduring Debilitation",
+      "source": [
+        "Pathfinder #150: Broken Promises"
+      ],
+      "file": "docs/feat-1165.md"
+    },
+    "feat-1166": {
+      "name": "Golden Body",
+      "source": [
+        "Pathfinder #150: Broken Promises"
+      ],
+      "file": "docs/feat-1166.md"
+    },
+    "feat-1167": {
+      "name": "Unstoppable Juggernaut",
+      "source": [
+        "Pathfinder #150: Broken Promises",
+        "Player Core 2"
+      ],
+      "file": "docs/feat-1167.md"
+    },
+    "feat-1168": {
+      "name": "Song of the Fallen",
+      "source": [
+        "Pathfinder #150: Broken Promises"
+      ],
+      "file": "docs/feat-1168.md"
+    },
+    "feat-1169": {
+      "name": "Spell Mastery",
+      "source": [
+        "Pathfinder #150: Broken Promises",
+        "Player Core"
+      ],
+      "file": "docs/feat-1169.md"
+    },
+    "feat-1170": {
+      "name": "Superior Sight",
+      "source": [
+        "Pathfinder #150: Broken Promises"
+      ],
+      "file": "docs/feat-1170.md"
+    },
+    "feat-1171": {
+      "name": "Ultimate Flexibility",
+      "source": [
+        "Pathfinder #150: Broken Promises",
+        "Player Core"
+      ],
+      "file": "docs/feat-1171.md"
+    },
+    "feat-1172": {
+      "name": "Expanded Domain Initiate",
+      "source": [
+        "Gods & Magic"
+      ],
+      "file": "docs/feat-1172.md"
+    },
+    "feat-1173": {
+      "name": "Splinter Faith",
+      "source": [
+        "Gods & Magic"
+      ],
+      "file": "docs/feat-1173.md"
+    },
+    "feat-1174": {
+      "name": "Battle Prayer",
+      "source": [
+        "Gods & Magic"
+      ],
+      "file": "docs/feat-1174.md"
+    },
+    "feat-1175": {
+      "name": "Bless Tonic",
+      "source": [
+        "Gods & Magic"
+      ],
+      "file": "docs/feat-1175.md"
+    },
+    "feat-1176": {
+      "name": "Bless Toxin",
+      "source": [
+        "Gods & Magic"
+      ],
+      "file": "docs/feat-1176.md"
+    },
+    "feat-1177": {
+      "name": "Blessed Blood (Sorcerer)",
+      "source": [
+        "Gods & Magic"
+      ],
+      "file": "docs/feat-1177.md"
+    },
+    "feat-1178": {
+      "name": "Charlatan",
+      "source": [
+        "Gods & Magic"
+      ],
+      "file": "docs/feat-1178.md"
+    },
+    "feat-1179": {
+      "name": "Environmental Grace",
+      "source": [
+        "Gods & Magic"
+      ],
+      "file": "docs/feat-1179.md"
+    },
+    "feat-1180": {
+      "name": "Evangelize",
+      "source": [
+        "Gods & Magic"
+      ],
+      "file": "docs/feat-1180.md"
+    },
+    "feat-1181": {
+      "name": "Mortal Healing",
+      "source": [
+        "Gods & Magic"
+      ],
+      "file": "docs/feat-1181.md"
+    },
+    "feat-1182": {
+      "name": "Numb to Death",
+      "source": [
+        "Gods & Magic"
+      ],
+      "file": "docs/feat-1182.md"
+    },
+    "feat-1183": {
+      "name": "Sacred Defense",
+      "source": [
+        "Gods & Magic"
+      ],
+      "file": "docs/feat-1183.md"
+    },
+    "feat-1184": {
+      "name": "Sacred Ki",
+      "source": [
+        "Gods & Magic"
+      ],
+      "file": "docs/feat-1184.md"
+    },
+    "feat-1185": {
+      "name": "Sanctify Water",
+      "source": [
+        "Gods & Magic"
+      ],
+      "file": "docs/feat-1185.md"
+    },
+    "feat-1186": {
+      "name": "Syncretism",
+      "source": [
+        "Gods & Magic"
+      ],
+      "file": "docs/feat-1186.md"
+    },
+    "feat-1187": {
+      "name": "Juggler Dedication",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/feat-1187.md"
+    },
+    "feat-1188": {
+      "name": "Focused Juggler",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/feat-1188.md"
+    },
+    "feat-1189": {
+      "name": "Quick Juggler",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/feat-1189.md"
+    },
+    "feat-1190": {
+      "name": "Reflexive Catch",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/feat-1190.md"
+    },
+    "feat-1191": {
+      "name": "Lobbed Attack",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/feat-1191.md"
+    },
+    "feat-1192": {
+      "name": "Opportune Throw",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/feat-1192.md"
+    },
+    "feat-1193": {
+      "name": "Staff Acrobat Dedication",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/feat-1193.md"
+    },
+    "feat-1194": {
+      "name": "Bullying Staff",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/feat-1194.md"
+    },
+    "feat-1195": {
+      "name": "Staff Sweep",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/feat-1195.md"
+    },
+    "feat-1196": {
+      "name": "Levering Strike",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/feat-1196.md"
+    },
+    "feat-1197": {
+      "name": "Whirlwind Stance",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/feat-1197.md"
+    },
+    "feat-1198": {
+      "name": "Pivot Strike",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/feat-1198.md"
+    },
+    "feat-1199": {
+      "name": "Juggle",
+      "source": [
+        "Pathfinder #151: The Show Must Go On"
+      ],
+      "file": "docs/feat-1199.md"
+    },
+    "feat-1201": {
+      "name": "Animal Trainer Dedication",
+      "source": [
+        "Pathfinder #152: Legacy of the Lost God"
+      ],
+      "file": "docs/feat-1201.md"
+    },
+    "feat-1202": {
+      "name": "Beast Speaker",
+      "source": [
+        "Pathfinder #152: Legacy of the Lost God"
+      ],
+      "file": "docs/feat-1202.md"
+    },
+    "feat-1203": {
+      "name": "Mature Trained Companion",
+      "source": [
+        "Pathfinder #152: Legacy of the Lost God"
+      ],
+      "file": "docs/feat-1203.md"
+    },
+    "feat-1207": {
+      "name": "Insistent Command",
+      "source": [
+        "Pathfinder #152: Legacy of the Lost God"
+      ],
+      "file": "docs/feat-1207.md"
+    },
+    "feat-1208": {
+      "name": "Splendid Companion",
+      "source": [
+        "Pathfinder #152: Legacy of the Lost God"
+      ],
+      "file": "docs/feat-1208.md"
+    },
+    "feat-1209": {
+      "name": "Specialized Companion",
+      "source": [
+        "Pathfinder #152: Legacy of the Lost God"
+      ],
+      "file": "docs/feat-1209.md"
+    },
+    "feat-1210": {
+      "name": "Encouraging Words",
+      "source": [
+        "Gamemastery Guide"
+      ],
+      "file": "docs/feat-1210.md"
+    },
+    "feat-1211": {
+      "name": "Steel Your Resolve",
+      "source": [
+        "Gamemastery Guide"
+      ],
+      "file": "docs/feat-1211.md"
+    },
+    "feat-1213": {
+      "name": "Ravening's Desperation",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1213.md"
+    },
+    "feat-1214": {
+      "name": "Dig Quickly",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1214.md"
+    },
+    "feat-1215": {
+      "name": "Esteemed Visitor",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1215.md"
+    },
+    "feat-1216": {
+      "name": "Handy with Your Paws",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1216.md"
+    },
+    "feat-1217": {
+      "name": "Improvisational Defender",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1217.md"
+    },
+    "feat-1218": {
+      "name": "Scamper Underfoot",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1218.md"
+    },
+    "feat-1219": {
+      "name": "Shoony Lore",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1219.md"
+    },
+    "feat-1220": {
+      "name": "Loyal Empath",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1220.md"
+    },
+    "feat-1221": {
+      "name": "Practiced Paddler",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1221.md"
+    },
+    "feat-1222": {
+      "name": "Tough Tumbler",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1222.md"
+    },
+    "feat-1223": {
+      "name": "Improvisational Warrior",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1223.md"
+    },
+    "feat-1224": {
+      "name": "Sodbuster",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1224.md"
+    },
+    "feat-1225": {
+      "name": "Steadfast Ally",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1225.md"
+    },
+    "feat-1226": {
+      "name": "Unrivaled Builder",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1226.md"
+    },
+    "feat-1227": {
+      "name": "Golem Grafter Dedication",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1227.md"
+    },
+    "feat-1228": {
+      "name": "Accursed Clay Fist",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1228.md"
+    },
+    "feat-1229": {
+      "name": "Quicken Heartbeat",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1229.md"
+    },
+    "feat-1230": {
+      "name": "Legs of Stone",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1230.md"
+    },
+    "feat-1231": {
+      "name": "Iron Lung",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1231.md"
+    },
+    "feat-1232": {
+      "name": "Turpin Rowe Lumberjack Dedication",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1232.md"
+    },
+    "feat-1233": {
+      "name": "Axe Climber",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1233.md"
+    },
+    "feat-1234": {
+      "name": "Log Roll",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1234.md"
+    },
+    "feat-1235": {
+      "name": "Axe Thrower",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1235.md"
+    },
+    "feat-1236": {
+      "name": "Widen the Gap",
+      "source": [
+        "Pathfinder #153: Life's Long Shadows"
+      ],
+      "file": "docs/feat-1236.md"
+    },
+    "feat-1239": {
+      "name": "Fey Influence",
+      "source": [
+        "Impossible Lands",
+        "PFS Scenario #1-17: The Perennial Crown Part 2, The Thorned Monarch"
+      ],
+      "file": "docs/feat-1239.md"
+    },
+    "feat-1240": {
+      "name": "Annihilating Swing",
+      "source": [
+        "Pathfinder #156: The Apocalypse Prophet"
+      ],
+      "file": "docs/feat-1240.md"
+    },
+    "feat-1241": {
+      "name": "Astonishing Explosion",
+      "source": [
+        "Pathfinder #156: The Apocalypse Prophet"
+      ],
+      "file": "docs/feat-1241.md"
+    },
+    "feat-1242": {
+      "name": "Banishing Blow",
+      "source": [
+        "Pathfinder #156: The Apocalypse Prophet"
+      ],
+      "file": "docs/feat-1242.md"
+    },
+    "feat-1243": {
+      "name": "Denier of Destruction",
+      "source": [
+        "Pathfinder #156: The Apocalypse Prophet"
+      ],
+      "file": "docs/feat-1243.md"
+    },
+    "feat-1244": {
+      "name": "Endurance of the Rooted Tree",
+      "source": [
+        "Pathfinder #156: The Apocalypse Prophet"
+      ],
+      "file": "docs/feat-1244.md"
+    },
+    "feat-1245": {
+      "name": "Mimic Protections",
+      "source": [
+        "Pathfinder #156: The Apocalypse Prophet"
+      ],
+      "file": "docs/feat-1245.md"
+    },
+    "feat-1246": {
+      "name": "Reclaim Spell",
+      "source": [
+        "Pathfinder #156: The Apocalypse Prophet"
+      ],
+      "file": "docs/feat-1246.md"
+    },
+    "feat-1247": {
+      "name": "Reflecting Riposte",
+      "source": [
+        "Pathfinder #156: The Apocalypse Prophet"
+      ],
+      "file": "docs/feat-1247.md"
+    },
+    "feat-1248": {
+      "name": "Ringmaster's Introduction",
+      "source": [
+        "Pathfinder #156: The Apocalypse Prophet"
+      ],
+      "file": "docs/feat-1248.md"
+    },
+    "feat-1249": {
+      "name": "Steal Essence",
+      "source": [
+        "Pathfinder #156: The Apocalypse Prophet"
+      ],
+      "file": "docs/feat-1249.md"
+    },
+    "feat-1250": {
+      "name": "Tenacious Blood Magic",
+      "source": [
+        "Pathfinder #156: The Apocalypse Prophet"
+      ],
+      "file": "docs/feat-1250.md"
+    },
+    "feat-1251": {
+      "name": "Verdant Presence",
+      "source": [
+        "Pathfinder #156: The Apocalypse Prophet"
+      ],
+      "file": "docs/feat-1251.md"
+    },
+    "feat-1253": {
+      "name": "Cat's Luck",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1253.md"
+    },
+    "feat-1254": {
+      "name": "Catfolk Lore",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1254.md"
+    },
+    "feat-1255": {
+      "name": "Catfolk Weapon Familiarity",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1255.md"
+    },
+    "feat-1256": {
+      "name": "Well-Met Traveler",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1256.md"
+    },
+    "feat-1257": {
+      "name": "Catfolk Weapon Rake",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1257.md"
+    },
+    "feat-1258": {
+      "name": "Climbing Claws",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1258.md"
+    },
+    "feat-1259": {
+      "name": "Expanded Luck",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1259.md"
+    },
+    "feat-1260": {
+      "name": "Light Paws",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1260.md"
+    },
+    "feat-1261": {
+      "name": "Springing Leaper",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1261.md"
+    },
+    "feat-1262": {
+      "name": "Aggravating Scratch",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1262.md"
+    },
+    "feat-1263": {
+      "name": "Shared Luck (Catfolk)",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1263.md"
+    },
+    "feat-1264": {
+      "name": "Wary Skulker",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1264.md"
+    },
+    "feat-1265": {
+      "name": "Well-Groomed",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1265.md"
+    },
+    "feat-1266": {
+      "name": "Black Cat Curse",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1266.md"
+    },
+    "feat-1267": {
+      "name": "Caterwaul",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1267.md"
+    },
+    "feat-1268": {
+      "name": "Catfolk Weapon Expertise",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1268.md"
+    },
+    "feat-1269": {
+      "name": "Reliable Luck",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1269.md"
+    },
+    "feat-1270": {
+      "name": "Cringe",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1270.md"
+    },
+    "feat-1271": {
+      "name": "Dragon's Presence",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1271.md"
+    },
+    "feat-1272": {
+      "name": "Kobold Breath",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1272.md"
+    },
+    "feat-1273": {
+      "name": "Kobold Lore",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1273.md"
+    },
+    "feat-1274": {
+      "name": "Scamper",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1274.md"
+    },
+    "feat-1275": {
+      "name": "Snare Setter",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1275.md"
+    },
+    "feat-1276": {
+      "name": "Ally's Shelter",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1276.md"
+    },
+    "feat-1277": {
+      "name": "Grovel",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1277.md"
+    },
+    "feat-1278": {
+      "name": "Snare Genius",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1278.md"
+    },
+    "feat-1279": {
+      "name": "Between the Scales",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1279.md"
+    },
+    "feat-1280": {
+      "name": "Dracomancer",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1280.md"
+    },
+    "feat-1281": {
+      "name": "Dragon's Breath",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1281.md"
+    },
+    "feat-1282": {
+      "name": "Elite Dracomancer",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1282.md"
+    },
+    "feat-1283": {
+      "name": "Beast Trainer",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1283.md"
+    },
+    "feat-1284": {
+      "name": "Iron Fists",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1284.md"
+    },
+    "feat-1285": {
+      "name": "Orc Lore",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1285.md"
+    },
+    "feat-1286": {
+      "name": "Tusks",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1286.md"
+    },
+    "feat-1287": {
+      "name": "Athletic Might",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1287.md"
+    },
+    "feat-1288": {
+      "name": "Bloody Blows",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1288.md"
+    },
+    "feat-1289": {
+      "name": "Hold Mark",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1289.md"
+    },
+    "feat-1290": {
+      "name": "Death's Drums",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1290.md"
+    },
+    "feat-1291": {
+      "name": "Undying Ferocity",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1291.md"
+    },
+    "feat-1292": {
+      "name": "Ferocious Beasts",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1292.md"
+    },
+    "feat-1293": {
+      "name": "Spell Devourer",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1293.md"
+    },
+    "feat-1294": {
+      "name": "Rampaging Ferocity",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1294.md"
+    },
+    "feat-1295": {
+      "name": "Cheek Pouches",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1295.md"
+    },
+    "feat-1296": {
+      "name": "Pack Rat",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1296.md"
+    },
+    "feat-1297": {
+      "name": "Rat Familiar",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1297.md"
+    },
+    "feat-1298": {
+      "name": "Ratfolk Lore",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1298.md"
+    },
+    "feat-1299": {
+      "name": "Ratspeak",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1299.md"
+    },
+    "feat-1300": {
+      "name": "Tinkering Fingers",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1300.md"
+    },
+    "feat-1301": {
+      "name": "Vicious Incisors",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1301.md"
+    },
+    "feat-1302": {
+      "name": "Warren Navigator",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1302.md"
+    },
+    "feat-1303": {
+      "name": "Lab Rat",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1303.md"
+    },
+    "feat-1304": {
+      "name": "Quick Stow (Ratfolk)",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1304.md"
+    },
+    "feat-1305": {
+      "name": "Rat Magic",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1305.md"
+    },
+    "feat-1306": {
+      "name": "Big Mouth",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1306.md"
+    },
+    "feat-1307": {
+      "name": "Overcrowd",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1307.md"
+    },
+    "feat-1308": {
+      "name": "Rat Form",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1308.md"
+    },
+    "feat-1309": {
+      "name": "Warren Digger",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1309.md"
+    },
+    "feat-1310": {
+      "name": "Scavenger's Search",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1310.md"
+    },
+    "feat-1311": {
+      "name": "Squawk!",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1311.md"
+    },
+    "feat-1312": {
+      "name": "Storm's Lash",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1312.md"
+    },
+    "feat-1313": {
+      "name": "Tengu Lore",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1313.md"
+    },
+    "feat-1314": {
+      "name": "Tengu Weapon Familiarity",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1314.md"
+    },
+    "feat-1315": {
+      "name": "Eat Fortune",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1315.md"
+    },
+    "feat-1316": {
+      "name": "Long-Nosed Form",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1316.md"
+    },
+    "feat-1317": {
+      "name": "One-Toed Hop",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1317.md"
+    },
+    "feat-1318": {
+      "name": "Tengu Weapon Study",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1318.md"
+    },
+    "feat-1319": {
+      "name": "Eclectic Sword Training",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1319.md"
+    },
+    "feat-1320": {
+      "name": "Soaring Flight",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1320.md"
+    },
+    "feat-1321": {
+      "name": "Tengu Weapon Expertise",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1321.md"
+    },
+    "feat-1322": {
+      "name": "Great Tengu Form",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1322.md"
+    },
+    "feat-1323": {
+      "name": "Brine May",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1323.md"
+    },
+    "feat-1324": {
+      "name": "Callow May",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1324.md"
+    },
+    "feat-1325": {
+      "name": "Changeling Lore",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1325.md"
+    },
+    "feat-1326": {
+      "name": "Dream May",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1326.md"
+    },
+    "feat-1327": {
+      "name": "Hag Claws",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1327.md"
+    },
+    "feat-1328": {
+      "name": "Hag's Sight",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1328.md"
+    },
+    "feat-1329": {
+      "name": "Slag May",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1329.md"
+    },
+    "feat-1330": {
+      "name": "Called",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1330.md"
+    },
+    "feat-1331": {
+      "name": "Mist Child",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1331.md"
+    },
+    "feat-1332": {
+      "name": "Accursed Claws",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1332.md"
+    },
+    "feat-1333": {
+      "name": "Occult Resistance",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1333.md"
+    },
+    "feat-1334": {
+      "name": "Hag Magic",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1334.md"
+    },
+    "feat-1335": {
+      "name": "Eyes of the Night",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1335.md"
+    },
+    "feat-1336": {
+      "name": "Fangs",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1336.md"
+    },
+    "feat-1337": {
+      "name": "Straveika",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1337.md"
+    },
+    "feat-1338": {
+      "name": "Svetocher",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1338.md"
+    },
+    "feat-1339": {
+      "name": "Vampire Lore",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1339.md"
+    },
+    "feat-1340": {
+      "name": "Voice of the Night",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1340.md"
+    },
+    "feat-1341": {
+      "name": "Enthralling Allure",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1341.md"
+    },
+    "feat-1342": {
+      "name": "Necromantic Physiology",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1342.md"
+    },
+    "feat-1343": {
+      "name": "Undead Slayer",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1343.md"
+    },
+    "feat-1344": {
+      "name": "Bloodletting Fangs",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1344.md"
+    },
+    "feat-1345": {
+      "name": "Night Magic",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1345.md"
+    },
+    "feat-1346": {
+      "name": "Form of the Bat",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1346.md"
+    },
+    "feat-1347": {
+      "name": "Symphony of Blood",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1347.md"
+    },
+    "feat-1348": {
+      "name": "Angelkin",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1348.md"
+    },
+    "feat-1349": {
+      "name": "Celestial Eyes",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1349.md"
+    },
+    "feat-1350": {
+      "name": "Celestial Lore",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1350.md"
+    },
+    "feat-1351": {
+      "name": "Halo",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1351.md"
+    },
+    "feat-1352": {
+      "name": "Lawbringer",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1352.md"
+    },
+    "feat-1353": {
+      "name": "Musetouched",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1353.md"
+    },
+    "feat-1354": {
+      "name": "Blessed Blood (Aasimar)",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1354.md"
+    },
+    "feat-1355": {
+      "name": "Celestial Resistance",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1355.md"
+    },
+    "feat-1356": {
+      "name": "Empyreal Blessing",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1356.md"
+    },
+    "feat-1357": {
+      "name": "Angelic Magic",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1357.md"
+    },
+    "feat-1358": {
+      "name": "Archon Magic",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1358.md"
+    },
+    "feat-1359": {
+      "name": "Azata Magic",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1359.md"
+    },
+    "feat-1360": {
+      "name": "Celestial Wings",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1360.md"
+    },
+    "feat-1361": {
+      "name": "Divine Countermeasures",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1361.md"
+    },
+    "feat-1362": {
+      "name": "Aasimar's Mercy",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1362.md"
+    },
+    "feat-1363": {
+      "name": "Celestial Strikes",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1363.md"
+    },
+    "feat-1364": {
+      "name": "Summon Celestial Kin",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1364.md"
+    },
+    "feat-1365": {
+      "name": "Celestial Word",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1365.md"
+    },
+    "feat-1366": {
+      "name": "Eternal Wings (Aasimar)",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1366.md"
+    },
+    "feat-1367": {
+      "name": "Duskwalker Lore",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1367.md"
+    },
+    "feat-1368": {
+      "name": "Ghost Hunter",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1368.md"
+    },
+    "feat-1369": {
+      "name": "Gravesight",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1369.md"
+    },
+    "feat-1370": {
+      "name": "Lifesense",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1370.md"
+    },
+    "feat-1371": {
+      "name": "Spirit Soother",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1371.md"
+    },
+    "feat-1372": {
+      "name": "Ward Against Corruption",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1372.md"
+    },
+    "feat-1373": {
+      "name": "Duskwalker Magic",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1373.md"
+    },
+    "feat-1374": {
+      "name": "Spirit Strikes",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1374.md"
+    },
+    "feat-1375": {
+      "name": "Resist Ruin",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1375.md"
+    },
+    "feat-1376": {
+      "name": "Boneyard's Call",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1376.md"
+    },
+    "feat-1377": {
+      "name": "Fiendish Eyes",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1377.md"
+    },
+    "feat-1378": {
+      "name": "Fiendish Lore",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1378.md"
+    },
+    "feat-1379": {
+      "name": "Form of the Fiend",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1379.md"
+    },
+    "feat-1380": {
+      "name": "Grimspawn",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1380.md"
+    },
+    "feat-1381": {
+      "name": "Hellspawn",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1381.md"
+    },
+    "feat-1382": {
+      "name": "Nimble Hooves",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1382.md"
+    },
+    "feat-1383": {
+      "name": "Pitborn",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1383.md"
+    },
+    "feat-1384": {
+      "name": "Fiendish Resistance",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1384.md"
+    },
+    "feat-1385": {
+      "name": "Malicious Bane",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1385.md"
+    },
+    "feat-1386": {
+      "name": "Skillful Tail",
+      "source": [
+        "Ancestry Guide",
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1386.md"
+    },
+    "feat-1387": {
+      "name": "Daemon Magic",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1387.md"
+    },
+    "feat-1388": {
+      "name": "Demon Magic",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1388.md"
+    },
+    "feat-1389": {
+      "name": "Devil Magic",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1389.md"
+    },
+    "feat-1390": {
+      "name": "Fiendish Wings",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1390.md"
+    },
+    "feat-1391": {
+      "name": "Light from Darkness",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1391.md"
+    },
+    "feat-1392": {
+      "name": "Fiend's Door",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1392.md"
+    },
+    "feat-1393": {
+      "name": "Fiendish Strikes",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1393.md"
+    },
+    "feat-1394": {
+      "name": "Summon Fiendish Kin",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1394.md"
+    },
+    "feat-1395": {
+      "name": "Fiendish Word",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1395.md"
+    },
+    "feat-1396": {
+      "name": "Relentless Wings",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1396.md"
+    },
+    "feat-1397": {
+      "name": "Dwarven Doughtiness",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1397.md"
+    },
+    "feat-1398": {
+      "name": "Eye for Treasure",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1398.md"
+    },
+    "feat-1399": {
+      "name": "Defy the Darkness",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1399.md"
+    },
+    "feat-1400": {
+      "name": "Dwarven Reinforcement",
+      "source": [
+        "Advanced Player's Guide"
+      ],
+      "file": "docs/feat-1400.md"
+    }
+  }
+}

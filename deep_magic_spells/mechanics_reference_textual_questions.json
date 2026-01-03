@@ -1,0 +1,192 @@
+{
+  "corpus_name": "Deep Magic 5e Spells",
+  "corpus_path": "/mnt/x/rag_datasets/rpg_rulebooks/deep_magic_spells",
+  "scenario": "mechanics_reference",
+  "mode": "textual",
+  "target_per_document": 2,
+  "total_target": null,
+  "max_documents": 4,
+  "documents_processed": 4,
+  "documents_exhausted": 1,
+  "total_accepted": 7,
+  "total_rejected": 0,
+  "questions": [
+    {
+      "question": "For the spell **Abhorrent Apparition**, when a creature is frightened by the spell, when does it get to repeat its saving throw to end the frightened effect?",
+      "answer": "A creature frightened by Abhorrent Apparition repeats the saving throw **at the end of each of its turns**, ending the effect on itself on a success.",
+      "source_document": "abhorrent-apparition.md",
+      "mode": "textual",
+      "content_refs": []
+    },
+    {
+      "question": "For **Abhorrent Apparition**, what is the spell\u2019s exact damage roll and damage type, and what saving throw both halves the damage on a success and negates the frightened effect?",
+      "answer": "It deals **6d8 psychic damage**. A **Wisdom saving throw** halves the damage on a success and also negates the frightened effect.",
+      "source_document": "abhorrent-apparition.md",
+      "mode": "textual",
+      "content_refs": []
+    },
+    {
+      "question": "For the spell *Absolute Command*, how does casting it with a higher-level spell slot change (a) the maximum Challenge Rating of the construct you can control and (b) the maximum distance the construct can be from you before the spell ends?",
+      "answer": "At Higher Levels: for each slot level above 4th, you can control a construct with a Challenge Rating 2 higher, and the construct\u2019s allowed range increases by 10 feet per slot level (from the base 100 feet).",
+      "source_document": "absolute-command.md",
+      "mode": "textual",
+      "content_refs": []
+    },
+    {
+      "question": "When Accelerate is cast using a 5th-level spell slot, how many willing creatures can it affect in total?",
+      "answer": "Up to five willing creatures (three base targets, plus one additional creature per slot level above 3rd; a 5th-level slot is two levels above 3rd).",
+      "source_document": "accelerate.md",
+      "mode": "textual",
+      "content_refs": []
+    },
+    {
+      "question": "For the spell *Accelerate*, what is the material component listed in its Components entry?",
+      "answer": "The material component is **a toy top**.",
+      "source_document": "accelerate.md",
+      "mode": "textual",
+      "content_refs": []
+    },
+    {
+      "question": "For the spell *Acid Gate*, what happens to a creature that tries to move through the gate but isn\u2019t one of the creatures you selected when you cast the spell\u2014including the damage, the teleport distance formula, and what a successful saving throw changes?",
+      "answer": "An unselected creature that tries to move through the gate takes **10d6 acid damage** and is teleported **1d100 \u00d7 10 feet** in a random horizontal direction. If it succeeds on an **Intelligence saving throw**, it **isn\u2019t teleported**, but it **still takes the acid damage** when it enters the portal and **each time it ends its turn in contact with it**.",
+      "source_document": "acid-gate.md",
+      "mode": "textual",
+      "content_refs": []
+    },
+    {
+      "question": "For the spell *Acid Gate*, what is the full \u201cAt Higher Levels\u201d effect\u2014starting at what slot level does it apply, and exactly how does it change the number of creatures you can allow to use the gate?",
+      "answer": "\u201cAt Higher Levels.\u201d When cast using a spell slot of 8th level or higher, you can allow one additional creature to use the gate for each slot level above 7th.",
+      "source_document": "acid-gate.md",
+      "mode": "textual",
+      "content_refs": []
+    }
+  ],
+  "per_document_results": [
+    {
+      "document": "abhorrent-apparition.md",
+      "corpus": "/mnt/x/rag_datasets/rpg_rulebooks/deep_magic_spells",
+      "scenario": "mechanics_reference",
+      "mode": "textual",
+      "target_count": 2,
+      "accepted": [
+        {
+          "question": "For the spell **Abhorrent Apparition**, when a creature is frightened by the spell, when does it get to repeat its saving throw to end the frightened effect?",
+          "answer": "A creature frightened by Abhorrent Apparition repeats the saving throw **at the end of each of its turns**, ending the effect on itself on a success.",
+          "source_document": "abhorrent-apparition.md",
+          "mode": "textual",
+          "content_refs": []
+        },
+        {
+          "question": "For **Abhorrent Apparition**, what is the spell\u2019s exact damage roll and damage type, and what saving throw both halves the damage on a success and negates the frightened effect?",
+          "answer": "It deals **6d8 psychic damage**. A **Wisdom saving throw** halves the damage on a success and also negates the frightened effect.",
+          "source_document": "abhorrent-apparition.md",
+          "mode": "textual",
+          "content_refs": []
+        }
+      ],
+      "rejected": [],
+      "stats": {
+        "total_attempts": 2,
+        "accepted_count": 2,
+        "rejected_count": 0,
+        "rejection_breakdown": {},
+        "exhausted": false,
+        "exhaustion_reason": null
+      },
+      "timestamp": "2025-12-31T19:41:22.386882+00:00"
+    },
+    {
+      "document": "absolute-command.md",
+      "corpus": "/mnt/x/rag_datasets/rpg_rulebooks/deep_magic_spells",
+      "scenario": "mechanics_reference",
+      "mode": "textual",
+      "target_count": 2,
+      "accepted": [
+        {
+          "question": "For the spell *Absolute Command*, how does casting it with a higher-level spell slot change (a) the maximum Challenge Rating of the construct you can control and (b) the maximum distance the construct can be from you before the spell ends?",
+          "answer": "At Higher Levels: for each slot level above 4th, you can control a construct with a Challenge Rating 2 higher, and the construct\u2019s allowed range increases by 10 feet per slot level (from the base 100 feet).",
+          "source_document": "absolute-command.md",
+          "mode": "textual",
+          "content_refs": []
+        }
+      ],
+      "rejected": [],
+      "stats": {
+        "total_attempts": 2,
+        "accepted_count": 1,
+        "rejected_count": 0,
+        "rejection_breakdown": {},
+        "exhausted": true,
+        "exhaustion_reason": "document_exhausted: This document is only 20 lines long and contains a single spell (Absolute Command). The only substantive mechanical details beyond the header are exactly the upcasting changes to max CR and max range, which were already used in the previously asked question. No other distinct details (e.g., material component specifics/cost, save type, damage, concentration, etc.) are present to form a different evaluation question."
+      },
+      "timestamp": "2025-12-31T19:42:04.658225+00:00"
+    },
+    {
+      "document": "accelerate.md",
+      "corpus": "/mnt/x/rag_datasets/rpg_rulebooks/deep_magic_spells",
+      "scenario": "mechanics_reference",
+      "mode": "textual",
+      "target_count": 2,
+      "accepted": [
+        {
+          "question": "When Accelerate is cast using a 5th-level spell slot, how many willing creatures can it affect in total?",
+          "answer": "Up to five willing creatures (three base targets, plus one additional creature per slot level above 3rd; a 5th-level slot is two levels above 3rd).",
+          "source_document": "accelerate.md",
+          "mode": "textual",
+          "content_refs": []
+        },
+        {
+          "question": "For the spell *Accelerate*, what is the material component listed in its Components entry?",
+          "answer": "The material component is **a toy top**.",
+          "source_document": "accelerate.md",
+          "mode": "textual",
+          "content_refs": []
+        }
+      ],
+      "rejected": [],
+      "stats": {
+        "total_attempts": 2,
+        "accepted_count": 2,
+        "rejected_count": 0,
+        "rejection_breakdown": {},
+        "exhausted": false,
+        "exhaustion_reason": null
+      },
+      "timestamp": "2025-12-31T19:43:18.729047+00:00"
+    },
+    {
+      "document": "acid-gate.md",
+      "corpus": "/mnt/x/rag_datasets/rpg_rulebooks/deep_magic_spells",
+      "scenario": "mechanics_reference",
+      "mode": "textual",
+      "target_count": 2,
+      "accepted": [
+        {
+          "question": "For the spell *Acid Gate*, what happens to a creature that tries to move through the gate but isn\u2019t one of the creatures you selected when you cast the spell\u2014including the damage, the teleport distance formula, and what a successful saving throw changes?",
+          "answer": "An unselected creature that tries to move through the gate takes **10d6 acid damage** and is teleported **1d100 \u00d7 10 feet** in a random horizontal direction. If it succeeds on an **Intelligence saving throw**, it **isn\u2019t teleported**, but it **still takes the acid damage** when it enters the portal and **each time it ends its turn in contact with it**.",
+          "source_document": "acid-gate.md",
+          "mode": "textual",
+          "content_refs": []
+        },
+        {
+          "question": "For the spell *Acid Gate*, what is the full \u201cAt Higher Levels\u201d effect\u2014starting at what slot level does it apply, and exactly how does it change the number of creatures you can allow to use the gate?",
+          "answer": "\u201cAt Higher Levels.\u201d When cast using a spell slot of 8th level or higher, you can allow one additional creature to use the gate for each slot level above 7th.",
+          "source_document": "acid-gate.md",
+          "mode": "textual",
+          "content_refs": []
+        }
+      ],
+      "rejected": [],
+      "stats": {
+        "total_attempts": 2,
+        "accepted_count": 2,
+        "rejected_count": 0,
+        "rejection_breakdown": {},
+        "exhausted": false,
+        "exhaustion_reason": null
+      },
+      "timestamp": "2025-12-31T19:44:33.435582+00:00"
+    }
+  ],
+  "timestamp": "2025-12-31T19:44:33.450420+00:00"
+}
