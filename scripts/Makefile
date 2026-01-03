@@ -1,4 +1,4 @@
-.PHONY: help format lint typecheck security test all clean install-dev sync update-lock
+.PHONY: help format lint typecheck security all clean install-dev sync update-lock
 
 help:
 	@echo "RPG Rulebooks Corpus Scripts - Available targets:"
@@ -8,8 +8,7 @@ help:
 	@echo "  make lint         - Run ruff check with auto-fix"
 	@echo "  make typecheck    - Run mypy type checking"
 	@echo "  make security     - Run bandit security scanning"
-	@echo "  make test         - Run pytest test suite"
-	@echo "  make all          - Run format, lint, security, typecheck, test"
+	@echo "  make all          - Run format, lint, security, typecheck"
 	@echo ""
 	@echo "Dependency management (using uv):"
 	@echo "  make install-dev  - Install all dependencies including dev group"
@@ -29,7 +28,7 @@ lint:
 
 typecheck:
 	@echo "Running mypy type checking..."
-	uv run mypy download_open5e.py download_aon.py
+	uv run mypy build_open5e.py build_aon.py download_open5e.py download_aon.py
 
 security:
 	@echo "Running security checks with bandit..."

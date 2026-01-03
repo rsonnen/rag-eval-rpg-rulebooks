@@ -1,186 +1,111 @@
 # rag-eval-rpg-rulebooks
 
-Evaluation corpus of tabletop RPG content (monsters, spells, feats) for testing RAG systems with complex structured documents.
+Evaluation corpus of tabletop RPG content for testing RAG systems.
 
 ## What This Is
 
 This repository contains **evaluation data for RAG systems**:
 
-- **corpus.yaml** - Evaluation configuration defining domain context and testing scenarios
-- **Generated questions** - Validated Q/A pairs for evaluation (where available)
-- **metadata.json** - Document inventory with source info
-- **Download scripts** - Fetch content from Open5e and Archives of Nethys
+- **corpus.yaml** - Evaluation scenarios for each corpus
+- **metadata.json** - Document inventory
+- **Generated questions** - Validated Q/A pairs (where available)
 
-The actual content (markdown documents) is not included - use the download scripts to fetch from the APIs.
+The actual content (markdown documents) is not included. Use the download scripts to fetch from the APIs.
 
-## Purpose
+## Available Corpora
 
-This corpus tests document-processor handling of:
-- Complex tables (stat blocks with abilities, attacks, saves)
-- Nested hierarchical content (actions, reactions, legendary actions)
-- Dense cross-references (spell references, ability interactions)
-- Game-specific formatting (traits, conditions, damage types)
+### Open5e (D&D 5e)
 
-## Available Sources
-
-### Open5e API (D&D 5e ecosystem)
-
-| Source Slug | Content | License | Est. Count |
-|-------------|---------|---------|------------|
-| wotc-srd | D&D 5e SRD | CC-BY-4.0 | ~300 monsters, ~300 spells |
-| tob | Tome of Beasts | OGL | ~400 monsters |
-| tob2 | Tome of Beasts 2 | OGL | ~400 monsters |
-| tob3 | Tome of Beasts 3 | OGL | ~400 monsters |
-| cc | Creature Codex | OGL | ~400 monsters |
-| dmag | Deep Magic 5e | OGL | ~300 spells |
-| dmag-e | Deep Magic Extended | OGL | ~200 spells |
-| menagerie | Level Up A5e Menagerie | OGL | ~500 monsters |
-| a5e | Level Up Advanced 5e | CC-BY-4.0 | Various |
-| blackflag | Black Flag SRD | ORC | Various |
+| Corpus | Documents | Description |
+|--------|-----------|-------------|
+| `dnd5e_srd_monsters` | 322 | D&D 5e SRD monsters |
+| `dnd5e_srd_spells` | 319 | D&D 5e SRD spells |
+| `kobold_press_monsters` | 1,527 | Tome of Beasts + Creature Codex |
+| `deep_magic_spells` | 578 | Deep Magic spells |
 
 ### Archives of Nethys (Pathfinder 2e)
 
-| Category | Content | License | Est. Count |
-|----------|---------|---------|------------|
-| creature | Monsters and NPCs | ORC | ~4000 |
-| spell | Spells and cantrips | ORC | ~2400 |
-| feat | Feats and abilities | ORC | ~3000+ |
-| action | Actions | ORC | ~500 |
-| ancestry | Ancestries (races) | ORC | ~50 |
-| class | Character classes | ORC | ~20 |
-| equipment | Items and gear | ORC | ~2000 |
-| hazard | Traps and hazards | ORC | ~300 |
+| Corpus | Documents | Description |
+|--------|-----------|-------------|
+| `pf2e_creatures` | 500 | Pathfinder 2e creatures |
+| `pf2e_spells` | 500 | Pathfinder 2e spells |
+| `pf2e_feats` | 500 | Pathfinder 2e feats |
 
-## Usage
-
-### Install dependencies
+## Quick Start
 
 ```bash
-cd scripts/corpus/rpg_rulebooks
+cd scripts
 uv sync
+
+# Download Open5e content
+uv run python download_open5e.py dnd5e_srd_monsters --max-docs 10
+
+# Download Archives of Nethys content
+uv run python download_aon.py pf2e_creatures --max-docs 10
 ```
 
-### Download from Open5e
-
-```bash
-# D&D 5e SRD monsters
-uv run python download_open5e.py monsters --source wotc-srd --corpus dnd5e_srd_monsters
-
-# D&D 5e SRD spells
-uv run python download_open5e.py spells --source wotc-srd --corpus dnd5e_srd_spells
-
-# Kobold Press monsters (Tome of Beasts series + Creature Codex)
-uv run python download_open5e.py monsters --source tob,tob2,tob3,cc --corpus kobold_press_monsters
-
-# Deep Magic spells
-uv run python download_open5e.py spells --source dmag,dmag-e --corpus deep_magic_spells
-```
-
-### Download from Archives of Nethys
-
-```bash
-# Pathfinder 2e creatures
-uv run python download_aon.py creature --corpus pf2e_creatures --max-docs 500
-
-# Pathfinder 2e spells
-uv run python download_aon.py spell --corpus pf2e_spells --max-docs 500
-
-# Pathfinder 2e feats
-uv run python download_aon.py feat --corpus pf2e_feats --max-docs 500
-```
-
-## Output Structure
+## Directory Structure
 
 ```
-<corpus_name>/
-    corpus.yaml             # Evaluation configuration
-    metadata.json           # Corpus metadata
-    docs/                   # Downloaded documents (gitignored)
-        <slug>.md           # Individual markdown documents
+<corpus>/
+    corpus.yaml         # Evaluation configuration
+    metadata.json       # Document inventory
+    docs/               # Markdown documents (gitignored)
+
+scripts/
+    download_open5e.py  # Download from Open5e metadata
+    download_aon.py     # Download from Archives of Nethys metadata
+    build_open5e.py     # Build new Open5e corpora
+    build_aon.py        # Build new Archives of Nethys corpora
 ```
 
-### Example Monster Document
+## Metadata Format
 
-```markdown
-# Aboleth
-
-**Source:** 5e Core Rules (wotc-srd)
-
-*Large Aberration, lawful evil*
-
----
-
-**Armor Class** 17 (natural armor)
-**Hit Points** 135 (18d10+36)
-**Speed** 10 ft., swim 40 ft.
-
----
-
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 21 (+5) | 9 (-1) | 15 (+2) | 18 (+4) | 15 (+2) | 18 (+4) |
-
----
-
-**Saving Throws** CON +6, INT +8, WIS +6
-**Skills** History +12, Perception +10
-**Senses** darkvision 120 ft., passive Perception 20
-**Languages** Deep Speech, telepathy 120 ft.
-**Challenge** 10
-
----
-
-***Amphibious.*** The aboleth can breathe air and water.
-
-## Actions
-
-***Multiattack.*** The aboleth makes three tentacle attacks.
-
-***Tentacle.*** Melee Weapon Attack: +9 to hit, reach 10 ft...
-```
-
-### Metadata Schema
+### Open5e
 
 ```json
 {
   "corpus": "dnd5e_srd_monsters",
   "content_type": "monsters",
   "sources": ["wotc-srd"],
-  "total_documents": 325,
-  "source_counts": {"wotc-srd": 325},
+  "total_documents": 322,
   "api_base": "https://api.open5e.com/v1",
-  "license": "Open Gaming License / Creative Commons (varies by source)",
   "documents": {
-    "aboleth": {"name": "Aboleth", "source": "wotc-srd", "file": "aboleth.md"}
+    "aboleth": {
+      "name": "Aboleth",
+      "source": "wotc-srd",
+      "file": "docs/aboleth.md"
+    }
   }
 }
 ```
 
-## Licensing
+### Archives of Nethys
 
-### Open Gaming License (OGL)
+```json
+{
+  "corpus": "pf2e_creatures",
+  "category": "creature",
+  "total_documents": 500,
+  "api_base": "https://elasticsearch.aonprd.com/aon",
+  "documents": {
+    "creature-1": {
+      "name": "Unseen Servant",
+      "source": ["Core Rulebook"],
+      "file": "docs/creature-1.md"
+    }
+  }
+}
+```
 
-Most D&D 5e third-party content (Kobold Press, etc.) is published under the Open Gaming License. The OGL allows use of game mechanics but not product identity (setting-specific names, characters, etc.).
+## Building New Corpora
 
-### Creative Commons Attribution 4.0 (CC-BY-4.0)
+```bash
+cd scripts
 
-The D&D 5e SRD 5.1 was released under CC-BY-4.0 in January 2023. This allows sharing and adaptation with attribution.
+# Build Open5e corpus
+uv run python build_open5e.py monsters --source wotc-srd --corpus my_monsters
 
-**Attribution:** "This work includes material from the System Reference Document 5.1 (SRD 5.1) by Wizards of the Coast LLC, licensed under the Creative Commons Attribution 4.0 International License."
-
-### ORC License (Open RPG Creative License)
-
-Pathfinder 2e content from Paizo is published under the ORC License, a system-agnostic open gaming license.
-
-**Attribution:** "This work includes content from Pathfinder 2nd Edition by Paizo Inc., available at Archives of Nethys (2e.aonprd.com) under the ORC License."
-
-## Rate Limiting
-
-Both scripts implement conservative rate limiting (3 second delays between requests) to respect these free community services. Do not modify these limits.
-
-## Notes
-
-- Downloads are resumable - re-running skips existing files
-- Scripts generate progress bars and logging output
-- All content rendered to markdown with proper stat block formatting
-- Cross-references preserved where possible
+# Build Archives of Nethys corpus
+uv run python build_aon.py creature --corpus my_creatures --max-docs 100
+```

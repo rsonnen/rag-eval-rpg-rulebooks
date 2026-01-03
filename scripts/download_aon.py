@@ -1,32 +1,11 @@
-#!/usr/bin/env python
-"""Download Pathfinder 2e content from Archives of Nethys for RAG evaluation.
+#!/usr/bin/env python3
+"""Download Archives of Nethys content from existing metadata.
 
-Fetches creatures, spells, feats, and other content from the Archives of Nethys
-ElasticSearch backend, renders each entry to a markdown document, and saves to
-a corpus directory.
-
-Usage:
-    uv run python download_aon.py creature --corpus pf2e_creatures --max-docs 500
-    uv run python download_aon.py spell --corpus pf2e_spells --max-docs 500
-    uv run python download_aon.py feat --corpus pf2e_feats --max-docs 500
-
-Output:
-    <data-dir>/<corpus>/
-        metadata.json   - Corpus metadata with file counts and licensing
-        docs/
-            <id>.md     - Individual markdown documents
-
-API Notes:
-    - ElasticSearch endpoint: https://elasticsearch.aonprd.com/aon/_search
-    - Categories: creature, spell, feat, action, ancestry, class, equipment, etc.
-    - No authentication required
-    - Content is under the ORC License
+Reads metadata.json and downloads content from Archives of Nethys ElasticSearch.
 """
 
 import argparse
-import contextlib
 import json
-import logging
 import random
 import re
 import sys
@@ -37,91 +16,9 @@ from typing import Any
 import httpx
 from tqdm import tqdm
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-)
-logger = logging.getLogger(__name__)
-
-AON_ES_BASE_URL = "https://elasticsearch.aonprd.com/aon"
-
-# Rate limiting - Archives of Nethys is a free community resource
-# Be very conservative to avoid impacting the service
-BASE_DELAY_SECONDS = 3.0  # Conservative delay between requests
-MAX_RETRIES = 5
-BACKOFF_FACTOR = 2.5
-MAX_BACKOFF_SECONDS = 300  # 5 minute max backoff
-PAGE_SIZE = 50  # Smaller page size to reduce server load
-
-
-def request_with_retry(
-    client: httpx.Client,
-    url: str,
-    *,
-    json_body: dict[str, Any] | None = None,
-) -> httpx.Response:
-    """Make HTTP request with exponential backoff on errors."""
-    delay = BASE_DELAY_SECONDS
-    last_exception: Exception | None = None
-
-    for attempt in range(MAX_RETRIES + 1):
-        if attempt > 0:
-            # Add jitter to avoid thundering herd
-            # S311: random is fine here - jitter for rate limiting, not security
-            jitter = random.uniform(0, delay * 0.1)  # noqa: S311
-            sleep_time = delay + jitter
-            logger.info(f"Retrying in {sleep_time:.1f}s (attempt {attempt + 1})")
-            time.sleep(sleep_time)
-            delay = min(delay * BACKOFF_FACTOR, MAX_BACKOFF_SECONDS)
-        else:
-            time.sleep(BASE_DELAY_SECONDS)
-
-        try:
-            if json_body:
-                response = client.post(url, json=json_body)
-            else:
-                response = client.get(url)
-
-            if response.status_code == 429:
-                retry_after = response.headers.get("Retry-After")
-                if retry_after:
-                    with contextlib.suppress(ValueError):
-                        delay = max(float(retry_after), delay)
-                last_exception = httpx.HTTPStatusError(
-                    "Rate limited",
-                    request=response.request,
-                    response=response,
-                )
-                continue
-
-            if response.status_code >= 500:
-                last_exception = httpx.HTTPStatusError(
-                    f"Server error ({response.status_code})",
-                    request=response.request,
-                    response=response,
-                )
-                continue
-
-            response.raise_for_status()
-            return response
-
-        except httpx.TimeoutException as e:
-            last_exception = e
-            continue
-        except httpx.RequestError as e:
-            last_exception = e
-            continue
-
-    if last_exception:
-        raise last_exception
-    raise httpx.HTTPError("All retries exhausted")
-
-
-def _add_field(lines: list[str], source: dict[str, Any], key: str, label: str) -> None:
-    """Add a field to lines if present in source."""
-    value = source.get(key, "")
-    if value:
-        lines.append(f"**{label}** {value}")
+DELAY_SECONDS = 1.0
+MAX_RETRIES = 3
+BACKOFF_FACTOR = 2.0
 
 
 def _get_traits_str(source: dict[str, Any]) -> str:
@@ -130,6 +27,13 @@ def _get_traits_str(source: dict[str, Any]) -> str:
     if isinstance(traits, list):
         return ", ".join(traits) if traits else ""
     return str(traits)
+
+
+def _add_field(lines: list[str], source: dict[str, Any], key: str, label: str) -> None:
+    """Add a field to lines if present in source."""
+    value = source.get(key, "")
+    if value:
+        lines.append(f"**{label}** {value}")
 
 
 def _render_creature_header(source: dict[str, Any]) -> list[str]:
@@ -186,9 +90,9 @@ def _render_creature_defenses(source: dict[str, Any]) -> list[str]:
     return lines
 
 
-def render_creature_to_markdown(creature: dict[str, Any]) -> str:
+def render_creature_to_markdown(item: dict[str, Any]) -> str:
     """Render a PF2e creature entry to markdown."""
-    source = creature.get("_source", creature)
+    source = item.get("_source", item)
     lines: list[str] = []
 
     lines.extend(_render_creature_header(source))
@@ -207,24 +111,18 @@ def render_creature_to_markdown(creature: dict[str, Any]) -> str:
     return "\n".join(lines)
 
 
-def _render_entry_header(
-    source: dict[str, Any], default_name: str, default_type: str
-) -> list[str]:
-    """Render common header for spells and feats."""
-    lines = [f"# {source.get('name', default_name)}", ""]
+def render_spell_to_markdown(item: dict[str, Any]) -> str:
+    """Render a PF2e spell entry to markdown."""
+    source = item.get("_source", item)
+    lines: list[str] = []
+
+    lines.extend([f"# {source.get('name', 'Unknown Spell')}", ""])
     lines.extend([f"**Source:** {source.get('source', 'Unknown')}", ""])
-    lines.append(f"*{source.get('type', default_type)} {source.get('level', 0)}*")
+    lines.append(f"*{source.get('type', 'Spell')} {source.get('level', 0)}*")
     trait_str = _get_traits_str(source)
     if trait_str:
         lines.append(f"**Traits** {trait_str}")
     lines.append("")
-    return lines
-
-
-def render_spell_to_markdown(spell: dict[str, Any]) -> str:
-    """Render a PF2e spell entry to markdown."""
-    source = spell.get("_source", spell)
-    lines: list[str] = _render_entry_header(source, "Unknown Spell", "Spell")
 
     for key, label in [
         ("tradition", "Traditions"),
@@ -251,139 +149,96 @@ def render_spell_to_markdown(spell: dict[str, Any]) -> str:
     return "\n".join(lines)
 
 
-def render_feat_to_markdown(feat: dict[str, Any]) -> str:
+def render_feat_to_markdown(item: dict[str, Any]) -> str:
     """Render a PF2e feat entry to markdown."""
-    source = feat.get("_source", feat)
-    lines = []
+    source = item.get("_source", item)
+    lines: list[str] = []
 
-    name = source.get("name", "Unknown Feat")
-    lines.append(f"# {name}")
-    lines.append("")
+    lines.extend([f"# {source.get('name', 'Unknown Feat')}", ""])
+    lines.extend([f"**Source:** {source.get('source', 'Unknown')}", ""])
 
-    # Source info
-    src_book = source.get("source", "Unknown")
-    lines.append(f"**Source:** {src_book}")
-    lines.append("")
-
-    # Feat level and traits
     level = source.get("level", 0)
     feat_type = source.get("type", "Feat")
-    traits = source.get("trait", [])
-    if isinstance(traits, list):
-        trait_str = ", ".join(traits) if traits else ""
-    else:
-        trait_str = str(traits)
-
     lines.append(f"*{feat_type} {level}*")
+
+    trait_str = _get_traits_str(source)
     if trait_str:
         lines.append(f"**Traits** {trait_str}")
     lines.append("")
 
-    # Prerequisites
-    prereqs = source.get("prerequisite", "")
-    if prereqs:
-        lines.append(f"**Prerequisites** {prereqs}")
+    for key, label in [
+        ("prerequisite", "Prerequisites"),
+        ("requirement", "Requirements"),
+        ("trigger", "Trigger"),
+        ("frequency", "Frequency"),
+    ]:
+        _add_field(lines, source, key, label)
 
-    # Requirements
-    reqs = source.get("requirement", "")
-    if reqs:
-        lines.append(f"**Requirements** {reqs}")
+    lines.extend(["", "---", ""])
 
-    # Trigger
-    trigger = source.get("trigger", "")
-    if trigger:
-        lines.append(f"**Trigger** {trigger}")
-
-    # Frequency
-    frequency = source.get("frequency", "")
-    if frequency:
-        lines.append(f"**Frequency** {frequency}")
-
-    lines.append("")
-    lines.append("---")
-    lines.append("")
-
-    # Description
     text = source.get("text", "")
     if text and isinstance(text, str):
-        clean_text = re.sub(r"<[^>]+>", "", text)
-        lines.append(clean_text)
-        lines.append("")
+        lines.extend([re.sub(r"<[^>]+>", "", text), ""])
 
     return "\n".join(lines)
 
 
-def fetch_content(
+def fetch_item(
     client: httpx.Client,
-    category: str,
-    max_docs: int,
-) -> list[dict[str, Any]]:
-    """Fetch content from Archives of Nethys ElasticSearch."""
-    results: list[dict[str, Any]] = []
-    from_offset = 0
+    api_base: str,
+    doc_id: str,
+) -> dict[str, Any] | None:
+    """Fetch a single item from Archives of Nethys ElasticSearch."""
+    url = f"{api_base}/_doc/{doc_id}"
+    delay = DELAY_SECONDS
 
-    search_url = f"{AON_ES_BASE_URL}/_search"
+    for attempt in range(MAX_RETRIES + 1):
+        if attempt > 0:
+            jitter = random.uniform(0, delay * 0.1)  # noqa: S311
+            time.sleep(delay + jitter)
+            delay = min(delay * BACKOFF_FACTOR, 30.0)
+        else:
+            time.sleep(DELAY_SECONDS)
 
-    with tqdm(total=max_docs, desc=f"Fetching {category}s", unit="items") as pbar:
-        while len(results) < max_docs:
-            query = {
-                "query": {
-                    "match": {
-                        "category": category,
-                    },
-                },
-                "size": min(PAGE_SIZE, max_docs - len(results)),
-                "from": from_offset,
-            }
+        try:
+            response = client.get(url)
+            if response.status_code == 404:
+                return None
+            response.raise_for_status()
+            result: dict[str, Any] = response.json()
+            return result
+        except httpx.HTTPError:
+            continue
 
-            try:
-                response = request_with_retry(client, search_url, json_body=query)
-                data = response.json()
-            except httpx.HTTPError as e:
-                logger.error(f"Failed to fetch: {e}")
-                break
-
-            hits = data.get("hits", {}).get("hits", [])
-            if not hits:
-                break
-
-            for hit in hits:
-                if len(results) >= max_docs:
-                    break
-                results.append(hit)
-                pbar.update(1)
-
-            from_offset += len(hits)
-
-            # Check if we've retrieved all available
-            total = data.get("hits", {}).get("total", {})
-            total_count = total.get("value", 0) if isinstance(total, dict) else total
-
-            if from_offset >= total_count:
-                break
-
-    return results
+    return None
 
 
 def download_corpus(
-    category: str,
-    corpus_name: str,
-    data_dir: Path,
-    max_docs: int,
+    corpus_dir: Path,
+    delay: float = 1.0,
+    max_docs: int | None = None,
 ) -> None:
-    """Download a corpus from Archives of Nethys.
+    """Download content for a corpus from Archives of Nethys.
 
     Args:
-        category: Content category ('creature', 'spell', 'feat', etc.).
-        corpus_name: Name for the corpus directory.
-        data_dir: Base data directory.
+        corpus_dir: Path to corpus directory containing metadata.json.
+        delay: Additional delay between requests.
         max_docs: Maximum number of documents to download.
     """
-    corpus_dir = data_dir / corpus_name
-    corpus_dir.mkdir(parents=True, exist_ok=True)
-    docs_dir = corpus_dir / "docs"
-    docs_dir.mkdir(parents=True, exist_ok=True)
     metadata_path = corpus_dir / "metadata.json"
+    if not metadata_path.exists():
+        print(f"Error: {metadata_path} not found", file=sys.stderr)
+        sys.exit(1)
+
+    with metadata_path.open(encoding="utf-8") as f:
+        metadata: dict[str, Any] = json.load(f)
+
+    api_base = metadata.get("api_base", "https://elasticsearch.aonprd.com/aon")
+    category = metadata.get("category", "creature")
+    documents: dict[str, dict[str, Any]] = metadata.get("documents", {})
+
+    docs_dir = corpus_dir / "docs"
+    docs_dir.mkdir(exist_ok=True)
 
     # Select renderer based on category
     renderers = {
@@ -391,153 +246,74 @@ def download_corpus(
         "spell": render_spell_to_markdown,
         "feat": render_feat_to_markdown,
     }
+    render_func = renderers.get(category, render_feat_to_markdown)
 
-    render_func = renderers.get(category)
-    if not render_func:
-        # Use a generic renderer for other categories
-        render_func = render_feat_to_markdown  # Generic enough for most
-        logger.warning(f"Using generic renderer for category: {category}")
+    items = list(documents.items())
+    if max_docs is not None:
+        items = items[:max_docs]
+
+    print(f"Downloading {len(items)} documents to {docs_dir}")
 
     headers = {
-        "User-Agent": "BiteSizeRAG-Corpus-Builder/1.0 (RPG evaluation corpus)",
+        "User-Agent": "RAG-Corpus-Downloader/1.0",
         "Content-Type": "application/json",
     }
+    failed = 0
 
     with httpx.Client(headers=headers, timeout=60.0) as client:
-        logger.info(f"Fetching {category}s from Archives of Nethys...")
+        for doc_id, doc_info in tqdm(items, desc="Downloading", unit="doc"):
+            file_path = doc_info.get("file", f"docs/{doc_id}.md")
+            output_path = corpus_dir / file_path
 
-        items = fetch_content(client, category, max_docs)
-        logger.info(f"Found {len(items)} items")
-
-        # Render and save documents
-        documents: dict[str, dict[str, Any]] = {}
-        saved = 0
-        skipped = 0
-
-        for item in tqdm(items, desc="Rendering documents", unit="docs"):
-            # Get document ID
-            doc_id = item.get("_id", "")
-            if not doc_id:
+            if output_path.exists():
                 continue
 
-            # Create safe filename from ID
-            safe_id = doc_id.replace("/", "_").replace("\\", "_")
-            md_path = docs_dir / f"{safe_id}.md"
+            output_path.parent.mkdir(parents=True, exist_ok=True)
 
-            # Skip if already exists
-            if md_path.exists():
-                skipped += 1
-                source = item.get("_source", {})
-                documents[safe_id] = {
-                    "name": source.get("name", safe_id),
-                    "source": source.get("source", "Unknown"),
-                    "file": f"docs/{safe_id}.md",
-                }
-                continue
-
-            # Render and save
-            try:
+            item = fetch_item(client, api_base, doc_id)
+            if item:
                 markdown = render_func(item)
-                md_path.write_text(markdown, encoding="utf-8")
-                saved += 1
-                source = item.get("_source", {})
-                documents[safe_id] = {
-                    "name": source.get("name", safe_id),
-                    "source": source.get("source", "Unknown"),
-                    "file": f"docs/{safe_id}.md",
-                }
-            except Exception as e:
-                logger.warning(f"Failed to render {doc_id}: {e}")
+                output_path.write_text(markdown, encoding="utf-8")
+            else:
+                failed += 1
+                tqdm.write(f"Failed: {doc_id}")
 
-        # Save metadata
-        metadata = {
-            "corpus": corpus_name,
-            "category": category,
-            "total_documents": len(documents),
-            "api_base": AON_ES_BASE_URL,
-            "license": "ORC License (Open RPG Creative License)",
-            "license_url": "https://paizo.com/orclicense",
-            "attribution": (
-                "Content from Archives of Nethys (2e.aonprd.com), "
-                "Pathfinder 2e by Paizo Inc."
-            ),
-            "documents": documents,
-        }
+            time.sleep(delay)
 
-        with metadata_path.open("w", encoding="utf-8") as f:
-            json.dump(metadata, f, indent=2, ensure_ascii=False)
-
-        logger.info(f"Saved: {saved}, Skipped: {skipped}")
-        logger.info(f"Total documents in corpus: {len(documents)}")
-        logger.info(f"Output directory: {corpus_dir}")
+    if failed:
+        print(f"Done ({failed} failed)")
+    else:
+        print("Done")
 
 
 def main() -> None:
-    """Main entry point."""
+    """CLI entry point."""
     parser = argparse.ArgumentParser(
-        description="Download PF2e content from Archives of Nethys for RAG eval",
-        formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
-Examples:
-    uv run python download_aon.py creature --corpus pf2e_creatures --max-docs 500
-    uv run python download_aon.py spell --corpus pf2e_spells --max-docs 500
-    uv run python download_aon.py feat --corpus pf2e_feats --max-docs 500
-
-Available categories:
-    creature     - Monsters and NPCs
-    spell        - Spells and cantrips
-    feat         - Feats and abilities
-    action       - Actions
-    ancestry     - Ancestries (races)
-    class        - Character classes
-    equipment    - Items and gear
-    hazard       - Traps and hazards
-        """,
+        description="Download Archives of Nethys content from existing metadata"
     )
+    parser.add_argument("corpus", help="Corpus name (e.g., pf2e_creatures)")
     parser.add_argument(
-        "category",
-        type=str,
-        help="Content category to download (creature, spell, feat, etc.)",
-    )
-    parser.add_argument(
-        "--corpus",
-        type=str,
-        required=True,
-        help="Name for the corpus directory",
+        "--delay",
+        type=float,
+        default=0.5,
+        help="Delay between requests in seconds (default: 0.5)",
     )
     parser.add_argument(
         "--max-docs",
         type=int,
-        default=500,
-        help="Maximum documents to download (default: 500)",
-    )
-    parser.add_argument(
-        "--data-dir",
-        type=Path,
         default=None,
-        help="Data directory path (default: ../data/)",
+        help="Maximum documents to download (default: all)",
     )
-
     args = parser.parse_args()
 
-    # Determine data directory
-    script_dir = Path(__file__).resolve().parent
-    data_dir = args.data_dir or (script_dir / "data")
-    data_dir.mkdir(parents=True, exist_ok=True)
+    repo_root = Path(__file__).parent.parent
+    corpus_dir = repo_root / args.corpus
 
-    try:
-        download_corpus(
-            category=args.category,
-            corpus_name=args.corpus,
-            data_dir=data_dir,
-            max_docs=args.max_docs,
-        )
-        logger.info("Download complete!")
+    if not corpus_dir.exists():
+        print(f"Error: Corpus directory not found: {corpus_dir}", file=sys.stderr)
+        sys.exit(1)
 
-    except KeyboardInterrupt:
-        logger.warning("\nDownload interrupted by user (Ctrl+C)")
-        logger.info("Progress has been saved. Re-run to resume.")
-        sys.exit(130)
+    download_corpus(corpus_dir, args.delay, args.max_docs)
 
 
 if __name__ == "__main__":
