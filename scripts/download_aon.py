@@ -234,7 +234,7 @@ def download_corpus(
         metadata: dict[str, Any] = json.load(f)
 
     api_base = metadata.get("api_base", "https://elasticsearch.aonprd.com/aon")
-    category = metadata.get("category", "creature")
+    category = metadata.get("content_type", "creature")
     documents: dict[str, dict[str, Any]] = metadata.get("documents", {})
 
     docs_dir = corpus_dir / "docs"

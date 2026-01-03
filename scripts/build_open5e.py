@@ -1,14 +1,14 @@
 #!/usr/bin/env python
-"""Download RPG content from Open5e API for RAG evaluation.
+"""Build RPG corpus from Open5e API for RAG evaluation.
 
-Fetches monsters, spells, and other content from the Open5e API, renders each
+Searches the Open5e API for monsters, spells, and other content, renders each
 entry to a markdown document with proper stat block formatting, and saves to
-a corpus directory.
+a corpus directory with metadata.json.
 
 Usage:
-    uv run python download_open5e.py monsters --source wotc-srd --corpus srd
-    uv run python download_open5e.py spells --source wotc-srd --corpus srd_spells
-    uv run python download_open5e.py monsters --source tob,cc --corpus kobold
+    uv run python build_open5e.py monsters --source wotc-srd --corpus srd
+    uv run python build_open5e.py spells --source wotc-srd --corpus srd_spells
+    uv run python build_open5e.py monsters --source tob,cc --corpus kobold
 
 Output:
     <data-dir>/<corpus>/
@@ -533,13 +533,13 @@ def download_corpus(
 def main() -> None:
     """Main entry point."""
     parser = argparse.ArgumentParser(
-        description="Download RPG content from Open5e for RAG evaluation",
+        description="Build RPG corpus from Open5e for RAG evaluation",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-    uv run python download_open5e.py monsters --source wotc-srd --corpus srd
-    uv run python download_open5e.py spells --source wotc-srd --corpus srd_spells
-    uv run python download_open5e.py monsters --source tob,cc --corpus kobold
+    uv run python build_open5e.py monsters --source wotc-srd --corpus srd
+    uv run python build_open5e.py spells --source wotc-srd --corpus srd_spells
+    uv run python build_open5e.py monsters --source tob,cc --corpus kobold
 
 Available sources (document slugs):
     wotc-srd     - D&D 5e SRD (CC-BY-4.0)

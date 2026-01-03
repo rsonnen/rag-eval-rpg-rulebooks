@@ -1,6 +1,6 @@
 {
   "corpus": "pf2e_spells",
-  "category": "spell",
+  "content_type": "spell",
   "total_documents": 500,
   "api_base": "https://elasticsearch.aonprd.com/aon",
   "license": "ORC License (Open RPG Creative License)",

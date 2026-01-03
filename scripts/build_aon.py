@@ -1,14 +1,14 @@
 #!/usr/bin/env python
-"""Download Pathfinder 2e content from Archives of Nethys for RAG evaluation.
+"""Build Pathfinder 2e corpus from Archives of Nethys for RAG evaluation.
 
-Fetches creatures, spells, feats, and other content from the Archives of Nethys
-ElasticSearch backend, renders each entry to a markdown document, and saves to
-a corpus directory.
+Searches the Archives of Nethys ElasticSearch backend for creatures, spells,
+feats, and other content, renders each entry to a markdown document, and saves
+to a corpus directory with metadata.json.
 
 Usage:
-    uv run python download_aon.py creature --corpus pf2e_creatures --max-docs 500
-    uv run python download_aon.py spell --corpus pf2e_spells --max-docs 500
-    uv run python download_aon.py feat --corpus pf2e_feats --max-docs 500
+    uv run python build_aon.py creature --corpus pf2e_creatures --max-docs 500
+    uv run python build_aon.py spell --corpus pf2e_spells --max-docs 500
+    uv run python build_aon.py feat --corpus pf2e_feats --max-docs 500
 
 Output:
     <data-dir>/<corpus>/
@@ -452,7 +452,7 @@ def download_corpus(
         # Save metadata
         metadata = {
             "corpus": corpus_name,
-            "category": category,
+            "content_type": category,
             "total_documents": len(documents),
             "api_base": AON_ES_BASE_URL,
             "license": "ORC License (Open RPG Creative License)",
@@ -475,13 +475,13 @@ def download_corpus(
 def main() -> None:
     """Main entry point."""
     parser = argparse.ArgumentParser(
-        description="Download PF2e content from Archives of Nethys for RAG eval",
+        description="Build PF2e corpus from Archives of Nethys for RAG eval",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-    uv run python download_aon.py creature --corpus pf2e_creatures --max-docs 500
-    uv run python download_aon.py spell --corpus pf2e_spells --max-docs 500
-    uv run python download_aon.py feat --corpus pf2e_feats --max-docs 500
+    uv run python build_aon.py creature --corpus pf2e_creatures --max-docs 500
+    uv run python build_aon.py spell --corpus pf2e_spells --max-docs 500
+    uv run python build_aon.py feat --corpus pf2e_feats --max-docs 500
 
 Available categories:
     creature     - Monsters and NPCs

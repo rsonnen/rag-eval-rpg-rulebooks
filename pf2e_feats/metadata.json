@@ -1,6 +1,6 @@
 {
   "corpus": "pf2e_feats",
-  "category": "feat",
+  "content_type": "feat",
   "total_documents": 500,
   "api_base": "https://elasticsearch.aonprd.com/aon",
   "license": "ORC License (Open RPG Creative License)",
