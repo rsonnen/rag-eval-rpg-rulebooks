@@ -16,20 +16,20 @@ The actual content (markdown documents) is not included. Use the download script
 
 ### Open5e (D&D 5e)
 
-| Corpus | Documents | Description |
-|--------|-----------|-------------|
-| `dnd5e_srd_monsters` | 322 | D&D 5e SRD monsters |
-| `dnd5e_srd_spells` | 319 | D&D 5e SRD spells |
-| `kobold_press_monsters` | 1,527 | Tome of Beasts + Creature Codex |
-| `deep_magic_spells` | 578 | Deep Magic spells |
+| Corpus | Documents | Questions | Description |
+|--------|-----------|-----------|-------------|
+| `dnd5e_srd_monsters` | 322 | - | D&D 5e SRD monsters |
+| `dnd5e_srd_spells` | 319 | spell_reference (1404) | D&D 5e SRD spells |
+| `kobold_press_monsters` | 1,527 | - | Tome of Beasts + Creature Codex |
+| `deep_magic_spells` | 578 | mechanics_reference (7, partial) | Deep Magic spells |
 
 ### Archives of Nethys (Pathfinder 2e)
 
-| Corpus | Documents | Description |
-|--------|-----------|-------------|
-| `pf2e_creatures` | 500 | Pathfinder 2e creatures |
-| `pf2e_spells` | 500 | Pathfinder 2e spells |
-| `pf2e_feats` | 500 | Pathfinder 2e feats |
+| Corpus | Documents | Questions | Description |
+|--------|-----------|-----------|-------------|
+| `pf2e_creatures` | 500 | - | Pathfinder 2e creatures |
+| `pf2e_spells` | 500 | - | Pathfinder 2e spells |
+| `pf2e_feats` | 500 | - | Pathfinder 2e feats |
 
 ## Quick Start
 
